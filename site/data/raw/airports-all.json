@@ -1,0 +1,5002 @@
+{
+ "AEY": {
+  "name": "Akureyri International Airport",
+  "city": "Akureyri",
+  "country": "IS",
+  "lat": 65.6566,
+  "lng": -18.072,
+  "type": "large_airport"
+ },
+ "EGS": {
+  "name": "Egilsstaðir Airport",
+  "city": "Egilsstaðir",
+  "country": "IS",
+  "lat": 65.2833,
+  "lng": -14.4014,
+  "type": "medium_airport"
+ },
+ "GRY": {
+  "name": "Grímsey Airport",
+  "city": "Grímsey/Sandvík",
+  "country": "IS",
+  "lat": 66.5458,
+  "lng": -18.0173,
+  "type": "medium_airport"
+ },
+ "HFN": {
+  "name": "Hornafjörður Airport",
+  "city": "Höfn",
+  "country": "IS",
+  "lat": 64.2956,
+  "lng": -15.2272,
+  "type": "medium_airport"
+ },
+ "IFJ": {
+  "name": "Ísafjörður Airport",
+  "city": "Ísafjörður",
+  "country": "IS",
+  "lat": 66.0581,
+  "lng": -23.1353,
+  "type": "medium_airport"
+ },
+ "KEF": {
+  "name": "Keflavik International Airport",
+  "city": "Reykjavík",
+  "country": "IS",
+  "lat": 63.985,
+  "lng": -22.6056,
+  "type": "large_airport"
+ },
+ "RKV": {
+  "name": "Reykjavík Domestic Airport",
+  "city": "Reykjavík",
+  "country": "IS",
+  "lat": 64.1287,
+  "lng": -21.9376,
+  "type": "medium_airport"
+ },
+ "THO": {
+  "name": "Þórshöfn Airport",
+  "city": "Þórshöfn",
+  "country": "IS",
+  "lat": 66.2185,
+  "lng": -15.3347,
+  "type": "small_airport"
+ },
+ "VPN": {
+  "name": "Vopnafjörður Airport",
+  "city": "Vopnafjörður",
+  "country": "IS",
+  "lat": 65.7206,
+  "lng": -14.8506,
+  "type": "medium_airport"
+ },
+ "PRN": {
+  "name": "Priština Adem Jashari International Airport",
+  "city": "Prishtina",
+  "country": "XK",
+  "lat": 42.5728,
+  "lng": 21.0358,
+  "type": "large_airport"
+ },
+ "ANR": {
+  "name": "Antwerp International Airport (Deurne)",
+  "city": "Antwerp",
+  "country": "BE",
+  "lat": 51.1907,
+  "lng": 4.4632,
+  "type": "medium_airport"
+ },
+ "BRU": {
+  "name": "Brussels Airport",
+  "city": "Zaventem",
+  "country": "BE",
+  "lat": 50.9014,
+  "lng": 4.4844,
+  "type": "large_airport"
+ },
+ "CRL": {
+  "name": "Brussels South Charleroi Airport",
+  "city": "Charleroi",
+  "country": "BE",
+  "lat": 50.462,
+  "lng": 4.4596,
+  "type": "large_airport"
+ },
+ "LGG": {
+  "name": "Liège Airport",
+  "city": "Grâce-Hollogne",
+  "country": "BE",
+  "lat": 50.6386,
+  "lng": 5.4439,
+  "type": "medium_airport"
+ },
+ "OST": {
+  "name": "Ostend-Bruges International Airport",
+  "city": "Oostende",
+  "country": "BE",
+  "lat": 51.1998,
+  "lng": 2.8747,
+  "type": "large_airport"
+ },
+ "HDF": {
+  "name": "Heringsdorf Airport",
+  "city": "Zirchow",
+  "country": "DE",
+  "lat": 53.8787,
+  "lng": 14.1523,
+  "type": "medium_airport"
+ },
+ "BER": {
+  "name": "Berlin Brandenburg Airport",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.3617,
+  "lng": 13.5023,
+  "type": "large_airport"
+ },
+ "DRS": {
+  "name": "Dresden Airport",
+  "city": "Dresden",
+  "country": "DE",
+  "lat": 51.1341,
+  "lng": 13.7678,
+  "type": "large_airport"
+ },
+ "ERF": {
+  "name": "Erfurt-Weimar Airport",
+  "city": "Erfurt",
+  "country": "DE",
+  "lat": 50.9783,
+  "lng": 10.9607,
+  "type": "large_airport"
+ },
+ "FRA": {
+  "name": "Frankfurt Main Airport",
+  "city": "Frankfurt am Main",
+  "country": "DE",
+  "lat": 50.0267,
+  "lng": 8.5584,
+  "type": "large_airport"
+ },
+ "FMO": {
+  "name": "Münster Osnabrück Airport",
+  "city": "Greven",
+  "country": "DE",
+  "lat": 52.1338,
+  "lng": 7.6885,
+  "type": "large_airport"
+ },
+ "HAM": {
+  "name": "Hamburg Helmut Schmidt Airport",
+  "city": "Hamburg",
+  "country": "DE",
+  "lat": 53.6304,
+  "lng": 9.9882,
+  "type": "large_airport"
+ },
+ "CGN": {
+  "name": "Cologne Bonn Airport",
+  "city": "Köln (Cologne)",
+  "country": "DE",
+  "lat": 50.8659,
+  "lng": 7.1427,
+  "type": "large_airport"
+ },
+ "DUS": {
+  "name": "Düsseldorf Airport",
+  "city": "Düsseldorf",
+  "country": "DE",
+  "lat": 51.2895,
+  "lng": 6.7668,
+  "type": "large_airport"
+ },
+ "MUC": {
+  "name": "Munich Airport",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.3538,
+  "lng": 11.7861,
+  "type": "large_airport"
+ },
+ "NUE": {
+  "name": "Nuremberg Airport",
+  "city": "Nuremberg",
+  "country": "DE",
+  "lat": 49.4987,
+  "lng": 11.0781,
+  "type": "large_airport"
+ },
+ "LEJ": {
+  "name": "Leipzig/Halle Airport",
+  "city": "Schkeuditz",
+  "country": "DE",
+  "lat": 51.4207,
+  "lng": 12.2327,
+  "type": "large_airport"
+ },
+ "SCN": {
+  "name": "Saarbrücken Airport",
+  "city": "Saarbrücken",
+  "country": "DE",
+  "lat": 49.2145,
+  "lng": 7.1097,
+  "type": "medium_airport"
+ },
+ "STR": {
+  "name": "Stuttgart Airport",
+  "city": "Stuttgart",
+  "country": "DE",
+  "lat": 48.6899,
+  "lng": 9.222,
+  "type": "large_airport"
+ },
+ "HAJ": {
+  "name": "Hannover Airport",
+  "city": "Hannover",
+  "country": "DE",
+  "lat": 52.4611,
+  "lng": 9.6851,
+  "type": "large_airport"
+ },
+ "BRE": {
+  "name": "Bremen Airport",
+  "city": "Bremen",
+  "country": "DE",
+  "lat": 53.0468,
+  "lng": 8.7893,
+  "type": "large_airport"
+ },
+ "HHN": {
+  "name": "Frankfurt-Hahn Airport",
+  "city": "Frankfurt am Main (Lautzenhausen)",
+  "country": "DE",
+  "lat": 49.9464,
+  "lng": 7.2617,
+  "type": "large_airport"
+ },
+ "MHG": {
+  "name": "Mannheim-City Airport",
+  "city": "Mannheim",
+  "country": "DE",
+  "lat": 49.4731,
+  "lng": 8.5142,
+  "type": "medium_airport"
+ },
+ "LBC": {
+  "name": "Lübeck Blankensee Airport",
+  "city": "Lübeck",
+  "country": "DE",
+  "lat": 53.8054,
+  "lng": 10.7192,
+  "type": "medium_airport"
+ },
+ "FMM": {
+  "name": "Memmingen Allgau Airport",
+  "city": "Memmingen",
+  "country": "DE",
+  "lat": 47.9881,
+  "lng": 10.2382,
+  "type": "large_airport"
+ },
+ "PAD": {
+  "name": "Paderborn Lippstadt Airport",
+  "city": "Büren",
+  "country": "DE",
+  "lat": 51.6125,
+  "lng": 8.6175,
+  "type": "large_airport"
+ },
+ "NRN": {
+  "name": "Weeze (Niederrhein) Airport",
+  "city": "Weeze",
+  "country": "DE",
+  "lat": 51.6014,
+  "lng": 6.1412,
+  "type": "large_airport"
+ },
+ "DTM": {
+  "name": "Dortmund Airport",
+  "city": "Dortmund",
+  "country": "DE",
+  "lat": 51.5183,
+  "lng": 7.6122,
+  "type": "large_airport"
+ },
+ "FDH": {
+  "name": "Bodensee Airport Friedrichshafen",
+  "city": "Friedrichshafen",
+  "country": "DE",
+  "lat": 47.6713,
+  "lng": 9.5115,
+  "type": "large_airport"
+ },
+ "FKB": {
+  "name": "Karlsruhe Baden-Baden Airport",
+  "city": "Rheinmünster",
+  "country": "DE",
+  "lat": 48.7794,
+  "lng": 8.0805,
+  "type": "large_airport"
+ },
+ "KSF": {
+  "name": "Kassel Airport",
+  "city": "Calden",
+  "country": "DE",
+  "lat": 51.4184,
+  "lng": 9.3916,
+  "type": "large_airport"
+ },
+ "EME": {
+  "name": "Emden Airport",
+  "city": "Emden",
+  "country": "DE",
+  "lat": 53.3911,
+  "lng": 7.2275,
+  "type": "small_airport"
+ },
+ "AGE": {
+  "name": "Wangerooge Airport",
+  "city": "Wangerooge",
+  "country": "DE",
+  "lat": 53.7825,
+  "lng": 7.9196,
+  "type": "small_airport"
+ },
+ "JUI": {
+  "name": "Juist Airport",
+  "city": "Juist",
+  "country": "DE",
+  "lat": 53.6814,
+  "lng": 7.0564,
+  "type": "small_airport"
+ },
+ "BMK": {
+  "name": "Borkum Airport",
+  "city": "Borkum",
+  "country": "DE",
+  "lat": 53.5964,
+  "lng": 6.7092,
+  "type": "small_airport"
+ },
+ "NOD": {
+  "name": "Norden-Norddeich Airport",
+  "city": "Norddeich",
+  "country": "DE",
+  "lat": 53.6331,
+  "lng": 7.1903,
+  "type": "small_airport"
+ },
+ "NRD": {
+  "name": "Norderney Airport",
+  "city": "Norderney",
+  "country": "DE",
+  "lat": 53.7069,
+  "lng": 7.23,
+  "type": "small_airport"
+ },
+ "BMR": {
+  "name": "Baltrum Airport",
+  "city": "Baltrum",
+  "country": "DE",
+  "lat": 53.7249,
+  "lng": 7.3733,
+  "type": "small_airport"
+ },
+ "HEI": {
+  "name": "Heide-Büsum Airport",
+  "city": "Oesterdeichstrich",
+  "country": "DE",
+  "lat": 54.1533,
+  "lng": 8.9017,
+  "type": "small_airport"
+ },
+ "HGL": {
+  "name": "Helgoland-Düne Airport",
+  "city": "Helgoland",
+  "country": "DE",
+  "lat": 54.1853,
+  "lng": 7.9158,
+  "type": "small_airport"
+ },
+ "GWT": {
+  "name": "Westerland Sylt Airport",
+  "city": "Sylt",
+  "country": "DE",
+  "lat": 54.9132,
+  "lng": 8.3405,
+  "type": "medium_airport"
+ },
+ "KDL": {
+  "name": "Kärdla Airport",
+  "city": "Kärdla",
+  "country": "EE",
+  "lat": 58.9908,
+  "lng": 22.8307,
+  "type": "medium_airport"
+ },
+ "URE": {
+  "name": "Kuressaare Airport",
+  "city": "Kuressaare",
+  "country": "EE",
+  "lat": 58.2299,
+  "lng": 22.5095,
+  "type": "medium_airport"
+ },
+ "EPU": {
+  "name": "Pärnu Airport",
+  "city": "Pärnu",
+  "country": "EE",
+  "lat": 58.419,
+  "lng": 24.4728,
+  "type": "medium_airport"
+ },
+ "TLL": {
+  "name": "Lennart Meri Tallinn Airport",
+  "city": "Tallinn",
+  "country": "EE",
+  "lat": 59.4132,
+  "lng": 24.8326,
+  "type": "large_airport"
+ },
+ "TAY": {
+  "name": "Tartu Airport",
+  "city": "Tartu",
+  "country": "EE",
+  "lat": 58.3074,
+  "lng": 26.6865,
+  "type": "medium_airport"
+ },
+ "ENF": {
+  "name": "Enontekio Airport",
+  "city": "Enontekio",
+  "country": "FI",
+  "lat": 68.3626,
+  "lng": 23.4243,
+  "type": "medium_airport"
+ },
+ "HEL": {
+  "name": "Helsinki Vantaa Airport",
+  "city": "Helsinki (Vantaa)",
+  "country": "FI",
+  "lat": 60.3184,
+  "lng": 24.9633,
+  "type": "large_airport"
+ },
+ "IVL": {
+  "name": "Ivalo Airport",
+  "city": "Ivalo",
+  "country": "FI",
+  "lat": 68.6073,
+  "lng": 27.4053,
+  "type": "large_airport"
+ },
+ "JOE": {
+  "name": "Joensuu Airport",
+  "city": "Joensuu",
+  "country": "FI",
+  "lat": 62.6588,
+  "lng": 29.6194,
+  "type": "medium_airport"
+ },
+ "JYV": {
+  "name": "Jyväskylä Airport",
+  "city": "Jyväskylän Maalaiskunta",
+  "country": "FI",
+  "lat": 62.3995,
+  "lng": 25.6783,
+  "type": "medium_airport"
+ },
+ "KEM": {
+  "name": "Kemi-Tornio Airport",
+  "city": "Kemi / Tornio",
+  "country": "FI",
+  "lat": 65.7787,
+  "lng": 24.5821,
+  "type": "medium_airport"
+ },
+ "KAJ": {
+  "name": "Kajaani Airport",
+  "city": "Kajaani",
+  "country": "FI",
+  "lat": 64.2855,
+  "lng": 27.6924,
+  "type": "medium_airport"
+ },
+ "KOK": {
+  "name": "Kokkola-Pietarsaari Airport",
+  "city": "Kokkola / Kruunupyy",
+  "country": "FI",
+  "lat": 63.7212,
+  "lng": 23.1431,
+  "type": "medium_airport"
+ },
+ "KAO": {
+  "name": "Kuusamo Airport",
+  "city": "Kuusamo",
+  "country": "FI",
+  "lat": 65.9876,
+  "lng": 29.2394,
+  "type": "medium_airport"
+ },
+ "KTT": {
+  "name": "Kittilä International Airport",
+  "city": "Kittilä",
+  "country": "FI",
+  "lat": 67.701,
+  "lng": 24.8468,
+  "type": "large_airport"
+ },
+ "KUO": {
+  "name": "Kuopio Airport",
+  "city": "Kuopio / Siilinjärvi",
+  "country": "FI",
+  "lat": 63.0071,
+  "lng": 27.7978,
+  "type": "large_airport"
+ },
+ "LPP": {
+  "name": "Lappeenranta Airport",
+  "city": "Lappeenranta",
+  "country": "FI",
+  "lat": 61.0446,
+  "lng": 28.1447,
+  "type": "large_airport"
+ },
+ "MHQ": {
+  "name": "Mariehamn Airport",
+  "city": "Mariehamn",
+  "country": "FI",
+  "lat": 60.1222,
+  "lng": 19.8982,
+  "type": "medium_airport"
+ },
+ "OUL": {
+  "name": "Oulu Airport",
+  "city": "Oulu / Oulunsalo",
+  "country": "FI",
+  "lat": 64.9301,
+  "lng": 25.3546,
+  "type": "large_airport"
+ },
+ "POR": {
+  "name": "Pori Airport",
+  "city": "Pori",
+  "country": "FI",
+  "lat": 61.4617,
+  "lng": 21.8,
+  "type": "medium_airport"
+ },
+ "RVN": {
+  "name": "Rovaniemi Airport",
+  "city": "Rovaniemi",
+  "country": "FI",
+  "lat": 66.5633,
+  "lng": 25.8298,
+  "type": "large_airport"
+ },
+ "SVL": {
+  "name": "Savonlinna Airport",
+  "city": "Savonlinna",
+  "country": "FI",
+  "lat": 61.9431,
+  "lng": 28.9451,
+  "type": "medium_airport"
+ },
+ "TMP": {
+  "name": "Tampere-Pirkkala Airport",
+  "city": "Tampere / Pirkkala",
+  "country": "FI",
+  "lat": 61.4141,
+  "lng": 23.6044,
+  "type": "large_airport"
+ },
+ "TKU": {
+  "name": "Turku Airport",
+  "city": "Turku",
+  "country": "FI",
+  "lat": 60.5141,
+  "lng": 22.2628,
+  "type": "large_airport"
+ },
+ "VAA": {
+  "name": "Vaasa Airport",
+  "city": "Vaasa",
+  "country": "FI",
+  "lat": 63.0502,
+  "lng": 21.7625,
+  "type": "large_airport"
+ },
+ "BFS": {
+  "name": "Belfast International Airport",
+  "city": "Belfast",
+  "country": "GB",
+  "lat": 54.6575,
+  "lng": -6.2158,
+  "type": "large_airport"
+ },
+ "BHD": {
+  "name": "George Best Belfast City Airport",
+  "city": "Belfast",
+  "country": "GB",
+  "lat": 54.6181,
+  "lng": -5.8725,
+  "type": "medium_airport"
+ },
+ "LDY": {
+  "name": "City of Derry Airport",
+  "city": "Derry, Derry and Strabane",
+  "country": "GB",
+  "lat": 55.0428,
+  "lng": -7.1611,
+  "type": "medium_airport"
+ },
+ "BHX": {
+  "name": "Birmingham Airport",
+  "city": "Birmingham, West Midlands",
+  "country": "GB",
+  "lat": 52.4539,
+  "lng": -1.748,
+  "type": "large_airport"
+ },
+ "MAN": {
+  "name": "Manchester Airport",
+  "city": "Manchester, Greater Manchester",
+  "country": "GB",
+  "lat": 53.3494,
+  "lng": -2.2795,
+  "type": "large_airport"
+ },
+ "CAL": {
+  "name": "Campbeltown Airport",
+  "city": "Campbeltown",
+  "country": "GB",
+  "lat": 55.4372,
+  "lng": -5.6864,
+  "type": "medium_airport"
+ },
+ "EOI": {
+  "name": "Eday Airport",
+  "city": "Eday",
+  "country": "GB",
+  "lat": 59.1906,
+  "lng": -2.7722,
+  "type": "medium_airport"
+ },
+ "FIE": {
+  "name": "Fair Isle Airport",
+  "city": "Fair Isle",
+  "country": "GB",
+  "lat": 59.5347,
+  "lng": -1.6285,
+  "type": "small_airport"
+ },
+ "COL": {
+  "name": "Coll Airport",
+  "city": "Coll Island",
+  "country": "GB",
+  "lat": 56.6019,
+  "lng": -6.6178,
+  "type": "small_airport"
+ },
+ "NRL": {
+  "name": "North Ronaldsay Airport",
+  "city": "North Ronaldsay",
+  "country": "GB",
+  "lat": 59.3675,
+  "lng": -2.4344,
+  "type": "small_airport"
+ },
+ "OBN": {
+  "name": "Oban Airport",
+  "city": "North Connel",
+  "country": "GB",
+  "lat": 56.4635,
+  "lng": -5.3997,
+  "type": "small_airport"
+ },
+ "PPW": {
+  "name": "Papa Westray Airport",
+  "city": "Papa Westray, Orkney Islands",
+  "country": "GB",
+  "lat": 59.351,
+  "lng": -2.9004,
+  "type": "small_airport"
+ },
+ "SOY": {
+  "name": "Stronsay Airport",
+  "city": "Stronsay",
+  "country": "GB",
+  "lat": 59.1553,
+  "lng": -2.6414,
+  "type": "small_airport"
+ },
+ "NDY": {
+  "name": "Sanday Airport",
+  "city": "Sanday",
+  "country": "GB",
+  "lat": 59.2503,
+  "lng": -2.5767,
+  "type": "small_airport"
+ },
+ "LWK": {
+  "name": "Lerwick / Tingwall Airport",
+  "city": "Lerwick, Shetland Islands",
+  "country": "GB",
+  "lat": 60.1922,
+  "lng": -1.2436,
+  "type": "small_airport"
+ },
+ "WRY": {
+  "name": "Westray Airport",
+  "city": "Westray, Orkney Islands",
+  "country": "GB",
+  "lat": 59.3505,
+  "lng": -2.9501,
+  "type": "small_airport"
+ },
+ "CSA": {
+  "name": "Colonsay Airstrip",
+  "city": "Colonsay",
+  "country": "GB",
+  "lat": 56.0575,
+  "lng": -6.2431,
+  "type": "small_airport"
+ },
+ "CWL": {
+  "name": "Cardiff International Airport",
+  "city": "Cardiff",
+  "country": "GB",
+  "lat": 51.3967,
+  "lng": -3.3433,
+  "type": "large_airport"
+ },
+ "BRS": {
+  "name": "Bristol Airport",
+  "city": "Bristol",
+  "country": "GB",
+  "lat": 51.3823,
+  "lng": -2.7165,
+  "type": "large_airport"
+ },
+ "LPL": {
+  "name": "Liverpool John Lennon Airport",
+  "city": "Liverpool",
+  "country": "GB",
+  "lat": 53.3349,
+  "lng": -2.8496,
+  "type": "large_airport"
+ },
+ "LTN": {
+  "name": "London Luton Airport",
+  "city": "Luton, Luton",
+  "country": "GB",
+  "lat": 51.8747,
+  "lng": -0.3683,
+  "type": "large_airport"
+ },
+ "LEQ": {
+  "name": "Land's End Airport",
+  "city": "Land's End, Cornwall",
+  "country": "GB",
+  "lat": 50.1028,
+  "lng": -5.6706,
+  "type": "small_airport"
+ },
+ "ISC": {
+  "name": "St. Mary's Airport",
+  "city": "St. Mary's, Isles of Scilly",
+  "country": "GB",
+  "lat": 49.9134,
+  "lng": -6.2919,
+  "type": "small_airport"
+ },
+ "BOH": {
+  "name": "Bournemouth Airport",
+  "city": "Bournemouth",
+  "country": "GB",
+  "lat": 50.7805,
+  "lng": -1.8396,
+  "type": "medium_airport"
+ },
+ "SOU": {
+  "name": "Southampton Airport",
+  "city": "Southampton",
+  "country": "GB",
+  "lat": 50.9503,
+  "lng": -1.3568,
+  "type": "medium_airport"
+ },
+ "NQY": {
+  "name": "Cornwall Airport Newquay",
+  "city": "Newquay",
+  "country": "GB",
+  "lat": 50.4406,
+  "lng": -4.9954,
+  "type": "medium_airport"
+ },
+ "ACI": {
+  "name": "Alderney Airport",
+  "city": "Saint Anne",
+  "country": "GG",
+  "lat": 49.7061,
+  "lng": -2.2147,
+  "type": "medium_airport"
+ },
+ "GCI": {
+  "name": "Guernsey Airport",
+  "city": "Saint Peter Port",
+  "country": "GG",
+  "lat": 49.435,
+  "lng": -2.602,
+  "type": "medium_airport"
+ },
+ "JER": {
+  "name": "Jersey Airport",
+  "city": "St. Peter",
+  "country": "JE",
+  "lat": 49.2079,
+  "lng": -2.1955,
+  "type": "medium_airport"
+ },
+ "LGW": {
+  "name": "London Gatwick Airport",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.1487,
+  "lng": -0.1857,
+  "type": "large_airport"
+ },
+ "LCY": {
+  "name": "London City Airport",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.5053,
+  "lng": 0.0553,
+  "type": "medium_airport"
+ },
+ "LHR": {
+  "name": "London Heathrow Airport",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.4707,
+  "lng": -0.4599,
+  "type": "large_airport"
+ },
+ "SEN": {
+  "name": "London Southend Airport",
+  "city": "Southend-on-Sea, Essex",
+  "country": "GB",
+  "lat": 51.5706,
+  "lng": 0.6936,
+  "type": "medium_airport"
+ },
+ "HUY": {
+  "name": "Humberside Airport",
+  "city": "Grimsby, Lincolnshire",
+  "country": "GB",
+  "lat": 53.5762,
+  "lng": -0.3495,
+  "type": "medium_airport"
+ },
+ "LBA": {
+  "name": "Leeds Bradford Airport",
+  "city": "Leeds, West Yorkshire",
+  "country": "GB",
+  "lat": 53.8659,
+  "lng": -1.6606,
+  "type": "large_airport"
+ },
+ "IOM": {
+  "name": "Isle of Man Airport",
+  "city": "Castletown",
+  "country": "IM",
+  "lat": 54.0831,
+  "lng": -4.6239,
+  "type": "large_airport"
+ },
+ "NCL": {
+  "name": "Newcastle International Airport",
+  "city": "Newcastle upon Tyne, Tyne and Wear",
+  "country": "GB",
+  "lat": 55.038,
+  "lng": -1.6896,
+  "type": "large_airport"
+ },
+ "MME": {
+  "name": "Teesside International Airport",
+  "city": "Darlington, Durham",
+  "country": "GB",
+  "lat": 54.5092,
+  "lng": -1.4294,
+  "type": "medium_airport"
+ },
+ "EMA": {
+  "name": "East Midlands Airport",
+  "city": "Nottingham, Leicestershire",
+  "country": "GB",
+  "lat": 52.8311,
+  "lng": -1.3281,
+  "type": "large_airport"
+ },
+ "KOI": {
+  "name": "Kirkwall Airport",
+  "city": "Kirkwall, Orkney Islands",
+  "country": "GB",
+  "lat": 58.9579,
+  "lng": -2.9051,
+  "type": "medium_airport"
+ },
+ "LSI": {
+  "name": "Sumburgh Airport",
+  "city": "Lerwick, Shetland",
+  "country": "GB",
+  "lat": 59.8789,
+  "lng": -1.2956,
+  "type": "medium_airport"
+ },
+ "WIC": {
+  "name": "Wick John O'Groats Airport",
+  "city": "Wick",
+  "country": "GB",
+  "lat": 58.4589,
+  "lng": -3.0931,
+  "type": "medium_airport"
+ },
+ "ABZ": {
+  "name": "Aberdeen International Airport",
+  "city": "Aberdeen",
+  "country": "GB",
+  "lat": 57.2019,
+  "lng": -2.1978,
+  "type": "large_airport"
+ },
+ "INV": {
+  "name": "Inverness Airport",
+  "city": "Inverness",
+  "country": "GB",
+  "lat": 57.5425,
+  "lng": -4.0475,
+  "type": "medium_airport"
+ },
+ "GLA": {
+  "name": "Glasgow Airport",
+  "city": "Glasgow",
+  "country": "GB",
+  "lat": 55.8719,
+  "lng": -4.4331,
+  "type": "large_airport"
+ },
+ "EDI": {
+  "name": "Edinburgh Airport",
+  "city": "Ingliston, Edinburgh",
+  "country": "GB",
+  "lat": 55.9501,
+  "lng": -3.3723,
+  "type": "large_airport"
+ },
+ "ILY": {
+  "name": "Islay Airport",
+  "city": "Isle of Islay, Argyll and Bute",
+  "country": "GB",
+  "lat": 55.6827,
+  "lng": -6.2575,
+  "type": "medium_airport"
+ },
+ "PIK": {
+  "name": "Glasgow Prestwick Airport",
+  "city": "Prestwick, South Ayrshire",
+  "country": "GB",
+  "lat": 55.5015,
+  "lng": -4.5772,
+  "type": "large_airport"
+ },
+ "BEB": {
+  "name": "Benbecula Airport",
+  "city": "Balivanich",
+  "country": "GB",
+  "lat": 57.4811,
+  "lng": -7.3628,
+  "type": "medium_airport"
+ },
+ "DND": {
+  "name": "Dundee Airport",
+  "city": "Dundee",
+  "country": "GB",
+  "lat": 56.4525,
+  "lng": -3.0258,
+  "type": "medium_airport"
+ },
+ "SYY": {
+  "name": "Stornoway Airport",
+  "city": "Stornoway, Western Isles",
+  "country": "GB",
+  "lat": 58.2156,
+  "lng": -6.3311,
+  "type": "medium_airport"
+ },
+ "BRR": {
+  "name": "Barra Airport",
+  "city": "Eoligarry",
+  "country": "GB",
+  "lat": 57.0228,
+  "lng": -7.4431,
+  "type": "medium_airport"
+ },
+ "TRE": {
+  "name": "Tiree Airport",
+  "city": "Balemartine, Argyll and Bute",
+  "country": "GB",
+  "lat": 56.4992,
+  "lng": -6.8692,
+  "type": "medium_airport"
+ },
+ "NWI": {
+  "name": "Norwich Airport",
+  "city": "Norwich, Norfolk",
+  "country": "GB",
+  "lat": 52.6758,
+  "lng": 1.2828,
+  "type": "medium_airport"
+ },
+ "STN": {
+  "name": "London Stansted Airport",
+  "city": "London, Essex",
+  "country": "GB",
+  "lat": 51.885,
+  "lng": 0.235,
+  "type": "large_airport"
+ },
+ "EXT": {
+  "name": "Exeter International Airport",
+  "city": "Exeter, Devon",
+  "country": "GB",
+  "lat": 50.7343,
+  "lng": -3.414,
+  "type": "medium_airport"
+ },
+ "AMS": {
+  "name": "Amsterdam Airport Schiphol",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.3086,
+  "lng": 4.7639,
+  "type": "large_airport"
+ },
+ "MST": {
+  "name": "Maastricht Aachen Airport",
+  "city": "Maastricht",
+  "country": "NL",
+  "lat": 50.9111,
+  "lng": 5.7694,
+  "type": "large_airport"
+ },
+ "EIN": {
+  "name": "Eindhoven Airport",
+  "city": "Eindhoven",
+  "country": "NL",
+  "lat": 51.4501,
+  "lng": 5.3745,
+  "type": "large_airport"
+ },
+ "GRQ": {
+  "name": "Groningen Airport Eelde",
+  "city": "Groningen",
+  "country": "NL",
+  "lat": 53.1191,
+  "lng": 6.5777,
+  "type": "large_airport"
+ },
+ "RTM": {
+  "name": "Rotterdam The Hague Airport",
+  "city": "Rotterdam",
+  "country": "NL",
+  "lat": 51.9569,
+  "lng": 4.4372,
+  "type": "large_airport"
+ },
+ "NNR": {
+  "name": "Connemara Regional Airport",
+  "city": "Inverin",
+  "country": "IE",
+  "lat": 53.2303,
+  "lng": -9.4678,
+  "type": "small_airport"
+ },
+ "ORK": {
+  "name": "Cork International Airport",
+  "city": "Cork",
+  "country": "IE",
+  "lat": 51.8413,
+  "lng": -8.4911,
+  "type": "large_airport"
+ },
+ "CFN": {
+  "name": "Donegal Airport",
+  "city": "Donegal",
+  "country": "IE",
+  "lat": 55.0442,
+  "lng": -8.341,
+  "type": "medium_airport"
+ },
+ "DUB": {
+  "name": "Dublin Airport",
+  "city": "Dublin",
+  "country": "IE",
+  "lat": 53.4287,
+  "lng": -6.2621,
+  "type": "large_airport"
+ },
+ "IOR": {
+  "name": "Inishmore Aerodrome",
+  "city": "Inis Mór",
+  "country": "IE",
+  "lat": 53.1067,
+  "lng": -9.6536,
+  "type": "small_airport"
+ },
+ "INQ": {
+  "name": "Inisheer Aerodrome",
+  "city": "Inis Oírr",
+  "country": "IE",
+  "lat": 53.0647,
+  "lng": -9.5109,
+  "type": "small_airport"
+ },
+ "NOC": {
+  "name": "Ireland West Airport Knock",
+  "city": "Charlestown",
+  "country": "IE",
+  "lat": 53.9104,
+  "lng": -8.817,
+  "type": "large_airport"
+ },
+ "KIR": {
+  "name": "Kerry Airport",
+  "city": "Farranfore",
+  "country": "IE",
+  "lat": 52.1809,
+  "lng": -9.5238,
+  "type": "medium_airport"
+ },
+ "IIA": {
+  "name": "Inishmaan Aerodrome",
+  "city": "Inis Meáin",
+  "country": "IE",
+  "lat": 53.093,
+  "lng": -9.5681,
+  "type": "small_airport"
+ },
+ "SNN": {
+  "name": "Shannon Airport",
+  "city": "Shannon",
+  "country": "IE",
+  "lat": 52.702,
+  "lng": -8.9248,
+  "type": "large_airport"
+ },
+ "AAR": {
+  "name": "Aarhus Airport",
+  "city": "Aarhus",
+  "country": "DK",
+  "lat": 56.3033,
+  "lng": 10.6183,
+  "type": "large_airport"
+ },
+ "BLL": {
+  "name": "Billund Airport",
+  "city": "Billund",
+  "country": "DK",
+  "lat": 55.7403,
+  "lng": 9.157,
+  "type": "large_airport"
+ },
+ "CPH": {
+  "name": "Copenhagen Kastrup Airport",
+  "city": "Copenhagen",
+  "country": "DK",
+  "lat": 55.6179,
+  "lng": 12.656,
+  "type": "large_airport"
+ },
+ "EBJ": {
+  "name": "Esbjerg Airport",
+  "city": "Esbjerg",
+  "country": "DK",
+  "lat": 55.5259,
+  "lng": 8.5534,
+  "type": "medium_airport"
+ },
+ "KRP": {
+  "name": "Midtjyllands Airport / Air Base Karup",
+  "city": "Karup",
+  "country": "DK",
+  "lat": 56.2971,
+  "lng": 9.1043,
+  "type": "medium_airport"
+ },
+ "BYR": {
+  "name": "Læsø Airport",
+  "city": "Læsø",
+  "country": "DK",
+  "lat": 57.2772,
+  "lng": 11.0001,
+  "type": "small_airport"
+ },
+ "ODE": {
+  "name": "Odense Hans Christian Andersen Airport",
+  "city": "Odense",
+  "country": "DK",
+  "lat": 55.4753,
+  "lng": 10.3272,
+  "type": "large_airport"
+ },
+ "RKE": {
+  "name": "Copenhagen Roskilde Airport",
+  "city": "Roskilde",
+  "country": "DK",
+  "lat": 55.5856,
+  "lng": 12.1314,
+  "type": "medium_airport"
+ },
+ "RNN": {
+  "name": "Bornholm Airport",
+  "city": "Rønne",
+  "country": "DK",
+  "lat": 55.0633,
+  "lng": 14.7596,
+  "type": "medium_airport"
+ },
+ "SGD": {
+  "name": "Sønderborg Airport",
+  "city": "Sønderborg",
+  "country": "DK",
+  "lat": 54.9644,
+  "lng": 9.7917,
+  "type": "medium_airport"
+ },
+ "FAE": {
+  "name": "Vágar Airport",
+  "city": "Vágar",
+  "country": "FO",
+  "lat": 62.0633,
+  "lng": -7.2758,
+  "type": "large_airport"
+ },
+ "AAL": {
+  "name": "Aalborg Airport",
+  "city": "Aalborg",
+  "country": "DK",
+  "lat": 57.0948,
+  "lng": 9.8499,
+  "type": "large_airport"
+ },
+ "LUX": {
+  "name": "Luxembourg-Findel International Airport",
+  "city": "Luxembourg",
+  "country": "LU",
+  "lat": 49.6268,
+  "lng": 6.2121,
+  "type": "large_airport"
+ },
+ "AES": {
+  "name": "Ålesund Airport",
+  "city": "Ålesund",
+  "country": "NO",
+  "lat": 62.5604,
+  "lng": 6.1108,
+  "type": "large_airport"
+ },
+ "ANX": {
+  "name": "Andøya Airport, Andenes",
+  "city": "Andenes",
+  "country": "NO",
+  "lat": 69.2952,
+  "lng": 16.1394,
+  "type": "medium_airport"
+ },
+ "ALF": {
+  "name": "Alta Airport",
+  "city": "Alta",
+  "country": "NO",
+  "lat": 69.9761,
+  "lng": 23.3717,
+  "type": "medium_airport"
+ },
+ "FDE": {
+  "name": "Førde Airport, Bringeland",
+  "city": "Førde",
+  "country": "NO",
+  "lat": 61.3911,
+  "lng": 5.7569,
+  "type": "small_airport"
+ },
+ "BNN": {
+  "name": "Brønnøysund Airport, Brønnøy",
+  "city": "Brønnøy",
+  "country": "NO",
+  "lat": 65.4611,
+  "lng": 12.2175,
+  "type": "medium_airport"
+ },
+ "BOO": {
+  "name": "Bodø Airport",
+  "city": "Bodø",
+  "country": "NO",
+  "lat": 67.2692,
+  "lng": 14.3653,
+  "type": "large_airport"
+ },
+ "BGO": {
+  "name": "Bergen Airport, Flesland",
+  "city": "Bergen",
+  "country": "NO",
+  "lat": 60.2934,
+  "lng": 5.2181,
+  "type": "large_airport"
+ },
+ "BJF": {
+  "name": "Båtsfjord Airport",
+  "city": "Båtsfjord",
+  "country": "NO",
+  "lat": 70.6003,
+  "lng": 29.6926,
+  "type": "medium_airport"
+ },
+ "BVG": {
+  "name": "Berlevåg Airport",
+  "city": "Berlevåg",
+  "country": "NO",
+  "lat": 70.8715,
+  "lng": 29.0341,
+  "type": "medium_airport"
+ },
+ "KRS": {
+  "name": "Kristiansand Airport",
+  "city": "Kristiansand(Kjevik)",
+  "country": "NO",
+  "lat": 58.2042,
+  "lng": 8.0854,
+  "type": "large_airport"
+ },
+ "BDU": {
+  "name": "Bardufoss Airport",
+  "city": "Målselv",
+  "country": "NO",
+  "lat": 69.0558,
+  "lng": 18.5404,
+  "type": "medium_airport"
+ },
+ "EVE": {
+  "name": "Harstad/Narvik Airport",
+  "city": "Evenes",
+  "country": "NO",
+  "lat": 68.4913,
+  "lng": 16.6781,
+  "type": "large_airport"
+ },
+ "FRO": {
+  "name": "Florø Airport",
+  "city": "Florø",
+  "country": "NO",
+  "lat": 61.5836,
+  "lng": 5.0247,
+  "type": "medium_airport"
+ },
+ "OSL": {
+  "name": "Oslo-Gardermoen International Airport",
+  "city": "Oslo (Gardermoen)",
+  "country": "NO",
+  "lat": 60.1939,
+  "lng": 11.1004,
+  "type": "large_airport"
+ },
+ "HAU": {
+  "name": "Haugesund Airport, Karmøy",
+  "city": "Karmøy",
+  "country": "NO",
+  "lat": 59.3453,
+  "lng": 5.2084,
+  "type": "medium_airport"
+ },
+ "HFT": {
+  "name": "Hammerfest Airport",
+  "city": "Hammerfest",
+  "country": "NO",
+  "lat": 70.6797,
+  "lng": 23.6686,
+  "type": "medium_airport"
+ },
+ "HAA": {
+  "name": "Hasvik Airport",
+  "city": "Hasvik",
+  "country": "NO",
+  "lat": 70.4867,
+  "lng": 22.1397,
+  "type": "small_airport"
+ },
+ "HVG": {
+  "name": "Honningsvåg Airport, Valan",
+  "city": "Honningsvåg",
+  "country": "NO",
+  "lat": 71.0097,
+  "lng": 25.9836,
+  "type": "medium_airport"
+ },
+ "KSU": {
+  "name": "Kristiansund Airport, Kvernberget",
+  "city": "Kvernberget",
+  "country": "NO",
+  "lat": 63.1118,
+  "lng": 7.8245,
+  "type": "medium_airport"
+ },
+ "KKN": {
+  "name": "Kirkenes Airport, Høybuktmoen",
+  "city": "Kirkenes",
+  "country": "NO",
+  "lat": 69.7258,
+  "lng": 29.8913,
+  "type": "medium_airport"
+ },
+ "LKN": {
+  "name": "Leknes Airport",
+  "city": "Leknes",
+  "country": "NO",
+  "lat": 68.1525,
+  "lng": 13.6094,
+  "type": "medium_airport"
+ },
+ "MEH": {
+  "name": "Mehamn Airport",
+  "city": "Mehamn",
+  "country": "NO",
+  "lat": 71.0297,
+  "lng": 27.8267,
+  "type": "medium_airport"
+ },
+ "MOL": {
+  "name": "Molde Airport, Årø",
+  "city": "Årø",
+  "country": "NO",
+  "lat": 62.7447,
+  "lng": 7.2625,
+  "type": "medium_airport"
+ },
+ "MJF": {
+  "name": "Mosjøen Airport, Kjærstad",
+  "city": "Mosjøen",
+  "country": "NO",
+  "lat": 65.784,
+  "lng": 13.2149,
+  "type": "medium_airport"
+ },
+ "LKL": {
+  "name": "Lakselv Airport, Banak",
+  "city": "Lakselv",
+  "country": "NO",
+  "lat": 70.0688,
+  "lng": 24.9735,
+  "type": "medium_airport"
+ },
+ "OSY": {
+  "name": "Namsos Airport",
+  "city": "Namsos",
+  "country": "NO",
+  "lat": 64.4722,
+  "lng": 11.5786,
+  "type": "small_airport"
+ },
+ "OLA": {
+  "name": "Ørland Airport",
+  "city": "Ørland",
+  "country": "NO",
+  "lat": 63.6989,
+  "lng": 9.604,
+  "type": "medium_airport"
+ },
+ "HOV": {
+  "name": "Ørsta-Volda Airport, Hovden",
+  "city": "Ørsta",
+  "country": "NO",
+  "lat": 62.18,
+  "lng": 6.0741,
+  "type": "medium_airport"
+ },
+ "MQN": {
+  "name": "Mo i Rana Airport, Røssvoll",
+  "city": "Mo i Rana",
+  "country": "NO",
+  "lat": 66.3639,
+  "lng": 14.3014,
+  "type": "medium_airport"
+ },
+ "RVK": {
+  "name": "Rørvik Airport, Ryum",
+  "city": "Rørvik",
+  "country": "NO",
+  "lat": 64.8383,
+  "lng": 11.1461,
+  "type": "medium_airport"
+ },
+ "RRS": {
+  "name": "Røros Airport",
+  "city": "Røros",
+  "country": "NO",
+  "lat": 62.5784,
+  "lng": 11.3423,
+  "type": "medium_airport"
+ },
+ "RET": {
+  "name": "Røst Airport",
+  "city": "Røst",
+  "country": "NO",
+  "lat": 67.5265,
+  "lng": 12.1016,
+  "type": "small_airport"
+ },
+ "LYR": {
+  "name": "Svalbard Airport, Longyear",
+  "city": "Longyearbyen",
+  "country": "NO",
+  "lat": 78.2461,
+  "lng": 15.4656,
+  "type": "medium_airport"
+ },
+ "SDN": {
+  "name": "Sandane Airport, Anda",
+  "city": "Sandane",
+  "country": "NO",
+  "lat": 61.83,
+  "lng": 6.1058,
+  "type": "small_airport"
+ },
+ "SOG": {
+  "name": "Sogndal Airport, Haukåsen",
+  "city": "Sogndal",
+  "country": "NO",
+  "lat": 61.1561,
+  "lng": 7.1378,
+  "type": "small_airport"
+ },
+ "SVJ": {
+  "name": "Svolvær Airport, Helle",
+  "city": "Svolvær",
+  "country": "NO",
+  "lat": 68.2433,
+  "lng": 14.6692,
+  "type": "medium_airport"
+ },
+ "SKN": {
+  "name": "Stokmarknes Airport, Skagen",
+  "city": "Hadsel",
+  "country": "NO",
+  "lat": 68.5788,
+  "lng": 15.0334,
+  "type": "medium_airport"
+ },
+ "SRP": {
+  "name": "Stord Airport, Sørstokken",
+  "city": "Leirvik",
+  "country": "NO",
+  "lat": 59.7919,
+  "lng": 5.3408,
+  "type": "medium_airport"
+ },
+ "SOJ": {
+  "name": "Sørkjosen Airport",
+  "city": "Sørkjosen",
+  "country": "NO",
+  "lat": 69.7868,
+  "lng": 20.9594,
+  "type": "medium_airport"
+ },
+ "VAW": {
+  "name": "Vardø Airport, Svartnes",
+  "city": "Vardø",
+  "country": "NO",
+  "lat": 70.3554,
+  "lng": 31.0449,
+  "type": "medium_airport"
+ },
+ "SSJ": {
+  "name": "Sandnessjøen Airport, Stokka",
+  "city": "Alstahaug",
+  "country": "NO",
+  "lat": 65.9568,
+  "lng": 12.4689,
+  "type": "medium_airport"
+ },
+ "TOS": {
+  "name": "Tromsø Airport",
+  "city": "Tromsø",
+  "country": "NO",
+  "lat": 69.6833,
+  "lng": 18.9189,
+  "type": "large_airport"
+ },
+ "TRF": {
+  "name": "Sandefjord Airport, Torp",
+  "city": "Sandefjord(Torp)",
+  "country": "NO",
+  "lat": 59.1867,
+  "lng": 10.2586,
+  "type": "large_airport"
+ },
+ "TRD": {
+  "name": "Trondheim Airport, Værnes",
+  "city": "Trondheim",
+  "country": "NO",
+  "lat": 63.4578,
+  "lng": 10.924,
+  "type": "large_airport"
+ },
+ "VDS": {
+  "name": "Vadsø Airport",
+  "city": "Vadsø",
+  "country": "NO",
+  "lat": 70.0653,
+  "lng": 29.8447,
+  "type": "medium_airport"
+ },
+ "SVG": {
+  "name": "Stavanger Airport, Sola",
+  "city": "Stavanger",
+  "country": "NO",
+  "lat": 58.8767,
+  "lng": 5.6378,
+  "type": "large_airport"
+ },
+ "BZG": {
+  "name": "Ignacy Jan Paderewski Bydgoszcz Airport",
+  "city": "Bydgoszcz",
+  "country": "PL",
+  "lat": 53.0968,
+  "lng": 17.9777,
+  "type": "medium_airport"
+ },
+ "GDN": {
+  "name": "Gdańsk Lech Wałęsa Airport",
+  "city": "Gdańsk",
+  "country": "PL",
+  "lat": 54.3776,
+  "lng": 18.4662,
+  "type": "large_airport"
+ },
+ "KRK": {
+  "name": "Kraków John Paul II International Airport",
+  "city": "Balice",
+  "country": "PL",
+  "lat": 50.0777,
+  "lng": 19.7848,
+  "type": "large_airport"
+ },
+ "KTW": {
+  "name": "Katowice Wojciech Korfanty International Airport",
+  "city": "Katowice",
+  "country": "PL",
+  "lat": 50.476,
+  "lng": 19.0807,
+  "type": "large_airport"
+ },
+ "LUZ": {
+  "name": "Lublin Airport",
+  "city": "Lublin",
+  "country": "PL",
+  "lat": 51.2402,
+  "lng": 22.7135,
+  "type": "large_airport"
+ },
+ "LCJ": {
+  "name": "Łódź Władysław Reymont Airport",
+  "city": "Łódź",
+  "country": "PL",
+  "lat": 51.7219,
+  "lng": 19.3981,
+  "type": "large_airport"
+ },
+ "WMI": {
+  "name": "Warsaw Modlin Airport",
+  "city": "Nowy Dwór Mazowiecki",
+  "country": "PL",
+  "lat": 52.4511,
+  "lng": 20.6518,
+  "type": "large_airport"
+ },
+ "POZ": {
+  "name": "Poznań-Ławica Airport",
+  "city": "Poznań",
+  "country": "PL",
+  "lat": 52.4216,
+  "lng": 16.8234,
+  "type": "large_airport"
+ },
+ "RDO": {
+  "name": "Warsaw Radom Airport",
+  "city": "Radom",
+  "country": "PL",
+  "lat": 51.3894,
+  "lng": 21.2147,
+  "type": "medium_airport"
+ },
+ "RZE": {
+  "name": "Rzeszów-Jasionka Airport",
+  "city": "Jasionka",
+  "country": "PL",
+  "lat": 50.1098,
+  "lng": 22.0242,
+  "type": "large_airport"
+ },
+ "SZZ": {
+  "name": "Solidarity Szczecin–Goleniów Airport",
+  "city": "Szczecin(Glewice)",
+  "country": "PL",
+  "lat": 53.5847,
+  "lng": 14.9022,
+  "type": "large_airport"
+ },
+ "SZY": {
+  "name": "Olsztyn-Mazury Airport",
+  "city": "Szymany",
+  "country": "PL",
+  "lat": 53.4819,
+  "lng": 20.9377,
+  "type": "medium_airport"
+ },
+ "WAW": {
+  "name": "Warsaw Chopin Airport",
+  "city": "Warsaw",
+  "country": "PL",
+  "lat": 52.1657,
+  "lng": 20.9671,
+  "type": "large_airport"
+ },
+ "WRO": {
+  "name": "Copernicus Wrocław Airport",
+  "city": "Wrocław",
+  "country": "PL",
+  "lat": 51.1037,
+  "lng": 16.8821,
+  "type": "large_airport"
+ },
+ "IEG": {
+  "name": "Zielona Góra-Babimost Airport",
+  "city": "Nowe Kramsko",
+  "country": "PL",
+  "lat": 52.1385,
+  "lng": 15.7986,
+  "type": "medium_airport"
+ },
+ "RNB": {
+  "name": "Ronneby Airport",
+  "city": "Ronneby",
+  "country": "SE",
+  "lat": 56.2667,
+  "lng": 15.265,
+  "type": "medium_airport"
+ },
+ "GOT": {
+  "name": "Göteborg Landvetter Airport",
+  "city": "Göteborg",
+  "country": "SE",
+  "lat": 57.6628,
+  "lng": 12.2798,
+  "type": "large_airport"
+ },
+ "JKG": {
+  "name": "Jönköping Airport",
+  "city": "Jönköping",
+  "country": "SE",
+  "lat": 57.7576,
+  "lng": 14.0687,
+  "type": "medium_airport"
+ },
+ "THN": {
+  "name": "Trollhättan-Vänersborg Airport",
+  "city": "Trollhättan",
+  "country": "SE",
+  "lat": 58.3181,
+  "lng": 12.345,
+  "type": "medium_airport"
+ },
+ "MXX": {
+  "name": "Mora Airport",
+  "city": "Mora",
+  "country": "SE",
+  "lat": 60.9579,
+  "lng": 14.5114,
+  "type": "medium_airport"
+ },
+ "NYO": {
+  "name": "Stockholm Skavsta Airport",
+  "city": "Nyköping",
+  "country": "SE",
+  "lat": 58.7897,
+  "lng": 16.9115,
+  "type": "large_airport"
+ },
+ "SCR": {
+  "name": "Scandinavian Mountains Airport",
+  "city": "Malung-Sälen",
+  "country": "SE",
+  "lat": 61.1651,
+  "lng": 12.8335,
+  "type": "large_airport"
+ },
+ "KLR": {
+  "name": "Kalmar Airport",
+  "city": "Kalmar",
+  "country": "SE",
+  "lat": 56.6855,
+  "lng": 16.2876,
+  "type": "medium_airport"
+ },
+ "MMX": {
+  "name": "Malmö Sturup Airport",
+  "city": "Malmö",
+  "country": "SE",
+  "lat": 55.5356,
+  "lng": 13.3763,
+  "type": "large_airport"
+ },
+ "HAD": {
+  "name": "Halmstad Airport",
+  "city": "Halmstad",
+  "country": "SE",
+  "lat": 56.6911,
+  "lng": 12.8202,
+  "type": "medium_airport"
+ },
+ "VXO": {
+  "name": "Växjö Kronoberg Airport",
+  "city": "Växjö",
+  "country": "SE",
+  "lat": 56.9291,
+  "lng": 14.728,
+  "type": "medium_airport"
+ },
+ "EVG": {
+  "name": "Sveg Airport",
+  "city": "Sveg",
+  "country": "SE",
+  "lat": 62.0478,
+  "lng": 14.4229,
+  "type": "small_airport"
+ },
+ "GEV": {
+  "name": "Gällivare Airport",
+  "city": "Gällivare",
+  "country": "SE",
+  "lat": 67.1324,
+  "lng": 20.8146,
+  "type": "medium_airport"
+ },
+ "KRF": {
+  "name": "Kramfors-Sollefteå Höga Kusten Airport",
+  "city": "Nyland",
+  "country": "SE",
+  "lat": 63.0486,
+  "lng": 17.7689,
+  "type": "medium_airport"
+ },
+ "LYC": {
+  "name": "Lycksele Airport",
+  "city": "Lycksele",
+  "country": "SE",
+  "lat": 64.5483,
+  "lng": 18.7162,
+  "type": "medium_airport"
+ },
+ "SDL": {
+  "name": "Sundsvall-Härnösand Airport",
+  "city": "Sundsvall/ Härnösand",
+  "country": "SE",
+  "lat": 62.5281,
+  "lng": 17.4439,
+  "type": "medium_airport"
+ },
+ "OER": {
+  "name": "Örnsköldsvik Airport",
+  "city": "Örnsköldsvik",
+  "country": "SE",
+  "lat": 63.4083,
+  "lng": 18.99,
+  "type": "medium_airport"
+ },
+ "KRN": {
+  "name": "Kiruna Airport",
+  "city": "Kiruna",
+  "country": "SE",
+  "lat": 67.822,
+  "lng": 20.3368,
+  "type": "large_airport"
+ },
+ "SFT": {
+  "name": "Skellefteå Airport",
+  "city": "Skellefteå",
+  "country": "SE",
+  "lat": 64.6248,
+  "lng": 21.0769,
+  "type": "medium_airport"
+ },
+ "UME": {
+  "name": "Umeå Airport",
+  "city": "Umeå",
+  "country": "SE",
+  "lat": 63.7918,
+  "lng": 20.2828,
+  "type": "large_airport"
+ },
+ "VHM": {
+  "name": "Vilhelmina South Lapland Airport",
+  "city": "Vilhelmina",
+  "country": "SE",
+  "lat": 64.5791,
+  "lng": 16.8336,
+  "type": "medium_airport"
+ },
+ "AJR": {
+  "name": "Arvidsjaur Airport",
+  "city": "Arvidsjaur",
+  "country": "SE",
+  "lat": 65.5903,
+  "lng": 19.2819,
+  "type": "medium_airport"
+ },
+ "OSD": {
+  "name": "Åre Östersund Airport",
+  "city": "Östersund",
+  "country": "SE",
+  "lat": 63.1935,
+  "lng": 14.5042,
+  "type": "medium_airport"
+ },
+ "ORB": {
+  "name": "Örebro Airport",
+  "city": "Örebro",
+  "country": "SE",
+  "lat": 59.2237,
+  "lng": 15.038,
+  "type": "medium_airport"
+ },
+ "HFS": {
+  "name": "Hagfors Airport",
+  "city": "Råda",
+  "country": "SE",
+  "lat": 60.0201,
+  "lng": 13.5789,
+  "type": "small_airport"
+ },
+ "KSD": {
+  "name": "Karlstad Airport",
+  "city": "Karlstad",
+  "country": "SE",
+  "lat": 59.4447,
+  "lng": 13.3374,
+  "type": "medium_airport"
+ },
+ "VST": {
+  "name": "Stockholm Västerås Airport",
+  "city": "Stockholm / Västerås",
+  "country": "SE",
+  "lat": 59.5894,
+  "lng": 16.6336,
+  "type": "large_airport"
+ },
+ "LLA": {
+  "name": "Luleå Airport",
+  "city": "Luleå",
+  "country": "SE",
+  "lat": 65.5438,
+  "lng": 22.122,
+  "type": "large_airport"
+ },
+ "ARN": {
+  "name": "Stockholm-Arlanda Airport",
+  "city": "Stockholm",
+  "country": "SE",
+  "lat": 59.6485,
+  "lng": 17.9288,
+  "type": "large_airport"
+ },
+ "BMA": {
+  "name": "Stockholm-Bromma Airport",
+  "city": "Stockholm",
+  "country": "SE",
+  "lat": 59.3544,
+  "lng": 17.9417,
+  "type": "medium_airport"
+ },
+ "BLE": {
+  "name": "Dala Airport",
+  "city": "Borlange",
+  "country": "SE",
+  "lat": 60.422,
+  "lng": 15.5152,
+  "type": "medium_airport"
+ },
+ "LPI": {
+  "name": "Linköping City Airport",
+  "city": "Linköping",
+  "country": "SE",
+  "lat": 58.4049,
+  "lng": 15.6845,
+  "type": "large_airport"
+ },
+ "NRK": {
+  "name": "Norrköping Airport",
+  "city": "Norrköping",
+  "country": "SE",
+  "lat": 58.5863,
+  "lng": 16.2506,
+  "type": "medium_airport"
+ },
+ "TYF": {
+  "name": "Torsby Airport",
+  "city": "Torsby",
+  "country": "SE",
+  "lat": 60.1576,
+  "lng": 12.9913,
+  "type": "medium_airport"
+ },
+ "VBY": {
+  "name": "Visby Airport",
+  "city": "Visby",
+  "country": "SE",
+  "lat": 57.6628,
+  "lng": 18.3462,
+  "type": "large_airport"
+ },
+ "AGH": {
+  "name": "Ängelholm-Helsingborg Airport",
+  "city": "Ängelholm",
+  "country": "SE",
+  "lat": 56.2961,
+  "lng": 12.8471,
+  "type": "medium_airport"
+ },
+ "PJA": {
+  "name": "Pajala Airport",
+  "city": "Pajala",
+  "country": "SE",
+  "lat": 67.2446,
+  "lng": 23.0749,
+  "type": "small_airport"
+ },
+ "HMV": {
+  "name": "Hemavan Airport",
+  "city": "Hemavan",
+  "country": "SE",
+  "lat": 65.8061,
+  "lng": 15.0828,
+  "type": "small_airport"
+ },
+ "FCN": {
+  "name": "Sea-Airport Cuxhaven/Nordholz / Nordholz Naval Airbase",
+  "city": "Wurster Nordseeküste",
+  "country": "DE",
+  "lat": 53.7677,
+  "lng": 8.6592,
+  "type": "medium_airport"
+ },
+ "RLG": {
+  "name": "Rostock-Laage Airport",
+  "city": "Laage",
+  "country": "DE",
+  "lat": 53.9182,
+  "lng": 12.2783,
+  "type": "medium_airport"
+ },
+ "RIX": {
+  "name": "Riga International Airport",
+  "city": "Riga",
+  "country": "LV",
+  "lat": 56.9208,
+  "lng": 23.9707,
+  "type": "large_airport"
+ },
+ "KUN": {
+  "name": "Kaunas International Airport",
+  "city": "Kaunas",
+  "country": "LT",
+  "lat": 54.964,
+  "lng": 24.0858,
+  "type": "large_airport"
+ },
+ "PLQ": {
+  "name": "Palanga International Airport",
+  "city": "Palanga",
+  "country": "LT",
+  "lat": 55.9732,
+  "lng": 21.0939,
+  "type": "large_airport"
+ },
+ "VNO": {
+  "name": "Vilnius International Airport",
+  "city": "Vilnius",
+  "country": "LT",
+  "lat": 54.6341,
+  "lng": 25.2858,
+  "type": "large_airport"
+ },
+ "FOA": {
+  "name": "Foula Airfield",
+  "city": "Foula",
+  "country": "GB",
+  "lat": 60.1219,
+  "lng": -2.0534,
+  "type": "small_airport"
+ },
+ "FUE": {
+  "name": "Fuerteventura Airport",
+  "city": "El Matorral",
+  "country": "ES",
+  "lat": 28.4527,
+  "lng": -13.8638,
+  "type": "large_airport"
+ },
+ "GMZ": {
+  "name": "La Gomera Airport",
+  "city": "Alajero, La Gomera Island",
+  "country": "ES",
+  "lat": 28.0296,
+  "lng": -17.2146,
+  "type": "small_airport"
+ },
+ "VDE": {
+  "name": "El Hierro Airport",
+  "city": "El Hierro Island",
+  "country": "ES",
+  "lat": 27.8148,
+  "lng": -17.8871,
+  "type": "medium_airport"
+ },
+ "SPC": {
+  "name": "La Palma Airport",
+  "city": "Sta Cruz de la Palma, La Palma Island",
+  "country": "ES",
+  "lat": 28.6265,
+  "lng": -17.7556,
+  "type": "medium_airport"
+ },
+ "LPA": {
+  "name": "Gran Canaria Airport",
+  "city": "Gran Canaria Island",
+  "country": "ES",
+  "lat": 27.9319,
+  "lng": -15.3866,
+  "type": "large_airport"
+ },
+ "ACE": {
+  "name": "César Manrique-Lanzarote Airport",
+  "city": "San Bartolomé",
+  "country": "ES",
+  "lat": 28.9455,
+  "lng": -13.6052,
+  "type": "large_airport"
+ },
+ "TFS": {
+  "name": "Tenerife Sur Airport",
+  "city": "Tenerife",
+  "country": "ES",
+  "lat": 28.0445,
+  "lng": -16.5725,
+  "type": "large_airport"
+ },
+ "TFN": {
+  "name": "Tenerife Norte-Ciudad de La Laguna Airport",
+  "city": "Tenerife",
+  "country": "ES",
+  "lat": 28.4828,
+  "lng": -16.3417,
+  "type": "large_airport"
+ },
+ "MLN": {
+  "name": "Melilla Airport",
+  "city": "Melilla",
+  "country": "ES",
+  "lat": 35.2798,
+  "lng": -2.9563,
+  "type": "medium_airport"
+ },
+ "TIA": {
+  "name": "Tirana International Airport Mother Teresa",
+  "city": "Rinas",
+  "country": "AL",
+  "lat": 41.4147,
+  "lng": 19.7206,
+  "type": "large_airport"
+ },
+ "BOJ": {
+  "name": "Burgas Airport",
+  "city": "Burgas",
+  "country": "BG",
+  "lat": 42.5699,
+  "lng": 27.5152,
+  "type": "large_airport"
+ },
+ "PDV": {
+  "name": "Plovdiv International Airport",
+  "city": "Plovdiv",
+  "country": "BG",
+  "lat": 42.0678,
+  "lng": 24.8508,
+  "type": "large_airport"
+ },
+ "SOF": {
+  "name": "Sofia Airport",
+  "city": "Sofia",
+  "country": "BG",
+  "lat": 42.6964,
+  "lng": 23.4177,
+  "type": "large_airport"
+ },
+ "VAR": {
+  "name": "Varna Airport",
+  "city": "Varna",
+  "country": "BG",
+  "lat": 43.2321,
+  "lng": 27.8251,
+  "type": "large_airport"
+ },
+ "ECN": {
+  "name": "Ercan International Airport",
+  "city": "Tymbou (Kirklar)",
+  "country": "CY",
+  "lat": 35.1531,
+  "lng": 33.5074,
+  "type": "large_airport"
+ },
+ "LCA": {
+  "name": "Larnaca International Airport",
+  "city": "Larnaca",
+  "country": "CY",
+  "lat": 34.8751,
+  "lng": 33.6249,
+  "type": "large_airport"
+ },
+ "PFO": {
+  "name": "Paphos International Airport",
+  "city": "Paphos",
+  "country": "CY",
+  "lat": 34.718,
+  "lng": 32.4857,
+  "type": "large_airport"
+ },
+ "DBV": {
+  "name": "Dubrovnik Ruđer Bošković Airport",
+  "city": "Dubrovnik",
+  "country": "HR",
+  "lat": 42.5622,
+  "lng": 18.2655,
+  "type": "large_airport"
+ },
+ "OSI": {
+  "name": "Osijek Airport",
+  "city": "Osijek(Klisa)",
+  "country": "HR",
+  "lat": 45.4624,
+  "lng": 18.8113,
+  "type": "medium_airport"
+ },
+ "PUY": {
+  "name": "Pula Airport",
+  "city": "Pula",
+  "country": "HR",
+  "lat": 44.8935,
+  "lng": 13.9222,
+  "type": "large_airport"
+ },
+ "RJK": {
+  "name": "Rijeka Airport",
+  "city": "Rijeka(Omišalj)",
+  "country": "HR",
+  "lat": 45.2164,
+  "lng": 14.5709,
+  "type": "large_airport"
+ },
+ "BWK": {
+  "name": "Brač Airport",
+  "city": "Gornji Humac",
+  "country": "HR",
+  "lat": 43.2845,
+  "lng": 16.6784,
+  "type": "medium_airport"
+ },
+ "SPU": {
+  "name": "Split Saint Jerome Airport",
+  "city": "Split",
+  "country": "HR",
+  "lat": 43.5389,
+  "lng": 16.298,
+  "type": "large_airport"
+ },
+ "ZAG": {
+  "name": "Zagreb Franjo Tuđman International Airport",
+  "city": "Velika Gorica",
+  "country": "HR",
+  "lat": 45.7429,
+  "lng": 16.0688,
+  "type": "large_airport"
+ },
+ "ZAD": {
+  "name": "Zadar Airport",
+  "city": "Zadar",
+  "country": "HR",
+  "lat": 44.097,
+  "lng": 15.3536,
+  "type": "large_airport"
+ },
+ "ALC": {
+  "name": "Alicante-Elche Miguel Hernández Airport",
+  "city": "Alicante",
+  "country": "ES",
+  "lat": 38.2822,
+  "lng": -0.5582,
+  "type": "large_airport"
+ },
+ "LEI": {
+  "name": "Almería Airport",
+  "city": "Almería",
+  "country": "ES",
+  "lat": 36.8439,
+  "lng": -2.3701,
+  "type": "medium_airport"
+ },
+ "OVD": {
+  "name": "Asturias Airport",
+  "city": "Ranón",
+  "country": "ES",
+  "lat": 43.5636,
+  "lng": -6.0346,
+  "type": "large_airport"
+ },
+ "ODB": {
+  "name": "Córdoba Airport",
+  "city": "Córdoba",
+  "country": "ES",
+  "lat": 37.842,
+  "lng": -4.8489,
+  "type": "medium_airport"
+ },
+ "BIO": {
+  "name": "Bilbao Airport",
+  "city": "Bilbao",
+  "country": "ES",
+  "lat": 43.3011,
+  "lng": -2.9106,
+  "type": "large_airport"
+ },
+ "BCN": {
+  "name": "Josep Tarradellas Barcelona-El Prat Airport",
+  "city": "Barcelona",
+  "country": "ES",
+  "lat": 41.2971,
+  "lng": 2.0785,
+  "type": "large_airport"
+ },
+ "BJZ": {
+  "name": "Badajoz Airport",
+  "city": "Badajoz",
+  "country": "ES",
+  "lat": 38.8913,
+  "lng": -6.8213,
+  "type": "medium_airport"
+ },
+ "CDT": {
+  "name": "Castellón-Costa Azahar Airport",
+  "city": "Castellón de la Plana",
+  "country": "ES",
+  "lat": 40.2139,
+  "lng": 0.0733,
+  "type": "medium_airport"
+ },
+ "LCG": {
+  "name": "A Coruña Airport",
+  "city": "Culleredo",
+  "country": "ES",
+  "lat": 43.3021,
+  "lng": -8.3773,
+  "type": "medium_airport"
+ },
+ "ILD": {
+  "name": "Lleida-Alguaire Airport",
+  "city": "Lleida",
+  "country": "ES",
+  "lat": 41.7282,
+  "lng": 0.535,
+  "type": "medium_airport"
+ },
+ "GRO": {
+  "name": "Girona-Costa Brava Airport",
+  "city": "Girona",
+  "country": "ES",
+  "lat": 41.9046,
+  "lng": 2.7618,
+  "type": "large_airport"
+ },
+ "GRX": {
+  "name": "F.G.L. Airport Granada-Jaén Airport",
+  "city": "Granada",
+  "country": "ES",
+  "lat": 37.1887,
+  "lng": -3.7774,
+  "type": "medium_airport"
+ },
+ "IBZ": {
+  "name": "Ibiza Airport",
+  "city": "Ibiza (Eivissa)",
+  "country": "ES",
+  "lat": 38.8729,
+  "lng": 1.3731,
+  "type": "large_airport"
+ },
+ "XRY": {
+  "name": "Jerez Airport",
+  "city": "Jerez de la Frontera",
+  "country": "ES",
+  "lat": 36.7446,
+  "lng": -6.0601,
+  "type": "medium_airport"
+ },
+ "LEN": {
+  "name": "León Airport",
+  "city": "La Virgen del Camino",
+  "country": "ES",
+  "lat": 42.5907,
+  "lng": -5.6534,
+  "type": "medium_airport"
+ },
+ "RJL": {
+  "name": "Logroño-Agoncillo Airport",
+  "city": "Logroño",
+  "country": "ES",
+  "lat": 42.461,
+  "lng": -2.3222,
+  "type": "medium_airport"
+ },
+ "MAD": {
+  "name": "Adolfo Suárez Madrid–Barajas Airport",
+  "city": "Madrid",
+  "country": "ES",
+  "lat": 40.4934,
+  "lng": -3.5722,
+  "type": "large_airport"
+ },
+ "AGP": {
+  "name": "Málaga-Costa del Sol Airport",
+  "city": "Málaga",
+  "country": "ES",
+  "lat": 36.6749,
+  "lng": -4.4991,
+  "type": "large_airport"
+ },
+ "MAH": {
+  "name": "Menorca Airport",
+  "city": "Mahón (Maó)",
+  "country": "ES",
+  "lat": 39.8626,
+  "lng": 4.2187,
+  "type": "large_airport"
+ },
+ "RMU": {
+  "name": "Region of Murcia International Airport",
+  "city": "Corvera",
+  "country": "ES",
+  "lat": 37.8029,
+  "lng": -1.1249,
+  "type": "large_airport"
+ },
+ "PMI": {
+  "name": "Palma de Mallorca Airport",
+  "city": "Palma de Mallorca",
+  "country": "ES",
+  "lat": 39.5517,
+  "lng": 2.7388,
+  "type": "large_airport"
+ },
+ "PNA": {
+  "name": "Pamplona Airport",
+  "city": "Pamplona",
+  "country": "ES",
+  "lat": 42.77,
+  "lng": -1.6463,
+  "type": "medium_airport"
+ },
+ "REU": {
+  "name": "Reus Airport",
+  "city": "Reus",
+  "country": "ES",
+  "lat": 41.1475,
+  "lng": 1.1684,
+  "type": "large_airport"
+ },
+ "SLM": {
+  "name": "Salamanca Airport",
+  "city": "Salamanca",
+  "country": "ES",
+  "lat": 40.9521,
+  "lng": -5.502,
+  "type": "medium_airport"
+ },
+ "EAS": {
+  "name": "San Sebastián Airport",
+  "city": "Hondarribia",
+  "country": "ES",
+  "lat": 43.3565,
+  "lng": -1.7906,
+  "type": "medium_airport"
+ },
+ "SCQ": {
+  "name": "Santiago-Rosalía de Castro Airport",
+  "city": "Santiago de Compostela",
+  "country": "ES",
+  "lat": 42.8963,
+  "lng": -8.4151,
+  "type": "large_airport"
+ },
+ "LEU": {
+  "name": "Pirineus - la Seu d'Urgel Airport",
+  "city": "La Seu d'Urgell Pyrenees and Andorra",
+  "country": "ES",
+  "lat": 42.3386,
+  "lng": 1.4092,
+  "type": "medium_airport"
+ },
+ "VLC": {
+  "name": "Valencia Airport",
+  "city": "Valencia",
+  "country": "ES",
+  "lat": 39.4892,
+  "lng": -0.481,
+  "type": "large_airport"
+ },
+ "VLL": {
+  "name": "Valladolid Airport",
+  "city": "Valladolid",
+  "country": "ES",
+  "lat": 41.7061,
+  "lng": -4.8519,
+  "type": "medium_airport"
+ },
+ "VIT": {
+  "name": "Vitoria Airport",
+  "city": "Alava",
+  "country": "ES",
+  "lat": 42.8828,
+  "lng": -2.7245,
+  "type": "medium_airport"
+ },
+ "VGO": {
+  "name": "Vigo Airport",
+  "city": "Vigo",
+  "country": "ES",
+  "lat": 42.2318,
+  "lng": -8.6268,
+  "type": "medium_airport"
+ },
+ "SDR": {
+  "name": "Seve Ballesteros-Santander Airport",
+  "city": "Santander",
+  "country": "ES",
+  "lat": 43.4271,
+  "lng": -3.82,
+  "type": "medium_airport"
+ },
+ "ZAZ": {
+  "name": "Zaragoza Airport",
+  "city": "Zaragoza",
+  "country": "ES",
+  "lat": 41.6662,
+  "lng": -1.0415,
+  "type": "large_airport"
+ },
+ "SVQ": {
+  "name": "Seville Airport",
+  "city": "Seville",
+  "country": "ES",
+  "lat": 37.418,
+  "lng": -5.8931,
+  "type": "large_airport"
+ },
+ "BOD": {
+  "name": "Bordeaux–Mérignac Airport",
+  "city": "Bordeaux",
+  "country": "FR",
+  "lat": 44.8287,
+  "lng": -0.7154,
+  "type": "large_airport"
+ },
+ "EGC": {
+  "name": "Bergerac Dordogne-Périgord airport",
+  "city": "Bergerac",
+  "country": "FR",
+  "lat": 44.8253,
+  "lng": 0.5186,
+  "type": "medium_airport"
+ },
+ "LRH": {
+  "name": "La Rochelle Île de Ré Airport",
+  "city": "La Rochelle",
+  "country": "FR",
+  "lat": 46.1792,
+  "lng": -1.1953,
+  "type": "medium_airport"
+ },
+ "PIS": {
+  "name": "Poitiers-Biard Airport",
+  "city": "Poitiers/Biard",
+  "country": "FR",
+  "lat": 46.5877,
+  "lng": 0.3067,
+  "type": "medium_airport"
+ },
+ "LIG": {
+  "name": "Limoges Airport",
+  "city": "Limoges/Bellegarde",
+  "country": "FR",
+  "lat": 45.8628,
+  "lng": 1.1794,
+  "type": "medium_airport"
+ },
+ "TLS": {
+  "name": "Toulouse-Blagnac Airport",
+  "city": "Toulouse/Blagnac",
+  "country": "FR",
+  "lat": 43.6291,
+  "lng": 1.3638,
+  "type": "large_airport"
+ },
+ "PUF": {
+  "name": "Pau Pyrénées Airport",
+  "city": "Pau/Pyrénées (Uzein)",
+  "country": "FR",
+  "lat": 43.38,
+  "lng": -0.4186,
+  "type": "medium_airport"
+ },
+ "LDE": {
+  "name": "Tarbes-Lourdes-Pyrénées Airport",
+  "city": "Tarbes/Lourdes/Pyrénées",
+  "country": "FR",
+  "lat": 43.1787,
+  "lng": -0.0064,
+  "type": "medium_airport"
+ },
+ "BIQ": {
+  "name": "Biarritz Pays Basque airport",
+  "city": "Biarritz",
+  "country": "FR",
+  "lat": 43.4684,
+  "lng": -1.5232,
+  "type": "medium_airport"
+ },
+ "DCM": {
+  "name": "Castres Mazamet Airport",
+  "city": "Castres",
+  "country": "FR",
+  "lat": 43.5563,
+  "lng": 2.2892,
+  "type": "medium_airport"
+ },
+ "RDZ": {
+  "name": "Rodez–Aveyron Airport",
+  "city": "Rodez/Marcillac",
+  "country": "FR",
+  "lat": 44.4079,
+  "lng": 2.4827,
+  "type": "medium_airport"
+ },
+ "OUI": {
+  "name": "Ouessant Airport",
+  "city": "Ushant",
+  "country": "FR",
+  "lat": 48.4632,
+  "lng": -5.0636,
+  "type": "small_airport"
+ },
+ "DLE": {
+  "name": "Dole Tavaux Airport",
+  "city": "Dole",
+  "country": "FR",
+  "lat": 47.039,
+  "lng": 5.4276,
+  "type": "medium_airport"
+ },
+ "LPY": {
+  "name": "Le Puy-Loudes Airfield",
+  "city": "Chaspuzac, Haute-Loire",
+  "country": "FR",
+  "lat": 45.0807,
+  "lng": 3.7629,
+  "type": "small_airport"
+ },
+ "ETZ": {
+  "name": "Metz-Nancy-Lorraine Airport",
+  "city": "Goin",
+  "country": "FR",
+  "lat": 48.9821,
+  "lng": 6.2513,
+  "type": "medium_airport"
+ },
+ "BIA": {
+  "name": "Bastia-Poretta International airport",
+  "city": "Bastia",
+  "country": "FR",
+  "lat": 42.5527,
+  "lng": 9.4837,
+  "type": "large_airport"
+ },
+ "CLY": {
+  "name": "Calvi Sainte Catherine Airport",
+  "city": "Calvi",
+  "country": "FR",
+  "lat": 42.5304,
+  "lng": 8.793,
+  "type": "medium_airport"
+ },
+ "FSC": {
+  "name": "Figari Sud-Corse Airport",
+  "city": "Figari",
+  "country": "FR",
+  "lat": 41.5018,
+  "lng": 9.0971,
+  "type": "large_airport"
+ },
+ "AJA": {
+  "name": "Ajaccio Napoléon Bonaparte airport",
+  "city": "Ajaccio",
+  "country": "FR",
+  "lat": 41.9236,
+  "lng": 8.8029,
+  "type": "medium_airport"
+ },
+ "CMF": {
+  "name": "Chambéry Aix les Bains airport",
+  "city": "Chambéry",
+  "country": "FR",
+  "lat": 45.6381,
+  "lng": 5.8802,
+  "type": "medium_airport"
+ },
+ "CFE": {
+  "name": "Clermont-Ferrand Auvergne airport",
+  "city": "Clermont-Ferrand",
+  "country": "FR",
+  "lat": 45.7867,
+  "lng": 3.1692,
+  "type": "large_airport"
+ },
+ "LYS": {
+  "name": "Lyon Saint-Exupéry Airport",
+  "city": "Colombier-Saugnieu, Rhône",
+  "country": "FR",
+  "lat": 45.726,
+  "lng": 5.0901,
+  "type": "large_airport"
+ },
+ "NCY": {
+  "name": "Annecy Meythet airport",
+  "city": "Annecy",
+  "country": "FR",
+  "lat": 45.9289,
+  "lng": 6.0987,
+  "type": "medium_airport"
+ },
+ "GNB": {
+  "name": "Grenoble Alpes Isère Airport",
+  "city": "Grenoble",
+  "country": "FR",
+  "lat": 45.3629,
+  "lng": 5.3294,
+  "type": "medium_airport"
+ },
+ "AUR": {
+  "name": "Aurillac airport",
+  "city": "Aurillac",
+  "country": "FR",
+  "lat": 44.8914,
+  "lng": 2.4219,
+  "type": "medium_airport"
+ },
+ "CCF": {
+  "name": "Carcassonne Salvaza Airport",
+  "city": "Carcassonne",
+  "country": "FR",
+  "lat": 43.216,
+  "lng": 2.3063,
+  "type": "medium_airport"
+ },
+ "MRS": {
+  "name": "Marseille Provence Airport",
+  "city": "Marignane, Bouches-du-Rhône",
+  "country": "FR",
+  "lat": 43.4381,
+  "lng": 5.2125,
+  "type": "large_airport"
+ },
+ "NCE": {
+  "name": "Nice-Côte d'Azur Airport",
+  "city": "Nice, Alpes-Maritimes",
+  "country": "FR",
+  "lat": 43.6584,
+  "lng": 7.2159,
+  "type": "large_airport"
+ },
+ "PGF": {
+  "name": "Perpignan-Rivesaltes (Llabanère) Airport",
+  "city": "Perpignan/Rivesaltes",
+  "country": "FR",
+  "lat": 42.7404,
+  "lng": 2.8707,
+  "type": "medium_airport"
+ },
+ "MPL": {
+  "name": "Montpellier-Méditerranée Airport",
+  "city": "Montpellier/Méditerranée",
+  "country": "FR",
+  "lat": 43.5762,
+  "lng": 3.963,
+  "type": "large_airport"
+ },
+ "BZR": {
+  "name": "Béziers Vias airport",
+  "city": "Béziers",
+  "country": "FR",
+  "lat": 43.3235,
+  "lng": 3.3539,
+  "type": "medium_airport"
+ },
+ "AVN": {
+  "name": "Avignon Caumont airport",
+  "city": "Avignon",
+  "country": "FR",
+  "lat": 43.9073,
+  "lng": 4.9018,
+  "type": "medium_airport"
+ },
+ "BVA": {
+  "name": "Beauvais-Tillé airport",
+  "city": "Beauvais",
+  "country": "FR",
+  "lat": 49.4544,
+  "lng": 2.1128,
+  "type": "large_airport"
+ },
+ "XCR": {
+  "name": "Chalons Vatry airport",
+  "city": "Chalons en Champagne",
+  "country": "FR",
+  "lat": 48.7733,
+  "lng": 4.2061,
+  "type": "medium_airport"
+ },
+ "TUF": {
+  "name": "Tours Val de Loire Airport",
+  "city": "Tours, Indre-et-Loire",
+  "country": "FR",
+  "lat": 47.4322,
+  "lng": 0.7276,
+  "type": "medium_airport"
+ },
+ "CDG": {
+  "name": "Charles de Gaulle International Airport",
+  "city": "Paris (Roissy-en-France, Val-d'Oise)",
+  "country": "FR",
+  "lat": 49.009,
+  "lng": 2.5541,
+  "type": "large_airport"
+ },
+ "ORY": {
+  "name": "Paris-Orly Airport",
+  "city": "Paris (Orly, Val-de-Marne)",
+  "country": "FR",
+  "lat": 48.7295,
+  "lng": 2.359,
+  "type": "large_airport"
+ },
+ "LIL": {
+  "name": "Lille Airport",
+  "city": "Lesquin",
+  "country": "FR",
+  "lat": 50.5666,
+  "lng": 3.1024,
+  "type": "large_airport"
+ },
+ "BES": {
+  "name": "Brest Bretagne airport",
+  "city": "Brest",
+  "country": "FR",
+  "lat": 48.4479,
+  "lng": -4.4185,
+  "type": "large_airport"
+ },
+ "DOL": {
+  "name": "Deauville Normandie airport",
+  "city": "Deauville",
+  "country": "FR",
+  "lat": 49.3652,
+  "lng": 0.1545,
+  "type": "medium_airport"
+ },
+ "CFR": {
+  "name": "Caen Carpiquet airport",
+  "city": "Caen",
+  "country": "FR",
+  "lat": 49.1768,
+  "lng": -0.4549,
+  "type": "medium_airport"
+ },
+ "RNS": {
+  "name": "Rennes-Saint-Jacques Airport",
+  "city": "Saint-Jacques-de-la-Lande, Ille-et-Vilaine",
+  "country": "FR",
+  "lat": 48.0695,
+  "lng": -1.7348,
+  "type": "medium_airport"
+ },
+ "NTE": {
+  "name": "Nantes Atlantique Airport",
+  "city": "Nantes",
+  "country": "FR",
+  "lat": 47.1532,
+  "lng": -1.6107,
+  "type": "large_airport"
+ },
+ "BSL": {
+  "name": "EuroAirport Basel–Mulhouse–Freiburg",
+  "city": "Bâle / Mulhouse",
+  "country": "FR",
+  "lat": 47.6007,
+  "lng": 7.5211,
+  "type": "large_airport"
+ },
+ "BVE": {
+  "name": "Brive Souillac airport",
+  "city": "Brive",
+  "country": "FR",
+  "lat": 45.0397,
+  "lng": 1.4856,
+  "type": "medium_airport"
+ },
+ "SXB": {
+  "name": "Strasbourg Airport",
+  "city": "Strasbourg",
+  "country": "FR",
+  "lat": 48.5383,
+  "lng": 7.6282,
+  "type": "large_airport"
+ },
+ "TLN": {
+  "name": "Toulon-Hyères Airport",
+  "city": "Hyères, Var",
+  "country": "FR",
+  "lat": 43.0973,
+  "lng": 6.146,
+  "type": "medium_airport"
+ },
+ "FNI": {
+  "name": "Nîmes-Arles-Camargue Airport",
+  "city": "Nîmes/Garons",
+  "country": "FR",
+  "lat": 43.7574,
+  "lng": 4.4164,
+  "type": "medium_airport"
+ },
+ "LTT": {
+  "name": "La Môle Airport",
+  "city": "Saint-Tropez",
+  "country": "FR",
+  "lat": 43.2054,
+  "lng": 6.482,
+  "type": "small_airport"
+ },
+ "AXD": {
+  "name": "Alexandroupoli Democritus Airport",
+  "city": "Alexandroupolis",
+  "country": "GR",
+  "lat": 40.8559,
+  "lng": 25.9563,
+  "type": "medium_airport"
+ },
+ "ATH": {
+  "name": "Athens Eleftherios Venizelos International Airport",
+  "city": "Spata-Artemida",
+  "country": "GR",
+  "lat": 37.9364,
+  "lng": 23.9445,
+  "type": "large_airport"
+ },
+ "VOL": {
+  "name": "Nea Anchialos National Airport",
+  "city": "Nea Anchialos",
+  "country": "GR",
+  "lat": 39.2196,
+  "lng": 22.7943,
+  "type": "medium_airport"
+ },
+ "JKH": {
+  "name": "Chios Island National Airport",
+  "city": "Chios Island",
+  "country": "GR",
+  "lat": 38.3432,
+  "lng": 26.1406,
+  "type": "medium_airport"
+ },
+ "JIK": {
+  "name": "Ikaria Airport",
+  "city": "Ikaria Island",
+  "country": "GR",
+  "lat": 37.6827,
+  "lng": 26.3471,
+  "type": "small_airport"
+ },
+ "IOA": {
+  "name": "Ioannina King Pyrrhus National Airport",
+  "city": "Ioannina",
+  "country": "GR",
+  "lat": 39.6964,
+  "lng": 20.8225,
+  "type": "medium_airport"
+ },
+ "HER": {
+  "name": "Heraklion International Nikos Kazantzakis Airport",
+  "city": "Heraklion",
+  "country": "GR",
+  "lat": 35.3397,
+  "lng": 25.1803,
+  "type": "large_airport"
+ },
+ "KSO": {
+  "name": "Kastoria National Airport Aristotle",
+  "city": "Argos Orestiko",
+  "country": "GR",
+  "lat": 40.4463,
+  "lng": 21.2822,
+  "type": "small_airport"
+ },
+ "KIT": {
+  "name": "Kithira Airport",
+  "city": "Kithira Island",
+  "country": "GR",
+  "lat": 36.274,
+  "lng": 23.0167,
+  "type": "small_airport"
+ },
+ "EFL": {
+  "name": "Kefallinia Airport",
+  "city": "Kefallinia Island",
+  "country": "GR",
+  "lat": 38.1201,
+  "lng": 20.5005,
+  "type": "medium_airport"
+ },
+ "KLX": {
+  "name": "Kalamata Airport",
+  "city": "Kalamata",
+  "country": "GR",
+  "lat": 37.0683,
+  "lng": 22.0255,
+  "type": "medium_airport"
+ },
+ "AOK": {
+  "name": "Karpathos Airport",
+  "city": "Karpathos Island",
+  "country": "GR",
+  "lat": 35.4214,
+  "lng": 27.146,
+  "type": "medium_airport"
+ },
+ "CFU": {
+  "name": "Corfu Ioannis Kapodistrias International Airport",
+  "city": "Kerkyra (Corfu)",
+  "country": "GR",
+  "lat": 39.6014,
+  "lng": 19.9122,
+  "type": "large_airport"
+ },
+ "KSJ": {
+  "name": "Kasos Airport",
+  "city": "Kasos Island",
+  "country": "GR",
+  "lat": 35.4214,
+  "lng": 26.91,
+  "type": "small_airport"
+ },
+ "KVA": {
+  "name": "Kavala Alexander the Great International Airport",
+  "city": "Kavala",
+  "country": "GR",
+  "lat": 40.9133,
+  "lng": 24.6192,
+  "type": "large_airport"
+ },
+ "JKL": {
+  "name": "Kalymnos Airport",
+  "city": "Kalymnos Island",
+  "country": "GR",
+  "lat": 36.9633,
+  "lng": 26.9406,
+  "type": "small_airport"
+ },
+ "KZI": {
+  "name": "Kozani National Airport Filippos",
+  "city": "Kozani",
+  "country": "GR",
+  "lat": 40.2861,
+  "lng": 21.8408,
+  "type": "medium_airport"
+ },
+ "LRS": {
+  "name": "Leros Airport",
+  "city": "Leros Island",
+  "country": "GR",
+  "lat": 37.1849,
+  "lng": 26.8003,
+  "type": "small_airport"
+ },
+ "LXS": {
+  "name": "Limnos Airport",
+  "city": "Limnos Island",
+  "country": "GR",
+  "lat": 39.9171,
+  "lng": 25.2363,
+  "type": "small_airport"
+ },
+ "JMK": {
+  "name": "Mykonos Island National Airport",
+  "city": "Mykonos",
+  "country": "GR",
+  "lat": 37.4351,
+  "lng": 25.3481,
+  "type": "medium_airport"
+ },
+ "MLO": {
+  "name": "Milos Airport",
+  "city": "Milos Island",
+  "country": "GR",
+  "lat": 36.6969,
+  "lng": 24.4769,
+  "type": "small_airport"
+ },
+ "MJT": {
+  "name": "Mytilene International Airport",
+  "city": "Mytilene",
+  "country": "GR",
+  "lat": 39.0574,
+  "lng": 26.5986,
+  "type": "medium_airport"
+ },
+ "JNX": {
+  "name": "Naxos Island National Airport",
+  "city": "Naxos",
+  "country": "GR",
+  "lat": 37.0811,
+  "lng": 25.3681,
+  "type": "small_airport"
+ },
+ "PAS": {
+  "name": "Paros National Airport",
+  "city": "Paros",
+  "country": "GR",
+  "lat": 37.0205,
+  "lng": 25.1132,
+  "type": "small_airport"
+ },
+ "JTY": {
+  "name": "Astypalaia Airport",
+  "city": "Astypalaia Island",
+  "country": "GR",
+  "lat": 36.5799,
+  "lng": 26.3758,
+  "type": "small_airport"
+ },
+ "PVK": {
+  "name": "Aktion National Airport",
+  "city": "Preveza",
+  "country": "GR",
+  "lat": 38.9255,
+  "lng": 20.7653,
+  "type": "medium_airport"
+ },
+ "GPA": {
+  "name": "Patras Araxos Agamemnon Airport",
+  "city": "Patras",
+  "country": "GR",
+  "lat": 38.1511,
+  "lng": 21.4256,
+  "type": "medium_airport"
+ },
+ "CHQ": {
+  "name": "Chania International Airport",
+  "city": "Souda",
+  "country": "GR",
+  "lat": 35.5312,
+  "lng": 24.1507,
+  "type": "large_airport"
+ },
+ "JSI": {
+  "name": "Skiathos Island National Airport",
+  "city": "Skiathos",
+  "country": "GR",
+  "lat": 39.1771,
+  "lng": 23.5037,
+  "type": "medium_airport"
+ },
+ "SMI": {
+  "name": "Samos Airport",
+  "city": "Samos Island",
+  "country": "GR",
+  "lat": 37.69,
+  "lng": 26.9117,
+  "type": "medium_airport"
+ },
+ "JSY": {
+  "name": "Syros Airport",
+  "city": "Syros Island",
+  "country": "GR",
+  "lat": 37.4228,
+  "lng": 24.9509,
+  "type": "small_airport"
+ },
+ "JTR": {
+  "name": "Santorini International Airport",
+  "city": "Santorini Island",
+  "country": "GR",
+  "lat": 36.4,
+  "lng": 25.4786,
+  "type": "large_airport"
+ },
+ "JSH": {
+  "name": "Sitia Airport",
+  "city": "Crete Island",
+  "country": "GR",
+  "lat": 35.2161,
+  "lng": 26.1013,
+  "type": "medium_airport"
+ },
+ "SKU": {
+  "name": "Skiros Airport",
+  "city": "Skiros Island",
+  "country": "GR",
+  "lat": 38.9676,
+  "lng": 24.4872,
+  "type": "small_airport"
+ },
+ "SKG": {
+  "name": "Thessaloniki Macedonia International Airport",
+  "city": "Thessaloniki",
+  "country": "GR",
+  "lat": 40.5193,
+  "lng": 22.97,
+  "type": "large_airport"
+ },
+ "ZTH": {
+  "name": "Zakynthos International Airport Dionysios Solomos",
+  "city": "Zakynthos",
+  "country": "GR",
+  "lat": 37.7509,
+  "lng": 20.8843,
+  "type": "medium_airport"
+ },
+ "BUD": {
+  "name": "Budapest Liszt Ferenc International Airport",
+  "city": "Budapest",
+  "country": "HU",
+  "lat": 47.4302,
+  "lng": 19.2624,
+  "type": "large_airport"
+ },
+ "DEB": {
+  "name": "Debrecen International Airport",
+  "city": "Debrecen",
+  "country": "HU",
+  "lat": 47.4895,
+  "lng": 21.6163,
+  "type": "large_airport"
+ },
+ "PEV": {
+  "name": "Pécs-Pogány International Airport",
+  "city": "Pécs",
+  "country": "HU",
+  "lat": 45.9889,
+  "lng": 18.242,
+  "type": "large_airport"
+ },
+ "SOB": {
+  "name": "Hévíz–Balaton Airport",
+  "city": "Sármellék",
+  "country": "HU",
+  "lat": 46.6864,
+  "lng": 17.1591,
+  "type": "medium_airport"
+ },
+ "CRV": {
+  "name": "Crotone Sant'Anna Pythagoras Airport",
+  "city": "Isola di Capo Rizzuto (KR)",
+  "country": "IT",
+  "lat": 38.9972,
+  "lng": 17.0802,
+  "type": "medium_airport"
+ },
+ "BRI": {
+  "name": "Bari Karol Wojtyła International Airport",
+  "city": "Bari",
+  "country": "IT",
+  "lat": 41.1389,
+  "lng": 16.7606,
+  "type": "large_airport"
+ },
+ "FOG": {
+  "name": "Foggia Gino Lisa Airport",
+  "city": "Foggia (FG)",
+  "country": "IT",
+  "lat": 41.4336,
+  "lng": 15.5346,
+  "type": "medium_airport"
+ },
+ "PSR": {
+  "name": "Abruzzo Airport",
+  "city": "Pescara",
+  "country": "IT",
+  "lat": 42.4311,
+  "lng": 14.183,
+  "type": "large_airport"
+ },
+ "BDS": {
+  "name": "Brindisi Airport",
+  "city": "Brindisi",
+  "country": "IT",
+  "lat": 40.6576,
+  "lng": 17.947,
+  "type": "large_airport"
+ },
+ "SUF": {
+  "name": "Lamezia Terme Sant'Eufemia International Airport",
+  "city": "Lamezia Terme (CZ)",
+  "country": "IT",
+  "lat": 38.9062,
+  "lng": 16.246,
+  "type": "large_airport"
+ },
+ "CIY": {
+  "name": "Comiso Airport",
+  "city": "Comiso",
+  "country": "IT",
+  "lat": 36.9958,
+  "lng": 14.6089,
+  "type": "medium_airport"
+ },
+ "CTA": {
+  "name": "Catania-Fontanarossa Airport",
+  "city": "Catania",
+  "country": "IT",
+  "lat": 37.4668,
+  "lng": 15.0664,
+  "type": "large_airport"
+ },
+ "LMP": {
+  "name": "Lampedusa Airport",
+  "city": "Lampedusa",
+  "country": "IT",
+  "lat": 35.4979,
+  "lng": 12.6181,
+  "type": "medium_airport"
+ },
+ "PNL": {
+  "name": "Pantelleria Airport",
+  "city": "Pantelleria (TP)",
+  "country": "IT",
+  "lat": 36.8165,
+  "lng": 11.9689,
+  "type": "medium_airport"
+ },
+ "PMO": {
+  "name": "Falcone–Borsellino Airport",
+  "city": "Palermo",
+  "country": "IT",
+  "lat": 38.176,
+  "lng": 13.091,
+  "type": "large_airport"
+ },
+ "REG": {
+  "name": "Reggio Calabria Airport",
+  "city": "Reggio Calabria",
+  "country": "IT",
+  "lat": 38.0712,
+  "lng": 15.6516,
+  "type": "medium_airport"
+ },
+ "TPS": {
+  "name": "Vincenzo Florio Airport Trapani-Birgi",
+  "city": "Trapani (TP)",
+  "country": "IT",
+  "lat": 37.9114,
+  "lng": 12.488,
+  "type": "medium_airport"
+ },
+ "AHO": {
+  "name": "Alghero-Fertilia Airport",
+  "city": "Alghero",
+  "country": "IT",
+  "lat": 40.6321,
+  "lng": 8.2908,
+  "type": "medium_airport"
+ },
+ "CAG": {
+  "name": "Cagliari Elmas Airport",
+  "city": "Cagliari",
+  "country": "IT",
+  "lat": 39.2515,
+  "lng": 9.0543,
+  "type": "large_airport"
+ },
+ "OLB": {
+  "name": "Olbia Costa Smeralda Airport",
+  "city": "Olbia (SS)",
+  "country": "IT",
+  "lat": 40.899,
+  "lng": 9.5185,
+  "type": "large_airport"
+ },
+ "MXP": {
+  "name": "Milan Malpensa International Airport",
+  "city": "Ferno (VA)",
+  "country": "IT",
+  "lat": 45.6306,
+  "lng": 8.7281,
+  "type": "large_airport"
+ },
+ "BGY": {
+  "name": "Il Caravaggio International Airport",
+  "city": "Orio al Serio (BG)",
+  "country": "IT",
+  "lat": 45.6694,
+  "lng": 9.7089,
+  "type": "large_airport"
+ },
+ "TRN": {
+  "name": "Turin Airport",
+  "city": "Caselle Torinese (TO)",
+  "country": "IT",
+  "lat": 45.2008,
+  "lng": 7.6496,
+  "type": "large_airport"
+ },
+ "GOA": {
+  "name": "Genoa Cristoforo Colombo Airport",
+  "city": "Genova (GE)",
+  "country": "IT",
+  "lat": 44.412,
+  "lng": 8.8407,
+  "type": "large_airport"
+ },
+ "LIN": {
+  "name": "Milano Linate Airport",
+  "city": "Segrate (MI)",
+  "country": "IT",
+  "lat": 45.4451,
+  "lng": 9.2767,
+  "type": "large_airport"
+ },
+ "PMF": {
+  "name": "Parma Airport",
+  "city": "Parma (PR)",
+  "country": "IT",
+  "lat": 44.8264,
+  "lng": 10.2971,
+  "type": "medium_airport"
+ },
+ "CUF": {
+  "name": "Cuneo International Airport",
+  "city": "Levaldigi (CN)",
+  "country": "IT",
+  "lat": 44.5475,
+  "lng": 7.623,
+  "type": "medium_airport"
+ },
+ "BZO": {
+  "name": "Bolzano Airport",
+  "city": "Bolzano (BZ)",
+  "country": "IT",
+  "lat": 46.4592,
+  "lng": 11.3261,
+  "type": "medium_airport"
+ },
+ "BLQ": {
+  "name": "Bologna Guglielmo Marconi Airport",
+  "city": "Bologna",
+  "country": "IT",
+  "lat": 44.5354,
+  "lng": 11.2887,
+  "type": "large_airport"
+ },
+ "TSF": {
+  "name": "Treviso Airport",
+  "city": "Treviso (TV)",
+  "country": "IT",
+  "lat": 45.6484,
+  "lng": 12.1944,
+  "type": "large_airport"
+ },
+ "FRL": {
+  "name": "Forlì-Luigi Ridolfi International Airport",
+  "city": "Forlì (FC)",
+  "country": "IT",
+  "lat": 44.1948,
+  "lng": 12.0701,
+  "type": "medium_airport"
+ },
+ "VBS": {
+  "name": "Brescia Gabriele d'Annunzio Airport",
+  "city": "Montichiari (BS)",
+  "country": "IT",
+  "lat": 45.4289,
+  "lng": 10.3306,
+  "type": "medium_airport"
+ },
+ "TRS": {
+  "name": "Trieste Airport",
+  "city": "Ronchi dei Legionari/Trieste",
+  "country": "IT",
+  "lat": 45.8279,
+  "lng": 13.4667,
+  "type": "large_airport"
+ },
+ "RMI": {
+  "name": "Federico Fellini International Airport",
+  "city": "Rimini (RN)",
+  "country": "IT",
+  "lat": 44.02,
+  "lng": 12.6122,
+  "type": "large_airport"
+ },
+ "VRN": {
+  "name": "Verona Villafranca Valerio Catullo Airport",
+  "city": "Caselle (VR)",
+  "country": "IT",
+  "lat": 45.395,
+  "lng": 10.8873,
+  "type": "large_airport"
+ },
+ "AOI": {
+  "name": "Marche Airport",
+  "city": "Falconara Marittima (AN)",
+  "country": "IT",
+  "lat": 43.6163,
+  "lng": 13.3623,
+  "type": "medium_airport"
+ },
+ "VCE": {
+  "name": "Venice Marco Polo Airport",
+  "city": "Venezia (VE)",
+  "country": "IT",
+  "lat": 45.5053,
+  "lng": 12.3519,
+  "type": "large_airport"
+ },
+ "CIA": {
+  "name": "Ciampino–G. B. Pastine International Airport",
+  "city": "Rome",
+  "country": "IT",
+  "lat": 41.7988,
+  "lng": 12.5953,
+  "type": "large_airport"
+ },
+ "FCO": {
+  "name": "Rome–Fiumicino Leonardo da Vinci International Airport",
+  "city": "Rome",
+  "country": "IT",
+  "lat": 41.8045,
+  "lng": 12.252,
+  "type": "large_airport"
+ },
+ "QSR": {
+  "name": "Salerno Costa d'Amalfi Airport",
+  "city": "Salerno",
+  "country": "IT",
+  "lat": 40.6204,
+  "lng": 14.9113,
+  "type": "medium_airport"
+ },
+ "EBA": {
+  "name": "Marina di Campo Airport",
+  "city": "Campo nell'Elba (LI)",
+  "country": "IT",
+  "lat": 42.7609,
+  "lng": 10.2398,
+  "type": "medium_airport"
+ },
+ "NAP": {
+  "name": "Naples International Airport",
+  "city": "Napoli",
+  "country": "IT",
+  "lat": 40.886,
+  "lng": 14.2908,
+  "type": "large_airport"
+ },
+ "PSA": {
+  "name": "Pisa International Airport",
+  "city": "Pisa (PI)",
+  "country": "IT",
+  "lat": 43.6839,
+  "lng": 10.3927,
+  "type": "large_airport"
+ },
+ "FLR": {
+  "name": "Florence Airport, Peretola",
+  "city": "Firenze (FI)",
+  "country": "IT",
+  "lat": 43.8086,
+  "lng": 11.2028,
+  "type": "large_airport"
+ },
+ "PEG": {
+  "name": "Perugia San Francesco d'Assisi – Umbria International Airport",
+  "city": "Perugia (PG)",
+  "country": "IT",
+  "lat": 43.0959,
+  "lng": 12.5132,
+  "type": "large_airport"
+ },
+ "LJU": {
+  "name": "Ljubljana Jože Pučnik Airport",
+  "city": "Zgornji Brnik",
+  "country": "SI",
+  "lat": 46.2237,
+  "lng": 14.4576,
+  "type": "large_airport"
+ },
+ "MBX": {
+  "name": "Maribor Edvard Rusjan Airport",
+  "city": "Maribor",
+  "country": "SI",
+  "lat": 46.4799,
+  "lng": 15.6861,
+  "type": "medium_airport"
+ },
+ "JCL": {
+  "name": "České Budějovice South Bohemian Airport",
+  "city": "České Budějovice",
+  "country": "CZ",
+  "lat": 48.9482,
+  "lng": 14.4283,
+  "type": "large_airport"
+ },
+ "KLV": {
+  "name": "Karlovy Vary Airport",
+  "city": "Karlovy Vary",
+  "country": "CZ",
+  "lat": 50.203,
+  "lng": 12.915,
+  "type": "large_airport"
+ },
+ "OSR": {
+  "name": "Leoš Janáček Airport Ostrava",
+  "city": "Mošnov",
+  "country": "CZ",
+  "lat": 49.6963,
+  "lng": 18.1111,
+  "type": "large_airport"
+ },
+ "PED": {
+  "name": "Pardubice Airport",
+  "city": "Pardubice",
+  "country": "CZ",
+  "lat": 50.015,
+  "lng": 15.7398,
+  "type": "large_airport"
+ },
+ "PRG": {
+  "name": "Václav Havel Airport Prague",
+  "city": "Prague",
+  "country": "CZ",
+  "lat": 50.1009,
+  "lng": 14.2599,
+  "type": "large_airport"
+ },
+ "BRQ": {
+  "name": "Brno-Tuřany Airport",
+  "city": "Brno",
+  "country": "CZ",
+  "lat": 49.1513,
+  "lng": 16.694,
+  "type": "medium_airport"
+ },
+ "MLA": {
+  "name": "Malta International Airport",
+  "city": "Valletta",
+  "country": "MT",
+  "lat": 35.8459,
+  "lng": 14.4915,
+  "type": "large_airport"
+ },
+ "GRZ": {
+  "name": "Graz Airport",
+  "city": "Feldkirchen bei Graz",
+  "country": "AT",
+  "lat": 46.9911,
+  "lng": 15.4396,
+  "type": "large_airport"
+ },
+ "INN": {
+  "name": "Innsbruck Airport",
+  "city": "Innsbruck",
+  "country": "AT",
+  "lat": 47.2602,
+  "lng": 11.344,
+  "type": "large_airport"
+ },
+ "KLU": {
+  "name": "Klagenfurt Airport",
+  "city": "Klagenfurt am Wörthersee",
+  "country": "AT",
+  "lat": 46.6425,
+  "lng": 14.3377,
+  "type": "large_airport"
+ },
+ "LNZ": {
+  "name": "Linz-Hörsching Airport",
+  "city": "Linz",
+  "country": "AT",
+  "lat": 48.2354,
+  "lng": 14.1881,
+  "type": "large_airport"
+ },
+ "SZG": {
+  "name": "Salzburg Airport",
+  "city": "Salzburg",
+  "country": "AT",
+  "lat": 47.7933,
+  "lng": 13.0043,
+  "type": "large_airport"
+ },
+ "VIE": {
+  "name": "Vienna International Airport",
+  "city": "Vienna",
+  "country": "AT",
+  "lat": 48.1103,
+  "lng": 16.5697,
+  "type": "large_airport"
+ },
+ "SMA": {
+  "name": "Santa Maria Airport",
+  "city": "Vila do Porto",
+  "country": "PT",
+  "lat": 36.9714,
+  "lng": -25.1706,
+  "type": "medium_airport"
+ },
+ "BGC": {
+  "name": "Bragança Airport",
+  "city": "Bragança",
+  "country": "PT",
+  "lat": 41.8578,
+  "lng": -6.7071,
+  "type": "medium_airport"
+ },
+ "CVU": {
+  "name": "Corvo Airport",
+  "city": "Corvo",
+  "country": "PT",
+  "lat": 39.6715,
+  "lng": -31.1136,
+  "type": "small_airport"
+ },
+ "CAT": {
+  "name": "Cascais Airport",
+  "city": "Cascais",
+  "country": "PT",
+  "lat": 38.725,
+  "lng": -9.3552,
+  "type": "medium_airport"
+ },
+ "FLW": {
+  "name": "Flores Airport",
+  "city": "Santa Cruz das Flores",
+  "country": "PT",
+  "lat": 39.4553,
+  "lng": -31.1314,
+  "type": "medium_airport"
+ },
+ "FAO": {
+  "name": "Faro - Gago Coutinho International Airport",
+  "city": "Faro",
+  "country": "PT",
+  "lat": 37.0159,
+  "lng": -7.9709,
+  "type": "large_airport"
+ },
+ "GRW": {
+  "name": "Graciosa Airport",
+  "city": "Santa Cruz da Graciosa",
+  "country": "PT",
+  "lat": 39.0922,
+  "lng": -28.0298,
+  "type": "medium_airport"
+ },
+ "HOR": {
+  "name": "Horta Airport",
+  "city": "Horta",
+  "country": "PT",
+  "lat": 38.5199,
+  "lng": -28.7159,
+  "type": "medium_airport"
+ },
+ "TER": {
+  "name": "Lajes Airport",
+  "city": "Praia da Vitória",
+  "country": "PT",
+  "lat": 38.7618,
+  "lng": -27.0908,
+  "type": "medium_airport"
+ },
+ "FNC": {
+  "name": "Cristiano Ronaldo International Airport",
+  "city": "Funchal",
+  "country": "PT",
+  "lat": 32.6978,
+  "lng": -16.7746,
+  "type": "large_airport"
+ },
+ "PDL": {
+  "name": "João Paulo II Airport",
+  "city": "Ponta Delgada",
+  "country": "PT",
+  "lat": 37.7412,
+  "lng": -25.6979,
+  "type": "large_airport"
+ },
+ "PIX": {
+  "name": "Pico Airport",
+  "city": "Pico Island",
+  "country": "PT",
+  "lat": 38.5543,
+  "lng": -28.4413,
+  "type": "medium_airport"
+ },
+ "PRM": {
+  "name": "Portimão Airport",
+  "city": "Portimão",
+  "country": "PT",
+  "lat": 37.1493,
+  "lng": -8.584,
+  "type": "medium_airport"
+ },
+ "OPO": {
+  "name": "Francisco de Sá Carneiro Airport",
+  "city": "Porto",
+  "country": "PT",
+  "lat": 41.2481,
+  "lng": -8.6814,
+  "type": "large_airport"
+ },
+ "PXO": {
+  "name": "Porto Santo Airport",
+  "city": "Vila Baleira",
+  "country": "PT",
+  "lat": 33.0734,
+  "lng": -16.35,
+  "type": "medium_airport"
+ },
+ "LIS": {
+  "name": "Lisbon Humberto Delgado Airport",
+  "city": "Lisbon",
+  "country": "PT",
+  "lat": 38.7813,
+  "lng": -9.1359,
+  "type": "large_airport"
+ },
+ "SJZ": {
+  "name": "São Jorge Airport",
+  "city": "Velas",
+  "country": "PT",
+  "lat": 38.6655,
+  "lng": -28.1758,
+  "type": "medium_airport"
+ },
+ "VRL": {
+  "name": "Vila Real Airport",
+  "city": "Vila Real",
+  "country": "PT",
+  "lat": 41.2743,
+  "lng": -7.7205,
+  "type": "medium_airport"
+ },
+ "VSE": {
+  "name": "Aerodromo Goncalves Lobato (Viseu Airport)",
+  "city": "Viseu",
+  "country": "PT",
+  "lat": 40.7255,
+  "lng": -7.889,
+  "type": "medium_airport"
+ },
+ "BNX": {
+  "name": "Banja Luka International Airport",
+  "city": "Mahovljani",
+  "country": "BA",
+  "lat": 44.9414,
+  "lng": 17.2975,
+  "type": "large_airport"
+ },
+ "OMO": {
+  "name": "Mostar International Airport",
+  "city": "Mostar",
+  "country": "BA",
+  "lat": 43.2825,
+  "lng": 17.8461,
+  "type": "large_airport"
+ },
+ "SJJ": {
+  "name": "Sarajevo International Airport",
+  "city": "Sarajevo",
+  "country": "BA",
+  "lat": 43.8246,
+  "lng": 18.3315,
+  "type": "large_airport"
+ },
+ "TZL": {
+  "name": "Tuzla International Airport",
+  "city": "Dubrave Gornje",
+  "country": "BA",
+  "lat": 44.4599,
+  "lng": 18.7236,
+  "type": "large_airport"
+ },
+ "ARW": {
+  "name": "Arad International Airport",
+  "city": "Arad",
+  "country": "RO",
+  "lat": 46.1761,
+  "lng": 21.2643,
+  "type": "medium_airport"
+ },
+ "BCM": {
+  "name": "Bacău George Enescu International  Airport",
+  "city": "Bacău",
+  "country": "RO",
+  "lat": 46.5219,
+  "lng": 26.9103,
+  "type": "large_airport"
+ },
+ "BAY": {
+  "name": "Maramureș International Airport",
+  "city": "Tăuții-Măgherăuș",
+  "country": "RO",
+  "lat": 47.6584,
+  "lng": 23.4644,
+  "type": "medium_airport"
+ },
+ "BBU": {
+  "name": "Bucharest Băneasa Aurel Vlaicu International Airport",
+  "city": "Bucharest",
+  "country": "RO",
+  "lat": 44.5031,
+  "lng": 26.1029,
+  "type": "large_airport"
+ },
+ "GHV": {
+  "name": "Brașov-Ghimbav International Airport",
+  "city": "Brașov (Ghimbav)",
+  "country": "RO",
+  "lat": 45.7056,
+  "lng": 25.5229,
+  "type": "large_airport"
+ },
+ "CND": {
+  "name": "Mihail Kogălniceanu International Airport",
+  "city": "Constanța",
+  "country": "RO",
+  "lat": 44.3622,
+  "lng": 28.4883,
+  "type": "large_airport"
+ },
+ "CLJ": {
+  "name": "Avram Iancu Cluj International Airport",
+  "city": "Cluj-Napoca",
+  "country": "RO",
+  "lat": 46.786,
+  "lng": 23.6857,
+  "type": "large_airport"
+ },
+ "CRA": {
+  "name": "Craiova International Airport",
+  "city": "Craiova",
+  "country": "RO",
+  "lat": 44.3181,
+  "lng": 23.8886,
+  "type": "large_airport"
+ },
+ "IAS": {
+  "name": "Iaşi International Airport",
+  "city": "Iaşi",
+  "country": "RO",
+  "lat": 47.1796,
+  "lng": 27.6214,
+  "type": "large_airport"
+ },
+ "OMR": {
+  "name": "Oradea International Airport",
+  "city": "Oradea",
+  "country": "RO",
+  "lat": 47.0253,
+  "lng": 21.9025,
+  "type": "large_airport"
+ },
+ "OTP": {
+  "name": "Bucharest Henri Coandă International Airport",
+  "city": "Otopeni",
+  "country": "RO",
+  "lat": 44.5718,
+  "lng": 26.1033,
+  "type": "large_airport"
+ },
+ "SBZ": {
+  "name": "Sibiu International Airport",
+  "city": "Sibiu",
+  "country": "RO",
+  "lat": 45.7858,
+  "lng": 24.0867,
+  "type": "large_airport"
+ },
+ "SUJ": {
+  "name": "Satu Mare International Airport",
+  "city": "Satu Mare",
+  "country": "RO",
+  "lat": 47.7033,
+  "lng": 22.8857,
+  "type": "medium_airport"
+ },
+ "SCV": {
+  "name": "Suceava Ștefan cel Mare International Airport",
+  "city": "Suceava",
+  "country": "RO",
+  "lat": 47.6875,
+  "lng": 26.3541,
+  "type": "large_airport"
+ },
+ "TGM": {
+  "name": "Târgu Mureş Transilvania International Airport",
+  "city": "Recea",
+  "country": "RO",
+  "lat": 46.4677,
+  "lng": 24.4125,
+  "type": "medium_airport"
+ },
+ "TSR": {
+  "name": "Timișoara Traian Vuia International Airport",
+  "city": "Timişoara",
+  "country": "RO",
+  "lat": 45.8099,
+  "lng": 21.3379,
+  "type": "large_airport"
+ },
+ "GVA": {
+  "name": "Geneva International Airport",
+  "city": "Geneva",
+  "country": "CH",
+  "lat": 46.2381,
+  "lng": 6.109,
+  "type": "large_airport"
+ },
+ "LUG": {
+  "name": "Lugano Airport",
+  "city": "Agno",
+  "country": "CH",
+  "lat": 46.0043,
+  "lng": 8.9106,
+  "type": "medium_airport"
+ },
+ "BRN": {
+  "name": "Bern Airport",
+  "city": "Bern",
+  "country": "CH",
+  "lat": 46.9127,
+  "lng": 7.4988,
+  "type": "medium_airport"
+ },
+ "ZRH": {
+  "name": "Zürich Airport",
+  "city": "Zurich",
+  "country": "CH",
+  "lat": 47.4581,
+  "lng": 8.5481,
+  "type": "large_airport"
+ },
+ "ACH": {
+  "name": "Sankt Gallen Altenrhein Airport",
+  "city": "St. Gallen",
+  "country": "CH",
+  "lat": 47.485,
+  "lng": 9.5608,
+  "type": "medium_airport"
+ },
+ "ESB": {
+  "name": "Esenboğa International Airport",
+  "city": "Ankara",
+  "country": "TR",
+  "lat": 40.1281,
+  "lng": 32.9951,
+  "type": "large_airport"
+ },
+ "AYT": {
+  "name": "Antalya International Airport",
+  "city": "Antalya",
+  "country": "TR",
+  "lat": 36.8987,
+  "lng": 30.8005,
+  "type": "large_airport"
+ },
+ "GZT": {
+  "name": "Gaziantep Oğuzeli International Airport",
+  "city": "Gaziantep",
+  "country": "TR",
+  "lat": 36.9472,
+  "lng": 37.4787,
+  "type": "large_airport"
+ },
+ "KFS": {
+  "name": "Kastamonu Airport",
+  "city": "Kastamonu",
+  "country": "TR",
+  "lat": 41.3142,
+  "lng": 33.7958,
+  "type": "medium_airport"
+ },
+ "KYA": {
+  "name": "Konya Airport",
+  "city": "Konya",
+  "country": "TR",
+  "lat": 37.979,
+  "lng": 32.5619,
+  "type": "large_airport"
+ },
+ "MZH": {
+  "name": "Amasya Merzifon Airport",
+  "city": "Amasya",
+  "country": "TR",
+  "lat": 40.8294,
+  "lng": 35.522,
+  "type": "medium_airport"
+ },
+ "VAS": {
+  "name": "Sivas Nuri Demirağ Airport",
+  "city": "Sivas",
+  "country": "TR",
+  "lat": 39.8138,
+  "lng": 36.9035,
+  "type": "medium_airport"
+ },
+ "ONQ": {
+  "name": "Zonguldak Çaycuma Airport",
+  "city": "Zonguldak",
+  "country": "TR",
+  "lat": 41.5064,
+  "lng": 32.0886,
+  "type": "medium_airport"
+ },
+ "MLX": {
+  "name": "Malatya Erhaç Airport",
+  "city": "Malatya",
+  "country": "TR",
+  "lat": 38.4353,
+  "lng": 38.091,
+  "type": "medium_airport"
+ },
+ "ASR": {
+  "name": "Kayseri Erkilet International Airport",
+  "city": "Kayseri",
+  "country": "TR",
+  "lat": 38.7704,
+  "lng": 35.4954,
+  "type": "large_airport"
+ },
+ "TJK": {
+  "name": "Tokat Airport",
+  "city": "Tokat",
+  "country": "TR",
+  "lat": 40.3247,
+  "lng": 36.3906,
+  "type": "medium_airport"
+ },
+ "DNZ": {
+  "name": "Çardak Airport",
+  "city": "Denizli",
+  "country": "TR",
+  "lat": 37.7856,
+  "lng": 29.7013,
+  "type": "medium_airport"
+ },
+ "NAV": {
+  "name": "Nevşehir Kapadokya Airport",
+  "city": "Nevşehir",
+  "country": "TR",
+  "lat": 38.7719,
+  "lng": 34.5345,
+  "type": "large_airport"
+ },
+ "BZI": {
+  "name": "Balıkesir Airport",
+  "city": "Balıkesir",
+  "country": "TR",
+  "lat": 39.6193,
+  "lng": 27.926,
+  "type": "medium_airport"
+ },
+ "CKZ": {
+  "name": "Çanakkale Airport",
+  "city": "Çanakkale",
+  "country": "TR",
+  "lat": 40.1377,
+  "lng": 26.4268,
+  "type": "medium_airport"
+ },
+ "ADB": {
+  "name": "Adnan Menderes International Airport",
+  "city": "Gaziemir",
+  "country": "TR",
+  "lat": 38.2924,
+  "lng": 27.157,
+  "type": "large_airport"
+ },
+ "YEI": {
+  "name": "Bursa Yenişehir Airport",
+  "city": "Yenişehir",
+  "country": "TR",
+  "lat": 40.2552,
+  "lng": 29.5626,
+  "type": "medium_airport"
+ },
+ "DLM": {
+  "name": "Dalaman International Airport",
+  "city": "Dalaman",
+  "country": "TR",
+  "lat": 36.7131,
+  "lng": 28.7925,
+  "type": "large_airport"
+ },
+ "TEQ": {
+  "name": "Tekirdağ Çorlu Airport",
+  "city": "Çorlu",
+  "country": "TR",
+  "lat": 41.1382,
+  "lng": 27.9191,
+  "type": "medium_airport"
+ },
+ "AOE": {
+  "name": "Hasan Polatkan Airport",
+  "city": "Eskişehir",
+  "country": "TR",
+  "lat": 39.8116,
+  "lng": 30.5193,
+  "type": "large_airport"
+ },
+ "KZR": {
+  "name": "Zafer Airport",
+  "city": "Altıntaş",
+  "country": "TR",
+  "lat": 39.1111,
+  "lng": 30.1304,
+  "type": "medium_airport"
+ },
+ "EZS": {
+  "name": "Elazığ Airport",
+  "city": "Elazığ",
+  "country": "TR",
+  "lat": 38.598,
+  "lng": 39.2835,
+  "type": "medium_airport"
+ },
+ "OGU": {
+  "name": "Ordu–Giresun Airport",
+  "city": "Ordu",
+  "country": "TR",
+  "lat": 40.9669,
+  "lng": 38.086,
+  "type": "medium_airport"
+ },
+ "DIY": {
+  "name": "Diyarbakır Airport",
+  "city": "Diyarbakır",
+  "country": "TR",
+  "lat": 37.8939,
+  "lng": 40.201,
+  "type": "medium_airport"
+ },
+ "ERC": {
+  "name": "Erzincan Airport",
+  "city": "Erzincan",
+  "country": "TR",
+  "lat": 39.7102,
+  "lng": 39.527,
+  "type": "medium_airport"
+ },
+ "ERZ": {
+  "name": "Erzurum International Airport",
+  "city": "Erzurum",
+  "country": "TR",
+  "lat": 39.9565,
+  "lng": 41.1702,
+  "type": "medium_airport"
+ },
+ "KSY": {
+  "name": "Kars Airport",
+  "city": "Kars",
+  "country": "TR",
+  "lat": 40.5622,
+  "lng": 43.115,
+  "type": "medium_airport"
+ },
+ "TZX": {
+  "name": "Trabzon International Airport",
+  "city": "Trabzon",
+  "country": "TR",
+  "lat": 40.9951,
+  "lng": 39.7897,
+  "type": "medium_airport"
+ },
+ "VAN": {
+  "name": "Van Ferit Melen Airport",
+  "city": "Van",
+  "country": "TR",
+  "lat": 38.4682,
+  "lng": 43.3323,
+  "type": "medium_airport"
+ },
+ "BAL": {
+  "name": "Batman Airport",
+  "city": "Batman",
+  "country": "TR",
+  "lat": 37.929,
+  "lng": 41.1166,
+  "type": "medium_airport"
+ },
+ "MSR": {
+  "name": "Muş Airport",
+  "city": "Muş",
+  "country": "TR",
+  "lat": 38.7478,
+  "lng": 41.6612,
+  "type": "medium_airport"
+ },
+ "NOP": {
+  "name": "Sinop Airport",
+  "city": "Sinop",
+  "country": "TR",
+  "lat": 42.0183,
+  "lng": 35.0718,
+  "type": "medium_airport"
+ },
+ "KCM": {
+  "name": "Kahramanmaraş Airport",
+  "city": "Kahramanmaraş",
+  "country": "TR",
+  "lat": 37.5388,
+  "lng": 36.9535,
+  "type": "medium_airport"
+ },
+ "AJI": {
+  "name": "Ağrı Airport",
+  "city": "Ağrı",
+  "country": "TR",
+  "lat": 39.6556,
+  "lng": 43.0257,
+  "type": "medium_airport"
+ },
+ "ADF": {
+  "name": "Adıyaman Airport",
+  "city": "Adıyaman",
+  "country": "TR",
+  "lat": 37.7314,
+  "lng": 38.4689,
+  "type": "medium_airport"
+ },
+ "MQM": {
+  "name": "Mardin Airport",
+  "city": "Mardin",
+  "country": "TR",
+  "lat": 37.2233,
+  "lng": 40.6317,
+  "type": "medium_airport"
+ },
+ "GNY": {
+  "name": "Şanlıurfa GAP Airport",
+  "city": "Şanlıurfa",
+  "country": "TR",
+  "lat": 37.4457,
+  "lng": 38.8956,
+  "type": "large_airport"
+ },
+ "IGD": {
+  "name": "Iğdır Airport",
+  "city": "Iğdır",
+  "country": "TR",
+  "lat": 39.9766,
+  "lng": 43.8766,
+  "type": "medium_airport"
+ },
+ "BGG": {
+  "name": "Bingöl Airport",
+  "city": "Bingöl",
+  "country": "TR",
+  "lat": 38.8601,
+  "lng": 40.5945,
+  "type": "medium_airport"
+ },
+ "NKT": {
+  "name": "Şırnak Şerafettin Elçi Airport",
+  "city": "Şırnak",
+  "country": "TR",
+  "lat": 37.3647,
+  "lng": 42.0582,
+  "type": "medium_airport"
+ },
+ "YKO": {
+  "name": "Hakkari Yüksekova Airport",
+  "city": "Hakkari",
+  "country": "TR",
+  "lat": 37.5497,
+  "lng": 44.2381,
+  "type": "medium_airport"
+ },
+ "HTY": {
+  "name": "Hatay Airport",
+  "city": "Antakya",
+  "country": "TR",
+  "lat": 36.3608,
+  "lng": 36.2856,
+  "type": "medium_airport"
+ },
+ "COV": {
+  "name": "Çukurova International Airport",
+  "city": "Tarsus",
+  "country": "TR",
+  "lat": 36.8915,
+  "lng": 35.0712,
+  "type": "large_airport"
+ },
+ "ISE": {
+  "name": "Süleyman Demirel International Airport",
+  "city": "Isparta",
+  "country": "TR",
+  "lat": 37.8554,
+  "lng": 30.3684,
+  "type": "medium_airport"
+ },
+ "EDO": {
+  "name": "Balıkesir Koca Seyit Airport",
+  "city": "Edremit",
+  "country": "TR",
+  "lat": 39.5525,
+  "lng": 27.0102,
+  "type": "large_airport"
+ },
+ "BJV": {
+  "name": "Milas Bodrum International Airport",
+  "city": "Bodrum",
+  "country": "TR",
+  "lat": 37.2493,
+  "lng": 27.664,
+  "type": "large_airport"
+ },
+ "GZP": {
+  "name": "Gazipaşa-Alanya Airport",
+  "city": "Gazipaşa",
+  "country": "TR",
+  "lat": 36.2988,
+  "lng": 32.297,
+  "type": "medium_airport"
+ },
+ "SZF": {
+  "name": "Samsun-Çarşamba Airport",
+  "city": "Samsun",
+  "country": "TR",
+  "lat": 41.254,
+  "lng": 36.5675,
+  "type": "medium_airport"
+ },
+ "SAW": {
+  "name": "Istanbul Sabiha Gökçen International Airport",
+  "city": "Pendik, Istanbul",
+  "country": "TR",
+  "lat": 40.8986,
+  "lng": 29.3092,
+  "type": "large_airport"
+ },
+ "IST": {
+  "name": "İstanbul Airport",
+  "city": "Istanbul",
+  "country": "TR",
+  "lat": 41.2749,
+  "lng": 28.7321,
+  "type": "large_airport"
+ },
+ "RZV": {
+  "name": "Rize–Artvin Airport",
+  "city": "Rize",
+  "country": "TR",
+  "lat": 41.1798,
+  "lng": 40.8488,
+  "type": "medium_airport"
+ },
+ "RMO": {
+  "name": "Chişinău International Airport",
+  "city": "Chişinău",
+  "country": "MD",
+  "lat": 46.9277,
+  "lng": 28.9317,
+  "type": "large_airport"
+ },
+ "OHD": {
+  "name": "Ohrid St. Paul the Apostle Airport",
+  "city": "Ohrid",
+  "country": "MK",
+  "lat": 41.18,
+  "lng": 20.7423,
+  "type": "large_airport"
+ },
+ "SKP": {
+  "name": "Skopje International Airport",
+  "city": "Ilinden",
+  "country": "MK",
+  "lat": 41.9581,
+  "lng": 21.6226,
+  "type": "large_airport"
+ },
+ "GIB": {
+  "name": "Gibraltar Airport",
+  "city": "Gibraltar",
+  "country": "GI",
+  "lat": 36.1517,
+  "lng": -5.3498,
+  "type": "large_airport"
+ },
+ "BEG": {
+  "name": "Belgrade Nikola Tesla Airport",
+  "city": "Belgrade",
+  "country": "RS",
+  "lat": 44.8184,
+  "lng": 20.3091,
+  "type": "large_airport"
+ },
+ "KVO": {
+  "name": "Morava Airport",
+  "city": "Kraljevo",
+  "country": "RS",
+  "lat": 43.8175,
+  "lng": 20.5867,
+  "type": "medium_airport"
+ },
+ "INI": {
+  "name": "Niš Constantine the Great Airport",
+  "city": "Niš",
+  "country": "RS",
+  "lat": 43.3365,
+  "lng": 21.8562,
+  "type": "large_airport"
+ },
+ "TGD": {
+  "name": "Podgorica Airport / Podgorica Golubovci Airbase",
+  "city": "Podgorica",
+  "country": "ME",
+  "lat": 42.3594,
+  "lng": 19.2519,
+  "type": "large_airport"
+ },
+ "TIV": {
+  "name": "Tivat Airport",
+  "city": "Tivat",
+  "country": "ME",
+  "lat": 42.4047,
+  "lng": 18.7233,
+  "type": "medium_airport"
+ },
+ "BTS": {
+  "name": "M. R. Štefánik Airport",
+  "city": "Bratislava",
+  "country": "SK",
+  "lat": 48.1702,
+  "lng": 17.2127,
+  "type": "large_airport"
+ },
+ "KSC": {
+  "name": "Košice International Airport",
+  "city": "Košice",
+  "country": "SK",
+  "lat": 48.6631,
+  "lng": 21.2411,
+  "type": "medium_airport"
+ },
+ "SLD": {
+  "name": "Sliač Airport",
+  "city": "Sliač",
+  "country": "SK",
+  "lat": 48.6378,
+  "lng": 19.1341,
+  "type": "medium_airport"
+ },
+ "TAT": {
+  "name": "Poprad-Tatry Airport",
+  "city": "Poprad",
+  "country": "SK",
+  "lat": 49.071,
+  "lng": 20.2414,
+  "type": "medium_airport"
+ },
+ "KVK": {
+  "name": "Kirovsk-Apatity Airport",
+  "city": "Apatity",
+  "country": "RU",
+  "lat": 67.4629,
+  "lng": 33.5853,
+  "type": "small_airport"
+ },
+ "ARH": {
+  "name": "Talagi Airport",
+  "city": "Archangelsk",
+  "country": "RU",
+  "lat": 64.6003,
+  "lng": 40.7167,
+  "type": "medium_airport"
+ },
+ "LDG": {
+  "name": "Leshukonskoye Airport",
+  "city": "Leshukonskoye",
+  "country": "RU",
+  "lat": 64.896,
+  "lng": 45.723,
+  "type": "small_airport"
+ },
+ "NNM": {
+  "name": "Naryan Mar Airport",
+  "city": "Naryan Mar",
+  "country": "RU",
+  "lat": 67.64,
+  "lng": 53.1219,
+  "type": "medium_airport"
+ },
+ "CSH": {
+  "name": "Solovki Airport",
+  "city": "Solovetsky Islands",
+  "country": "RU",
+  "lat": 65.03,
+  "lng": 35.7306,
+  "type": "small_airport"
+ },
+ "AMV": {
+  "name": "Amderma Airport",
+  "city": "Amderma",
+  "country": "RU",
+  "lat": 69.7637,
+  "lng": 61.5567,
+  "type": "medium_airport"
+ },
+ "KSZ": {
+  "name": "Kotlas Airport",
+  "city": "Kotlas",
+  "country": "RU",
+  "lat": 61.2358,
+  "lng": 46.6975,
+  "type": "medium_airport"
+ },
+ "LED": {
+  "name": "Pulkovo Airport",
+  "city": "St. Petersburg",
+  "country": "RU",
+  "lat": 59.8003,
+  "lng": 30.2625,
+  "type": "large_airport"
+ },
+ "MMK": {
+  "name": "Emperor Nicholas II Murmansk Airport",
+  "city": "Murmansk",
+  "country": "RU",
+  "lat": 68.7817,
+  "lng": 32.7508,
+  "type": "large_airport"
+ },
+ "PKV": {
+  "name": "Princess Olga Pskov International Airport",
+  "city": "Pskov",
+  "country": "RU",
+  "lat": 57.7813,
+  "lng": 28.3938,
+  "type": "medium_airport"
+ },
+ "PES": {
+  "name": "Petrozavodsk Airport",
+  "city": "Petrozavodsk",
+  "country": "RU",
+  "lat": 61.8852,
+  "lng": 34.1547,
+  "type": "medium_airport"
+ },
+ "CEE": {
+  "name": "Cherepovets Airport",
+  "city": "Cherepovets",
+  "country": "RU",
+  "lat": 59.2736,
+  "lng": 38.0158,
+  "type": "medium_airport"
+ },
+ "BQT": {
+  "name": "Brest International Airport",
+  "city": "Brest",
+  "country": "BY",
+  "lat": 52.1081,
+  "lng": 23.8968,
+  "type": "large_airport"
+ },
+ "GME": {
+  "name": "Gomel Airport",
+  "city": "Gomel",
+  "country": "BY",
+  "lat": 52.527,
+  "lng": 31.0167,
+  "type": "medium_airport"
+ },
+ "KGD": {
+  "name": "Khrabrovo Airport",
+  "city": "Kaliningrad",
+  "country": "RU",
+  "lat": 54.8916,
+  "lng": 20.5986,
+  "type": "large_airport"
+ },
+ "MSQ": {
+  "name": "Minsk National Airport",
+  "city": "Minsk",
+  "country": "BY",
+  "lat": 53.8881,
+  "lng": 28.04,
+  "type": "large_airport"
+ },
+ "MVQ": {
+  "name": "Mogilev Airport",
+  "city": "Mogilev",
+  "country": "BY",
+  "lat": 53.9549,
+  "lng": 30.0951,
+  "type": "medium_airport"
+ },
+ "OVB": {
+  "name": "Novosibirsk Tolmachevo Airport",
+  "city": "Novosibirsk",
+  "country": "RU",
+  "lat": 55.0198,
+  "lng": 82.6187,
+  "type": "large_airport"
+ },
+ "GDZ": {
+  "name": "Gelendzhik Airport",
+  "city": "Gelendzhik",
+  "country": "RU",
+  "lat": 44.5821,
+  "lng": 38.0125,
+  "type": "medium_airport"
+ },
+ "KRR": {
+  "name": "Krasnodar Pashkovsky International Airport",
+  "city": "Krasnodar",
+  "country": "RU",
+  "lat": 45.0345,
+  "lng": 39.1742,
+  "type": "large_airport"
+ },
+ "MRV": {
+  "name": "Mineralnye Vody Airport",
+  "city": "Mineralnyye Vody",
+  "country": "RU",
+  "lat": 44.2251,
+  "lng": 43.0819,
+  "type": "large_airport"
+ },
+ "NAL": {
+  "name": "Nalchik Airport",
+  "city": "Nalchik",
+  "country": "RU",
+  "lat": 43.5129,
+  "lng": 43.6366,
+  "type": "medium_airport"
+ },
+ "OGZ": {
+  "name": "Vladikavkaz Beslan International Airport",
+  "city": "Beslan",
+  "country": "RU",
+  "lat": 43.2051,
+  "lng": 44.6066,
+  "type": "medium_airport"
+ },
+ "STW": {
+  "name": "Stavropol Shpakovskoye Airport",
+  "city": "Stavropol",
+  "country": "RU",
+  "lat": 45.1092,
+  "lng": 42.1128,
+  "type": "medium_airport"
+ },
+ "AER": {
+  "name": "Sochi International Airport",
+  "city": "Sochi",
+  "country": "RU",
+  "lat": 43.4499,
+  "lng": 39.9566,
+  "type": "large_airport"
+ },
+ "ESL": {
+  "name": "Elista Airport",
+  "city": "Elista",
+  "country": "RU",
+  "lat": 46.3739,
+  "lng": 44.3309,
+  "type": "medium_airport"
+ },
+ "VOG": {
+  "name": "Volgograd International Airport",
+  "city": "Volgograd",
+  "country": "RU",
+  "lat": 48.7813,
+  "lng": 44.3392,
+  "type": "large_airport"
+ },
+ "NYA": {
+  "name": "Nyagan Airport",
+  "city": "Nyagan",
+  "country": "RU",
+  "lat": 62.11,
+  "lng": 65.615,
+  "type": "medium_airport"
+ },
+ "EYK": {
+  "name": "Beloyarskiy Airport",
+  "city": "",
+  "country": "RU",
+  "lat": 63.6869,
+  "lng": 66.6986,
+  "type": "medium_airport"
+ },
+ "KVX": {
+  "name": "Pobedilovo Airport",
+  "city": "Kirov",
+  "country": "RU",
+  "lat": 58.5039,
+  "lng": 49.3478,
+  "type": "medium_airport"
+ },
+ "KMW": {
+  "name": "Kostroma Sokerkino Airport",
+  "city": "Kostroma",
+  "country": "RU",
+  "lat": 57.7969,
+  "lng": 41.0194,
+  "type": "medium_airport"
+ },
+ "IWA": {
+  "name": "Ivanovo South Airport",
+  "city": "Ivanovo",
+  "country": "RU",
+  "lat": 56.9394,
+  "lng": 40.9408,
+  "type": "medium_airport"
+ },
+ "ZIA": {
+  "name": "Zhukovsky International Airport",
+  "city": "Moscow",
+  "country": "RU",
+  "lat": 55.5533,
+  "lng": 38.15,
+  "type": "large_airport"
+ },
+ "DME": {
+  "name": "Domodedovo International Airport",
+  "city": "Moscow",
+  "country": "RU",
+  "lat": 55.4088,
+  "lng": 37.9063,
+  "type": "large_airport"
+ },
+ "IAR": {
+  "name": "Golden Ring Yaroslavl International Airport",
+  "city": "Tunoshna",
+  "country": "RU",
+  "lat": 57.5607,
+  "lng": 40.1574,
+  "type": "large_airport"
+ },
+ "SVO": {
+  "name": "Sheremetyevo International Airport",
+  "city": "Moscow",
+  "country": "RU",
+  "lat": 55.9769,
+  "lng": 37.4112,
+  "type": "large_airport"
+ },
+ "VOZ": {
+  "name": "Voronezh International Airport",
+  "city": "Voronezh",
+  "country": "RU",
+  "lat": 51.8143,
+  "lng": 39.2309,
+  "type": "medium_airport"
+ },
+ "VKO": {
+  "name": "Vnukovo International Airport",
+  "city": "Moscow",
+  "country": "RU",
+  "lat": 55.5915,
+  "lng": 37.2615,
+  "type": "large_airport"
+ },
+ "PEX": {
+  "name": "Pechora Airport",
+  "city": "Pechora",
+  "country": "RU",
+  "lat": 65.1211,
+  "lng": 57.1308,
+  "type": "medium_airport"
+ },
+ "SCW": {
+  "name": "Syktyvkar Airport",
+  "city": "Syktyvkar",
+  "country": "RU",
+  "lat": 61.647,
+  "lng": 50.8451,
+  "type": "medium_airport"
+ },
+ "GOJ": {
+  "name": "Nizhny Novgorod / Strigino International Airport",
+  "city": "Nizhny Novgorod",
+  "country": "RU",
+  "lat": 56.2274,
+  "lng": 43.7852,
+  "type": "large_airport"
+ },
+ "ULV": {
+  "name": "Ulyanovsk Baratayevka Airport",
+  "city": "Ulyanovsk",
+  "country": "RU",
+  "lat": 54.2702,
+  "lng": 48.2256,
+  "type": "medium_airport"
+ },
+ "SKX": {
+  "name": "Saransk International Airport",
+  "city": "Saransk",
+  "country": "RU",
+  "lat": 54.1251,
+  "lng": 45.2123,
+  "type": "large_airport"
+ },
+ "UFA": {
+  "name": "Ufa International Airport",
+  "city": "Ufa",
+  "country": "RU",
+  "lat": 54.5575,
+  "lng": 55.8744,
+  "type": "large_airport"
+ },
+ "KUF": {
+  "name": "Kurumoch International Airport",
+  "city": "Samara",
+  "country": "RU",
+  "lat": 53.5049,
+  "lng": 50.1643,
+  "type": "large_airport"
+ },
+ "RHO": {
+  "name": "Rhodes International Airport 'Diagoras'",
+  "city": "Rhodes",
+  "country": "GR",
+  "lat": 36.4054,
+  "lng": 28.0862,
+  "type": "large_airport"
+ },
+ "KGS": {
+  "name": "Kos International Airport 'Hippocrates'",
+  "city": "Kos",
+  "country": "GR",
+  "lat": 36.7933,
+  "lng": 27.0917,
+  "type": "large_airport"
+ }
+}

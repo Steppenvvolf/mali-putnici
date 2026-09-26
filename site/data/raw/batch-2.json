@@ -1,0 +1,2227 @@
+[
+ {
+  "id": "valencia-bioparc",
+  "name": {
+   "sr": "Bioparc Valensija",
+   "en": "Bioparc Valencia"
+  },
+  "place": {
+   "sr": "Valensija",
+   "en": "Valencia"
+  },
+  "country": "ES",
+  "region": "mediterranean",
+  "coords": [
+   39.478,
+   -0.407
+  ],
+  "airport": {
+   "iata": "VLC",
+   "km": 10,
+   "minutes": 20,
+   "mode": {
+    "sr": "autom ili taksijem",
+    "en": "car or taxi"
+   }
+  },
+  "category": "animals",
+  "tags": [
+   "zoo",
+   "safari"
+  ],
+  "ages": {
+   "baby": 2,
+   "toddler": 3,
+   "preschool": 3
+  },
+  "stroller": 3,
+  "budget": 2,
+  "bestMonths": [
+   4,
+   5,
+   6,
+   9,
+   10
+  ],
+  "season": {
+   "sr": "Otvoren cele godine, svakog dana od 10 sati; leti radi duže, a zimi se zatvara ranije.",
+   "en": "Open all year, every day from 10:00; longer hours in summer, earlier closing in winter."
+  },
+  "tagline": {
+   "sr": "Zoo bez ograda, gde lavovi i lemuri gledaju tebe pravo u oči.",
+   "en": "A barrier-free zoo where lions and lemurs look you straight in the eye."
+  },
+  "description": {
+   "sr": "Bioparc je savremeni zoološki vrt u srcu Valensije, uređen po modelu „imerzije“: nema klasičnih rešetki, nego jaruge, reke i stene razdvajaju životinje od posetilaca, pa se i najmanji osećaju kao da šetaju kroz afričku savanu. Staze su široke i ravne, idealne za kolica, a senke i mesta za odmor ima na svakom koraku. Mališane najviše oduševljavaju surikati, lemuri i veliki gorile, koje mogu da posmatraju sa sasvim male razdaljine.",
+   "en": "Bioparc is a modern zoo in the heart of Valencia built on the 'immersion' model: instead of bars, ditches, rivers and rocks separate the animals from visitors, so even the youngest feel they are walking through an African savannah. Paths are wide and flat, ideal for a pushchair, with shade and rest spots everywhere. Toddlers are especially taken with the meerkats, lemurs and the great gorillas, which they can watch from very close range."
+  },
+  "highlights": [
+   {
+    "sr": "Šetnja kroz savanu i šume Madagaskara, bez ijedne ograde",
+    "en": "Walking through the savannah and the Madagascar forests without a single fence"
+   },
+   {
+    "sr": "Veliki zatvoreni prostor za gorile sa pogledom iz neposredne blizine",
+    "en": "The large gorilla enclosure with a very close-up view"
+   },
+   {
+    "sr": "Dečje igralište i ptičija hranilica gde deca hrane ptice",
+    "en": "Children's playground and an aviary where kids feed the birds"
+   },
+   {
+    "sr": "Predstave i hranjenja životinja po rasporedu",
+    "en": "Scheduled shows and animal feedings"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Ravne, široke staze savršene za kolica i male noge",
+    "en": "Flat, wide paths perfect for pushchairs and little legs"
+   },
+   {
+    "sr": "Životinje se vide izbliza, bez rešetki koje smetaju mališanima",
+    "en": "Animals are seen up close, with no bars in the way"
+   },
+   {
+    "sr": "Dosta hlada i zelenila, prijatno i leti ujutru",
+    "en": "Plenty of shade and greenery, pleasant even in summer mornings"
+   },
+   {
+    "sr": "U gradu je, pa se lako kombinuje sa plažom i ostalim sadržajima",
+    "en": "In the city, so it is easy to combine with the beach and other sights"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "Jul i avgust su jako vrući — izbegavajte podnevne sate",
+    "en": "July and August are very hot — avoid the midday hours"
+   },
+   {
+    "sr": "Vikendom ume da bude gužve, posebno na ulazu",
+    "en": "Can get crowded at weekends, especially at the entrance"
+   },
+   {
+    "sr": "Sve je na otvorenom, pa kiša kvari plan",
+    "en": "It is mostly outdoors, so rain spoils the plan"
+   }
+  ],
+  "tip": {
+   "sr": "Karte kupite onlajn (jeftinije su za 1 evro) i dođite u 10 sati — pre podne je hladnije i životinje su aktivnije.",
+   "en": "Buy tickets online (€1 cheaper) and arrive at 10:00 — it is cooler in the morning and the animals are more active."
+  },
+  "costs": {
+   "tickets": [
+    {
+     "name": {
+      "sr": "Bioparc dnevna karta (onlajn)",
+      "en": "Bioparc day ticket (online)"
+     },
+     "adult": 29.5,
+     "child": 23.5,
+     "freeUnder": 4,
+     "url": "https://bioparcvalencia.es/en/entries/"
+    }
+   ],
+   "hotelNight": {
+    "budget": 80,
+    "mid": 140,
+    "comfort": 220
+   },
+   "foodPerAdultDay": 40,
+   "localPerDay": 12
+  },
+  "officialUrl": "https://www.bioparcvalencia.es/en/",
+  "sources": [
+   "https://bioparcvalencia.es/en/entries/",
+   "https://www.visitvalencia.com/en/shop/tickets-to-tourist-attractions/tickets-bioparc/bioparc-valencia-prices"
+  ],
+  "priceConfidence": "verified",
+  "images": [
+   "File:Bioparc - Jirafa de fondo Valencia.JPG",
+   "File:Bioparc Valencia I (2786577405).jpg",
+   "File:Bioparc Valencia II (2787453634).jpg",
+   "File:Entrée Bioparc Valencia.jpg",
+   "File:Gorilla-bioparc-valencia-2012.jpg"
+  ]
+ },
+ {
+  "id": "vienna-schonbrunn",
+  "name": {
+   "sr": "Zoološki vrt Šenbrun",
+   "en": "Schönbrunn Zoo"
+  },
+  "place": {
+   "sr": "Beč",
+   "en": "Vienna"
+  },
+  "country": "AT",
+  "region": "central",
+  "coords": [
+   48.1822,
+   16.3025
+  ],
+  "airport": {
+   "iata": "VIE",
+   "km": 22,
+   "minutes": 35,
+   "mode": {
+    "sr": "metroom ili taksijem",
+    "en": "metro or taxi"
+   }
+  },
+  "category": "animals",
+  "tags": [
+   "zoo",
+   "castle",
+   "playground"
+  ],
+  "ages": {
+   "baby": 2,
+   "toddler": 3,
+   "preschool": 3
+  },
+  "stroller": 3,
+  "budget": 3,
+  "bestMonths": [
+   4,
+   5,
+   6,
+   9,
+   10
+  ],
+  "season": {
+   "sr": "Otvoren svakog dana cele godine, od 9 sati; zimi se zatvara oko 16.30, a leti oko 18.30.",
+   "en": "Open every day all year from 9:00; closes around 16:30 in winter and 18:30 in summer."
+  },
+  "tagline": {
+   "sr": "Najstariji zoo na svetu, u carskom parku — pande, pingvini i lavlja mladunčad.",
+   "en": "The world's oldest zoo, in an imperial park — pandas, penguins and lion cubs."
+  },
+  "description": {
+   "sr": "Šenbrunski zoo, osnovan 1752, najstariji je zoološki vrt na svetu, a smešten je u prelepom parku oko dvorca Šenbrun. Poznat je po džinovskim pandama, pingvinima i severnim medvedima, a redovno ga biraju za najbolji zoo u Evropi. Za porodice je savršen jer se lako obilazi kolicima, ima mnogo igrališta i mesta za odmor, a kombinuje se sa dvorcem i Dečjim muzejom Šenbrun. Deca do 6 godina ulaze besplatno.",
+   "en": "Schönbrunn Zoo, founded in 1752, is the oldest zoo in the world and sits in the lovely park around Schönbrunn Palace. It is famous for its giant pandas, penguins and polar bears, and is regularly voted one of Europe's best zoos. It is perfect for families because it is easy to get around with a pushchair, has plenty of playgrounds and rest spots, and combines with the palace and the Schönbrunn Children's Museum. Children under 6 go free."
+  },
+  "highlights": [
+   {
+    "sr": "Džinovske pande i koala, retkost u Evropi",
+    "en": "Giant pandas and koalas, a rarity in Europe"
+   },
+   {
+    "sr": "Polarni medvedi i bazen za pingvine",
+    "en": "Polar bears and the penguin pool"
+   },
+   {
+    "sr": "Carstvo dečjih igrališta u parku dvorca",
+    "en": "Playgrounds galore in the palace grounds"
+   },
+   {
+    "sr": "Dečji muzej Šenbrun sa kostimima iz carskog doba",
+    "en": "Schönbrunn Children's Museum with imperial-era costumes"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Ulaz za decu do 6 godina je besplatan",
+    "en": "Free entry for children under 6"
+   },
+   {
+    "sr": "Ravan teren i široke staze, lako sa kolicima",
+    "en": "Flat ground and wide paths, easy with a pushchair"
+   },
+   {
+    "sr": "U kombinaciji sa dvorcem i parkom ima sadržaja za ceo dan",
+    "en": "Combined with the palace and park there is a full day of things to do"
+   },
+   {
+    "sr": "Metro (U4) vozi direktno do ulaza u park",
+    "en": "The metro (U4) runs directly to the park entrance"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "Park je ogroman — za najmlađe je pametno odabrati samo deo",
+    "en": "The park is huge — with the youngest it is wise to pick just a section"
+   },
+   {
+    "sr": "Vikendom i za praznike su gužve na blagajnama",
+    "en": "Crowds at the ticket desks on weekends and holidays"
+   },
+   {
+    "sr": "Leti može biti vruće, a hlad nije svuda",
+    "en": "It can be hot in summer and shade is not everywhere"
+   }
+  ],
+  "tip": {
+   "sr": "Kupite karte unapred onlajn i uđite odmah u 9 — tada su životinje najaktivnije i nema redova.",
+   "en": "Buy tickets online in advance and go in at 9:00 — the animals are most active then and there are no queues."
+  },
+  "costs": {
+   "tickets": [
+    {
+     "name": {
+      "sr": "Ulaznica za zoo",
+      "en": "Zoo admission"
+     },
+     "adult": 29,
+     "child": 17,
+     "freeUnder": 6,
+     "url": "https://www.zoovienna.at/en/"
+    }
+   ],
+   "hotelNight": {
+    "budget": 90,
+    "mid": 150,
+    "comfort": 240
+   },
+   "foodPerAdultDay": 50,
+   "localPerDay": 10
+  },
+  "officialUrl": "https://www.zoovienna.at/en/",
+  "sources": [
+   "https://www.zoovienna.at/en/visitor-information/",
+   "https://en.wikipedia.org/wiki/Tiergarten_Sch%C3%B6nbrunn"
+  ],
+  "priceConfidence": "verified",
+  "images": [
+   "File:Kastanienallee, Schönbrunn 02.jpg",
+   "File:Katta Lemur catta Wien Tiergarten Schönbrunn.jpg",
+   "File:Wien-Schönbrunn, Tiergarten, Polarwolf.jpg",
+   "File:Jaguar portrait, Tiergarten Schönbrunn.jpg",
+   "File:Gepard (Acinonyx jubatus) Tiergarten Schönbrunn.jpg",
+   "File:Phoenicopterus ruber Tiergarten Schönbrunn.jpg"
+  ]
+ },
+ {
+  "id": "lisbon-oceanario",
+  "name": {
+   "sr": "Okeanarijum u Lisabonu",
+   "en": "Lisbon Oceanarium"
+  },
+  "place": {
+   "sr": "Lisabon",
+   "en": "Lisbon"
+  },
+  "country": "PT",
+  "region": "mediterranean",
+  "coords": [
+   38.7635,
+   -9.0937
+  ],
+  "airport": {
+   "iata": "LIS",
+   "km": 7,
+   "minutes": 20,
+   "mode": {
+    "sr": "metroom ili taksijem",
+    "en": "metro or taxi"
+   }
+  },
+  "category": "animals",
+  "tags": [
+   "aquarium",
+   "indoor",
+   "rainy-day"
+  ],
+  "ages": {
+   "baby": 3,
+   "toddler": 3,
+   "preschool": 3
+  },
+  "stroller": 3,
+  "budget": 2,
+  "bestMonths": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   10,
+   11,
+   12
+  ],
+  "season": {
+   "sr": "Otvoren svakog dana cele godine od 10 do 20 sati (ulaz do 19).",
+   "en": "Open every day all year from 10:00 to 20:00 (last entry 19:00)."
+  },
+  "tagline": {
+   "sr": "Centralni akvarijum velik kao okean — mante, ajkule i vidre u jednom prostoru.",
+   "en": "A central tank the size of the ocean — rays, sharks and otters in one space."
+  },
+  "description": {
+   "sr": "Okeanarijum u Lisabonu, u modernom okrugu Parka nacija, jedan je od najvećih zatvorenih akvarijuma u Evropi. Njegov centralni rezervoar je toliko velik da se posetioci šetaju na dva nivoa oko njega, a ogromne mante i ajkule plivaju tik pored stakla. Zatvoren je i klimatizovan, pa je savršen za kišni dan ili beg od vrućine, a mališani satima ne skidaju pogled sa vidri i pingvina. Deca do 3 godine ulaze besplatno.",
+   "en": "Lisbon Oceanarium, in the modern Parque das Nações district, is one of Europe's largest indoor aquariums. Its central tank is so big that visitors walk around it on two levels, and huge manta rays and sharks swim right past the glass. It is indoor and air-conditioned, so it is perfect for a rainy day or an escape from the heat, and little ones cannot take their eyes off the otters and penguins. Children under 3 go free."
+  },
+  "highlights": [
+   {
+    "sr": "Džinovski centralni akvarijum sa mantama i ajkulama",
+    "en": "The giant central tank with manta rays and sharks"
+   },
+   {
+    "sr": "Razigrane morske vidre",
+    "en": "Playful sea otters"
+   },
+   {
+    "sr": "Pingvini i tropske šume leptira",
+    "en": "Penguins and tropical butterfly forests"
+   },
+   {
+    "sr": "Šetalište i žičara uz reku Težo pored ulaza",
+    "en": "The riverside promenade and cable car next to the entrance"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Potpuno zatvoreno i klimatizovano — odlično za kišni dan",
+    "en": "Fully indoor and air-conditioned — great for a rainy day"
+   },
+   {
+    "sr": "Ravno i prostrano, kolica idu bez problema",
+    "en": "Flat and spacious, pushchairs move easily"
+   },
+   {
+    "sr": "Deca do 3 godine besplatno",
+    "en": "Children under 3 go free"
+   },
+   {
+    "sr": "Lako se stiže metroom do stanice Oriente",
+    "en": "Easy to reach by metro to Oriente station"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "Ulaznice nisu jeftine za celu porodicu",
+    "en": "Tickets are not cheap for the whole family"
+   },
+   {
+    "sr": "Popodne i vikendom zna da bude gužve",
+    "en": "Can be crowded in the afternoon and at weekends"
+   },
+   {
+    "sr": "Zamračene prostorije ponekom mališanu deluju jezivo",
+    "en": "The dark rooms can feel spooky to some toddlers"
+   }
+  ],
+  "tip": {
+   "sr": "Rezervišite termin u 16 sati — karta je tada najjeftinija, a gužve su manje nego prepodne.",
+   "en": "Book the 16:00 slot — the ticket is cheapest then and it is less crowded than in the morning."
+  },
+  "costs": {
+   "tickets": [
+    {
+     "name": {
+      "sr": "Ulaznica za okeanarijum (termin posle 16 h)",
+      "en": "Oceanarium admission (16:00 slot)"
+     },
+     "adult": 25,
+     "child": 15,
+     "freeUnder": 3,
+     "url": "https://www.oceanario.pt/en"
+    }
+   ],
+   "hotelNight": {
+    "budget": 80,
+    "mid": 140,
+    "comfort": 230
+   },
+   "foodPerAdultDay": 40,
+   "localPerDay": 12
+  },
+  "officialUrl": "https://www.oceanario.pt/en",
+  "sources": [
+   "https://www.oceanario.pt/en",
+   "https://lisbonwithkids.com/lisbon-with-kids-children-prices/"
+  ],
+  "priceConfidence": "verified",
+  "images": [
+   "File:Oceanário de Lisboa - Lisbon.jpg",
+   "File:Oceanário de Lisboa 2018 (7).jpg",
+   "File:Lisbon Oceanarium • Oceanário de Lisboa.jpg",
+   "File:Batoidea Manta Ray • Lisbon Oceanarium • Oceanário de Lisboa.jpg",
+   "File:Sea otter, Enhydra lutris • Lisbon Oceanarium • Oceanário de Lisboa.jpg",
+   "File:Ocean sunfish • Mondfisch (mola mola) • Lisbon Oceanarium • Oceanário de Lisboa.jpg"
+  ]
+ },
+ {
+  "id": "tenerife-loro-parque",
+  "name": {
+   "sr": "Loro Park",
+   "en": "Loro Parque"
+  },
+  "place": {
+   "sr": "Puerto de la Kruz, Tenerife",
+   "en": "Puerto de la Cruz, Tenerife"
+  },
+  "country": "ES",
+  "region": "mediterranean",
+  "coords": [
+   28.4083,
+   -16.5642
+  ],
+  "airport": {
+   "iata": "TFS",
+   "km": 85,
+   "minutes": 60,
+   "mode": {
+    "sr": "autom, autobusom ili taksijem",
+    "en": "car, bus or taxi"
+   }
+  },
+  "category": "animals",
+  "tags": [
+   "zoo",
+   "aquarium",
+   "playground"
+  ],
+  "ages": {
+   "baby": 2,
+   "toddler": 3,
+   "preschool": 3
+  },
+  "stroller": 2,
+  "budget": 3,
+  "bestMonths": [
+   3,
+   4,
+   5,
+   10,
+   11
+  ],
+  "season": {
+   "sr": "Otvoren svakog dana cele godine, od 9.30 do 17.30.",
+   "en": "Open every day all year, from 09:30 to 17:30."
+  },
+  "tagline": {
+   "sr": "Papagaji, delfini i pingvini na tropskom ostrvu — ali imajte na umu predstave orki.",
+   "en": "Parrots, dolphins and penguins on a tropical island — but mind the orca shows."
+  },
+  "description": {
+   "sr": "Loro Park u Puerto de la Kruzu je svetski poznat zoo i botanička bašta na Tenerifima, sa hiljadama papagaja, velikim akvarijumom i najvećom zbirkom pingvina na svetu izvan Antarktika. Mališani su oduševljeni tunelom kroz akvarijum sa ajkulama i razigranim morskim lavovima. Zbog toga što drži orke i priređuje predstave sa njima, park je često meta kritika organizacija za zaštitu životinja — o tome vredi razmisliti pre posete.",
+   "en": "Loro Parque in Puerto de la Cruz is a world-famous zoo and botanical garden in Tenerife, with thousands of parrots, a large aquarium and the world's biggest penguin collection outside Antarctica. Little ones love the shark tunnel and the playful sea lions. Because it keeps orcas and puts on shows with them, the park is regularly criticised by animal-welfare organisations — something worth thinking about before visiting."
+  },
+  "highlights": [
+   {
+    "sr": "Tunel kroz akvarijum sa ajkulama i mantama",
+    "en": "The aquarium tunnel with sharks and rays"
+   },
+   {
+    "sr": "Pingvinarijum sa pravim snegom",
+    "en": "The penguinarium with real snow"
+   },
+   {
+    "sr": "Kinderlandija — dečja zona sa igralištem",
+    "en": "Kinderlandia — the children's zone with a playground"
+   },
+   {
+    "sr": "Botanička bašta sa orhidejama",
+    "en": "The botanical garden with orchids"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Veliki izbor životinja i predstava za ceo dan",
+    "en": "A wide range of animals and shows for a whole day"
+   },
+   {
+    "sr": "Blaga klima Tenerifa omogućava posetu i zimi",
+    "en": "Tenerife's mild climate allows visits even in winter"
+   },
+   {
+    "sr": "Besplatan vozić od Puerto de la Kruza do parka",
+    "en": "A free shuttle train from Puerto de la Cruz to the park"
+   },
+   {
+    "sr": "Deca do 3 godine ulaze besplatno",
+    "en": "Children under 3 go free"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "Park drži orke i pravi predstave s njima, što kritikuju zaštitari životinja",
+    "en": "The park keeps orcas and runs shows with them, criticised by animal-welfare groups"
+   },
+   {
+    "sr": "Ulaznice su skupe, posebno za celu porodicu",
+    "en": "Tickets are expensive, especially for a whole family"
+   },
+   {
+    "sr": "Park je na brdovitom terenu — kolica zahtevaju napor",
+    "en": "The park is on hilly ground — a pushchair takes effort"
+   }
+  ],
+  "tip": {
+   "sr": "Ako ste protiv predstava orki, isplanirajte dan tako da zaobiđete taj termin — sve ostalo je vredno posete.",
+   "en": "If you object to the orca shows, plan your day to skip that slot — everything else is well worth it."
+  },
+  "costs": {
+   "tickets": [
+    {
+     "name": {
+      "sr": "Ulaznica za Loro Park",
+      "en": "Loro Parque admission"
+     },
+     "adult": 44,
+     "child": 32,
+     "freeUnder": 3,
+     "url": "https://www.loroparque.com/en/"
+    }
+   ],
+   "hotelNight": {
+    "budget": 90,
+    "mid": 150,
+    "comfort": 230
+   },
+   "foodPerAdultDay": 45,
+   "localPerDay": 15
+  },
+  "officialUrl": "https://www.loroparque.com/en/",
+  "sources": [
+   "https://www.loroparque.com/en/faqs/",
+   "https://en.wikipedia.org/wiki/Loro_Parque"
+  ],
+  "priceConfidence": "verified",
+  "images": [
+   "File:King penguins at Loro Parque 2.jpg",
+   "File:Aratinga solstitialis - Loro Parque 01.jpg",
+   "File:Dolphins at Loro Parque 20.JPG",
+   "File:Gorilla gorilla gorilla - Loro Parque 01.jpg",
+   "File:Orcinus orca - Loro Parque 01.jpg",
+   "File:Seals at Loro Parque 06.JPG"
+  ]
+ },
+ {
+  "id": "lake-geneva-lausanne",
+  "name": {
+   "sr": "Ženevsko jezero i Signal de Bugi",
+   "en": "Lake Geneva & Signal de Bougy"
+  },
+  "place": {
+   "sr": "Lozana, Švajcarska",
+   "en": "Lausanne area, Switzerland"
+  },
+  "country": "CH",
+  "region": "central",
+  "coords": [
+   46.485,
+   6.3563
+  ],
+  "airport": {
+   "iata": "GVA",
+   "km": 45,
+   "minutes": 45,
+   "mode": {
+    "sr": "autom ili taksijem",
+    "en": "car or taxi"
+   }
+  },
+  "category": "nature",
+  "tags": [
+   "playground",
+   "forest",
+   "lake",
+   "farm-animals"
+  ],
+  "ages": {
+   "baby": 2,
+   "toddler": 3,
+   "preschool": 3
+  },
+  "stroller": 2,
+  "budget": 3,
+  "bestMonths": [
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "season": {
+   "sr": "Park je otvoren cele godine; aktivnosti rade sezonski, a avanturistički park od aprila do oktobra.",
+   "en": "The park is open all year; activities run seasonally, with the adventure park open from April to October."
+  },
+  "tagline": {
+   "sr": "Besplatan park na vrhu brda s pogledom na Mont Blan i Ženevsko jezero.",
+   "en": "A free hilltop park with views of Mont Blanc and Lake Geneva."
+  },
+  "description": {
+   "sr": "Signal de Bugi je prostrani park za porodice na brdu između Ženeve i Lozane, sa prelepim pogledom na Ženevsko jezero i Mont Blan. Sam ulaz u park, igrališta, sportski tereni i vrt sa životinjskim skulpturama su besplatni, a plaća se samo pojedinačno — vozić, mini-golf, trampolina ili Kid'z Land zona za najmlađe. Idealno je za lagan dan u prirodi, sa piknikom i šetnjom po šumskim stazama.",
+   "en": "Signal de Bougy is a spacious family park on a hill between Geneva and Lausanne, with beautiful views over Lake Geneva and Mont Blanc. Entry to the park, the playgrounds, sports fields and the garden with animal sculptures are free, and you only pay per activity — the little train, mini-golf, trampoline or the Kid'z Land area for the youngest. It is ideal for an easy day in nature, with a picnic and walks on forest paths."
+  },
+  "highlights": [
+   {
+    "sr": "Kid'z Land zona sa vozićem i autićima za mališane od 2 godine",
+    "en": "The Kid'z Land area with a little train and cars from age 2"
+   },
+   {
+    "sr": "Besplatna igrališta i bašta sa skulpturama životinja",
+    "en": "Free playgrounds and a garden with animal sculptures"
+   },
+   {
+    "sr": "Mini-golf na 18 rupa od 4 godine",
+    "en": "An 18-hole mini-golf course from age 4"
+   },
+   {
+    "sr": "Panorama na jezero i Mont Blan sa mesta za piknik",
+    "en": "Panoramic lake and Mont Blanc views with picnic spots"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Ulaz u park i većina igrališta su besplatni",
+    "en": "Park entry and most playgrounds are free"
+   },
+   {
+    "sr": "Mirno, zeleno okruženje daleko od gužve",
+    "en": "A calm, green setting away from the crowds"
+   },
+   {
+    "sr": "Sadržaj za različite uzraste, od beba do školaraca",
+    "en": "Something for every age, from babies to schoolchildren"
+   },
+   {
+    "sr": "Široke staze pogodne za kolica",
+    "en": "Wide paths suitable for pushchairs"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "Aktivnosti se plaćaju posebno i brzo se nakupi",
+    "en": "Activities are paid separately and add up quickly"
+   },
+   {
+    "sr": "Potreban je automobil, jer je teško dostupan javnim prevozom",
+    "en": "A car is needed, as public transport is awkward"
+   },
+   {
+    "sr": "Sve je na otvorenom, pa zavisi od vremena",
+    "en": "Everything is outdoors, so it depends on the weather"
+   }
+  ],
+  "tip": {
+   "sr": "Ponesite piknik — travnjaci su besplatni, a restoran i kiosci su švajcarski skupi.",
+   "en": "Bring a picnic — the lawns are free, and the restaurant and kiosks are Swiss-priced."
+  },
+  "costs": {
+   "tickets": [
+    {
+     "name": {
+      "sr": "Kid'z Land — jedan žeton",
+      "en": "Kid'z Land — one token"
+     },
+     "adult": 3,
+     "child": 3,
+     "freeUnder": 0,
+     "url": "https://signaldebougy.ch/en/leisure"
+    },
+    {
+     "name": {
+      "sr": "Mini-golf (od 4 godine)",
+      "en": "Mini-golf (from age 4)"
+     },
+     "adult": 8,
+     "child": 6,
+     "freeUnder": 4,
+     "url": "https://signaldebougy.ch/en/leisure/minigolf"
+    }
+   ],
+   "hotelNight": {
+    "budget": 130,
+    "mid": 200,
+    "comfort": 320
+   },
+   "foodPerAdultDay": 60,
+   "localPerDay": 15
+  },
+  "officialUrl": "https://signaldebougy.ch/en",
+  "sources": [
+   "https://signaldebougy.ch/en/leisure",
+   "https://www.myswitzerland.com/en-us/experiences/signal-de-bougy-adventure-park"
+  ],
+  "priceConfidence": "verified",
+  "images": [
+   "File:Signal de Bougy (3).jpg",
+   "File:Signal de Bougy (1).jpg",
+   "File:Signal de Bougy (5).jpg",
+   "File:SDB view.jpg",
+   "File:Signal de Bougy-Cochons.jpg"
+  ]
+ },
+ {
+  "id": "lake-garda",
+  "name": {
+   "sr": "Jezero Garda (Gardaland)",
+   "en": "Lake Garda (Gardaland)"
+  },
+  "place": {
+   "sr": "Jezero Garda, Italija",
+   "en": "Lake Garda, Italy"
+  },
+  "country": "IT",
+  "region": "mediterranean",
+  "coords": [
+   45.4544,
+   10.7139
+  ],
+  "airport": {
+   "iata": "VRN",
+   "km": 20,
+   "minutes": 25,
+   "mode": {
+    "sr": "autom, šatlom ili taksijem",
+    "en": "car, shuttle or taxi"
+   }
+  },
+  "category": "theme",
+  "tags": [
+   "theme-park",
+   "lake",
+   "castle",
+   "water-park"
+  ],
+  "ages": {
+   "baby": 1,
+   "toddler": 3,
+   "preschool": 3
+  },
+  "stroller": 2,
+  "budget": 3,
+  "bestMonths": [
+   5,
+   6,
+   9,
+   10
+  ],
+  "season": {
+   "sr": "Sezonski park — otvoren od marta do novembra; leti svakog dana, van sezone samo vikendom.",
+   "en": "A seasonal park — open from March to November; daily in summer, weekends only off-season."
+  },
+  "tagline": {
+   "sr": "Najveći zabavni park Italije, na obali najlepšeg alpskog jezera.",
+   "en": "Italy's biggest theme park, on the shore of its loveliest alpine lake."
+  },
+  "description": {
+   "sr": "Gardaland je najveći i najpoznatiji zabavni park Italije, smešten na jugoistočnoj obali jezera Garda. Iako ga mnogi znaju po velikim toboganima, park ima i bogat dečji deo sa mirnim vožnjama, vrtuljcima i predstavama za najmlađe, plus SEA LIFE akvarijum i vodeni park. Za porodice sa decom od 3 do 6 godina ovo je odličan izbor — deca niža od 1 metra ulaze besplatno, iako je za njih ograničen broj vožnji.",
+   "en": "Gardaland is Italy's biggest and best-known theme park, on the south-eastern shore of Lake Garda. Though many know it for its big roller coasters, the park also has a rich children's area with gentle rides, carousels and shows for the youngest, plus a SEA LIFE aquarium and a water park. For families with children aged 3 to 6 it is a great choice — children under 1 metre tall enter free, although they are limited to fewer rides."
+  },
+  "highlights": [
+   {
+    "sr": "Dečji deo sa mirnim vožnjama i vrtuljcima",
+    "en": "The children's area with gentle rides and carousels"
+   },
+   {
+    "sr": "SEA LIFE akvarijum u sklopu kompleksa",
+    "en": "The SEA LIFE aquarium inside the resort"
+   },
+   {
+    "sr": "Predstave i susreti sa maskotama",
+    "en": "Shows and mascot meet-and-greets"
+   },
+   {
+    "sr": "Obala jezera Garda za kupanje i šetnju",
+    "en": "The Lake Garda shore for swimming and walks"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Deca niža od 1 m ulaze besplatno",
+    "en": "Children under 1 metre tall enter free"
+   },
+   {
+    "sr": "Veliki izbor mirnih sadržaja za mlađu decu",
+    "en": "A wide range of gentle attractions for younger children"
+   },
+   {
+    "sr": "Može da se kombinuje sa jezerom i obližnjim gradićima",
+    "en": "Combines with the lake and nearby small towns"
+   },
+   {
+    "sr": "Dobro uređen park sa iznajmljivanjem kolica",
+    "en": "A well-kept park with pushchair rental"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "Ulaznice i hrana u parku su skupi",
+    "en": "Tickets and food inside the park are expensive"
+   },
+   {
+    "sr": "Cene se obračunavaju po visini, ne po godinama — lako se zbunite",
+    "en": "Prices are by height, not age — easy to get confused"
+   },
+   {
+    "sr": "Za decu ispod 1 m je većina velikih vožnji nedostupna",
+    "en": "Most big rides are off-limits for children under 1 m"
+   },
+   {
+    "sr": "Leti su ogromne gužve na popularnim atrakcijama",
+    "en": "Huge summer queues on popular attractions"
+   }
+  ],
+  "tip": {
+   "sr": "Karte kupite onlajn najmanje par dana ranije — na blagajni su osetno skuplje nego unapred.",
+   "en": "Buy tickets online a few days ahead — at the gate they are noticeably more expensive than in advance."
+  },
+  "costs": {
+   "tickets": [
+    {
+     "name": {
+      "sr": "Gardaland dnevna karta (na blagajni)",
+      "en": "Gardaland day ticket (gate)"
+     },
+     "adult": 59,
+     "child": 54,
+     "freeUnder": 0,
+     "url": "https://www.gardaland.it/en/"
+    }
+   ],
+   "hotelNight": {
+    "budget": 90,
+    "mid": 150,
+    "comfort": 240
+   },
+   "foodPerAdultDay": 45,
+   "localPerDay": 12
+  },
+  "officialUrl": "https://www.gardaland.it/en/",
+  "sources": [
+   "https://www.gardaland.it/en/tickets/",
+   "https://en.wikipedia.org/wiki/Gardaland"
+  ],
+  "priceConfidence": "verified",
+  "images": [
+   "File:Ingresso del Gardaland Park.jpg",
+   "File:Gardaland Adventure Hotel.jpg",
+   "File:Gardaland (34149687090).jpg",
+   "File:Gardaland (34469071992).jpg",
+   "File:Fontata Entrata Gardaland.jpg"
+  ]
+ },
+ {
+  "id": "cyprus-larnaca",
+  "name": {
+   "sr": "Larnaka i Park kamila",
+   "en": "Larnaca & Camel Park"
+  },
+  "place": {
+   "sr": "Larnaka, Kipar",
+   "en": "Larnaca, Cyprus"
+  },
+  "country": "CY",
+  "region": "mediterranean",
+  "coords": [
+   34.8022,
+   33.49
+  ],
+  "airport": {
+   "iata": "LCA",
+   "km": 15,
+   "minutes": 15,
+   "mode": {
+    "sr": "autom ili taksijem",
+    "en": "car or taxi"
+   }
+  },
+  "category": "beach",
+  "tags": [
+   "beach",
+   "shallow-sea",
+   "farm-animals"
+  ],
+  "ages": {
+   "baby": 2,
+   "toddler": 3,
+   "preschool": 3
+  },
+  "stroller": 2,
+  "budget": 2,
+  "bestMonths": [
+   4,
+   5,
+   6,
+   9,
+   10
+  ],
+  "season": {
+   "sr": "Otvoren cele godine, svakog dana; leti je najživlje, zimi mirnije.",
+   "en": "Open all year, every day; busiest in summer, quieter in winter."
+  },
+  "tagline": {
+   "sr": "Jahanje kamila i plitko more — tropski duh na pola sata od aerodroma.",
+   "en": "Camel rides and shallow sea — a tropical feel half an hour from the airport."
+  },
+  "description": {
+   "sr": "Park kamila u mestu Mazotos, petnaestak minuta od Larnake, prava je porodična atrakcija — deca mogu da jašu kamile i ponije, hrane životinje i brčkaju se u bazenu uključenom u cenu ulaznice. U kombinaciji sa plitkim, peščanim plažama Larnake koje su idealne za malu decu, ovo je opuštena destinacija za prvi porodični odmor na moru. Objekti su jednostavni, ali mališanima je više nego dovoljno.",
+   "en": "The Camel Park in the village of Mazotos, about fifteen minutes from Larnaca, is a real family attraction — children can ride camels and ponies, feed the animals and splash in the pool included in the entry price. Combined with Larnaca's shallow, sandy beaches, ideal for small children, this makes a relaxed destination for a first family beach holiday. The facilities are simple, but more than enough for little ones."
+  },
+  "highlights": [
+   {
+    "sr": "Jahanje kamila i ponija",
+    "en": "Camel and pony rides"
+   },
+   {
+    "sr": "Hranjenje životinja na farmi",
+    "en": "Feeding the farm animals"
+   },
+   {
+    "sr": "Bazen uključen u cenu ulaznice",
+    "en": "A swimming pool included in the entry price"
+   },
+   {
+    "sr": "Plišane plaže Larnake sa plitkim morem",
+    "en": "Larnaca's sandy beaches with shallow water"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Pristupačne cene ulaznica",
+    "en": "Affordable entry prices"
+   },
+   {
+    "sr": "Blizu aerodroma — bez dugih transfera",
+    "en": "Close to the airport — no long transfers"
+   },
+   {
+    "sr": "Plaža i park se lako kombinuju u jednom danu",
+    "en": "Beach and park combine easily in one day"
+   },
+   {
+    "sr": "Kiparska klima omogućava dužu sezonu",
+    "en": "Cyprus's climate allows a longer season"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "Objekti su jednostavni, bez luksuza",
+    "en": "Facilities are basic, with no frills"
+   },
+   {
+    "sr": "Leti je jako vruće i malo je hlada na farmi",
+    "en": "Very hot in summer with little shade at the farm"
+   },
+   {
+    "sr": "Jahanje kamila nekim porodicama nije po meri (dobrobit životinja)",
+    "en": "Camel rides don't sit well with some families (animal welfare)"
+   }
+  ],
+  "tip": {
+   "sr": "Dođite rano ujutru pre vrućine i ponesite kupaće — bazen je već u ceni ulaznice.",
+   "en": "Arrive early before the heat and bring swimwear — the pool is already included in the entry price."
+  },
+  "costs": {
+   "tickets": [
+    {
+     "name": {
+      "sr": "Ulaz u Park kamila",
+      "en": "Camel Park entry"
+     },
+     "adult": 8,
+     "child": 5,
+     "freeUnder": 3,
+     "url": "https://www.camel-park.com/"
+    }
+   ],
+   "hotelNight": {
+    "budget": 80,
+    "mid": 140,
+    "comfort": 220
+   },
+   "foodPerAdultDay": 40,
+   "localPerDay": 12
+  },
+  "officialUrl": "https://www.camel-park.com/",
+  "sources": [
+   "https://www.camel-park.com/tickets/",
+   "https://www.camel-park.com/faq/"
+  ],
+  "priceConfidence": "estimated",
+  "images": [
+   "File:Larnaca 01-2017 img14 Finikoudes.jpg",
+   "File:Larnaca 01-2017 img27 Finikoudes.jpg",
+   "File:Larnaca 01-2017 img26 Larnaca Marina.jpg",
+   "File:Larnaca 01-2017 img01 Larnaca Fort.jpg",
+   "File:Stunning Larnaca Castle and finikoudes - panoramio.jpg",
+   "File:Mackenzie by Georgy - panoramio.jpg"
+  ]
+ },
+ {
+  "id": "rome-explora",
+  "name": {
+   "sr": "Explora — dečji muzej",
+   "en": "Explora Children's Museum"
+  },
+  "place": {
+   "sr": "Rim",
+   "en": "Rome"
+  },
+  "country": "IT",
+  "region": "mediterranean",
+  "coords": [
+   41.9147,
+   12.4748
+  ],
+  "airport": {
+   "iata": "FCO",
+   "km": 30,
+   "minutes": 45,
+   "mode": {
+    "sr": "vozom i metroom",
+    "en": "train and metro"
+   }
+  },
+  "category": "edutainment",
+  "tags": [
+   "museum",
+   "indoor",
+   "playground",
+   "rainy-day"
+  ],
+  "ages": {
+   "baby": 2,
+   "toddler": 3,
+   "preschool": 3
+  },
+  "stroller": 3,
+  "budget": 2,
+  "bestMonths": [
+   3,
+   4,
+   5,
+   10,
+   11
+  ],
+  "season": {
+   "sr": "Otvoren tokom cele godine po terminima; van sezone zatvoren ponedeljkom.",
+   "en": "Open all year in timed slots; closed on Mondays off-season."
+  },
+  "tagline": {
+   "sr": "Muzej napravljen samo za decu — sve se sme dirati, od vode do supermarketa.",
+   "en": "A museum built just for children — everything can be touched, from water to a supermarket."
+  },
+  "description": {
+   "sr": "Explora je dečji muzej u srcu Rima, pored Pijace del Popolo, namenjen deci do 12 godina. Sve je interaktivno: deca se igraju u mini-supermarketu, eksperimentišu sa vodom, snimaju u studiju i voze auto — uče kroz igru, a roditelji su dobrodošli svuda. Posebno je dragocen u vrućim ili kišnim danima kada treba pobegne sa ulice. Ulaz je po terminima, pa je bolje rezervisati unapred.",
+   "en": "Explora is a children's museum in the heart of Rome, next to Piazza del Popolo, aimed at children up to 12. Everything is hands-on: children play in a mini-supermarket, experiment with water, record in a studio and drive a car — learning through play, with parents welcome everywhere. It is especially valuable on hot or rainy days when you need to get off the street. Entry is by timed slot, so it is better to book ahead."
+  },
+  "highlights": [
+   {
+    "sr": "Mini-supermarket i pijaca za igru",
+    "en": "The mini-supermarket and market for play"
+   },
+   {
+    "sr": "Zona sa vodom i eksperimentima",
+    "en": "The water and experiments zone"
+   },
+   {
+    "sr": "Kutak za bebe do 3 godine",
+    "en": "A dedicated corner for babies up to 3"
+   },
+   {
+    "sr": "Bašta sa vozićem i igralištem",
+    "en": "A garden with a little train and playground"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Sve je prilagođeno deci, sa svim sadržajima u visini mališana",
+    "en": "Everything is child-sized, with all activities at little ones' height"
+   },
+   {
+    "sr": "Zatvoreno i klimatizovano — idealno za loše vreme",
+    "en": "Indoor and air-conditioned — ideal for bad weather"
+   },
+   {
+    "sr": "U samom centru Rima, lako dostupno metroom",
+    "en": "Right in the centre of Rome, easy by metro"
+   },
+   {
+    "sr": "Bebe do 12 meseci ulaze besplatno",
+    "en": "Babies under 12 months enter free"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "Obavezan termin — bez rezervacije često nema mesta",
+    "en": "Timed slots — without a booking there is often no space"
+   },
+   {
+    "sr": "Za decu stariju od 8 godina sadržaj je već pomalo dečji",
+    "en": "For children over 8 the content is already a bit young"
+   },
+   {
+    "sr": "Van sezone je zatvoren ponedeljkom",
+    "en": "Closed on Mondays off-season"
+   }
+  ],
+  "tip": {
+   "sr": "Rezervišite termin onlajn bar dan-dva ranije, posebno vikendom i za praznike.",
+   "en": "Book your slot online a day or two ahead, especially at weekends and during holidays."
+  },
+  "costs": {
+   "tickets": [
+    {
+     "name": {
+      "sr": "Ulaznica za Explora (od 3 godine)",
+      "en": "Explora entry (from age 3)"
+     },
+     "adult": 11,
+     "child": 11,
+     "freeUnder": 1,
+     "url": "https://mdbr.it/en/"
+    }
+   ],
+   "hotelNight": {
+    "budget": 90,
+    "mid": 150,
+    "comfort": 240
+   },
+   "foodPerAdultDay": 45,
+   "localPerDay": 12
+  },
+  "officialUrl": "https://mdbr.it/en/",
+  "sources": [
+   "https://mdbr.it/en/visit/",
+   "https://www.turismoroma.it/en/node/1442"
+  ],
+  "priceConfidence": "verified",
+  "images": [
+   "File:Explora il Museo dei bambini di Roma.jpg",
+   "File:Villa Borghese Rome 2011 1.jpg",
+   "File:Rome-villa-borghese-garden.jpg",
+   "File:Roma - 2016-05-21 - Villa Borghese - 0697.jpg"
+  ]
+ },
+ {
+  "id": "barcelona-cosmocaixa",
+  "name": {
+   "sr": "KosmoKaša",
+   "en": "CosmoCaixa"
+  },
+  "place": {
+   "sr": "Barselona",
+   "en": "Barcelona"
+  },
+  "country": "ES",
+  "region": "mediterranean",
+  "coords": [
+   41.4135,
+   2.1308
+  ],
+  "airport": {
+   "iata": "BCN",
+   "km": 16,
+   "minutes": 30,
+   "mode": {
+    "sr": "autom, autobusom ili taksijem",
+    "en": "car, bus or taxi"
+   }
+  },
+  "category": "edutainment",
+  "tags": [
+   "science",
+   "museum",
+   "indoor",
+   "rainy-day",
+   "forest"
+  ],
+  "ages": {
+   "baby": 2,
+   "toddler": 3,
+   "preschool": 3
+  },
+  "stroller": 3,
+  "budget": 1,
+  "bestMonths": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   10,
+   11,
+   12
+  ],
+  "season": {
+   "sr": "Otvoren svakog dana od 10 do 20 sati; zatvoren 25. decembra, 1. i 6. januara.",
+   "en": "Open every day from 10:00 to 20:00; closed 25 December, 1 and 6 January."
+  },
+  "tagline": {
+   "sr": "Muzej nauke gde deca do 16 godina ulaze besplatno — poplavljena šuma u zatvorenom.",
+   "en": "A science museum where under-16s go free — a flooded forest indoors."
+  },
+  "description": {
+   "sr": "KosmoKaša je naučni muzej na obroncima Tibidaba, poznat po svom „Poplašljivom vrhu“ — replike poplavljene amazonske šume u ogromnom staklenom prostoru. Za porodice je odličan izbor jer je ulaz za decu do 16 godina besplatan, a interaktivni eksponati, geološki zid i planetarijum drže pažnju i najmlađih. Zatvoren je i klimatizovan, pa je sigurna opcija za kišni dan u Barseloni.",
+   "en": "CosmoCaixa is a science museum on the slopes of Tibidabo, famous for its 'Flooded Forest' — a replica of a flooded Amazon forest in a vast glass space. It is a great choice for families because entry is free for under-16s, and the interactive exhibits, the geological wall and the planetarium hold even the youngest ones' attention. It is indoor and air-conditioned, so it is a safe option for a rainy day in Barcelona."
+  },
+  "highlights": [
+   {
+    "sr": "Poplavljena amazonska šuma sa pravom kišom",
+    "en": "The flooded Amazon forest with real rain"
+   },
+   {
+    "sr": "Geološki zid sa kamenjem koje se sme dirati",
+    "en": "The geological wall with touchable rocks"
+   },
+   {
+    "sr": "Planetarijum (uz doplatu)",
+    "en": "The planetarium (extra charge)"
+   },
+   {
+    "sr": "Dečja zona za najmlađe",
+    "en": "A dedicated zone for the youngest"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Deca do 16 godina ulaze besplatno",
+    "en": "Children under 16 enter free"
+   },
+   {
+    "sr": "Zatvoreno i klimatizovano — odlično za loše vreme",
+    "en": "Indoor and air-conditioned — great for bad weather"
+   },
+   {
+    "sr": "Pristupačno, jer plaćaju samo odrasli",
+    "en": "Affordable, since only adults pay"
+   },
+   {
+    "sr": "Ravno i prostrano, lako sa kolicima",
+    "en": "Flat and spacious, easy with a pushchair"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "Vikendom i za praznike su gužve",
+    "en": "Crowded at weekends and during holidays"
+   },
+   {
+    "sr": "Do muzeja treba autobus ili taksi — na brdu je",
+    "en": "You need a bus or taxi to reach it — it is uphill"
+   },
+   {
+    "sr": "Planetarijum i neki sadržaji se doplaćuju",
+    "en": "The planetarium and some features cost extra"
+   }
+  ],
+  "tip": {
+   "sr": "Uđite rano prepodne — od 12 sati, posebno vikendom, redovi su sve duži.",
+   "en": "Go in early — from midday, especially at weekends, the queues keep growing."
+  },
+  "costs": {
+   "tickets": [
+    {
+     "name": {
+      "sr": "Ulaznica za KosmoKašu",
+      "en": "CosmoCaixa admission"
+     },
+     "adult": 8,
+     "child": 0,
+     "freeUnder": 16,
+     "url": "https://cosmocaixa.org/en/"
+    }
+   ],
+   "hotelNight": {
+    "budget": 90,
+    "mid": 150,
+    "comfort": 240
+   },
+   "foodPerAdultDay": 45,
+   "localPerDay": 12
+  },
+  "officialUrl": "https://cosmocaixa.org/en/",
+  "sources": [
+   "https://cosmocaixa.org/en/",
+   "https://www.barcelona.cat/museuhistoria/en/cosmocaixa"
+  ],
+  "priceConfidence": "verified",
+  "images": [
+   "File:Bosque inundado-CosmoCaixa (1).jpg",
+   "File:Bosque inundado-CosmoCaixa (4).jpg",
+   "File:Bosque inundado-CosmoCaixa (6).jpg",
+   "File:CosmoCaixa building.jpg",
+   "File:Cosmocaixa Barcelona maig 2018.jpg",
+   "File:2011 Foucault pendulums in CosmoCaixa Barcelona.jpg"
+  ]
+ },
+ {
+  "id": "malta-popeye",
+  "name": {
+   "sr": "Popajevo selo",
+   "en": "Popeye Village"
+  },
+  "place": {
+   "sr": "Melieha, Malta",
+   "en": "Mellieħa, Malta"
+  },
+  "country": "MT",
+  "region": "mediterranean",
+  "coords": [
+   35.9608,
+   14.3413
+  ],
+  "airport": {
+   "iata": "MLA",
+   "km": 25,
+   "minutes": 40,
+   "mode": {
+    "sr": "autom ili taksijem",
+    "en": "car or taxi"
+   }
+  },
+  "category": "theme",
+  "tags": [
+   "theme-park",
+   "beach",
+   "shallow-sea",
+   "fairytale"
+  ],
+  "ages": {
+   "baby": 2,
+   "toddler": 3,
+   "preschool": 3
+  },
+  "stroller": 2,
+  "budget": 3,
+  "bestMonths": [
+   4,
+   5,
+   6,
+   9,
+   10
+  ],
+  "season": {
+   "sr": "Otvoren tokom cele godine; visoka sezona je od juna do septembra, sa kupanjem.",
+   "en": "Open all year; high season is June to September, with swimming."
+  },
+  "tagline": {
+   "sr": "Šareno filmsko selo u uvali — kulise filma o Popaju postale porodični park.",
+   "en": "A colourful film village in a cove — the Popeye movie set turned family park."
+  },
+  "description": {
+   "sr": "Popajevo selo u uvali Ankor Bej na severu Malte izgrađeno je kao kulisa za film „Popaj“ iz 1980. i danas je veseli porodični park sa drvenim kućicama, predstavama i animacijama. Leti se u uvali kupa i vozi na vodenim gumenjacima, a zimi park radi u smanjenom obimu. Za malu decu su najzanimljiviji susreti sa Popajem i Olajkom, mini-golf i mirna uvala sa bistrim, plitkim morem.",
+   "en": "Popeye Village in Anchor Bay in the north of Malta was built as the set for the 1980 film 'Popeye' and is now a cheerful family park with wooden houses, shows and entertainment. In summer you can swim in the cove and ride water inflatables, and in winter the park runs on a reduced schedule. For small children the highlights are meeting Popeye and Olive, mini-golf and the calm cove with clear, shallow water."
+  },
+  "highlights": [
+   {
+    "sr": "Susreti sa Popajem, Olajkom i Blutom",
+    "en": "Meet-and-greets with Popeye, Olive and Bluto"
+   },
+   {
+    "sr": "Kupanje u uvali i vodeni gumenjaci (leti)",
+    "en": "Swimming in the cove and water inflatables (summer)"
+   },
+   {
+    "sr": "Mini-golf i drveno igralište",
+    "en": "Mini-golf and a wooden playground"
+   },
+   {
+    "sr": "Predstave i animacije tokom celog dana",
+    "en": "Shows and entertainment throughout the day"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Šareno i veselo, mališani su oduševljeni kulisa",
+    "en": "Colourful and fun — little ones love the film set"
+   },
+   {
+    "sr": "Uvala sa mirnim, plitkim morem pogodna za malu decu",
+    "en": "A cove with calm, shallow water suited to small children"
+   },
+   {
+    "sr": "Program animacija tokom celog dana",
+    "en": "Entertainment running throughout the day"
+   },
+   {
+    "sr": "Prela pogled na otvoreno more i obližnje ostrvce",
+    "en": "Lovely views over the open sea and a nearby islet"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "Leti je jako vruće i malo prirodnog hlada",
+    "en": "Very hot in summer with little natural shade"
+   },
+   {
+    "sr": "Uvala ima strme prilaze i stepenice",
+    "en": "The cove has steep approaches and steps"
+   },
+   {
+    "sr": "Kupanje je samo leti — zimi je park skraćen",
+    "en": "Swimming is summer-only — the park is reduced in winter"
+   }
+  ],
+  "tip": {
+   "sr": "Ponesite kupaće i vodu za piće — u uvali je leti jako toplo, a cene u parku su više.",
+   "en": "Bring swimwear and water — the cove gets very hot in summer and in-park prices are higher."
+  },
+  "costs": {
+   "tickets": [
+    {
+     "name": {
+      "sr": "Ulaznica za Popajevo selo",
+      "en": "Popeye Village admission"
+     },
+     "adult": 20,
+     "child": 15,
+     "freeUnder": 3,
+     "url": "https://popeyemalta.com/"
+    }
+   ],
+   "hotelNight": {
+    "budget": 80,
+    "mid": 140,
+    "comfort": 220
+   },
+   "foodPerAdultDay": 40,
+   "localPerDay": 12
+  },
+  "officialUrl": "https://popeyemalta.com/",
+  "sources": [
+   "https://popeyemalta.com/",
+   "https://www.maltadvice.com/en/popeye-village-malta/"
+  ],
+  "priceConfidence": "estimated",
+  "images": [
+   "File:Malta - Mellieha - Triq tal-Prajjet - Popeye Village 01 ies.jpg",
+   "File:Malta - Mellieha - Triq tal-Prajjet - Popeye Village 02 ies.jpg",
+   "File:Malta - Mellieha - Triq tal-Prajjet - Popeye Village 03 ies.jpg",
+   "File:Popeye Village 2009.JPG",
+   "File:Malta - Mellieha - Triq tal-Prajjet - Popeye Village 05 ies.jpg"
+  ]
+ },
+ {
+  "id": "budapest-tropicarium",
+  "name": {
+   "sr": "Tropikarijum Budimpešta",
+   "en": "Tropicarium Budapest"
+  },
+  "place": {
+   "sr": "Budimpešta",
+   "en": "Budapest"
+  },
+  "country": "HU",
+  "region": "central",
+  "coords": [
+   47.4078,
+   19.0181
+  ],
+  "airport": {
+   "iata": "BUD",
+   "km": 25,
+   "minutes": 40,
+   "mode": {
+    "sr": "autom, autobusom ili taksijem",
+    "en": "car, bus or taxi"
+   }
+  },
+  "category": "animals",
+  "tags": [
+   "aquarium",
+   "indoor",
+   "rainy-day",
+   "zoo"
+  ],
+  "ages": {
+   "baby": 2,
+   "toddler": 3,
+   "preschool": 3
+  },
+  "stroller": 3,
+  "budget": 1,
+  "bestMonths": [
+   1,
+   2,
+   3,
+   4,
+   10,
+   11,
+   12
+  ],
+  "season": {
+   "sr": "Otvoren svakog dana cele godine, od 10 do 20 sati (blagajna do 19).",
+   "en": "Open every day all year, from 10:00 to 20:00 (ticket desk until 19:00)."
+  },
+  "tagline": {
+   "sr": "Stakleni tunel među ajkulama u srcu tržnog centra — savršeno za kišni dan.",
+   "en": "A glass tunnel among sharks inside a shopping centre — perfect for a rainy day."
+  },
+  "description": {
+   "sr": "Tropikarijum u budimpeštanskom tržnom centru Kampona jedan je od najvećih akvarijuma Centralne Evrope, sa morskom vodom i staklenim tunelom kroz koji ajkule i raže plivaju iznad vaših glava. Zatvoren je, topao i lako se obilazi, pa je idealan za hladne ili kišne dane, a deca do 3 godine ulaze besplatno. Osim akvarijuma, tu su terarijumi sa zmijama i krokodilima i prateća zona sa hranom i igraonicom.",
+   "en": "The Tropicarium inside Budapest's Campona shopping centre is one of Central Europe's largest aquariums, with seawater and a glass tunnel where sharks and rays glide over your head. It is indoor, warm and easy to get around, so it is ideal for cold or rainy days, and children under 3 enter free. Besides the aquarium there are terrariums with snakes and crocodiles, plus a food court and play area nearby."
+  },
+  "highlights": [
+   {
+    "sr": "Stakleni tunel sa ajkulama i ražama",
+    "en": "The glass tunnel with sharks and rays"
+   },
+   {
+    "sr": "Terarijumi sa zmijama, krokodilima i gušterima",
+    "en": "Terrariums with snakes, crocodiles and lizards"
+   },
+   {
+    "sr": "Hranjenje riba po rasporedu",
+    "en": "Scheduled fish feedings"
+   },
+   {
+    "sr": "Igraonica i tržni centar u istom objektu",
+    "en": "A play area and the shopping centre in the same building"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Pristupačne cene u poređenju sa zapadnom Evropom",
+    "en": "Affordable prices compared with Western Europe"
+   },
+   {
+    "sr": "Potpuno zatvoreno — sigurno za loše vreme",
+    "en": "Fully indoor — safe for bad weather"
+   },
+   {
+    "sr": "Deca do 3 godine besplatno",
+    "en": "Children under 3 go free"
+   },
+   {
+    "sr": "Lako dostupno automobilom sa parkingom",
+    "en": "Easy to reach by car with parking"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "Smešten je u tržnom centru van centra grada",
+    "en": "Located in a shopping centre outside the city centre"
+   },
+   {
+    "sr": "Vikendom može biti gužve",
+    "en": "Can be crowded at weekends"
+   },
+   {
+    "sr": "Nekima deluje malo zastarelo",
+    "en": "Some find it a little dated"
+   }
+  ],
+  "tip": {
+   "sr": "Iskoristite porodičnu kartu (2 odrasla + 2 dece) — znatno je povoljnija od pojedinačnih ulaznica.",
+   "en": "Use the family ticket (2 adults + 2 children) — it is considerably cheaper than single entries."
+  },
+  "costs": {
+   "tickets": [
+    {
+     "name": {
+      "sr": "Ulaznica za Tropikarijum (radni dan)",
+      "en": "Tropicarium admission (weekday)"
+     },
+     "adult": 12,
+     "child": 9,
+     "freeUnder": 3,
+     "url": "https://www.tropicarium.hu/"
+    }
+   ],
+   "hotelNight": {
+    "budget": 70,
+    "mid": 120,
+    "comfort": 190
+   },
+   "foodPerAdultDay": 30,
+   "localPerDay": 8
+  },
+  "officialUrl": "https://www.tropicarium.hu/",
+  "sources": [
+   "https://www.tropicarium.hu/",
+   "https://whichmuseum.com/museum/tropicarium-oceanarium-budapest-4481/tickets"
+  ],
+  "priceConfidence": "verified",
+  "images": [
+   "File:Tropicarium-Oceanarium Budapest 1.JPG",
+   "File:Tropicarium-Oceanarium Budapest 12.JPG",
+   "File:Tropicarium-Oceanarium Budapest 123.JPG",
+   "File:Unidentified Crocodilia in Tropicarium-Oceanarium Budapest 01.JPG",
+   "File:Unidentified Crocodilia in Tropicarium-Oceanarium Budapest 02.JPG",
+   "File:Tropicarium-Oceanarium Budapest w.JPG"
+  ]
+ },
+ {
+  "id": "zatorland",
+  "name": {
+   "sr": "Zatorland",
+   "en": "Zatorland"
+  },
+  "place": {
+   "sr": "Zator, kod Krakova",
+   "en": "Zator, near Kraków"
+  },
+  "country": "PL",
+  "region": "central",
+  "coords": [
+   49.9885,
+   19.4419
+  ],
+  "airport": {
+   "iata": "KRK",
+   "km": 35,
+   "minutes": 35,
+   "mode": {
+    "sr": "autom ili taksijem",
+    "en": "car or taxi"
+   }
+  },
+  "category": "theme",
+  "tags": [
+   "theme-park",
+   "dinosaurs",
+   "fairytale",
+   "water-park"
+  ],
+  "ages": {
+   "baby": 1,
+   "toddler": 3,
+   "preschool": 3
+  },
+  "stroller": 2,
+  "budget": 2,
+  "bestMonths": [
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "season": {
+   "sr": "Sezonski park — 2025. sezona trajala je od 25. aprila do 19. oktobra.",
+   "en": "A seasonal park — the 2025 season ran from 25 April to 19 October."
+  },
+  "tagline": {
+   "sr": "Dinosaurusi koji se pomeraju i riču, u poljskom gradu Zabavnih parkova.",
+   "en": "Dinosaurs that move and roar, in Poland's town of amusement parks."
+  },
+  "description": {
+   "sr": "Zatorland je porodični zabavni park u gradiću Zator, pola sata od Krakova, poznat po Dinozatorlandu — šumi sa desetinama pokretnih, ričućih dinosaurusa u prirodnoj veličini. Osim dinosaurusa, tu su Park mitova sa čamcima, Park bajki, vodeni park i brojna igrališta. Najbolje odgovara deci od 3 do 8 godina, a za mališane niže od 90 cm ulaz je gotovo simboličan.",
+   "en": "Zatorland is a family amusement park in the little town of Zator, half an hour from Kraków, known for Dinozatorland — a forest with dozens of life-size dinosaurs that move and roar. Besides dinosaurs there is a Mythology Park with boats, a Fairytale Park, a water park and many playgrounds. It suits children aged 3 to 8 best, and for little ones under 90 cm entry is almost symbolic."
+  },
+  "highlights": [
+   {
+    "sr": "Dinozatorland sa pokretnim dinosaurima",
+    "en": "Dinozatorland with moving dinosaurs"
+   },
+   {
+    "sr": "Park bajki i Park mitova sa vožnjom čamcem",
+    "en": "The Fairytale and Mythology Parks with a boat ride"
+   },
+   {
+    "sr": "Vodeni park i dečja igrališta",
+    "en": "A water park and children's playgrounds"
+   },
+   {
+    "sr": "Vozić kroz park",
+    "en": "A little train through the park"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Sadržaj namenjen baš mlađoj deci",
+    "en": "Content aimed specifically at younger children"
+   },
+   {
+    "sr": "Znatno povoljnije od velikih evropskih parkova",
+    "en": "Much cheaper than the big European parks"
+   },
+   {
+    "sr": "Blizu Krakova, pa se lako kombinuje sa gradom",
+    "en": "Close to Kraków, so it combines easily with the city"
+   },
+   {
+    "sr": "Više parkova u jednom kompleksu",
+    "en": "Several parks in one complex"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "Gotovo sve je na otvorenom — zavisi od lepog vremena",
+    "en": "Nearly everything is outdoors — depends on good weather"
+   },
+   {
+    "sr": "Oznake i program su uglavnom na poljskom",
+    "en": "Signage and programmes are mostly in Polish"
+   },
+   {
+    "sr": "Leti su gužve, a hladovine ima tek tu i tamo",
+    "en": "Crowded in summer, with shade only here and there"
+   }
+  ],
+  "tip": {
+   "sr": "Uzmite dvodnevnu kartu ako možete — parkova je mnogo, a za jedan dan je previše za malu decu.",
+   "en": "Take a two-day ticket if you can — there are many parks, and one day is too much for small children."
+  },
+  "costs": {
+   "tickets": [
+    {
+     "name": {
+      "sr": "Zatorland jednodnevna karta (preko 90 cm)",
+      "en": "Zatorland one-day ticket (over 90 cm)"
+     },
+     "adult": 26,
+     "child": 26,
+     "freeUnder": 0,
+     "url": "https://zatorland.pl/en/tickets/"
+    }
+   ],
+   "hotelNight": {
+    "budget": 60,
+    "mid": 100,
+    "comfort": 170
+   },
+   "foodPerAdultDay": 30,
+   "localPerDay": 8
+  },
+  "officialUrl": "https://zatorland.pl/en/",
+  "sources": [
+   "https://zatorland.pl/en/tickets/",
+   "https://zatorland.pl/en/"
+  ],
+  "priceConfidence": "verified",
+  "images": [
+   "File:POL Zator Zatorland.jpg",
+   "File:Dinolandia-Zator - panoramio.jpg",
+   "File:Dinolandia v Zatore ( Polsko) - panoramio.jpg",
+   "File:Dinolandia-T Rex - panoramio.jpg",
+   "File:Dinolandia-brontosaurus - panoramio.jpg",
+   "File:T - Rex - panoramio.jpg"
+  ]
+ },
+ {
+  "id": "zoom-torino",
+  "name": {
+   "sr": "Zoom Torino",
+   "en": "Zoom Torino"
+  },
+  "place": {
+   "sr": "Kumjana, kod Torina",
+   "en": "Cumiana, near Turin"
+  },
+  "country": "IT",
+  "region": "mediterranean",
+  "coords": [
+   44.9323,
+   7.4208
+  ],
+  "airport": {
+   "iata": "TRN",
+   "km": 35,
+   "minutes": 45,
+   "mode": {
+    "sr": "autom ili taksijem",
+    "en": "car or taxi"
+   }
+  },
+  "category": "animals",
+  "tags": [
+   "zoo",
+   "safari",
+   "water-park",
+   "beach"
+  ],
+  "ages": {
+   "baby": 2,
+   "toddler": 3,
+   "preschool": 3
+  },
+  "stroller": 2,
+  "budget": 2,
+  "bestMonths": [
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "season": {
+   "sr": "Sezonski park, otvoren od marta do kraja oktobra; zimi je zatvoren.",
+   "en": "A seasonal park, open from March to late October; closed in winter."
+  },
+  "tagline": {
+   "sr": "Biopark sa bazenom i peščanom plažom u jednom — safari i kupanje istog dana.",
+   "en": "A bio-park with a pool and sandy beach in one — safari and a swim on the same day."
+  },
+  "description": {
+   "sr": "Zoom Torino u Kumjani, blizu Torina, moderan je biopark uređen po uzoru na afričke i azijske habitate, sa životinjama bez klasičnih kaveza. Posebno je privlačan leti jer ima peščanu plažu i bazene u sklopu ulaznice, pa dan može da se podeli između razgledanja i kupanja. Za malu decu su najbolji vozić kroz park, hranjenje životinja i blaga šetnja senovitim stazama.",
+   "en": "Zoom Torino in Cumiana, near Turin, is a modern bio-park modelled on African and Asian habitats, with animals kept without classic cages. It is especially appealing in summer because it has a sandy beach and pools included in the ticket, so the day can be split between sightseeing and swimming. For small children the best parts are the little train through the park, the animal feedings and a gentle walk along shaded paths."
+  },
+  "highlights": [
+   {
+    "sr": "Afrička savana i azijski delovi bez kaveza",
+    "en": "The African savannah and Asian sections without cages"
+   },
+   {
+    "sr": "Peščana plaža i bazeni uključeni u cenu",
+    "en": "A sandy beach and pools included in the price"
+   },
+   {
+    "sr": "Vozić kroz park",
+    "en": "A little train through the park"
+   },
+   {
+    "sr": "Hranjenje životinja i edukativne priče",
+    "en": "Animal feedings and educational talks"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Bazeni i plaža u sklopu ulaznice — odlično leti",
+    "en": "Pools and beach included in the ticket — great in summer"
+   },
+   {
+    "sr": "Deca do 2 godine ulaze besplatno",
+    "en": "Children under 2 enter free"
+   },
+   {
+    "sr": "Prirodno okruženje sa dosta hlada",
+    "en": "A natural setting with plenty of shade"
+   },
+   {
+    "sr": "Manje gužve nego u velikim parkovima",
+    "en": "Fewer crowds than at the big parks"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "Radi samo sezonski — zimi je zatvoren",
+    "en": "Seasonal only — closed in winter"
+   },
+   {
+    "sr": "Neophodan je automobil",
+    "en": "A car is essential"
+   },
+   {
+    "sr": "Leti preko dana ume da bude vruće",
+    "en": "It can get hot in the middle of summer days"
+   }
+  ],
+  "tip": {
+   "sr": "Ponesite kupaće i peškir — većina porodica pola dana provede na plaži, a pola među životinjama.",
+   "en": "Bring swimwear and a towel — most families spend half the day on the beach and half among the animals."
+  },
+  "costs": {
+   "tickets": [
+    {
+     "name": {
+      "sr": "Ulaznica za Zoom Torino",
+      "en": "Zoom Torino admission"
+     },
+     "adult": 26,
+     "child": 21,
+     "freeUnder": 2,
+     "url": "https://www.zoomtorino.it/"
+    }
+   ],
+   "hotelNight": {
+    "budget": 90,
+    "mid": 150,
+    "comfort": 230
+   },
+   "foodPerAdultDay": 45,
+   "localPerDay": 12
+  },
+  "officialUrl": "https://www.zoomtorino.it/",
+  "sources": [
+   "https://www.zoomtorino.it/",
+   "https://www.turismotorino.org/en/zoom-torino"
+  ],
+  "priceConfidence": "verified",
+  "images": [
+   "File:ZoomTorinoIngresso.jpg",
+   "File:ZoomTorinoLemuri.jpg",
+   "File:Zoom Torino 01.jpg",
+   "File:Zoom Torino 02.jpg",
+   "File:Smirolato.JPG",
+   "File:ZoomHabitatNosyKomba.jpg"
+  ]
+ },
+ {
+  "id": "hameau-pere-noel",
+  "name": {
+   "sr": "Selo Deda Mraza (Le Hameau du Père Noël)",
+   "en": "Le Hameau du Père Noël"
+  },
+  "place": {
+   "sr": "Sen-Blez, Gornja Savoja",
+   "en": "Saint-Blaise, Haute-Savoie"
+  },
+  "country": "FR",
+  "region": "western",
+  "coords": [
+   46.0638,
+   6.0694
+  ],
+  "airport": {
+   "iata": "GVA",
+   "km": 20,
+   "minutes": 25,
+   "mode": {
+    "sr": "autom ili taksijem",
+    "en": "car or taxi"
+   }
+  },
+  "category": "theme",
+  "tags": [
+   "fairytale",
+   "winter",
+   "indoor",
+   "forest"
+  ],
+  "ages": {
+   "baby": 2,
+   "toddler": 3,
+   "preschool": 3
+  },
+  "stroller": 2,
+  "budget": 2,
+  "bestMonths": [
+   7,
+   8,
+   11,
+   12
+  ],
+  "season": {
+   "sr": "Otvoren tokom cele godine po sezonskom rasporedu; najviše se posećuje zimi, od oktobra do januara.",
+   "en": "Open all year on a seasonal schedule; busiest in winter, from October to January."
+  },
+  "tagline": {
+   "sr": "Kuća Deda Mraza u kojoj Božić traje cele godine, na pola sata od Ženeve.",
+   "en": "Santa's house where it is Christmas all year, half an hour from Geneva."
+  },
+  "description": {
+   "sr": "Selo Deda Mraza (Le Hameau du Père Noël) nalazi se u Sen-Blezu u francuskoj Gornjoj Savoji, na prevoju Mon Sion između Ženeve i Anecija, u sklopu parka Grand Parc d'Andilly. Deca obilaze Dedin dom — njegovu kuhinju, spavaću sobu i radionicu igračaka — uz animirane lutke, zvonca i priče uz kamin, a u vrtu ih čekaju vilenjaci. Posebno je čarobno zimi, kad je ceo kompleks pretvoren u božićni park.",
+   "en": "Le Hameau du Père Noël is in Saint-Blaise in France's Haute-Savoie, on the Mont Sion pass between Geneva and Annecy, within the Grand Parc d'Andilly complex. Children explore Santa's home — his kitchen, bedroom and toy workshop — with animated figures, bells and stories by the fire, while elves await in the garden. It is especially magical in winter, when the whole complex becomes a Christmas park."
+  },
+  "highlights": [
+   {
+    "sr": "Obilazak kuće Deda Mraza — kuhinja, soba i radionica",
+    "en": "Touring Santa's house — kitchen, bedroom and workshop"
+   },
+   {
+    "sr": "Vrt vilenjaka sa animiranim figurama",
+    "en": "The elves' garden with animated figures"
+   },
+   {
+    "sr": "Priče uz kamin u kućici za pričanje",
+    "en": "Fireside stories in the storytelling house"
+   },
+   {
+    "sr": "Palata majki Božićnica i krep-salon",
+    "en": "The Mothers' Christmas house and the crêperie"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Božićna čarolija dostupna i leti, ne samo zimi",
+    "en": "Christmas magic available in summer too, not only winter"
+   },
+   {
+    "sr": "Sadržaj je baš za najmlađe (do 7–8 godina)",
+    "en": "Content aimed squarely at the youngest (up to 7–8)"
+   },
+   {
+    "sr": "Blizu Ženeve — moguć jednodnevni izlet",
+    "en": "Close to Geneva — possible as a day trip"
+   },
+   {
+    "sr": "Prilika da se dete oprosti od dude pored „svetleće jelke“",
+    "en": "A chance for a child to leave their dummy by the 'glowing tree'"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "Neophodan je automobil — teško dostupan javnim prevozom",
+    "en": "A car is essential — hard to reach by public transport"
+   },
+   {
+    "sr": "Radno vreme je sezonsko i promenljivo, lako se propusti",
+    "en": "Opening hours are seasonal and changeable, easy to miss"
+   },
+   {
+    "sr": "Program je na francuskom",
+    "en": "The programme is in French"
+   }
+  ],
+  "tip": {
+   "sr": "Pre polaska proverite radno vreme na zvaničnom sajtu — zimi radi svakog dana, a leti samo određenim danima.",
+   "en": "Check the opening hours on the official site before setting off — in winter it is open daily, in summer only on certain days."
+  },
+  "costs": {
+   "tickets": [
+    {
+     "name": {
+      "sr": "Ulaz u Selo Deda Mraza (zima)",
+      "en": "Hameau du Père Noël entry (winter)"
+     },
+     "adult": 15,
+     "child": 7.5,
+     "freeUnder": 3,
+     "url": "https://www.grandparc-andilly.com/"
+    }
+   ],
+   "hotelNight": {
+    "budget": 90,
+    "mid": 150,
+    "comfort": 230
+   },
+   "foodPerAdultDay": 45,
+   "localPerDay": 12
+  },
+  "officialUrl": "https://www.grandparc-andilly.com/",
+  "sources": [
+   "https://www.grandparc-andilly.com/",
+   "https://www.montsdugenevois.com/en/offers/le-hameau-du-pere-noel-saint-blaise-en-2346639/"
+  ],
+  "priceConfidence": "verified",
+  "images": [
+   "File:Le Hameau du Père Noël @ Col du Mont Sion @ Saint-Blaise (50953330753).jpg",
+   "File:Les Grandes Médiévales d'Andilly - Fauconnerie.jpg",
+   "File:Lake Annecy (2).jpg",
+   "File:Lac d'Annecy from Col de la Forclaz.jpg"
+  ]
+ },
+ {
+  "id": "lignano-gulliverlandia",
+  "name": {
+   "sr": "Guliverlandija",
+   "en": "Gulliverlandia"
+  },
+  "place": {
+   "sr": "Linjano Sabijadoro, Italija",
+   "en": "Lignano Sabbiadoro, Italy"
+  },
+  "country": "IT",
+  "region": "mediterranean",
+  "coords": [
+   45.655,
+   13.0931
+  ],
+  "airport": {
+   "iata": "TRS",
+   "km": 60,
+   "minutes": 50,
+   "mode": {
+    "sr": "autom ili taksijem",
+    "en": "car or taxi"
+   }
+  },
+  "category": "theme",
+  "tags": [
+   "theme-park",
+   "aquarium",
+   "water-park",
+   "beach"
+  ],
+  "ages": {
+   "baby": 1,
+   "toddler": 3,
+   "preschool": 3
+  },
+  "stroller": 2,
+  "budget": 2,
+  "bestMonths": [
+   6,
+   7,
+   8,
+   9
+  ],
+  "season": {
+   "sr": "Sezonski park — otvoren od proleća do rane jeseni, uz letnje vrhunce.",
+   "en": "A seasonal park — open from spring to early autumn, peaking in summer."
+  },
+  "tagline": {
+   "sr": "Tematski park za najmlađe na obali Jadrana, sa akvarijumom i vodenim svetom.",
+   "en": "A theme park for the youngest on the Adriatic shore, with an aquarium and water world."
+  },
+  "description": {
+   "sr": "Guliverlandija u Linjanu Sabijadoru je porodični tematski park namenjen pre svega deci od 3 do 8 godina, sa mirnim vožnjama, vrtuljcima i predstavama inspirisanim Guliverovim putovanjima. U kompleksu su i akvarijum sa tunelom i kuća leptira, a blizina peščanih plaža Linjana znači da se park lako kombinuje sa morem. Za bebe i decu do 2 godine sadržaja je malo, pa je najbolji izbor od treće godine.",
+   "en": "Gulliverlandia in Lignano Sabbiadoro is a family theme park aimed mainly at children aged 3 to 8, with gentle rides, carousels and shows inspired by Gulliver's Travels. The complex also includes an aquarium with a tunnel and a butterfly house, and being close to Lignano's sandy beaches means the park combines easily with the sea. There is little for babies and under-2s, so it is best from age 3."
+  },
+  "highlights": [
+   {
+    "sr": "Mirne vožnje i vrtuljci za mlađu decu",
+    "en": "Gentle rides and carousels for younger children"
+   },
+   {
+    "sr": "Akvarijum sa podvodnim tunelom",
+    "en": "An aquarium with an underwater tunnel"
+   },
+   {
+    "sr": "Kuća leptira",
+    "en": "The butterfly house"
+   },
+   {
+    "sr": "Peščane plaže Linjana nadomak parka",
+    "en": "Lignano's sandy beaches a stone's throw from the park"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Sadržaj prilagođen baš deci od 3 do 8 godina",
+    "en": "Content tailored to children aged 3 to 8"
+   },
+   {
+    "sr": "Deca do 3 godine ulaze besplatno",
+    "en": "Children under 3 enter free"
+   },
+   {
+    "sr": "Kombinuje se sa odmorom na plaži",
+    "en": "Combines with a beach holiday"
+   },
+   {
+    "sr": "Pristupačnije od velikih parkova",
+    "en": "More affordable than the big parks"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "Za bebe i decu do 2 godine gotovo da nema sadržaja",
+    "en": "Almost no content for babies and under-2s"
+   },
+   {
+    "sr": "Otvoren samo sezonski, uglavnom leti",
+    "en": "Open only seasonally, mostly in summer"
+   },
+   {
+    "sr": "Leti su gužve i vrućina",
+    "en": "Crowds and heat in summer"
+   }
+  ],
+  "tip": {
+   "sr": "Planirajte posetu prepodne, a popodne produžite na plažu — park i more su za desetak minuta pešice.",
+   "en": "Visit in the morning and carry on to the beach in the afternoon — the park and the sea are about ten minutes apart on foot."
+  },
+  "costs": {
+   "tickets": [
+    {
+     "name": {
+      "sr": "Ulaznica za Guliverlandiju",
+      "en": "Gulliverlandia admission"
+     },
+     "adult": 18,
+     "child": 14,
+     "freeUnder": 3,
+     "url": "https://www.gulliverlandia.it/"
+    }
+   ],
+   "hotelNight": {
+    "budget": 90,
+    "mid": 150,
+    "comfort": 230
+   },
+   "foodPerAdultDay": 45,
+   "localPerDay": 12
+  },
+  "officialUrl": "https://www.gulliverlandia.it/",
+  "sources": [
+   "https://www.gulliverlandia.it/",
+   "https://www.weekendconbambini.it/gulliverlandia-lignano/"
+  ],
+  "priceConfidence": "verified",
+  "images": [
+   "File:Beach of Lignano Sabbiadoro.jpg",
+   "File:Lignano spiaggia.jpg",
+   "File:Lignano faro.jpg",
+   "File:Aerial image of Lignano Sabbiadoro (view from the south).jpg",
+   "File:Spiaggia di Lignano Sabbiadoro 2.JPG"
+  ]
+ }
+]

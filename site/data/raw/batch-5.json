@@ -1,0 +1,1842 @@
+[
+  {
+    "id": "halkidiki",
+    "name": {
+      "sr": "Halkidiki",
+      "en": "Halkidiki"
+    },
+    "place": {
+      "sr": "Halkidiki, Grčka",
+      "en": "Halkidiki, Greece"
+    },
+    "country": "GR",
+    "region": "greece",
+    "coords": [
+      40.333,
+      23.5
+    ],
+    "airport": {
+      "iata": "SKG",
+      "km": 80,
+      "minutes": 70,
+      "mode": {
+        "sr": "autom ili taksijem",
+        "en": "car or taxi"
+      }
+    },
+    "category": "beach",
+    "tags": [
+      "beach",
+      "shallow-sea",
+      "forest",
+      "boat"
+    ],
+    "ages": {
+      "baby": 3,
+      "toddler": 3,
+      "preschool": 3
+    },
+    "stroller": 2,
+    "budget": 2,
+    "bestMonths": [
+      5,
+      6,
+      9
+    ],
+    "season": {
+      "sr": "Sezona kupanja traje otprilike od maja do oktobra; mnogi hoteli i taverne zimi rade u smanjenom obimu.",
+      "en": "The beach season runs roughly May to October; many hotels and tavernas scale back in winter."
+    },
+    "tagline": {
+      "sr": "Tri zelena prsta s plitkim peščanim plažama i borovim šumama.",
+      "en": "Three green fingers of peninsula with shallow sandy beaches and pine forests."
+    },
+    "description": {
+      "sr": "Poluostrvo s tri kraka – Kasandra, Sitonija i Atos – poznato po plitkim peščanim plažama, čistom moru i borovima koji silaze do vode. Za porodice su najbolji Kasandra i Sitonija, s brojnim apartmanima i hotelima tik uz plažu. More je ovde najčešće mirno i plitko, pa deca mogu dugo da se brčkaju bezbedno.",
+      "en": "A three-fingered peninsula – Kassandra, Sithonia and Athos – known for shallow sandy beaches, clear water and pine trees that reach down to the shore. Kassandra and Sithonia are the best fit for families, with plenty of apartments and hotels right on the beach. The sea is usually calm and shallow, so little ones can splash around safely for ages."
+    },
+    "highlights": [
+      {
+        "sr": "Plitke peščane plaže poput Kanjotija (Chanioti) i Jerakinija",
+        "en": "Shallow sandy beaches such as Chanioti and Yerakini"
+      },
+      {
+        "sr": "Izleti brodićem do obližnjih uvala i plaža",
+        "en": "Boat trips to nearby coves and beaches"
+      },
+      {
+        "sr": "Šetnje kroz borove šume koje hlade i u julu",
+        "en": "Walks through pine forests that give shade even in July"
+      }
+    ],
+    "pros": [
+      {
+        "sr": "Plitko i mirno more, idealno za malu decu",
+        "en": "Shallow, calm sea – ideal for small children"
+      },
+      {
+        "sr": "Kratak transfer iz Soluna i veliki izbor porodičnih smeštaja",
+        "en": "Short transfer from Thessaloniki and a wide choice of family lodging"
+      },
+      {
+        "sr": "Povoljna hrana i smeštaj u poređenju s ostrvima",
+        "en": "Good value food and lodging compared with the islands"
+      }
+    ],
+    "cons": [
+      {
+        "sr": "Jul i avgust su vrući i krcati",
+        "en": "July and August are hot and packed"
+      },
+      {
+        "sr": "Bez automobila je teško obići tri poluostrva",
+        "en": "Hard to explore the three peninsulas without a car"
+      },
+      {
+        "sr": "Neke plaže su šljunkovite, a ne peščane",
+        "en": "Some beaches are pebbly rather than sandy"
+      }
+    ],
+    "tip": {
+      "sr": "Idite u maju, junu ili septembru i uzmite smeštaj tik uz plažu – uštedećete svako nošenje opreme.",
+      "en": "Go in May, June or September and book right on the beach – you'll save yourself carrying gear every day."
+    },
+    "costs": {
+      "tickets": [],
+      "hotelNight": {
+        "budget": 70,
+        "mid": 130,
+        "comfort": 230
+      },
+      "foodPerAdultDay": 35,
+      "localPerDay": 12
+    },
+    "officialUrl": "https://www.visit-halkidiki.gr/",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Chalkidiki",
+      "https://www.visit-halkidiki.gr/"
+    ],
+    "priceConfidence": "estimated",
+    "images": [
+      "File:Chaniotis beach.jpg",
+      "File:Pirgos Beach Agios Nikolaos Chalkidiki 001.jpg",
+      "File:Yerakini central beach, Chalkidiki, Greece Jun 2014.jpg",
+      "File:Trimi Beach, Ouranoupolis, Chalkidiki.jpg",
+      "File:Kallikratia, Chalkidiki, Greece - View on coastline.jpg"
+    ]
+  },
+  {
+    "id": "corfu",
+    "name": {
+      "sr": "Krf",
+      "en": "Corfu"
+    },
+    "place": {
+      "sr": "Krf, Grčka",
+      "en": "Corfu, Greece"
+    },
+    "country": "GR",
+    "region": "greece",
+    "coords": [
+      39.624,
+      19.921
+    ],
+    "airport": {
+      "iata": "CFU",
+      "km": 4,
+      "minutes": 10,
+      "mode": {
+        "sr": "autom ili taksijem",
+        "en": "car or taxi"
+      }
+    },
+    "category": "beach",
+    "tags": [
+      "beach",
+      "shallow-sea",
+      "old-town",
+      "castle"
+    ],
+    "ages": {
+      "baby": 3,
+      "toddler": 3,
+      "preschool": 3
+    },
+    "stroller": 2,
+    "budget": 2,
+    "bestMonths": [
+      5,
+      6,
+      9
+    ],
+    "season": {
+      "sr": "Sezona kupanja traje od maja do oktobra; ostrvo i stari grad žive tokom cele godine.",
+      "en": "Beach season runs May to October; the island and its old town are alive all year round."
+    },
+    "tagline": {
+      "sr": "Zeleno ostrvo s uvalama, UNESCO starim gradom i dve tvrđave.",
+      "en": "A green island of coves, a UNESCO old town and two fortresses."
+    },
+    "description": {
+      "sr": "Krf je jedno od najzelenijih grčkih ostrva, s peščanim i šljunkovitim uvalama na zapadu i živim starim gradom na istoku. Za porodice je zlata vredna kratka vožnja od aerodroma do hotela. Dan provedite na plaži u Paleokastrici ili Glifadi, a veče u starom gradu s dve mletačke tvrđave.",
+      "en": "Corfu is one of the greenest Greek islands, with sandy and pebbly coves in the west and a lively old town in the east. The short drive from the airport to your hotel is gold for families. Spend the day on the beach at Paleokastritsa or Glyfada, and the evening in the old town with its two Venetian fortresses."
+    },
+    "highlights": [
+      {
+        "sr": "Uvale Paleokastrice sa smaragdnom vodom",
+        "en": "The emerald coves of Paleokastritsa"
+      },
+      {
+        "sr": "UNESCO stari grad i Stara tvrđava",
+        "en": "The UNESCO old town and the Old Fortress"
+      },
+      {
+        "sr": "Kanal d'Amur (Canal d'Amour) u Sidariju",
+        "en": "The Canal d'Amour in Sidari"
+      }
+    ],
+    "pros": [
+      {
+        "sr": "Aerodrom je 10 minuta od grada – brzo stižete do smeštaja",
+        "en": "The airport is 10 minutes from town – you get to your bed fast"
+      },
+      {
+        "sr": "Zeleno ostrvo puno hlada, s lepim peščanim plažama",
+        "en": "A green, shady island with lovely sandy beaches"
+      },
+      {
+        "sr": "Živ stari grad za večernje šetnje",
+        "en": "A lively old town for evening strolls"
+      }
+    ],
+    "cons": [
+      {
+        "sr": "U avgustu su plaže i stari grad pretrpani",
+        "en": "In August the beaches and old town are overcrowded"
+      },
+      {
+        "sr": "Kaldrmisane ulice starog grada su teške s kolicima",
+        "en": "The cobbled old-town streets are hard with a buggy"
+      },
+      {
+        "sr": "Zapadna obala ume da bude prometna",
+        "en": "The west coast can get busy"
+      }
+    ],
+    "tip": {
+      "sr": "Uzmite smeštaj u blizini Paleokastrice i dolazite u stari grad rano ujutru, pre gužve i vrućine.",
+      "en": "Stay near Paleokastritsa and visit the old town early in the morning, before the crowds and heat."
+    },
+    "costs": {
+      "tickets": [],
+      "hotelNight": {
+        "budget": 70,
+        "mid": 130,
+        "comfort": 220
+      },
+      "foodPerAdultDay": 35,
+      "localPerDay": 12
+    },
+    "officialUrl": "https://www.visitgreece.gr/islands/ionian-islands/corfu/",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Corfu",
+      "https://www.visitgreece.gr/islands/ionian-islands/corfu/"
+    ],
+    "priceConfidence": "estimated",
+    "images": [
+      "File:Corfu old town & Old Fortress.jpg",
+      "File:The Old Fortress and the Old Town of Corfu - September 2017.jpg",
+      "File:Paleokastritsa, Corfu - Greece.jpg",
+      "File:Corfu Paleokastritsa Beach R01.jpg",
+      "File:Old Corfu town aerial 01.jpg",
+      "File:2018-06-17 Old town of Corfu, view from fort.jpg"
+    ]
+  },
+  {
+    "id": "crete-heraklion",
+    "name": {
+      "sr": "Krit i Iraklion",
+      "en": "Crete & Heraklion"
+    },
+    "place": {
+      "sr": "Iraklion, Krit",
+      "en": "Heraklion, Crete"
+    },
+    "country": "GR",
+    "region": "greece",
+    "coords": [
+      35.3387,
+      25.1442
+    ],
+    "airport": {
+      "iata": "HER",
+      "km": 4,
+      "minutes": 10,
+      "mode": {
+        "sr": "autom ili taksijem",
+        "en": "car or taxi"
+      }
+    },
+    "category": "beach",
+    "tags": [
+      "beach",
+      "shallow-sea",
+      "old-town",
+      "museum",
+      "castle"
+    ],
+    "ages": {
+      "baby": 3,
+      "toddler": 3,
+      "preschool": 3
+    },
+    "stroller": 2,
+    "budget": 3,
+    "bestMonths": [
+      5,
+      6,
+      9,
+      10
+    ],
+    "season": {
+      "sr": "Krit ima najdužu sezonu u Grčkoj – kupati se može od aprila do oktobra, a u maju i septembru je najprijatnije.",
+      "en": "Crete has Greece's longest season – you can swim from April to October, and May and September are the most pleasant."
+    },
+    "tagline": {
+      "sr": "Najveće grčko ostrvo: Knosos, tvrđava Kules i dugačke plitke plaže.",
+      "en": "Greece's biggest island: Knossos, the Koules fortress and long shallow beaches."
+    },
+    "description": {
+      "sr": "Iraklion je dobra baza za prvi porodični boravak na Kritu: aerodrom je uz sam grad, a u blizini su plitke plaže poput Stalisa i Amoudare. Za jedan izlet isplati se otići do Knososa, palate cara Minosa, koju deca doživljavaju kao pravi lavirint. Uz more, grad nudi tvrđavu Kules i živu luku.",
+      "en": "Heraklion is a good base for a first family stay on Crete: the airport is right by the city, and shallow beaches like Stalis and Amoudara are close. It's worth one outing to Knossos, the palace of King Minos, which children experience as a real labyrinth. By the sea, the city offers the Koules fortress and a lively harbour."
+    },
+    "highlights": [
+      {
+        "sr": "Knosoška palata – lavirint i freske",
+        "en": "The palace of Knossos – a labyrinth with frescoes"
+      },
+      {
+        "sr": "Tvrđava Kules i stara luka",
+        "en": "The Koules fortress and the old harbour"
+      },
+      {
+        "sr": "Plitke plaže Stalis i Amoudara",
+        "en": "The shallow beaches of Stalis and Amoudara"
+      },
+      {
+        "sr": "Akvarijum Cretaquarium",
+        "en": "The Cretaquarium aquarium"
+      }
+    ],
+    "pros": [
+      {
+        "sr": "Duga sezona i blaga klima u maju, septembru i oktobru",
+        "en": "A long season and a mild climate in May, September and October"
+      },
+      {
+        "sr": "Spoj plaže i istorije (Knosos, Kules) na jednom mestu",
+        "en": "Beach and history (Knossos, Koules) in one place"
+      },
+      {
+        "sr": "Ogroman izbor porodičnih hotela i akvarijum za kišni dan",
+        "en": "A huge choice of family hotels and an aquarium for rainy days"
+      }
+    ],
+    "cons": [
+      {
+        "sr": "Ostrvo je veliko, pa su vožnje do udaljenijih plaža duge",
+        "en": "The island is big, so drives to distant beaches are long"
+      },
+      {
+        "sr": "Aerodrom u Iraklionu je leti veoma prometan",
+        "en": "Heraklion airport is very busy in summer"
+      },
+      {
+        "sr": "Jul i avgust su vrući, posebno u gradu",
+        "en": "July and August are hot, especially in the city"
+      }
+    ],
+    "tip": {
+      "sr": "Knosos obiđite rano ujutru ili kasno popodne, s kapama i vodom – leti je užaren.",
+      "en": "Visit Knossos early morning or late afternoon with hats and water – it's scorching in summer."
+    },
+    "costs": {
+      "tickets": [],
+      "hotelNight": {
+        "budget": 75,
+        "mid": 140,
+        "comfort": 240
+      },
+      "foodPerAdultDay": 38,
+      "localPerDay": 14
+    },
+    "officialUrl": "https://www.visitgreece.gr/islands/crete/",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Heraklion",
+      "https://www.visitgreece.gr/islands/crete/"
+    ],
+    "priceConfidence": "estimated",
+    "images": [
+      "File:Kreta - Iraklion - Alter Hafen2.jpg",
+      "File:Knossos palace.jpg",
+      "File:Heraklion old harbour in Crete, Greece 002.jpg",
+      "File:Heraklion Harbour, Crete (53837836051).jpg",
+      "File:Knossos in Crete west court.jpg",
+      "File:Heraklion Harbour.jpg"
+    ]
+  },
+  {
+    "id": "rhodes",
+    "name": {
+      "sr": "Rodos",
+      "en": "Rhodes"
+    },
+    "place": {
+      "sr": "Rodos, Grčka",
+      "en": "Rhodes, Greece"
+    },
+    "country": "GR",
+    "region": "greece",
+    "coords": [
+      36.4432,
+      28.227
+    ],
+    "airport": {
+      "iata": "RHO",
+      "km": 14,
+      "minutes": 20,
+      "mode": {
+        "sr": "autom ili taksijem",
+        "en": "car or taxi"
+      }
+    },
+    "category": "beach",
+    "tags": [
+      "beach",
+      "shallow-sea",
+      "old-town",
+      "castle"
+    ],
+    "ages": {
+      "baby": 3,
+      "toddler": 3,
+      "preschool": 3
+    },
+    "stroller": 2,
+    "budget": 2,
+    "bestMonths": [
+      5,
+      6,
+      9
+    ],
+    "season": {
+      "sr": "Sezona kupanja traje od maja do oktobra; stari grad i muzeji rade tokom cele godine.",
+      "en": "The beach season runs May to October; the old town and museums are open year-round."
+    },
+    "tagline": {
+      "sr": "Ostrvo vitezova: srednjovekovni stari grad, Lindos i plitke plaže.",
+      "en": "Island of the Knights: a medieval old town, Lindos and shallow beaches."
+    },
+    "description": {
+      "sr": "Rodos je savršen spoj kulture i plaže. Stari grad, pod zaštitom UNESCO-a, pravi je srednjovekovni grad unutar zidina u koji deca ulaze kao u bajku. Na istočnoj obali su duge peščane plaže s plitkim morem, a južnije se nalazi belo selo Lindos s akropoljem iznad uvale.",
+      "en": "Rhodes is the perfect mix of culture and beach. The UNESCO-listed old town is a real medieval walled city that children enter like a fairy tale. The east coast has long sandy beaches with shallow water, and further south lies the white village of Lindos with its acropolis above the bay."
+    },
+    "highlights": [
+      {
+        "sr": "Srednjovekovni stari grad pod zaštitom UNESCO-a",
+        "en": "The UNESCO-listed medieval old town"
+      },
+      {
+        "sr": "Belo selo Lindos i njegov akropolj",
+        "en": "The white village of Lindos and its acropolis"
+      },
+      {
+        "sr": "Plitke peščane plaže na istočnoj obali",
+        "en": "Shallow sandy beaches on the east coast"
+      }
+    ],
+    "pros": [
+      {
+        "sr": "Kratak transfer s aerodroma i puno porodičnih hotela",
+        "en": "A short airport transfer and plenty of family hotels"
+      },
+      {
+        "sr": "Stari grad i plaža su udaljeni desetak minuta",
+        "en": "The old town and beach are ten minutes apart"
+      },
+      {
+        "sr": "Engleski se široko govori, što olakšava snalaženje",
+        "en": "English is widely spoken, which makes getting around easy"
+      }
+    ],
+    "cons": [
+      {
+        "sr": "Jul i avgust su vrući i prepuni",
+        "en": "July and August are hot and crowded"
+      },
+      {
+        "sr": "Kaldrma starog grada je teška s kolicima",
+        "en": "The old town's cobbles are hard with a buggy"
+      },
+      {
+        "sr": "Faliraki i zona žurki nisu za malu decu",
+        "en": "Faliraki and the party strip are not for small children"
+      }
+    ],
+    "tip": {
+      "sr": "Birajte smeštaj na istočnoj obali (npr. Afantou ili Ixia) i u stari grad idite predveče, kad se zidine ohlade.",
+      "en": "Stay on the east coast (e.g. Afantou or Ixia) and visit the old town in the evening when the walls cool down."
+    },
+    "costs": {
+      "tickets": [],
+      "hotelNight": {
+        "budget": 70,
+        "mid": 130,
+        "comfort": 220
+      },
+      "foodPerAdultDay": 35,
+      "localPerDay": 13
+    },
+    "officialUrl": "https://www.visitgreece.gr/islands/dodecanese/rhodes/",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rhodes",
+      "https://www.visitgreece.gr/islands/dodecanese/rhodes/"
+    ],
+    "priceConfidence": "estimated",
+    "images": [
+      "File:Aerial view of Rhodes Old Town, Greece (51698566526).jpg",
+      "File:Lindos, Rhodes. Greece.jpg",
+      "File:Old Town of Rhodes, Greece (51699241684).jpg",
+      "File:Lindos Rhodes 1.jpg",
+      "File:Streets of the old town of Rhodes (World Heritage City, UNESCO). Rhodes, the island of Rhodes, the Dodecanese, Greece.jpg",
+      "File:Top-down aerial of Rhodes Old Town, Greece (51697778457).jpg"
+    ]
+  },
+  {
+    "id": "naxos",
+    "name": {
+      "sr": "Naksos",
+      "en": "Naxos"
+    },
+    "place": {
+      "sr": "Naksos, Grčka",
+      "en": "Naxos, Greece"
+    },
+    "country": "GR",
+    "region": "greece",
+    "coords": [
+      37.1058,
+      25.3767
+    ],
+    "airport": {
+      "iata": "JNX",
+      "km": 3,
+      "minutes": 8,
+      "mode": {
+        "sr": "autom ili taksijem",
+        "en": "car or taxi"
+      }
+    },
+    "category": "beach",
+    "tags": [
+      "beach",
+      "shallow-sea",
+      "old-town"
+    ],
+    "ages": {
+      "baby": 3,
+      "toddler": 3,
+      "preschool": 3
+    },
+    "stroller": 2,
+    "budget": 2,
+    "bestMonths": [
+      5,
+      6,
+      9
+    ],
+    "season": {
+      "sr": "Sezona kupanja traje od maja do oktobra; aerodrom je mali i većinom leti, pa se van sezone često leti preko Atine.",
+      "en": "The beach season runs May to October; the airport is small and mostly summer-only, so off-season you often fly via Athens."
+    },
+    "tagline": {
+      "sr": "Duge plitke peščane plaže i Portara na zalasku sunca.",
+      "en": "Long shallow sandy beaches and the Portara at sunset."
+    },
+    "description": {
+      "sr": "Naksos je najveće ostrvo Kiklada i mirnija, povoljnija alternativa Santoriniju i Mikonosu. Plaže Agios Prokopios i Agia Ana su duge, peščane i plitke – idealne za bebe i male plivače. U gradu Hora, deca vole veliki kameni „Portara\" – ostatak Apolonovog hrama uz more.",
+      "en": "Naxos is the largest Cycladic island and a calmer, better-value alternative to Santorini and Mykonos. The beaches of Agios Prokopios and Agia Anna are long, sandy and shallow – ideal for babies and small swimmers. In the town of Chora, children love the great stone \"Portara\" – the remains of Apollo's temple by the sea."
+    },
+    "highlights": [
+      {
+        "sr": "Plaža Agios Prokopios – duga i plitka",
+        "en": "Agios Prokopios beach – long and shallow"
+      },
+      {
+        "sr": "Portara – kapija Apolonovog hrama",
+        "en": "The Portara – gate of the temple of Apollo"
+      },
+      {
+        "sr": "Stari grad Hora i gradski kej",
+        "en": "The old town of Chora and the waterfront"
+      }
+    ],
+    "pros": [
+      {
+        "sr": "Duge peščane plaže s plitkim morem",
+        "en": "Long sandy beaches with shallow water"
+      },
+      {
+        "sr": "Opušteno i povoljnije od Santorinija i Mikonosa",
+        "en": "Relaxed and better value than Santorini and Mykonos"
+      },
+      {
+        "sr": "Ravne obalne staze lake za šetnju i kolica",
+        "en": "Flat coastal paths that are easy for walking and buggies"
+      }
+    ],
+    "cons": [
+      {
+        "sr": "Aerodrom je mali – van sezone se često leti preko Atine",
+        "en": "The airport is small – off-season you often fly via Athens"
+      },
+      {
+        "sr": "U julu i avgustu duva jak vetar (meltemi)",
+        "en": "Strong winds (meltemi) in July and August"
+      },
+      {
+        "sr": "U špicu sezone su plaže pune",
+        "en": "Beaches are full in peak season"
+      }
+    ],
+    "tip": {
+      "sr": "Uzmite smeštaj uz Agios Prokopios ili Agia Anu – plaža je tik ispred, a vetar manje smeta na južnoj strani.",
+      "en": "Stay at Agios Prokopios or Agia Anna – the beach is right outside and the south side is less windy."
+    },
+    "costs": {
+      "tickets": [],
+      "hotelNight": {
+        "budget": 70,
+        "mid": 125,
+        "comfort": 210
+      },
+      "foodPerAdultDay": 34,
+      "localPerDay": 12
+    },
+    "officialUrl": "https://www.visitgreece.gr/islands/cyclades/naxos/",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Naxos",
+      "https://www.visitgreece.gr/islands/cyclades/naxos/"
+    ],
+    "priceConfidence": "estimated",
+    "images": [
+      "File:Agios Prokopios Beach at sunset, Naxos, Greece julesvernex2.jpg",
+      "File:Naxos, Portara quer 2016.jpg",
+      "File:Spiaggia di Agios Prokopios, guardando verso l'isola di Paros - panoramio.jpg",
+      "File:Naxos Chora 2025-06-14 0511 harbor sailing boats Portara.jpg",
+      "File:Portara Naxos 21.jpg",
+      "File:ΑΓ.ΠΡΟΚΟΠΙΟΣ ΝΑΞΟΣ.jpg"
+    ]
+  },
+  {
+    "id": "parga-sivota",
+    "name": {
+      "sr": "Parga i Sivota",
+      "en": "Parga & Syvota"
+    },
+    "place": {
+      "sr": "Parga, Grčka",
+      "en": "Parga, Greece"
+    },
+    "country": "GR",
+    "region": "greece",
+    "coords": [
+      39.2837,
+      20.4008
+    ],
+    "airport": {
+      "iata": "PVK",
+      "km": 65,
+      "minutes": 75,
+      "mode": {
+        "sr": "autom ili taksijem",
+        "en": "car or taxi"
+      }
+    },
+    "category": "beach",
+    "tags": [
+      "beach",
+      "old-town",
+      "castle",
+      "boat"
+    ],
+    "ages": {
+      "baby": 3,
+      "toddler": 3,
+      "preschool": 3
+    },
+    "stroller": 2,
+    "budget": 2,
+    "bestMonths": [
+      5,
+      6,
+      9
+    ],
+    "season": {
+      "sr": "Sezona kupanja traje od maja do oktobra; van sezone je gradić miran i mnogo toga je zatvoreno.",
+      "en": "The beach season runs May to October; out of season the town is quiet and much is closed."
+    },
+    "tagline": {
+      "sr": "Šareni gradić na kopnu s Valtos plažom i izletima do Paksosa.",
+      "en": "A colourful mainland town with Valtos beach and boat trips to Paxos."
+    },
+    "description": {
+      "sr": "Parga je jedan od najlepših gradića jonske obale, na kopnu – do njega se može i kolima. Šarene kuće se penju uz brdo do tvrđave, a ispod grada je plaža Valtos s plitkim morem. Brodićem se za dan obiđu uvalice Sivote ili ostrva Paksos i Antipaksos s kristalno čistim morem.",
+      "en": "Parga is one of the loveliest towns on the Ionian coast, on the mainland – you can even drive to it. Colourful houses climb the hill to the castle, and below the town lies Valtos beach with its shallow water. By boat you can reach the coves of Syvota or the islands of Paxos and Antipaxos with crystal-clear sea in a day."
+    },
+    "highlights": [
+      {
+        "sr": "Plaža Valtos s plitkim morem",
+        "en": "Valtos beach with its shallow water"
+      },
+      {
+        "sr": "Tvrđava i šarene ulice Parge",
+        "en": "The castle and colourful streets of Parga"
+      },
+      {
+        "sr": "Izlet brodićem do Paksosa i Sivote",
+        "en": "Boat trips to Paxos and Syvota"
+      }
+    ],
+    "pros": [
+      {
+        "sr": "Na kopnu je – dolazak kolima je moguć",
+        "en": "It's on the mainland – you can arrive by car"
+      },
+      {
+        "sr": "Zeleno i hladovito, s lepim izletima brodićem",
+        "en": "Green and shady, with lovely boat excursions"
+      },
+      {
+        "sr": "Kompaktan gradić koji se lako obilazi peške",
+        "en": "A compact town that's easy to cover on foot"
+      }
+    ],
+    "cons": [
+      {
+        "sr": "Ulice su strme i stepenaste – teško s kolicima",
+        "en": "Steep, stepped streets – hard with a buggy"
+      },
+      {
+        "sr": "Neke plaže su šljunkovite, ne peščane",
+        "en": "Some beaches are pebbly rather than sandy"
+      },
+      {
+        "sr": "U avgustu je gužva, a parking je problem",
+        "en": "August is crowded and parking is a problem"
+      }
+    ],
+    "tip": {
+      "sr": "Do Valtosa idite rano, jer se do plaže spušta strma staza; razmislite o čamcu do uvala umesto pešačenja.",
+      "en": "Head to Valtos early, as a steep path leads down to the beach; consider a boat to the coves instead of walking."
+    },
+    "costs": {
+      "tickets": [],
+      "hotelNight": {
+        "budget": 60,
+        "mid": 110,
+        "comfort": 180
+      },
+      "foodPerAdultDay": 32,
+      "localPerDay": 12
+    },
+    "officialUrl": "https://www.visitgreece.gr/mainland/epirus/parga/",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Parga",
+      "https://www.visitgreece.gr/mainland/epirus/parga/"
+    ],
+    "priceConfidence": "estimated",
+    "images": [
+      "File:Parga, Greece.jpg",
+      "File:Blick auf Parga.jpg",
+      "File:Greece, Parga with Parga Castle - Rock Town.jpg",
+      "File:Valtos beach, Parga.JPG",
+      "File:Beach of Parga.jpg"
+    ]
+  },
+  {
+    "id": "kos",
+    "name": {
+      "sr": "Kos",
+      "en": "Kos"
+    },
+    "place": {
+      "sr": "Kos, Grčka",
+      "en": "Kos, Greece"
+    },
+    "country": "GR",
+    "region": "greece",
+    "coords": [
+      36.8933,
+      27.2897
+    ],
+    "airport": {
+      "iata": "KGS",
+      "km": 24,
+      "minutes": 30,
+      "mode": {
+        "sr": "autom ili taksijem",
+        "en": "car or taxi"
+      }
+    },
+    "category": "beach",
+    "tags": [
+      "beach",
+      "shallow-sea",
+      "old-town",
+      "castle"
+    ],
+    "ages": {
+      "baby": 3,
+      "toddler": 3,
+      "preschool": 3
+    },
+    "stroller": 3,
+    "budget": 2,
+    "bestMonths": [
+      5,
+      6,
+      9
+    ],
+    "season": {
+      "sr": "Sezona kupanja traje od maja do oktobra; zimi je ostrvo mirno i manje stvari radi.",
+      "en": "The beach season runs May to October; in winter the island is quiet and less is open."
+    },
+    "tagline": {
+      "sr": "Ravno ostrvo za vožnju biciklom, s plitkim plažama i tvrđavom.",
+      "en": "A flat island for cycling, with shallow beaches and a fortress."
+    },
+    "description": {
+      "sr": "Kos je jedno od najravnijih grčkih ostrva, što ga čini idealnim za porodice – duž obale vode duge biciklističke staze koje deca obožavaju. Grad Kos ima tvrđavu i živ stari grad, a plaže Marmari i Tigaki su peščane i plitke. U blizini je i veliki vodeni park za toplije dane.",
+      "en": "Kos is one of Greece's flattest islands, which makes it ideal for families – long cycle paths run along the coast and children love them. Kos town has a fortress and a lively old town, and the beaches of Marmari and Tigaki are sandy and shallow. A large water park is nearby for the hotter days."
+    },
+    "highlights": [
+      {
+        "sr": "Biciklističke staze duž ravne obale",
+        "en": "Cycle paths along the flat coast"
+      },
+      {
+        "sr": "Tvrđava i stari grad Kosa",
+        "en": "Kos's fortress and old town"
+      },
+      {
+        "sr": "Peščane plaže Marmari i Tigaki",
+        "en": "The sandy beaches of Marmari and Tigaki"
+      }
+    ],
+    "pros": [
+      {
+        "sr": "Veoma ravno ostrvo – lako za kolica i bicikle",
+        "en": "A very flat island – easy for buggies and bikes"
+      },
+      {
+        "sr": "Plitke peščane plaže i kompaktan gradić",
+        "en": "Shallow sandy beaches and a compact town"
+      },
+      {
+        "sr": "Povoljno u poređenju s većim ostrvima",
+        "en": "Good value compared with the bigger islands"
+      }
+    ],
+    "cons": [
+      {
+        "sr": "Jul i avgust su vrući, a na severu ume da duva",
+        "en": "July and August are hot, and the north coast can be windy"
+      },
+      {
+        "sr": "Kardamena i zona žurki nisu za malu decu",
+        "en": "Kardamena and the party strip are not for small children"
+      },
+      {
+        "sr": "Posle 17 časova se vetar pojačava na severnim plažama",
+        "en": "The wind picks up on north-facing beaches after 5 pm"
+      }
+    ],
+    "tip": {
+      "sr": "Iznajmite bicikle s dečjim sedištem i obiđite obalu rano ujutru, dok je hladovito i bez vetra.",
+      "en": "Rent bikes with a child seat and ride the coast early in the morning, while it's cool and calm."
+    },
+    "costs": {
+      "tickets": [],
+      "hotelNight": {
+        "budget": 65,
+        "mid": 120,
+        "comfort": 200
+      },
+      "foodPerAdultDay": 33,
+      "localPerDay": 12
+    },
+    "officialUrl": "https://www.visitgreece.gr/islands/dodecanese/kos/",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kos",
+      "https://www.visitgreece.gr/islands/dodecanese/kos/"
+    ],
+    "priceConfidence": "estimated",
+    "images": [
+      "File:Kos Town view.jpg",
+      "File:KOS TOWN GREECE AUG 2011 (6026810383).jpg",
+      "File:Greece - Kos island - panoramio.jpg",
+      "File:Kos-Kos city-old town-03ESD.jpg",
+      "File:Kos-view to Tigaki Beach and Lambi Beach-01ASD.jpg",
+      "File:Kos - Strand beiTigkaki.JPG"
+    ]
+  },
+  {
+    "id": "thassos",
+    "name": {
+      "sr": "Tasos",
+      "en": "Thassos"
+    },
+    "place": {
+      "sr": "Tasos, Grčka",
+      "en": "Thassos, Greece"
+    },
+    "country": "GR",
+    "region": "greece",
+    "coords": [
+      40.7786,
+      24.7094
+    ],
+    "airport": {
+      "iata": "KVA",
+      "km": 25,
+      "minutes": 75,
+      "mode": {
+        "sr": "autom i trajektom",
+        "en": "car and ferry"
+      }
+    },
+    "category": "beach",
+    "tags": [
+      "beach",
+      "shallow-sea",
+      "forest",
+      "mountain"
+    ],
+    "ages": {
+      "baby": 3,
+      "toddler": 3,
+      "preschool": 3
+    },
+    "stroller": 2,
+    "budget": 2,
+    "bestMonths": [
+      5,
+      6,
+      9
+    ],
+    "season": {
+      "sr": "Sezona kupanja traje od maja do oktobra; trajekt plovi cele godine, ali zimi ređe.",
+      "en": "The beach season runs May to October; the ferry runs year-round but less often in winter."
+    },
+    "tagline": {
+      "sr": "Zeleno severno ostrvo sa Zlatnom plažom i mermernim liticama.",
+      "en": "A green northern island with Golden Beach and marble cliffs."
+    },
+    "description": {
+      "sr": "Tasos je najsevernije grčko ostrvo, blizu obale, pa se do njega stiže kratkim trajektom iz Keramotija. Zlatna plaža (Hrisi Amudija) je dugačka, peščana i izuzetno plitka – deca tu mogu da gacaju daleko od obale. Ostrvo je gusto pošumljeno borovima, što leti donosi dragocen hlad.",
+      "en": "Thassos is Greece's northernmost island, close to the mainland, so you reach it by a short ferry from Keramoti. Golden Beach (Chrysi Ammoudia) is long, sandy and extremely shallow – children can wade far out from the shore. The island is thickly forested with pines, which brings precious shade in summer."
+    },
+    "highlights": [
+      {
+        "sr": "Zlatna plaža – duga, plitka i peščana",
+        "en": "Golden Beach – long, shallow and sandy"
+      },
+      {
+        "sr": "Uvala Aliki s mermernim stenama",
+        "en": "The Aliki cove with its marble rocks"
+      },
+      {
+        "sr": "Borove šume i sela u brdima",
+        "en": "Pine forests and hilltop villages"
+      }
+    ],
+    "pros": [
+      {
+        "sr": "Izuzetno plitko i mirno more na Zlatnoj plaži",
+        "en": "Extremely shallow, calm sea at Golden Beach"
+      },
+      {
+        "sr": "Zeleno i hladovito, tiho i porodično",
+        "en": "Green and shady, quiet and family-oriented"
+      },
+      {
+        "sr": "Povoljne cene u poređenju s većim grčkim ostrvima",
+        "en": "Good prices compared with the bigger Greek islands"
+      }
+    ],
+    "cons": [
+      {
+        "sr": "Na ostrvu nema aerodroma – potrebni su vožnja i trajekt",
+        "en": "No airport on the island – a drive and ferry are needed"
+      },
+      {
+        "sr": "U avgustu je i ovde gužva",
+        "en": "Even here, August is busy"
+      },
+      {
+        "sr": "Manje velikih atrakcija – odmor je pre svega plaža i priroda",
+        "en": "Few big attractions – the holiday is mostly beach and nature"
+      }
+    ],
+    "tip": {
+      "sr": "Rezervišite trajekt unapred u julu i avgustu i birajte smeštaj u Skala Panagiji, blizu Zlatne plaže.",
+      "en": "Book the ferry in advance in July and August and stay in Skala Panagia, near Golden Beach."
+    },
+    "costs": {
+      "tickets": [],
+      "hotelNight": {
+        "budget": 60,
+        "mid": 110,
+        "comfort": 180
+      },
+      "foodPerAdultDay": 30,
+      "localPerDay": 12
+    },
+    "officialUrl": "https://www.visitgreece.gr/islands/north-aegean/thassos/",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Thasos",
+      "https://www.visitgreece.gr/islands/north-aegean/thassos/"
+    ],
+    "priceConfidence": "estimated",
+    "images": [
+      "File:Harbour in Golden Beach, Skala Panagia, Thassos, Greece.jpg",
+      "File:Golden Beach and Skala Potamia (Thassos) . Viewed from Mount Ipsarion (Thassos).jpg",
+      "File:Thassos-golden-beach.jpg",
+      "File:Flickr - ronsaunders47 - THASSOS . GREECE. The evening drawing in on Golden Beach..jpg",
+      "File:Flickr - ronsaunders47 - ALIKI BEACH. THASSOS. GREECE..jpg"
+    ]
+  },
+  {
+    "id": "algarve-zoomarine",
+    "name": {
+      "sr": "Zoomarine Algarve",
+      "en": "Zoomarine Algarve"
+    },
+    "place": {
+      "sr": "Gija, Albufeira, Portugal",
+      "en": "Guia, Albufeira, Portugal"
+    },
+    "country": "PT",
+    "region": "mediterranean",
+    "coords": [
+      37.127,
+      -8.314
+    ],
+    "airport": {
+      "iata": "FAO",
+      "km": 40,
+      "minutes": 40,
+      "mode": {
+        "sr": "autom ili taksijem",
+        "en": "car or taxi"
+      }
+    },
+    "category": "animals",
+    "tags": [
+      "aquarium",
+      "water-park",
+      "zoo",
+      "beach",
+      "playground"
+    ],
+    "ages": {
+      "baby": 2,
+      "toddler": 3,
+      "preschool": 3
+    },
+    "stroller": 3,
+    "budget": 3,
+    "bestMonths": [
+      4,
+      5,
+      6,
+      9
+    ],
+    "season": {
+      "sr": "Park je otvoren otprilike od sredine marta do kraja novembra; zimi (decembar–početak marta) je zatvoren.",
+      "en": "The park is open roughly mid-March to late November; it closes over winter (December to early March)."
+    },
+    "tagline": {
+      "sr": "Delfini, akvarijum i talasni bazen na jednom mestu u Algarveu.",
+      "en": "Dolphins, an aquarium and a wave pool in one place in the Algarve."
+    },
+    "description": {
+      "sr": "Zoomarine je morski tematski park blizu Albufeire, u borovoj šumi nadomak mora. Deca najviše vole predstave delfina i morskih lavova, akvarijum i veliki talasni bazen s veštačkom peščanom plažom. Postoji i centar za rehabilitaciju morskih životinja, pa je poseta i edukativna.",
+      "en": "Zoomarine is a marine theme park near Albufeira, in a pine forest close to the sea. Children love the dolphin and sea lion shows, the aquarium and the big wave pool with an artificial sandy beach. There is also a marine animal rehabilitation centre, so the visit is educational too."
+    },
+    "highlights": [
+      {
+        "sr": "Predstave delfina i morskih lavova",
+        "en": "Dolphin and sea lion shows"
+      },
+      {
+        "sr": "Akvarijum i bazeni s talasima",
+        "en": "The aquarium and wave pools"
+      },
+      {
+        "sr": "Veštačka peščana plaža i dečji bazeni",
+        "en": "An artificial sandy beach and children's pools"
+      }
+    ],
+    "pros": [
+      {
+        "sr": "Puno sadržaja za decu svih uzrasta na jednom mestu",
+        "en": "Lots to do for children of all ages in one place"
+      },
+      {
+        "sr": "Staze su ravne i prilagođene kolicima",
+        "en": "Flat, buggy-friendly paths throughout"
+      },
+      {
+        "sr": "Deci do 1 m visine ulaz je besplatan",
+        "en": "Children under 1 m tall enter free"
+      }
+    ],
+    "cons": [
+      {
+        "sr": "Karte su skupe za celu porodicu, posebno leti",
+        "en": "Tickets are pricey for a whole family, especially in summer"
+      },
+      {
+        "sr": "Predstave delfina izazivaju etičke rasprave o dobrobiti životinja",
+        "en": "Dolphin shows raise ethical questions about animal welfare"
+      },
+      {
+        "sr": "U špicu sezone je gužva i dugo se čeka",
+        "en": "In peak season it's crowded with long queues"
+      }
+    ],
+    "tip": {
+      "sr": "Kupite karte onlajn unapred – znatno su jeftinije od cene na blagajni – i dođite rano zbog suncobrana.",
+      "en": "Buy tickets online in advance – they're much cheaper than at the gate – and arrive early for the sunbeds."
+    },
+    "costs": {
+      "tickets": [
+        {
+          "name": {
+            "sr": "Zoomarine – dnevna karta (deca do 1 m visine besplatna)",
+            "en": "Zoomarine day ticket (children under 1 m free)"
+          },
+          "adult": 38,
+          "child": 28,
+          "freeUnder": 3,
+          "url": "https://www.zoomarine.pt/en/price-and-tickets/park-tickets/"
+        }
+      ],
+      "hotelNight": {
+        "budget": 70,
+        "mid": 130,
+        "comfort": 230
+      },
+      "foodPerAdultDay": 40,
+      "localPerDay": 14
+    },
+    "officialUrl": "https://www.zoomarine.pt/",
+    "sources": [
+      "https://www.zoomarine.pt/en/price-and-tickets/park-tickets/",
+      "https://www.zoomarine.pt/en/where-we-are/"
+    ],
+    "priceConfidence": "verified",
+    "images": [
+      "File:Zoomarine Algarve 01.JPG",
+      "File:Zoomarine Algarve 05.JPG",
+      "File:Zoomarine Algarve 08.JPG",
+      "File:Zoomarine Algarve 11.JPG",
+      "File:Zoomarine by Juntas 8.jpg",
+      "File:Zoomarine by Juntas 9.jpg"
+    ]
+  },
+  {
+    "id": "portaventura-salou",
+    "name": {
+      "sr": "PortAventura World",
+      "en": "PortAventura World"
+    },
+    "place": {
+      "sr": "Salou, Katalonija",
+      "en": "Salou, Catalonia"
+    },
+    "country": "ES",
+    "region": "mediterranean",
+    "coords": [
+      41.086,
+      1.151
+    ],
+    "airport": {
+      "iata": "REU",
+      "km": 8,
+      "minutes": 15,
+      "mode": {
+        "sr": "autom ili taksijem",
+        "en": "car or taxi"
+      }
+    },
+    "category": "theme",
+    "tags": [
+      "theme-park",
+      "water-park",
+      "fairytale"
+    ],
+    "ages": {
+      "baby": 2,
+      "toddler": 3,
+      "preschool": 3
+    },
+    "stroller": 3,
+    "budget": 3,
+    "bestMonths": [
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "season": {
+      "sr": "Glavni park radi veći deo godine; vodeni park Caribe Aquatic radi sezonski, otprilike od maja do septembra.",
+      "en": "The main park runs most of the year; the Caribe Aquatic water park is seasonal, roughly May to September."
+    },
+    "tagline": {
+      "sr": "Šest tematskih svetova, dečja zona Sesame i vodeni park pored mora.",
+      "en": "Six themed worlds, a Sesame Street kids' area and a water park by the sea."
+    },
+    "description": {
+      "sr": "PortAventura je jedan od najvećih tematskih parkova Evrope, u Salouu na Kosta Doradi. Iako je poznat po velikim rolerkosterima, ima i odličnu dečju zonu Sesame s vrtuljcima i igralištima za najmlađe, kao i vodeni park Caribe Aquatic. Uz park se nalaze tematski hoteli, a more je pet minuta dalje.",
+      "en": "PortAventura is one of Europe's biggest theme parks, in Salou on the Costa Dorada. Though famous for its big roller coasters, it also has an excellent Sesame Street kids' area with gentle rides and playgrounds for the youngest, plus the Caribe Aquatic water park. Themed hotels sit beside the park, and the sea is five minutes away."
+    },
+    "highlights": [
+      {
+        "sr": "Dečja zona Sesame Street za najmlađe",
+        "en": "The Sesame Street area for the youngest"
+      },
+      {
+        "sr": "Vodeni park Caribe Aquatic",
+        "en": "The Caribe Aquatic water park"
+      },
+      {
+        "sr": "Šetnja kroz šest tematskih svetova",
+        "en": "Walking through six themed worlds"
+      }
+    ],
+    "pros": [
+      {
+        "sr": "Sadržaji za sve uzraste, od beba do odraslih",
+        "en": "Attractions for all ages, from babies to adults"
+      },
+      {
+        "sr": "Blizu Reus aerodroma i plaža Kosta Dorade",
+        "en": "Close to Reus airport and the Costa Dorada beaches"
+      },
+      {
+        "sr": "Tematski hoteli omogućavaju odmor bez prevoza",
+        "en": "Themed hotels mean a holiday with no transport needed"
+      }
+    ],
+    "cons": [
+      {
+        "sr": "Karte su skupe, posebno za porodicu od četvoro",
+        "en": "Tickets are expensive, especially for a family of four"
+      },
+      {
+        "sr": "U julu i avgustu su redovi veoma dugi",
+        "en": "In July and August the queues are very long"
+      },
+      {
+        "sr": "Većina velikih vožnji ima visinsko ograničenje",
+        "en": "Most big rides have height restrictions"
+      }
+    ],
+    "tip": {
+      "sr": "Idite van špica (maj, juni, septembar), kupite karte onlajn i ponesite kolica – park je velik, a deca se umore.",
+      "en": "Go outside peak (May, June, September), buy online and bring a buggy – the park is huge and little legs tire out."
+    },
+    "costs": {
+      "tickets": [
+        {
+          "name": {
+            "sr": "PortAventura Park – dnevna karta (deca do 3 godine besplatna)",
+            "en": "PortAventura Park day ticket (children under 4 free)"
+          },
+          "adult": 52,
+          "child": 46,
+          "freeUnder": 4,
+          "url": "https://www.portaventuraworld.com/en/tickets"
+        }
+      ],
+      "hotelNight": {
+        "budget": 80,
+        "mid": 140,
+        "comfort": 250
+      },
+      "foodPerAdultDay": 45,
+      "localPerDay": 15
+    },
+    "officialUrl": "https://www.portaventuraworld.com/",
+    "sources": [
+      "https://www.portaventuraworld.com/en/tickets",
+      "https://www.portaventuraworld.com/en"
+    ],
+    "priceConfidence": "verified",
+    "images": [
+      "File:PortAventura Overview.jpg",
+      "File:PortAventura Med Village.JPG",
+      "File:Mediterrania lake (Port Aventura).JPG",
+      "File:PortAventura Lake.JPG",
+      "File:Polynesia-port aventura-2008 (3).JPG",
+      "File:Vila en Port Aventura. Cataluña 317.jpg"
+    ]
+  },
+  {
+    "id": "mallorca-alcudia",
+    "name": {
+      "sr": "Majorka i Alkudija",
+      "en": "Mallorca & Alcúdia"
+    },
+    "place": {
+      "sr": "Alkudija, Majorka",
+      "en": "Alcúdia, Mallorca"
+    },
+    "country": "ES",
+    "region": "mediterranean",
+    "coords": [
+      39.8522,
+      3.1223
+    ],
+    "airport": {
+      "iata": "PMI",
+      "km": 60,
+      "minutes": 50,
+      "mode": {
+        "sr": "autom ili taksijem",
+        "en": "car or taxi"
+      }
+    },
+    "category": "beach",
+    "tags": [
+      "beach",
+      "shallow-sea",
+      "old-town"
+    ],
+    "ages": {
+      "baby": 3,
+      "toddler": 3,
+      "preschool": 3
+    },
+    "stroller": 3,
+    "budget": 2,
+    "bestMonths": [
+      5,
+      6,
+      9
+    ],
+    "season": {
+      "sr": "Sezona kupanja traje od maja do oktobra; leti je severna obala nešto vetrovitija.",
+      "en": "The beach season runs May to October; the north coast is a little windier in summer."
+    },
+    "tagline": {
+      "sr": "Dugačak zaliv Alkudije s najplićim morem i zidinama starog grada.",
+      "en": "The long bay of Alcúdia with the shallowest water and a walled old town."
+    },
+    "description": {
+      "sr": "Zaliv Alkudije na severu Majorke nudi kilometre plitke peščane plaže (Alkudija i Plaja de Muro) gde deca mogu da gacaju daleko od obale. Iza plaže je srednjovekovni grad Alkudija sa zidinama, a u blizini je i prirodni park S'Albufera za šetnje i posmatranje ptica.",
+      "en": "The bay of Alcúdia in northern Mallorca offers kilometres of shallow sandy beach (Alcúdia and Playa de Muro) where children can wade far out from the shore. Behind the beach is the medieval walled town of Alcúdia, and nearby is the S'Albufera nature park for walks and birdwatching."
+    },
+    "highlights": [
+      {
+        "sr": "Plitka plaža Plaja de Muro i Alkudija",
+        "en": "The shallow beaches of Playa de Muro and Alcúdia"
+      },
+      {
+        "sr": "Srednjovekovni grad Alkudija sa zidinama",
+        "en": "The medieval walled town of Alcúdia"
+      },
+      {
+        "sr": "Prirodni park S'Albufera",
+        "en": "The S'Albufera nature park"
+      }
+    ],
+    "pros": [
+      {
+        "sr": "Vrlo plitko i mirno more u dugačkom zalivu",
+        "en": "Very shallow, calm water in a long bay"
+      },
+      {
+        "sr": "Duga šetališta uz plažu, idealna za kolica",
+        "en": "Long promenades by the beach, ideal for buggies"
+      },
+      {
+        "sr": "Odlična infrastruktura za porodice",
+        "en": "Excellent family infrastructure"
+      }
+    ],
+    "cons": [
+      {
+        "sr": "Jul i avgust su gužva i vrućina",
+        "en": "July and August bring crowds and heat"
+      },
+      {
+        "sr": "Severna obala ume da bude vetrovita",
+        "en": "The north coast can be windy"
+      },
+      {
+        "sr": "Velika turistička zona uz plažu",
+        "en": "A large tourist zone along the beach"
+      }
+    ],
+    "tip": {
+      "sr": "Birajte smeštaj uz Plaja de Muro i ponesite zaštitu od vetra – plaža je blaga, ali vetar zna da ohladi veče.",
+      "en": "Stay along Playa de Muro and bring a windbreak – the beach is gentle but the evening wind can chill."
+    },
+    "costs": {
+      "tickets": [],
+      "hotelNight": {
+        "budget": 75,
+        "mid": 140,
+        "comfort": 240
+      },
+      "foodPerAdultDay": 42,
+      "localPerDay": 14
+    },
+    "officialUrl": "https://www.visitmallorca.com/",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Alc%C3%BAdia",
+      "https://www.visitmallorca.com/"
+    ],
+    "priceConfidence": "estimated",
+    "images": [
+      "File:Platja de Muro Beach, Mallorca.jpg",
+      "File:Alcudia Beach - panoramio - Bengt Nyman.jpg",
+      "File:Panorama vom Playa de Muro 2021-10-14.jpg",
+      "File:Alcudia beach - panoramio.jpg",
+      "File:Alcudia fantastic beach... - panoramio.jpg",
+      "File:Alcudia port maritim.jpg"
+    ]
+  },
+  {
+    "id": "rimini-italia-miniatura",
+    "name": {
+      "sr": "Italija u malom",
+      "en": "Italia in Miniatura"
+    },
+    "place": {
+      "sr": "Rimini, Italija",
+      "en": "Rimini, Italy"
+    },
+    "country": "IT",
+    "region": "mediterranean",
+    "coords": [
+      44.0903,
+      12.5136
+    ],
+    "airport": {
+      "iata": "RMI",
+      "km": 10,
+      "minutes": 20,
+      "mode": {
+        "sr": "autom ili taksijem",
+        "en": "car or taxi"
+      }
+    },
+    "category": "theme",
+    "tags": [
+      "theme-park",
+      "museum",
+      "train",
+      "playground"
+    ],
+    "ages": {
+      "baby": 2,
+      "toddler": 3,
+      "preschool": 3
+    },
+    "stroller": 3,
+    "budget": 2,
+    "bestMonths": [
+      4,
+      5,
+      6,
+      9
+    ],
+    "season": {
+      "sr": "Park je otvoren otprilike od aprila do oktobra, ponekad i tokom zime; zimi i rano proleće je zatvoren.",
+      "en": "The park is open roughly April to October, sometimes also in winter; it closes over winter and early spring."
+    },
+    "tagline": {
+      "sr": "Italija u umanjenom obliku: 270 maketa spomenika u jednom parku.",
+      "en": "Italy in miniature: 270 scale models of monuments in one park."
+    },
+    "description": {
+      "sr": "Italija u malom je park u riminijskom predgrađu Viserba, s više od 270 vernih maketa italijanskih spomenika i gradova, uključujući i malu Veneciju s kanalom. Deca se voze minijaturnim vozom, gledaju makete u pokretu i uče o Italiji kroz igru. Za najmlađe postoji i dečja zona s ljuljaškama.",
+      "en": "Italia in Miniatura is a park in the Rimini suburb of Viserba, with more than 270 faithful scale models of Italian monuments and cities, including a mini Venice with a canal. Children ride a miniature train, watch the models come alive and learn about Italy through play. There's a play area with swings for the youngest."
+    },
+    "highlights": [
+      {
+        "sr": "270 maketa italijanskih spomenika",
+        "en": "270 scale models of Italian monuments"
+      },
+      {
+        "sr": "Vožnja minijaturnim vozom kroz park",
+        "en": "A ride on the miniature train through the park"
+      },
+      {
+        "sr": "Mala Venecija s kanalom",
+        "en": "The mini Venice with its canal"
+      }
+    ],
+    "pros": [
+      {
+        "sr": "Ravne staze prilagođene kolicima",
+        "en": "Flat, buggy-friendly paths"
+      },
+      {
+        "sr": "Deca do 1 m visine ulaze besplatno",
+        "en": "Children up to 1 m tall enter free"
+      },
+      {
+        "sr": "Mirnija i povoljnija alternativa velikim parkovima",
+        "en": "A calmer, better-value alternative to the big parks"
+      }
+    ],
+    "cons": [
+      {
+        "sr": "Park je najvećim delom na otvorenom – za vrućih dana nema mnogo hlada",
+        "en": "Mostly open-air – little shade on hot days"
+      },
+      {
+        "sr": "Zatvoren tokom zime i ranog proleća",
+        "en": "Closed over winter and early spring"
+      },
+      {
+        "sr": "Makete su krhke – decu treba paziti",
+        "en": "The models are fragile – children need watching"
+      }
+    ],
+    "tip": {
+      "sr": "Dođite rano ujutru i ponesite kape i vodu; park se najlepše obilazi pre podnevne vrućine.",
+      "en": "Arrive early with hats and water; the park is best explored before the midday heat."
+    },
+    "costs": {
+      "tickets": [
+        {
+          "name": {
+            "sr": "Italija u malom – dnevna karta (deca do 1 m besplatna)",
+            "en": "Italia in Miniatura day ticket (children under 1 m free)"
+          },
+          "adult": 24,
+          "child": 19,
+          "freeUnder": 3,
+          "url": "https://www.italiainminiatura.com/"
+        }
+      ],
+      "hotelNight": {
+        "budget": 70,
+        "mid": 120,
+        "comfort": 210
+      },
+      "foodPerAdultDay": 40,
+      "localPerDay": 14
+    },
+    "officialUrl": "https://www.italiainminiatura.com/",
+    "sources": [
+      "https://www.italiainminiatura.com/",
+      "https://c-way.it/en/b/tickets-experiences-biglietti-combinati/italia-in-miniatura-open-ticket-MI05000011"
+    ],
+    "priceConfidence": "verified",
+    "images": [
+      "File:Italia in miniatura 3.jpg",
+      "File:Colosseum in Italia in miniatura.jpg",
+      "File:Firenze in Italia in miniatura.jpg",
+      "File:Italia in Miniatura 004.jpg",
+      "File:Italia in Miniatura 015.jpg",
+      "File:Italia in Miniatura 010.jpg"
+    ]
+  },
+  {
+    "id": "collodi-lucca",
+    "name": {
+      "sr": "Park Pinokija",
+      "en": "Pinocchio Park"
+    },
+    "place": {
+      "sr": "Kolodi, kod Luke, Italija",
+      "en": "Collodi, near Lucca, Italy"
+    },
+    "country": "IT",
+    "region": "mediterranean",
+    "coords": [
+      43.898,
+      10.652
+    ],
+    "airport": {
+      "iata": "PSA",
+      "km": 55,
+      "minutes": 60,
+      "mode": {
+        "sr": "autom ili taksijem",
+        "en": "car or taxi"
+      }
+    },
+    "category": "theme",
+    "tags": [
+      "theme-park",
+      "fairytale",
+      "playground",
+      "forest"
+    ],
+    "ages": {
+      "baby": 2,
+      "toddler": 3,
+      "preschool": 3
+    },
+    "stroller": 2,
+    "budget": 2,
+    "bestMonths": [
+      4,
+      5,
+      6,
+      9
+    ],
+    "season": {
+      "sr": "Park je otvoren svakodnevno od marta do početka novembra (10–18 h); zimi radi samo vikendom.",
+      "en": "The park is open daily from March to early November (10 am–6 pm); in winter it's weekends only."
+    },
+    "tagline": {
+      "sr": "Park posvećen Pinokiju u toskanskom selu Kolodi, među skulpturama i vrtovima.",
+      "en": "A park dedicated to Pinocchio in the Tuscan village of Collodi, among sculptures and gardens."
+    },
+    "description": {
+      "sr": "Park Pinokija je otvoreni muzej u toskanskom selu Kolodi, rodnom kraju pisca Karla Kolodija. Kroz park su razmeštene skulpture i mozaici koji prate priču o Pinokiju, a deca vole i veliku drvenu statuu Pinokija. Uz njega se nalazi istorijski vrt Garzoni s leptirima, pa je ovo miran, bajkovit izlet.",
+      "en": "Pinocchio Park is an open-air museum in the Tuscan village of Collodi, the birthplace region of writer Carlo Collodi. Sculptures and mosaics throughout the park tell the story of Pinocchio, and children love the great wooden Pinocchio statue. The historic Garzoni garden with its butterfly house sits alongside, making this a gentle, fairy-tale outing."
+    },
+    "highlights": [
+      {
+        "sr": "Skulpture i mozaici iz priče o Pinokiju",
+        "en": "Sculptures and mosaics from the Pinocchio story"
+      },
+      {
+        "sr": "Velika drvena statua Pinokija",
+        "en": "The great wooden Pinocchio statue"
+      },
+      {
+        "sr": "Vrt Garzoni i kuća leptira",
+        "en": "The Garzoni garden and butterfly house"
+      }
+    ],
+    "pros": [
+      {
+        "sr": "Miran i bajkovit, bez vrisaka i velikih gužvi",
+        "en": "Calm and fairy-tale-like, without noise and big crowds"
+      },
+      {
+        "sr": "Deca do 3 godine ulaze besplatno",
+        "en": "Children under 3 enter free"
+      },
+      {
+        "sr": "Blizu Luke i Pize – lako se kombinuje s razgledanjem",
+        "en": "Near Lucca and Pisa – easy to combine with sightseeing"
+      }
+    ],
+    "cons": [
+      {
+        "sr": "Park je na padini – staze su strme za kolica",
+        "en": "The park is on a slope – paths are steep for buggies"
+      },
+      {
+        "sr": "Manje klasičnih vožnji – više šetnja i razgledanje",
+        "en": "Few classic rides – more walking and looking"
+      },
+      {
+        "sr": "Nema mnogo hlada u letnjim mesecima",
+        "en": "Little shade in the summer months"
+      }
+    ],
+    "tip": {
+      "sr": "Kombinujte posetu s jutrom u Luki i ponesite lagana kolica – deo parka je na strmini.",
+      "en": "Combine the visit with a morning in Lucca and bring a light buggy – part of the park is on a slope."
+    },
+    "costs": {
+      "tickets": [
+        {
+          "name": {
+            "sr": "Park Pinokija + vrt Garzoni (deca do 3 godine besplatna)",
+            "en": "Pinocchio Park + Garzoni Garden (children under 3 free)"
+          },
+          "adult": 26,
+          "child": 23,
+          "freeUnder": 3,
+          "url": "https://www.pinocchio.it/en/biglietti"
+        }
+      ],
+      "hotelNight": {
+        "budget": 70,
+        "mid": 130,
+        "comfort": 220
+      },
+      "foodPerAdultDay": 42,
+      "localPerDay": 14
+    },
+    "officialUrl": "https://www.pinocchio.it/",
+    "sources": [
+      "https://www.pinocchio.it/en/biglietti",
+      "https://en.wikipedia.org/wiki/Collodi_(Italy)"
+    ],
+    "priceConfidence": "verified",
+    "images": [
+      "File:Collodi, Parco di Pinocchio entrata.jpg",
+      "File:Collodi, Parco di Pinocchio 01.jpg",
+      "File:Collodi, Parco di Pinocchio, pinocchio e la fata 02.jpg",
+      "File:Collodi, Parco di Pinocchio, piazza dei mosaici 06.jpg",
+      "File:Collodi, Parco di Pinocchio, il grande pescecane 03.jpg",
+      "File:Collodi, Parco di Pinocchio, la fata turchina 01.jpg"
+    ]
+  },
+  {
+    "id": "seiser-alm",
+    "name": {
+      "sr": "Seiser Alm (Alpe di Siusi)",
+      "en": "Seiser Alm / Alpe di Siusi"
+    },
+    "place": {
+      "sr": "Alpe di Siusi, Južni Tirol",
+      "en": "Alpe di Siusi, South Tyrol"
+    },
+    "country": "IT",
+    "region": "mediterranean",
+    "coords": [
+      46.5411,
+      11.6447
+    ],
+    "airport": {
+      "iata": "BZO",
+      "km": 30,
+      "minutes": 40,
+      "mode": {
+        "sr": "autom ili taksijem",
+        "en": "car or taxi"
+      }
+    },
+    "category": "nature",
+    "tags": [
+      "mountain",
+      "forest",
+      "cable-car",
+      "lake",
+      "playground"
+    ],
+    "ages": {
+      "baby": 2,
+      "toddler": 3,
+      "preschool": 3
+    },
+    "stroller": 3,
+    "budget": 3,
+    "bestMonths": [
+      6,
+      7,
+      9
+    ],
+    "season": {
+      "sr": "Letnje žičare rade otprilike od kraja maja do početka novembra; zimi je plato skijaško područje.",
+      "en": "The summer cable cars run roughly late May to early November; in winter the plateau is a ski area."
+    },
+    "tagline": {
+      "sr": "Najveća alpska livada Evrope: ravne staze, krave i Dolomiti u pozadini.",
+      "en": "Europe's largest alpine meadow: flat paths, cows and the Dolomites behind."
+    },
+    "description": {
+      "sr": "Seiser Alm (Alpe di Siusi) je ogroman, blago zatalasan planinski plato na visini oko 1.700 metara u Dolomitima. To je jedno od najlakših mesta za boravak s malom decom u planinama: staze su ravne i široke, a iz Compatscha kreću šetnje uz ograde i alpske kolibe. Leti se gore stiže žičarom ili, rano ujutru, kolima.",
+      "en": "Seiser Alm (Alpe di Siusi) is a vast, gently rolling mountain plateau at about 1,700 m in the Dolomites. It's one of the easiest places to be in the mountains with small children: the paths are flat and wide, and walks lead out from Compatsch past fences and alpine huts. In summer you go up by cable car or, early in the morning, by car."
+    },
+    "highlights": [
+      {
+        "sr": "Ravne šetnje od Compatscha s pogledom na Dolomite",
+        "en": "Flat walks from Compatsch with Dolomite views"
+      },
+      {
+        "sr": "Alpske kolibe s domaćom hranom i igralištima",
+        "en": "Alpine huts with local food and playgrounds"
+      },
+      {
+        "sr": "Vožnja žičarom i susret s kravama na pašnjacima",
+        "en": "A cable-car ride and cows on the pastures"
+      }
+    ],
+    "pros": [
+      {
+        "sr": "Ravne, široke staze – odlične za kolica i male noge",
+        "en": "Flat, wide paths – great for buggies and little legs"
+      },
+      {
+        "sr": "Svež planinski vazduh i hlad u borovim šumama",
+        "en": "Fresh mountain air and shade in the pine forests"
+      },
+      {
+        "sr": "Porodična infrastruktura i igrališta uz kolibe",
+        "en": "Family facilities and playgrounds by the huts"
+      }
+    ],
+    "cons": [
+      {
+        "sr": "Žičare i smeštaj u Južnom Tirolu su skupi",
+        "en": "Cable cars and lodging in South Tyrol are pricey"
+      },
+      {
+        "sr": "Danju se kolima ne sme gore – mora se žičarom ili rano ujutru",
+        "en": "Cars aren't allowed up during the day – you need the cable car or an early start"
+      },
+      {
+        "sr": "Na visini je – osetljivijoj deci treba dan-dva privikavanja",
+        "en": "It's high altitude – sensitive children may need a day or two to adjust"
+      }
+    ],
+    "tip": {
+      "sr": "Idite gore prvom žičarom ili autom pre 9 ujutru, kad je plato miran, i ponesite slojevitu odeću.",
+      "en": "Go up on the first cable car or drive up before 9 am when the plateau is quiet, and bring layers."
+    },
+    "costs": {
+      "tickets": [
+        {
+          "name": {
+            "sr": "Seiser Alm žičara (povratna karta, Siusi–Compatsch)",
+            "en": "Seiser Alm cable car (return, Siusi–Compatsch)"
+          },
+          "adult": 30,
+          "child": 15,
+          "freeUnder": 8,
+          "url": "https://www.seiseralm.it/"
+        }
+      ],
+      "hotelNight": {
+        "budget": 90,
+        "mid": 150,
+        "comfort": 260
+      },
+      "foodPerAdultDay": 45,
+      "localPerDay": 16
+    },
+    "officialUrl": "https://www.seiseralm.it/",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Seiser_Alm",
+      "https://howtoineurope.com/italy/dolomites/alpe-di-siusi"
+    ],
+    "priceConfidence": "estimated",
+    "images": [
+      "File:Seiser-Alm mit Sella und Langkofel.jpg",
+      "File:Fischbachl Seiseralm Südtirol.JPG",
+      "File:Prossliner Schwaige mit Schlern Seiser Alm.jpg",
+      "File:Autumn on the meadows of Seiser Alm with Saslong.jpg",
+      "File:Seiser Alm 11.jpg",
+      "File:Peaceful Seiser Alm meadow (Unsplash).jpg"
+    ]
+  }
+]

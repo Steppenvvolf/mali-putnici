@@ -1,0 +1,2062 @@
+[
+ {
+  "id": "boka-kotorska",
+  "name": {
+   "sr": "Boka Kotorska",
+   "en": "Bay of Kotor"
+  },
+  "place": {
+   "sr": "Kotor, Crna Gora",
+   "en": "Kotor, Montenegro"
+  },
+  "country": "ME",
+  "region": "balkans",
+  "coords": [
+   42.4247,
+   18.7712
+  ],
+  "airport": {
+   "iata": "TIV",
+   "km": 8,
+   "minutes": 15,
+   "mode": {
+    "sr": "autom ili taksijem",
+    "en": "car or taxi"
+   }
+  },
+  "category": "nature",
+  "tags": [
+   "old-town",
+   "mountain",
+   "castle",
+   "boat"
+  ],
+  "ages": {
+   "baby": 2,
+   "toddler": 2,
+   "preschool": 3
+  },
+  "stroller": 2,
+  "budget": 2,
+  "bestMonths": [
+   5,
+   6,
+   9
+  ],
+  "season": {
+   "sr": "Zaliv je otvoren cele godine, a zidine i brodići najviše se obilaze od aprila do oktobra.",
+   "en": "The bay is open year-round, but the walls and boat trips are at their best from April to October."
+  },
+  "tagline": {
+   "sr": "Plavi zaliv pod strmim liticama, sa šetnjom kroz kameni stari grad i vožnjom brodićem do Perasta.",
+   "en": "A blue fjord-like bay beneath steep cliffs, with a stone old town and a boat ride to Perast."
+  },
+  "description": {
+   "sr": "Boka Kotorska je najlepši „fjord“ Jadrana — dubok zaliv okružen visokim planinama, sa starim gradom Kotorom pod zaštitom UNESKO-a. Za male noge idealna je lagana šetnja kamenim ulicama Kotora, gde mačke i fontane zabavljaju mališane dok roditelji uživaju u kafi na trgu. Brodićem do Perasta i ostrvceta Gospa od Škrpjela stiže se brzo i bez umora. Plivanje je moguće na uređenim plažama uz zaliv, a najlepši pogled čeka i bez ijednog stepenika.",
+   "en": "The Bay of Kotor is the Adriatic's most beautiful 'fjord' — a deep bay ringed by mountains, with the UNESCO-listed old town of Kotor at its heart. A gentle stroll through Kotor's stone lanes keeps little legs happy (cats and fountains do the entertaining) while parents enjoy coffee on the square. A short boat trip takes you to Perast and the tiny island of Our Lady of the Rocks without any walking. Swimming is possible at the bay's small beaches, and the best photo views need no hiking at all."
+  },
+  "highlights": [
+   {
+    "sr": "Šetnja starim gradom Kotorom i brojanje mačaka koje se izležavaju na trgovima",
+    "en": "Wandering Kotor's old town and counting the cats dozing on its squares"
+   },
+   {
+    "sr": "Vožnja brodićem do Perasta i ostrvceta Gospa od Škrpjela",
+    "en": "A boat trip to Perast and the tiny island of Our Lady of the Rocks"
+   },
+   {
+    "sr": "Lagana šetnja rivom i sladoled uz zaliv",
+    "en": "A gentle waterfront promenade with ice cream along the bay"
+   },
+   {
+    "sr": "Igranje na gradskim trgovima dok roditelji piju kafu",
+    "en": "Playing on the town squares while parents enjoy a coffee"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Stari grad je pešačka zona — deca se kreću bezbedno bez automobila",
+    "en": "The old town is car-free, so children move around safely"
+   },
+   {
+    "sr": "Brodići su kratki i mirni, idealni i za bebe",
+    "en": "Boat trips are short and calm, fine even with a baby"
+   },
+   {
+    "sr": "Kafa i sladoled na svakom koraku, uz mnogo hlada pod starim zidinama",
+    "en": "Coffee and ice cream on every corner, with plenty of shade under the old walls"
+   },
+   {
+    "sr": "Zaliv štiti od jakih talasa, pa je kupanje mirnije nego na otvorenom moru",
+    "en": "The sheltered bay has no big waves, so swimming is calmer than the open sea"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "Leti ume da bude vrelo i krcato, posebno kad pristanu brodovi za krstarenje",
+    "en": "It gets hot and crowded in summer, especially when cruise ships dock"
+   },
+   {
+    "sr": "Kaldrma je neravna — kolica ćete često nositi ili ostaviti kod hotela",
+    "en": "The cobbles are uneven — you'll often carry the buggy or leave it at the hotel"
+   },
+   {
+    "sr": "Penjanje na tvrđavu Sveti Ivan (1.350 stepenika) nije za malu decu",
+    "en": "The climb to St John's fortress (1,350 steps) is not for small children"
+   }
+  ],
+  "tip": {
+   "sr": "Tvrđavu obiđite rano ujutru pre vrućine — ili je preskočite i provozajte se žičarom Kotor–Lovćen, koja pruža isti pogled bez ijednog stepenika.",
+   "en": "Do the fortress early before the heat — or skip it and ride the Kotor–Lovćen cable car instead, which gives you the same view with zero steps."
+  },
+  "costs": {
+   "tickets": [
+    {
+     "name": {
+      "sr": "Ulaznica za gradske zidine Kotora",
+      "en": "Kotor city walls ticket"
+     },
+     "adult": 15,
+     "child": 8,
+     "freeUnder": 7,
+     "url": "https://www.kotorcitywalls.me/"
+    }
+   ],
+   "hotelNight": {
+    "budget": 60,
+    "mid": 100,
+    "comfort": 180
+   },
+   "foodPerAdultDay": 30,
+   "localPerDay": 8
+  },
+  "officialUrl": "https://www.kotorcitywalls.me/",
+  "sources": [
+   "https://www.kotorcitywalls.me/",
+   "https://kotorfortress.com/",
+   "https://departly.co.uk/to/montenegro/kotor-old-town"
+  ],
+  "priceConfidence": "verified",
+  "images": [
+   "File:Vista de la Bahía de Kotor, Montenegro, 2014-04-19, DD 03.JPG",
+   "File:Kotor old town 1.jpg",
+   "File:Bay of Kotor - Kotor.jpg",
+   "File:Kotor and Boka kotorska - view from city wall.jpg",
+   "File:Bay of Kotor - Perast - 1.jpg",
+   "File:Bay of Kotor 3.jpg"
+  ]
+ },
+ {
+  "id": "durmitor-zabljak",
+  "name": {
+   "sr": "Durmitor i Žabljak",
+   "en": "Durmitor & Žabljak"
+  },
+  "place": {
+   "sr": "Žabljak, Crna Gora",
+   "en": "Žabljak, Montenegro"
+  },
+  "country": "ME",
+  "region": "balkans",
+  "coords": [
+   43.1487,
+   19.0872
+  ],
+  "airport": {
+   "iata": "TGD",
+   "km": 130,
+   "minutes": 135,
+   "mode": {
+    "sr": "autom ili autobusom",
+    "en": "car or bus"
+   }
+  },
+  "category": "nature",
+  "tags": [
+   "mountain",
+   "lake",
+   "forest"
+  ],
+  "ages": {
+   "baby": 2,
+   "toddler": 2,
+   "preschool": 3
+  },
+  "stroller": 2,
+  "budget": 1,
+  "bestMonths": [
+   6,
+   7,
+   8,
+   9
+  ],
+  "season": {
+   "sr": "Park je najlepši od juna do septembra, kada je snega nestalo i kada rade staze; zimi je u ponudi miran porodični odmor u snegu.",
+   "en": "The park is at its best from June to September once the snow has gone and the trails are open; winter offers a quiet family break in the snow."
+  },
+  "tagline": {
+   "sr": "Planinsko Crno jezero do kog se šeta ravnom stazom, uz svež vazduh i divlje konje na proplancima.",
+   "en": "The mountain Black Lake reached by a flat trail, with fresh air and wild horses on the meadows."
+  },
+  "description": {
+   "sr": "Durmitor je najlepša planina Crne Gore — nacionalni park s vrhovima preko 2.000 metara, kanjonom Tare i tirkiznim Crnim jezerom. Najveća porodična atrakcija je lagana šetnja oko Crnog jezera (oko 3,5 km), koja je ravna i prikladna i za mlađu decu. Leti je na Žabljaku prijatno sveže, što je pravo osveženje posle vrele obale. Uz stazu ćete sresti krave, ovce, a ponekad i divlje konje.",
+   "en": "Durmitor is Montenegro's most beautiful mountain — a national park of 2,000 m peaks, the Tara canyon and the turquoise Black Lake. The big family draw is a gentle ~3.5 km loop around the Black Lake, flat and easy even for younger children. In summer Žabljak stays pleasantly cool, a real escape from the hot coast. Along the trail you'll meet cows, sheep and sometimes wild horses."
+  },
+  "highlights": [
+   {
+    "sr": "Lagana šetnja oko Crnog jezera (oko sat i po, ravna staza)",
+    "en": "A gentle loop around the Black Lake (about 1.5 hours, flat)"
+   },
+   {
+    "sr": "Iznajmljivanje čamca na Crnom jezeru",
+    "en": "Renting a rowing boat on the Black Lake"
+   },
+   {
+    "sr": "Posmatranje krava i divljih konja na proplancima",
+    "en": "Watching cows and wild horses on the meadows"
+   },
+   {
+    "sr": "Kratka šetnja do vidikovca s pogledom na vrhove",
+    "en": "A short walk to a viewpoint over the peaks"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Svež planinski vazduh i blaga klima leti — idealno za bebe i malu decu",
+    "en": "Cool mountain air and a mild climate in summer — great for babies and toddlers"
+   },
+   {
+    "sr": "Staza oko jezera je ravna i široka, kolica prolaze lakše nego na obali",
+    "en": "The lake trail is flat and wide, easier for buggies than the coast"
+   },
+   {
+    "sr": "Puno zelenila, livada i životinja koje deca obožavaju",
+    "en": "Lots of greenery, meadows and animals that children love"
+   },
+   {
+    "sr": "Povoljno — jeftiniji smeštaj i hrana nego na primorju",
+    "en": "Affordable — cheaper stays and food than the seaside"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "Letnje popodnevne oluje znaju da pokvare plan šetnje — krenite ujutru",
+    "en": "Afternoon thunderstorms can spoil a walk in summer — start in the morning"
+   },
+   {
+    "sr": "Ulaz u park se naplaćuje (5 evra), a parking uz jezero je ograničen",
+    "en": "There's a park entry fee (€5) and limited parking by the lake"
+   },
+   {
+    "sr": "Nema velikih dečjih sadržaja — zabava je u prirodi, ne na spravama",
+    "en": "No big children's attractions — the fun is in nature, not on equipment"
+   }
+  ],
+  "tip": {
+   "sr": "Parkirajte na glavnom ulazu i krenite oko jezera suprotno od kazaljke — najlepši deo staze s klupama i hladom je na drugoj polovini kruga.",
+   "en": "Park at the main gate and walk the lake anticlockwise — the prettiest stretch, with benches and shade, is on the second half of the loop."
+  },
+  "costs": {
+   "tickets": [
+    {
+     "name": {
+      "sr": "Dnevna ulaznica za NP Durmitor",
+      "en": "Durmitor National Park day ticket"
+     },
+     "adult": 5,
+     "child": 3,
+     "freeUnder": 7,
+     "url": "https://nparkovi.me/sections/27/durmitor"
+    }
+   ],
+   "hotelNight": {
+    "budget": 40,
+    "mid": 70,
+    "comfort": 120
+   },
+   "foodPerAdultDay": 25,
+   "localPerDay": 10
+  },
+  "officialUrl": "https://nparkovi.me/sections/27/durmitor",
+  "sources": [
+   "https://nparkovi.me/sections/27/durmitor",
+   "https://en.wikivoyage.org/wiki/Durmitor_National_Park",
+   "https://www.zabljak.com/durmitor-national-park"
+  ],
+  "priceConfidence": "verified",
+  "images": [
+   "File:Crno jezero - 2.jpg",
+   "File:2025-07-12 Crno jezero 04.jpg",
+   "File:Montenegro NP Durmitor Black Lake 03.jpg",
+   "File:Crno jezero - 1.jpg",
+   "File:Durmitor - Crno jezero.jpg",
+   "File:2025-07-13 Durmitor National Park, Kovačka Dolina.jpg"
+  ]
+ },
+ {
+  "id": "sarajevo-vrelo-bosne",
+  "name": {
+   "sr": "Sarajevo i Vrelo Bosne",
+   "en": "Sarajevo & Vrelo Bosne"
+  },
+  "place": {
+   "sr": "Sarajevo, Bosna i Hercegovina",
+   "en": "Sarajevo, Bosnia and Herzegovina"
+  },
+  "country": "BA",
+  "region": "balkans",
+  "coords": [
+   43.8193,
+   18.2679
+  ],
+  "airport": {
+   "iata": "SJJ",
+   "km": 10,
+   "minutes": 20,
+   "mode": {
+    "sr": "autom, taksijem ili tramvajem",
+    "en": "car, taxi or tram"
+   }
+  },
+  "category": "nature",
+  "tags": [
+   "forest",
+   "lake",
+   "playground",
+   "free"
+  ],
+  "ages": {
+   "baby": 3,
+   "toddler": 3,
+   "preschool": 3
+  },
+  "stroller": 3,
+  "budget": 1,
+  "bestMonths": [
+   5,
+   6,
+   9
+  ],
+  "season": {
+   "sr": "Park je otvoren cele godine, ali je najlepši od maja do septembra, kada su izvori bistri i drvored u punom hladu.",
+   "en": "The park is open year-round but is at its best from May to September, when the springs are clear and the avenue is in full shade."
+  },
+  "tagline": {
+   "sr": "Izvor reke Bosne — park bistrih potočića, labudova i hladovine, idealan za popodnevnu šetnju s kolicima.",
+   "en": "The source of the River Bosna — a park of clear streams, swans and shade, perfect for an afternoon walk with the buggy."
+  },
+  "description": {
+   "sr": "Vrelo Bosne je zaštićeni park u podnožju Igmana, na samom izvoru reke Bosne — sistem bistrih izvora, potočića i drvenih mostića okružen starim platanima i kestenovima. Do izvora vodi ravna, mirna aleja Velika aleja (oko 3 km) zatvorena za automobile, pa se po njoj šeta, vozi bicikl ili fijakerom. Labudovi i patke plivaju po jezercima i rado se hrane iz ruke, što mališane oduševljava. Ulaz je simboličan, a kafa uz vodu u hladu je savršena završnica.",
+   "en": "Vrelo Bosne is a protected park at the foot of Mount Igman, at the very source of the River Bosna — a network of clear springs, streams and wooden footbridges under old plane and chestnut trees. A flat, traffic-free avenue (about 3 km) leads to the spring, so you walk, cycle or take a horse-drawn carriage. Swans and ducks glide on the ponds and happily feed from your hand, which delights small children. Entry costs next to nothing, and a coffee by the water in the shade is a perfect finish."
+  },
+  "highlights": [
+   {
+    "sr": "Šetnja ili vožnja fijakerom Velikom alejom do izvora",
+    "en": "Walking or taking a horse-drawn carriage up the grand avenue"
+   },
+   {
+    "sr": "Hranjenje labudova i patki na jezercima",
+    "en": "Feeding the swans and ducks on the ponds"
+   },
+   {
+    "sr": "Preskakanje drvenih mostića preko bistrih potoka",
+    "en": "Hopping over wooden footbridges across the clear streams"
+   },
+   {
+    "sr": "Kafa i sok u restoranu uz izvore",
+    "en": "Coffee and juice at the restaurant by the springs"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Ravna staza i hladovina — odlično za kolica i popodnevni san u pokretu",
+    "en": "Flat paths and shade — great for buggies and a pram nap on the move"
+   },
+   {
+    "sr": "Simboličan ulaz, a deca mlađa od 7 godina ne plaćaju",
+    "en": "A symbolic entry fee, with children under 7 free"
+   },
+   {
+    "sr": "Mirno i zeleno, daleko od gradske vreve, a opet blizu Sarajeva",
+    "en": "Calm and green, away from the city buzz yet close to Sarajevo"
+   },
+   {
+    "sr": "Labudovi i patke su blaga atrakcija koju deca dugo pamte",
+    "en": "The swans and ducks are a gentle attraction children remember"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "Vikendom leti zna da bude gužva i teže se nađe parking",
+    "en": "It can get crowded on summer weekends and parking is harder to find"
+   },
+   {
+    "sr": "Voda u izvorima je pitka, ali se ne preporučuje za malu decu — ponesite svoju flašicu",
+    "en": "The spring water is drinkable but not recommended for small children — bring your own bottle"
+   },
+   {
+    "sr": "Najveći deo sadržaja je šetnja — za stalno aktivnu decu može biti monotono",
+    "en": "The main activity is walking — it can feel monotonous for constantly active kids"
+   }
+  ],
+  "tip": {
+   "sr": "Umesto da se vraćate peške, nazad se vratite fijakerom — deca obožavaju zvuk konjskih kopita, a roditelji odmore noge.",
+   "en": "Instead of walking back, return by horse-drawn carriage — children love the clip-clop of hooves and parents rest their feet."
+  },
+  "costs": {
+   "tickets": [
+    {
+     "name": {
+      "sr": "Ulaz u park Vrelo Bosne",
+      "en": "Vrelo Bosne park entry"
+     },
+     "adult": 2,
+     "child": 1,
+     "freeUnder": 7,
+     "url": "https://sarajevo.travel/en"
+    }
+   ],
+   "hotelNight": {
+    "budget": 35,
+    "mid": 60,
+    "comfort": 110
+   },
+   "foodPerAdultDay": 25,
+   "localPerDay": 6
+  },
+  "officialUrl": "https://sarajevo.travel/en",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vrelo_Bosne",
+   "https://www.sarajevo-trip.com/destinations/vrelo-bosne",
+   "https://www.showcaves.com/english/ba/springs/Bosne.html"
+  ],
+  "priceConfidence": "estimated",
+  "images": [
+   "File:Ilidza Vrelo-Bosne 2010-07-05.jpg",
+   "File:Ilidza Vrelo-Bosne 2010-07-05 (22).jpg",
+   "File:Ilidza Vrelo-Bosne 2010-07-05 (32).jpg",
+   "File:Ilidza Vrelo-Bosne 2010-07-05 (3).jpg",
+   "File:Spring of the River Bosna, Sarajevo (2).JPG"
+  ]
+ },
+ {
+  "id": "mostar-kravica",
+  "name": {
+   "sr": "Mostar i Kravica",
+   "en": "Mostar & Kravica"
+  },
+  "place": {
+   "sr": "Mostar, Bosna i Hercegovina",
+   "en": "Mostar, Bosnia and Herzegovina"
+  },
+  "country": "BA",
+  "region": "balkans",
+  "coords": [
+   43.3372,
+   17.8153
+  ],
+  "airport": {
+   "iata": "OMO",
+   "km": 30,
+   "minutes": 40,
+   "mode": {
+    "sr": "autom",
+    "en": "car"
+   }
+  },
+  "category": "nature",
+  "tags": [
+   "waterfall",
+   "old-town",
+   "forest"
+  ],
+  "ages": {
+   "baby": 2,
+   "toddler": 2,
+   "preschool": 3
+  },
+  "stroller": 2,
+  "budget": 1,
+  "bestMonths": [
+   5,
+   6,
+   9
+  ],
+  "season": {
+   "sr": "Vodopad Kravica je najbolji od aprila do oktobra, kada se može i kupati; zimi je ulaz slobodan ali su objekti uglavnom zatvoreni.",
+   "en": "Kravica waterfall is best from April to October when you can swim; in winter entry is free but most facilities close."
+  },
+  "tagline": {
+   "sr": "Stari most u Mostaru i tirkizni vodopad Kravica — dva bisera Hercegovine u jednom danu.",
+   "en": "The Old Bridge in Mostar and the turquoise Kravica waterfall you can swim under in summer — two gems of Herzegovina in one day."
+  },
+  "description": {
+   "sr": "Ovaj izlet spaja dva lica Hercegovine: istorijski stari grad Mostar sa čuvenim Starim mostom i prirodni biser — vodopad Kravica visok 25 metara. U Mostaru šetate kaldrmom, kupujete suvenire i gledate skakače s mosta (iz sigurne daljine), a zatim se pola sata vožnje kasnije brčkate pod vodopadom. Podno Kravice je plitko i leti ugodno toplo, pa je kupanje pravo osveženje. Deca vole i kratku vožnju vlakićem uz stazu.",
+   "en": "This trip combines two faces of Herzegovina: the historic old town of Mostar with its famous Old Bridge, and a natural gem — the 25 m Kravica waterfall. In Mostar you stroll the cobbles, buy souvenirs and watch the bridge divers (from a safe distance), then half an hour later you're paddling beneath the falls. The water under Kravica is shallow and pleasantly warm in summer, so swimming is a real treat. Kids also love the little train ride up the trail."
+  },
+  "highlights": [
+   {
+    "sr": "Šetnja starim Mostarom i fotografisanje ispod Starog mosta",
+    "en": "Wandering old Mostar and taking photos under the Old Bridge"
+   },
+   {
+    "sr": "Kupanje i prskanje u plitkoj vodi podno vodopada Kravica",
+    "en": "Swimming and splashing in the shallow water beneath Kravica"
+   },
+   {
+    "sr": "Kratka vožnja vlakićem od parkirališta do vodopada",
+    "en": "A short train ride from the car park to the waterfall"
+   },
+   {
+    "sr": "Sladoled i kafa na terasama uz reku Neretvu",
+    "en": "Ice cream and coffee on the terraces along the Neretva"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Kravica je plitka i mirna — bezbednija za malu decu nego otvorena voda",
+    "en": "Kravica is shallow and calm — safer for small children than open water"
+   },
+   {
+    "sr": "Dva različita doživljaja (grad + priroda) u jednom danu",
+    "en": "Two different experiences (city + nature) in one day"
+   },
+   {
+    "sr": "Pristupačne cene, a deca do 7 godina ulaze besplatno",
+    "en": "Affordable prices, and children under 7 enter free"
+   },
+   {
+    "sr": "Mostar je kompaktan i pešački — sve se obiđe lagano",
+    "en": "Mostar is compact and walkable — everything is easily covered"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "Leti je Kravica veoma posećena — dođite rano ujutru",
+    "en": "Kravica gets very busy in summer — arrive early in the morning"
+   },
+   {
+    "sr": "Kaldrma u Mostaru je neravna, a Stari most je strm i klizav kad je mokar",
+    "en": "Mostar's cobbles are uneven and the Old Bridge is steep and slippery when wet"
+   },
+   {
+    "sr": "Put od Mostara do Kravice vodi lokalnim putevima — računajte na sporiju vožnju",
+    "en": "The road from Mostar to Kravica is local and slow — allow extra time"
+   }
+  ],
+  "tip": {
+   "sr": "Kravicu obiđite ujutru pre vrućine i gužve, a Mostar ostavite za popodne — tako izbegavate i najtopliji deo dana i najveće gužve.",
+   "en": "Do Kravica in the morning before the heat and crowds, and leave Mostar for the afternoon — that way you dodge both the hottest hours and the biggest crowds."
+  },
+  "costs": {
+   "tickets": [
+    {
+     "name": {
+      "sr": "Ulaznica za vodopad Kravica",
+      "en": "Kravica waterfall ticket"
+     },
+     "adult": 10,
+     "child": 5,
+     "freeUnder": 7,
+     "url": "https://kravica.ba/en/for-visitors"
+    }
+   ],
+   "hotelNight": {
+    "budget": 35,
+    "mid": 65,
+    "comfort": 110
+   },
+   "foodPerAdultDay": 25,
+   "localPerDay": 8
+  },
+  "officialUrl": "https://kravica.ba/",
+  "sources": [
+   "https://kravica.ba/en/for-visitors",
+   "https://exploremostar.com/kravica-waterfall-price"
+  ],
+  "priceConfidence": "verified",
+  "images": [
+   "File:Stari Most viewed from North.jpg",
+   "File:Old Bridge in Mostar during sunset.jpg",
+   "File:Kravice-kosk6.jpg",
+   "File:Mostar Old Town Panorama.jpg",
+   "File:Stari most Mostar redbull diving 2019-08-24.jpg",
+   "File:Kravica waterfalls 2019-08-24 - 2.jpg"
+  ]
+ },
+ {
+  "id": "ohrid",
+  "name": {
+   "sr": "Ohrid",
+   "en": "Ohrid"
+  },
+  "place": {
+   "sr": "Ohrid, Severna Makedonija",
+   "en": "Ohrid, North Macedonia"
+  },
+  "country": "MK",
+  "region": "balkans",
+  "coords": [
+   41.117,
+   20.802
+  ],
+  "airport": {
+   "iata": "OHD",
+   "km": 10,
+   "minutes": 15,
+   "mode": {
+    "sr": "autom ili taksijem",
+    "en": "car or taxi"
+   }
+  },
+  "category": "nature",
+  "tags": [
+   "lake",
+   "old-town",
+   "mountain",
+   "boat"
+  ],
+  "ages": {
+   "baby": 3,
+   "toddler": 3,
+   "preschool": 3
+  },
+  "stroller": 2,
+  "budget": 1,
+  "bestMonths": [
+   6,
+   7,
+   8,
+   9
+  ],
+  "season": {
+   "sr": "Ohrid je najlepši od maja do septembra, kada je jezero toplo za kupanje i kada voze brodići; grad je otvoren cele godine.",
+   "en": "Ohrid is at its best from May to September, when the lake is warm for swimming and the boats run; the town is open all year."
+  },
+  "tagline": {
+   "sr": "Najdublje jezero Balkana sa crkvicom na steni i kristalno čistom vodom za prvo kupanje.",
+   "en": "The Balkans' deepest lake, with a church on a cliff, a stone old town and crystal-clear water for first swimming strokes."
+  },
+  "description": {
+   "sr": "Ohrid, na obali istoimenog jezera, jedno je od najstarijih i najlepših mesta na Balkanu — stari grad i jezero pod zaštitom su UNESKO-a. Najpoznatiji prizor, crkvica Svetog Jovana Kaneo na steni iznad vode, dočekuje vas kratkom šetnjom kroz stare ulice. Jezero je izuzetno čisto i plitko uz obalu, pa je idealno za prve plivačke korake, a brodići do Svetog Nauma pružaju dnevni izlet bez umora. Grad je miran, sa puno kafića uz šetalište i sladoleda na svakom ćošku.",
+   "en": "Ohrid, on the shore of its namesake lake, is one of the oldest and most beautiful places in the Balkans — its old town and lake are UNESCO-listed. The most famous sight, the church of St John at Kaneo on a cliff above the water, is reached by a short stroll through the old lanes. The lake is exceptionally clean and shallow near the shore, ideal for first swimming strokes, and boats to St Naum make an easy day trip. The town is calm, with cafés along the promenade and ice cream on every corner."
+  },
+  "highlights": [
+   {
+    "sr": "Šetnja do crkvice Svetog Jovana Kaneo i fotografisanje nad jezerom",
+    "en": "Walking to St John at Kaneo church and photographing it above the lake"
+   },
+   {
+    "sr": "Kupanje na plitkim gradskim plažama uz šetalište",
+    "en": "Swimming at the shallow town beaches along the promenade"
+   },
+   {
+    "sr": "Vožnja brodićem do manastira Sveti Naum i izvora Crnog Drima",
+    "en": "A boat trip to St Naum monastery and the Black Drim springs"
+   },
+   {
+    "sr": "Šetnja starom čaršijom i traženje suvenira i sladoleda",
+    "en": "Strolling the old bazaar for souvenirs and ice cream"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Jezero je mirno i čisto, bez jakih talasa — idealno za najmlađe",
+    "en": "The lake is calm and clean, with no big waves — ideal for the youngest"
+   },
+   {
+    "sr": "Šetalište uz obalu je ravno i dugo, savršeno za kolica",
+    "en": "The lakefront promenade is flat and long, perfect for buggies"
+   },
+   {
+    "sr": "Povoljne cene smeštaja i hrane u odnosu na obalu",
+    "en": "Affordable stays and food compared with the coast"
+   },
+   {
+    "sr": "Sve glavne znamenitosti su na kratkoj šetnji od centra",
+    "en": "All the main sights are a short walk from the centre"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "Jula i avgusta zna biti vrelo i živo, a parking u starom gradu teško naći",
+    "en": "July and August can be hot and lively, and parking in the old town is hard to find"
+   },
+   {
+    "sr": "Kaldrma u starom gradu je neravna za kolica",
+    "en": "The old town's cobbles are uneven for buggies"
+   },
+   {
+    "sr": "Neke plaže su šljunkovite — vodene cipele dobro dođu",
+    "en": "Some beaches are pebbly — water shoes come in handy"
+   }
+  ],
+  "tip": {
+   "sr": "Za najmirnije kupanje s mališanima izaberite plažu uz šetalište prema Svetom Naumu — voda je plitka dugo od obale.",
+   "en": "For the calmest swimming with little ones, pick a beach along the promenade towards St Naum — the water stays shallow for a long way out."
+  },
+  "costs": {
+   "tickets": [
+    {
+     "name": {
+      "sr": "Tvrđava cara Samuila",
+      "en": "Samuel's Fortress"
+     },
+     "adult": 3,
+     "child": 2,
+     "freeUnder": 6,
+     "url": "https://macedonia-timeless.com/"
+    },
+    {
+     "name": {
+      "sr": "Vožnja brodićem po jezeru",
+      "en": "Lake Ohrid boat cruise"
+     },
+     "adult": 10,
+     "child": 5,
+     "freeUnder": 3,
+     "url": "https://macedonia-timeless.com/"
+    }
+   ],
+   "hotelNight": {
+    "budget": 35,
+    "mid": 60,
+    "comfort": 110
+   },
+   "foodPerAdultDay": 25,
+   "localPerDay": 8
+  },
+  "officialUrl": "https://macedonia-timeless.com/",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ohrid",
+   "https://macedonia-timeless.com/"
+  ],
+  "priceConfidence": "estimated",
+  "images": [
+   "File:Church of St. John at Kaneo, Lake Ohrid.jpg",
+   "File:Ohrid Lake Kaneo.jpg",
+   "File:Church of St. John at Kaneo 10.jpg",
+   "File:Sveti Jovan Kaneo & Lake Ohrid.jpg",
+   "File:Ohrid Old Town1.jpg",
+   "File:DSC 1969 stitch Ohrid.jpg"
+  ]
+ },
+ {
+  "id": "ksamil-butrint",
+  "name": {
+   "sr": "Ksamil i Butrint",
+   "en": "Ksamil & Butrint"
+  },
+  "place": {
+   "sr": "Ksamil, Albanija",
+   "en": "Ksamil, Albania"
+  },
+  "country": "AL",
+  "region": "balkans",
+  "coords": [
+   39.769,
+   19.999
+  ],
+  "airport": {
+   "iata": "CFU",
+   "km": 20,
+   "minutes": 120,
+   "mode": {
+    "sr": "trajektom pa kolima",
+    "en": "ferry then car"
+   }
+  },
+  "category": "beach",
+  "tags": [
+   "beach",
+   "shallow-sea",
+   "old-town",
+   "boat"
+  ],
+  "ages": {
+   "baby": 3,
+   "toddler": 3,
+   "preschool": 3
+  },
+  "stroller": 2,
+  "budget": 2,
+  "bestMonths": [
+   6,
+   9
+  ],
+  "season": {
+   "sr": "Sezona traje od maja do oktobra, s najlepšim vremenom u junu i septembru; van sezone Ksamil je uglavnom zatvoren.",
+   "en": "The season runs from May to October, with the best weather in June and September; out of season Ksamil mostly shuts down."
+  },
+  "tagline": {
+   "sr": "Tirkizna plitka voda i tri ostrvceta do kojih se stiže plivanjem — uz antički Butrint nadomak plaže.",
+   "en": "Turquoise shallow water and three islets you can swim out to — with ancient Butrint just beside the beach."
+  },
+  "description": {
+   "sr": "Ksamil, na albanskoj rivijeri, čuven je po kristalno tirkiznoj, plitkoj vodi i peščanim uvalama u kojima deca bezbedno brčkaju. Pred obalom leže tri mala ostrvceta do kojih se starija deca mogu lagano doplivati ili doveslati. Samo par kilometara dalje je Butrint — veličanstveni antički grad pod zaštitom UNESKO-a, gde se kroz senovite staze i pozorište šeta kao kroz muzej na otvorenom. Kombinacija plaže i blage arheologije čini ovo idealnim porodičnim odmorom.",
+   "en": "Ksamil, on the Albanian Riviera, is famous for its crystal-turquoise, shallow water and sandy coves where children splash safely. Three little islets lie just offshore, close enough for older kids to swim or paddle out to. Only a few kilometres away is Butrint — a magnificent UNESCO-listed ancient city, where shaded paths and a theatre make it feel like an open-air museum. The mix of beach and gentle archaeology makes this an ideal family holiday."
+  },
+  "highlights": [
+   {
+    "sr": "Brčkanje u plitkoj tirkiznoj vodi peščanih uvala",
+    "en": "Splashing in the shallow turquoise water of the sandy coves"
+   },
+   {
+    "sr": "Plivanje ili veslanje do tri ostrvceta pred Ksamilom",
+    "en": "Swimming or paddling out to the three islets off Ksamil"
+   },
+   {
+    "sr": "Šetnja senovitim stazama antičkog Butrinta i pozorištem",
+    "en": "Walking the shaded paths and theatre of ancient Butrint"
+   },
+   {
+    "sr": "Vožnja brodićem uz obalu i gledanje ribica kroz masku",
+    "en": "A boat ride along the coast and watching fish through a mask"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Voda je plitka i prozirna — jedna od najbezbednijih plaža za malu decu",
+    "en": "The water is shallow and clear — among the safest beaches for small children"
+   },
+   {
+    "sr": "Butrint nudi hlad i blagu šetnju, a deca do 12 godina ulaze besplatno",
+    "en": "Butrint offers shade and an easy walk, and children under 12 enter free"
+   },
+   {
+    "sr": "Povoljne cene u odnosu na grčka ostrva prekoputa",
+    "en": "Affordable prices compared with the Greek islands opposite"
+   },
+   {
+    "sr": "Smeštaj je uglavnom odmah uz plažu",
+    "en": "Most accommodation sits right by the beach"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "Jula i avgusta plaže su krcate, a ležaljke se naplaćuju",
+    "en": "In July and August the beaches are packed and sunbeds cost extra"
+   },
+   {
+    "sr": "Dolazak je preko Krfa trajektom — duže putovanje nego što karta pokazuje",
+    "en": "You reach it via a ferry from Corfu — a longer journey than the map suggests"
+   },
+   {
+    "sr": "Leti nema puno hlada na samoj plaži — ponesite suncobran",
+    "en": "There's little shade on the beach itself in summer — bring a parasol"
+   }
+  ],
+  "tip": {
+   "sr": "Butrint obiđite rano ujutru ili predveče, a plažu rezervišite za sredinu dana — tako izbegavate najtoplije sate među ruševinama.",
+   "en": "Visit Butrint early or late in the day and keep the beach for midday — that way you avoid the hottest hours among the ruins."
+  },
+  "costs": {
+   "tickets": [
+    {
+     "name": {
+      "sr": "Ulaznica za NP Butrint",
+      "en": "Butrint National Park ticket"
+     },
+     "adult": 10,
+     "child": 5,
+     "freeUnder": 12,
+     "url": "https://butrint.al/en/buy-your-ticket/"
+    }
+   ],
+   "hotelNight": {
+    "budget": 40,
+    "mid": 80,
+    "comfort": 150
+   },
+   "foodPerAdultDay": 30,
+   "localPerDay": 10
+  },
+  "officialUrl": "https://butrint.al/",
+  "sources": [
+   "https://butrint.al/cmimet-e-biletave/index.html",
+   "https://butrint.al/en/buy-your-ticket/"
+  ],
+  "priceConfidence": "verified",
+  "images": [
+   "File:Ksamil beach.jpg",
+   "File:Ksamil, Saranda , Albania.JPG",
+   "File:Ksamil, Albania (by Pudelek).JPG",
+   "File:Butrint - Ancient amphitheatre (by Pudelek).JPG",
+   "File:Ruins at Butrint, Albania.jpg",
+   "File:2011 Butrint 15 Theatre and Fortress.jpg"
+  ]
+ },
+ {
+  "id": "albena-balchik",
+  "name": {
+   "sr": "Albena i Balčik",
+   "en": "Albena & Balchik"
+  },
+  "place": {
+   "sr": "Albena, Bugarska",
+   "en": "Albena, Bulgaria"
+  },
+  "country": "BG",
+  "region": "balkans",
+  "coords": [
+   43.3689,
+   28.0811
+  ],
+  "airport": {
+   "iata": "VAR",
+   "km": 40,
+   "minutes": 45,
+   "mode": {
+    "sr": "autom ili autobusom",
+    "en": "car or bus"
+   }
+  },
+  "category": "beach",
+  "tags": [
+   "beach",
+   "shallow-sea",
+   "castle",
+   "playground"
+  ],
+  "ages": {
+   "baby": 3,
+   "toddler": 3,
+   "preschool": 3
+  },
+  "stroller": 3,
+  "budget": 2,
+  "bestMonths": [
+   6,
+   7,
+   8,
+   9
+  ],
+  "season": {
+   "sr": "Albena živi od maja do septembra, a najlepša je u junu i septembru; van sezone resort je uglavnom zatvoren.",
+   "en": "Albena runs from May to September, at its best in June and September; out of season the resort mostly closes."
+  },
+  "tagline": {
+   "sr": "Dugačka plitka peščana plaža sa svim sadržajima, uz bajkovitu botaničku baštu i dvorac u Balčiku.",
+   "en": "A long, shallow sandy beach with every convenience, plus the fairytale botanical garden and palace in Balchik."
+  },
+  "description": {
+   "sr": "Albena je jedan od najuređenijih porodičnih resorta na crnomorskoj obali Bugarske — duga peščana plaža, blaga plitka voda i široko šetalište s parkovima i igralištima. Desetak minuta vožnje dalje je Balčik, gde se nalazi dvorac kraljice Marije i čuvena botanička bašta sa kaktusima i terasama prema moru. Sve je prilagođeno deci — od mini-klubova u hotelima do ravnih staza za kolica. Idealno za prvi pravi porodični odmor uz more.",
+   "en": "Albena is one of the best-kept family resorts on Bulgaria's Black Sea coast — a long sandy beach, gentle shallow water and a wide promenade with parks and playgrounds. Ten minutes away is Balchik, home to Queen Marie's palace and the famous botanical garden with cacti and terraces above the sea. Everything is geared to children — from hotel kids' clubs to flat paths for buggies. Ideal for a first proper family seaside holiday."
+  },
+  "highlights": [
+   {
+    "sr": "Ceo dan na dugačkoj peščanoj plaži s plitkom vodom",
+    "en": "A full day on the long sandy beach with shallow water"
+   },
+   {
+    "sr": "Šetnja botaničkom baštom u Balčiku među kaktusima i cvećem",
+    "en": "Walking the Balchik botanical garden among cacti and flowers"
+   },
+   {
+    "sr": "Razgledanje dvorca kraljice Marije i terasa nad morem",
+    "en": "Seeing Queen Marie's palace and its terraces above the sea"
+   },
+   {
+    "sr": "Večernja šetnja šetalištem uz ringišpil i sladoled",
+    "en": "An evening promenade with a carousel and ice cream"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Široka peščana plaža i plitka voda — najbezbednije za najmlađe",
+    "en": "A wide sandy beach and shallow water — the safest for the youngest"
+   },
+   {
+    "sr": "Resort je ravan i uređen, idealan za kolica",
+    "en": "The resort is flat and well-kept, ideal for buggies"
+   },
+   {
+    "sr": "Puno hotela s dečjim sadržajima i animacijom",
+    "en": "Lots of hotels with kids' clubs and animation"
+   },
+   {
+    "sr": "Balčik dodaje dozu istorije i zelenila za kišne dane",
+    "en": "Balchik adds a dose of history and greenery for rainy days"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "Sezona je kratka, a u julu i avgustu plaža je vrlo posećena",
+    "en": "The season is short, and in July and August the beach is very busy"
+   },
+   {
+    "sr": "Veliki deo plaže čine ležaljke koje se doplaćuju",
+    "en": "Much of the beach is covered in paid sunbeds"
+   },
+   {
+    "sr": "Botanička bašta ima dosta stepenica i strmih terena — kolica će nositi",
+    "en": "The botanical garden has many steps and steep paths — you'll carry the buggy"
+   }
+  ],
+  "tip": {
+   "sr": "Kupite porodični paket ulaznica za dvorac i botaničku baštu — isplati se s dvoje i više dece, a deca do 6 godina ulaze besplatno.",
+   "en": "Buy the family ticket package for the palace and garden — it pays off with two or more children, and under-6s enter free."
+  },
+  "costs": {
+   "tickets": [
+    {
+     "name": {
+      "sr": "Dvorac i botanička bašta Balčik",
+      "en": "Balchik Palace & Botanical Garden"
+     },
+     "adult": 8,
+     "child": 2,
+     "freeUnder": 6,
+     "url": "https://dvoreca.com/en/poseshtenie.html"
+    }
+   ],
+   "hotelNight": {
+    "budget": 55,
+    "mid": 100,
+    "comfort": 170
+   },
+   "foodPerAdultDay": 35,
+   "localPerDay": 8
+  },
+  "officialUrl": "https://dvoreca.com/",
+  "sources": [
+   "https://dvoreca.com/en/poseshtenie.html",
+   "https://bnrnews.bg/varna/post/182734/vhodat-za-uchashti-i-pensioneri-poskapva-v-botanicheska-gradina-balchik"
+  ],
+  "priceConfidence": "verified",
+  "images": [
+   "File:Albena x3, Bulgaria.JPG",
+   "File:The palace in Balchik.jpg",
+   "File:Balchik palace garden 140232102.jpg",
+   "File:Balchik Botanical Garden6.jpg",
+   "File:Balchik Palace 16.jpg",
+   "File:Balchik palace.jpg"
+  ]
+ },
+ {
+  "id": "bansko",
+  "name": {
+   "sr": "Bansko",
+   "en": "Bansko"
+  },
+  "place": {
+   "sr": "Bansko, Bugarska",
+   "en": "Bansko, Bulgaria"
+  },
+  "country": "BG",
+  "region": "balkans",
+  "coords": [
+   41.8404,
+   23.4889
+  ],
+  "airport": {
+   "iata": "SOF",
+   "km": 160,
+   "minutes": 135,
+   "mode": {
+    "sr": "autom ili autobusom",
+    "en": "car or bus"
+   }
+  },
+  "category": "nature",
+  "tags": [
+   "mountain",
+   "winter",
+   "cable-car",
+   "forest",
+   "spa"
+  ],
+  "ages": {
+   "baby": 2,
+   "toddler": 2,
+   "preschool": 3
+  },
+  "stroller": 2,
+  "budget": 2,
+  "bestMonths": [
+   6,
+   7,
+   8,
+   9
+  ],
+  "season": {
+   "sr": "Leti (jun–septembar) je raj za šetnje i žičaru, a zimi (decembar–april) mirno porodično skijalište s blagim stazama.",
+   "en": "Summer (June–September) is for walks and the gondola; winter (December–April) is a gentle family ski resort with easy slopes."
+  },
+  "tagline": {
+   "sr": "Planinsko mesto pod Pirinom — leti zelene livade i žičara, zimi blage staze za prve skijaške korake.",
+   "en": "A mountain town under the Pirin range — green meadows and the gondola in summer, gentle slopes for first ski turns in winter."
+  },
+  "description": {
+   "sr": "Bansko je najpoznatije skijalište Bugarske u podnožju Pirina, ali leti je jednako privlačno porodicama — žičara vozi do visokih livada s pogledom na najviši vrh Vihren, a staze su lake i široke. Zimi su obronci blagi i idealni za školu skijanja za decu od 4–5 godina, uz mnogo ski vrtića. Mesto je živo cele godine, s tavernama, pekarama i toplim kafićima. Dobar izbor i za leto u prirodi i za prvi porodični odmor na snegu.",
+   "en": "Bansko is Bulgaria's best-known ski resort at the foot of the Pirin mountains, but it's just as appealing to families in summer — the gondola rises to high meadows with views of Vihren, the country's highest peak, and the trails are easy and wide. In winter the slopes are gentle and ideal for ski school from age 4–5, with plenty of ski kindergartens. The town is lively all year, with taverns, bakeries and warm cafés. A good pick both for a summer in nature and a first family trip to the snow."
+  },
+  "highlights": [
+   {
+    "sr": "Vožnja žičarom do planinskih livada i pogled na vrh Vihren",
+    "en": "A gondola ride to the mountain meadows and a view of Vihren"
+   },
+   {
+    "sr": "Lagane šetnje i branje borovnica na proplancima leti",
+    "en": "Easy walks and blueberry picking on the slopes in summer"
+   },
+   {
+    "sr": "Škola skijanja i sanjkanje zimi na blagim stazama",
+    "en": "Ski school and sledging on the gentle slopes in winter"
+   },
+   {
+    "sr": "Šetnja starim delom Banska i večera u taverni",
+    "en": "A stroll through old Bansko and dinner in a tavern"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Blage i široke staze zimi — među najpovoljnijim mestima za učenje skijanja",
+    "en": "Gentle, wide slopes in winter — among the cheapest places to learn to ski"
+   },
+   {
+    "sr": "Leti prijatno sveže, daleko od gradske vrućine",
+    "en": "Pleasantly cool in summer, far from city heat"
+   },
+   {
+    "sr": "Žičara radi i leti, a deca do 7 godina se voze skoro besplatno",
+    "en": "The gondola runs in summer too, and under-7s ride almost free"
+   },
+   {
+    "sr": "Puno povoljnog smeštaja i domaće hrane",
+    "en": "Plenty of affordable stays and home cooking"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "Zimi ume da bude hladno, a vikendom se za žičaru dugo čeka",
+    "en": "It can be cold in winter, and at weekends the gondola queue is long"
+   },
+   {
+    "sr": "Glavna sezona je zimska — leti su neki objekti zatvoreni",
+    "en": "Peak season is winter — some places close in summer"
+   },
+   {
+    "sr": "Stari deo grada ima kaldrmu, a planinske staze nisu za kolica",
+    "en": "The old town is cobbled and the mountain trails aren't for buggies"
+   }
+  ],
+  "tip": {
+   "sr": "Ako dolazite zimi, kupite kartu za žičaru i časove skijanja online unapred — izbegavate jutarnje redove i dobijate popust.",
+   "en": "In winter, buy your gondola pass and ski lessons online in advance — you skip the morning queues and get a discount."
+  },
+  "costs": {
+   "tickets": [
+    {
+     "name": {
+      "sr": "Žičara Bansko (povratna karta)",
+      "en": "Bansko gondola (round trip)"
+     },
+     "adult": 27,
+     "child": 19,
+     "freeUnder": 7,
+     "url": "https://banskoskischool.info/en/bansko-ski-zone"
+    }
+   ],
+   "hotelNight": {
+    "budget": 45,
+    "mid": 85,
+    "comfort": 150
+   },
+   "foodPerAdultDay": 30,
+   "localPerDay": 8
+  },
+  "officialUrl": "https://bansko.bg/",
+  "sources": [
+   "https://banskoskischool.info/en/bansko-ski-zone",
+   "https://ravelo.bg/modern-bansko-gondola-lift-enhancing-ski-resort-access"
+  ],
+  "priceConfidence": "verified",
+  "images": [
+   "File:Bansko ski 2025 14.jpg",
+   "File:Bansko and pirin mountains.jpg",
+   "File:Pirin - hiking trail from Vihren.jpg",
+   "File:Bansko 2016.jpg",
+   "File:Bansko ski 2025 17.jpg",
+   "File:Popovo lake,Pirin,Bulgaria - panoramio.jpg"
+  ]
+ },
+ {
+  "id": "brasov-bran",
+  "name": {
+   "sr": "Brašov i zamak Bran",
+   "en": "Brașov & Bran Castle"
+  },
+  "place": {
+   "sr": "Brašov, Rumunija",
+   "en": "Brașov, Romania"
+  },
+  "country": "RO",
+  "region": "romania",
+  "coords": [
+   45.6427,
+   25.5887
+  ],
+  "airport": {
+   "iata": "OTP",
+   "km": 150,
+   "minutes": 150,
+   "mode": {
+    "sr": "autom ili vozom",
+    "en": "car or train"
+   }
+  },
+  "category": "nature",
+  "tags": [
+   "castle",
+   "old-town",
+   "mountain"
+  ],
+  "ages": {
+   "baby": 2,
+   "toddler": 2,
+   "preschool": 3
+  },
+  "stroller": 2,
+  "budget": 2,
+  "bestMonths": [
+   5,
+   6,
+   9
+  ],
+  "season": {
+   "sr": "Brašov i zamak Bran su otvoreni cele godine, a najlepši su od maja do oktobra; zimi je bajkovito uz snežni Božićni sajam.",
+   "en": "Brașov and Bran Castle are open all year, at their best from May to October; winter is fairytale-like with a snowy Christmas market."
+  },
+  "tagline": {
+   "sr": "Srednjovekovni Brašov pod Tampom i čuveni Drakulin zamak Bran — bajka za decu stariju od tri godine.",
+   "en": "Medieval Brașov beneath Mount Tâmpa and the famous Dracula's castle at Bran — a fairytale for children over three."
+  },
+  "description": {
+   "sr": "Brašov je najlepši grad Transilvanije — šareni stari grad, najuži sokak u Evropi i Crna crkva, a nad njim se diže planina Tampa. Pola sata vožnje dalje je zamak Bran, koji deca znaju kao „Drakulin dvorac“ — pravi bajkoviti dvorac na steni sa 57 soba i dvorištem. Leti je grad prijatan i pun terasa, zimi uz Božićni sajam. Deca mlađa od 7 godina u zamak ulaze besplatno.",
+   "en": "Brașov is Transylvania's most beautiful city — a colourful old town, Europe's narrowest alley and the Black Church, overlooked by Mount Tâmpa. Half an hour away is Bran Castle, which children know as 'Dracula's castle' — a real fairytale fortress on a rock with 57 rooms and a courtyard. The city is pleasant and full of terraces in summer, and has a Christmas market in winter. Children under 7 enter the castle free."
+  },
+  "highlights": [
+   {
+    "sr": "Šetnja šarenim trgom Piața Sfatului i sokacima starog Brašova",
+    "en": "Strolling Piața Sfatului and the alleys of old Brașov"
+   },
+   {
+    "sr": "Razgledanje zamka Bran — traženje „Drakulinih“ tajni u 57 soba",
+    "en": "Exploring Bran Castle — hunting for 'Dracula' secrets in its 57 rooms"
+   },
+   {
+    "sr": "Vožnja žičarom na Tampu i pogled na grad",
+    "en": "A cable-car ride up Tâmpa for a view over the city"
+   },
+   {
+    "sr": "Kafa i sladoled na terasama uz Crnu crkvu",
+    "en": "Coffee and ice cream on the terraces by the Black Church"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Zamak Bran deca mlađa od 7 godina obilaze besplatno",
+    "en": "Children under 7 visit Bran Castle free"
+   },
+   {
+    "sr": "Grad je kompaktan i pešački — sve je blizu",
+    "en": "The city is compact and walkable — everything is close"
+   },
+   {
+    "sr": "Puno zelenila i planina nadomak grada za brze izlete",
+    "en": "Plenty of greenery and mountains on the doorstep for quick trips"
+   },
+   {
+    "sr": "Dobra baza i za jednodnevni izlet do Sinaje i zamka Peleš",
+    "en": "A good base for a day trip to Sinaia and Peleș Castle"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "Zamak ima dosta stepenica i uzane prolaze — kolica ne prolaze",
+    "en": "The castle has many stairs and narrow passages — no buggies"
+   },
+   {
+    "sr": "Vikendom i leti je Bran veoma posećen",
+    "en": "Bran is very busy on weekends and in summer"
+   },
+   {
+    "sr": "Kaldrma u starom gradu je neravna za kolica",
+    "en": "The old town's cobbles are uneven for buggies"
+   }
+  ],
+  "tip": {
+   "sr": "U zamak Bran idite radnim danom rano ujutru i ponesite nosiljku za bebu umesto kolica — uštedećete i na vremenu i na živcima.",
+   "en": "Go to Bran Castle early on a weekday and bring a baby carrier instead of the buggy — you'll save time and nerves."
+  },
+  "costs": {
+   "tickets": [
+    {
+     "name": {
+      "sr": "Ulaznica za zamak Bran",
+      "en": "Bran Castle ticket"
+     },
+     "adult": 14,
+     "child": 4,
+     "freeUnder": 7,
+     "url": "https://bran-castle.com/"
+    }
+   ],
+   "hotelNight": {
+    "budget": 40,
+    "mid": 75,
+    "comfort": 130
+   },
+   "foodPerAdultDay": 30,
+   "localPerDay": 8
+  },
+  "officialUrl": "https://bran-castle.com/",
+  "sources": [
+   "https://officetotravel.com/romania/brasov-county/brasov/bran-castle",
+   "https://bran-castle.com/"
+  ],
+  "priceConfidence": "verified",
+  "images": [
+   "File:Bran Castle, Romania (5681223065).jpg",
+   "File:Bran Castle TB1.jpg",
+   "File:Bran Roumanie.jpg",
+   "File:Council Square in Brașov (51880256809).jpg",
+   "File:Biserica Neagră - Brasov, Romania 04.JPG",
+   "File:Brasov council square in winter from above 2006-03-08.jpg"
+  ]
+ },
+ {
+  "id": "sibiu-astra",
+  "name": {
+   "sr": "Sibiu i muzej ASTRA",
+   "en": "Sibiu & Astra Museum"
+  },
+  "place": {
+   "sr": "Sibiu, Rumunija",
+   "en": "Sibiu, Romania"
+  },
+  "country": "RO",
+  "region": "romania",
+  "coords": [
+   45.7519,
+   24.1119
+  ],
+  "airport": {
+   "iata": "SBZ",
+   "km": 6,
+   "minutes": 10,
+   "mode": {
+    "sr": "autom ili taksijem",
+    "en": "car or taxi"
+   }
+  },
+  "category": "edutainment",
+  "tags": [
+   "museum",
+   "farm-animals",
+   "playground",
+   "forest"
+  ],
+  "ages": {
+   "baby": 2,
+   "toddler": 3,
+   "preschool": 3
+  },
+  "stroller": 2,
+  "budget": 2,
+  "bestMonths": [
+   5,
+   6,
+   9
+  ],
+  "season": {
+   "sr": "Muzej ASTRA je leti (maj–septembar) otvoren duže i življi; zimi radi kraće, a zatvoren je oko Božića i Nove godine.",
+   "en": "The ASTRA museum keeps longer, livelier hours in summer (May–September); winter hours are shorter, with closures around Christmas and New Year."
+  },
+  "tagline": {
+   "sr": "Najveći muzej na otvorenom u Evropi — sela, vetrenjače i životinje u šumi, pa i vožnja vlakićem.",
+   "en": "Europe's largest open-air museum — villages, windmills and animals in a forest, plus a little train ride."
+  },
+  "description": {
+   "sr": "Muzej ASTRA kod Sibija najveći je etnografski muzej na otvorenom u Evropi — 96 hektara šume u kojoj se nalazi preko 400 seoskih kuća, vetrenjača i vodenica iz cele Rumunije. Staze su široke i šumovite, pa je i leti prijatno hladovito, a decu posebno oduševljavaju domaće životinje i vlakić koji vozi kroz muzej. Sibiu je i sam šarmantan grad s očima na krovovima i najlepšim trgovima Transilvanije. Idealno za poludnevni izlet u prirodi s daškom istorije.",
+   "en": "The ASTRA museum near Sibiu is Europe's largest open-air ethnographic museum — 96 hectares of forest holding over 400 village houses, windmills and watermills from across Romania. The paths are wide and wooded, so it stays pleasantly shady in summer, and children are especially thrilled by the farm animals and the little train that runs through the museum. Sibiu itself is a charming city with 'eyes' on its rooftops and some of Transylvania's loveliest squares. Ideal for a half-day nature outing with a touch of history."
+  },
+  "highlights": [
+   {
+    "sr": "Vožnja vlakićem kroz šumu i sela muzeja ASTRA",
+    "en": "A little train ride through the museum's forest and villages"
+   },
+   {
+    "sr": "Gledanje domaćih životinja i vetrenjača na jezeru Dumbrava",
+    "en": "Seeing farm animals and windmills on Lake Dumbrava"
+   },
+   {
+    "sr": "Istraživanje seoskih kućica i radionica starih zanata",
+    "en": "Exploring the village houses and old-craft workshops"
+   },
+   {
+    "sr": "Šetnja starim Sibiom i traženje „očiju“ na krovovima",
+    "en": "Strolling old Sibiu and hunting for 'eyes' on the rooftops"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Ogroman prostor u prirodi gde deca mogu da trče i istražuju",
+    "en": "A huge outdoor space where children can run and explore"
+   },
+   {
+    "sr": "Široke šumske staze pogodne za kolica",
+    "en": "Wide forest paths suitable for buggies"
+   },
+   {
+    "sr": "Vlakić i životinje drže pažnju i najmlađima",
+    "en": "The little train and animals hold even the youngest's attention"
+   },
+   {
+    "sr": "Povoljan ulaz, a deca plaćaju simbolično",
+    "en": "Cheap entry, with children paying a token amount"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "Muzej je ogroman — s malom decom nećete obići sve, planirajte 2–3 sata",
+    "en": "The museum is huge — with small children you won't see it all, plan 2–3 hours"
+   },
+   {
+    "sr": "Neke staze su šljunkovite, a kućice imaju stepenike",
+    "en": "Some paths are gravelly and the houses have steps"
+   },
+   {
+    "sr": "Izvan glavne sezone radi kraće i manji deo sadržaja",
+    "en": "Outside peak season the hours are shorter and fewer things are open"
+   }
+  ],
+  "tip": {
+   "sr": "Kupite kartu za vlakić odmah na ulazu — štedi kilometre dečjih nogu, a razgledanje iz vlakića je deci najzabavniji deo posete.",
+   "en": "Buy the train ticket right at the entrance — it saves little legs many kilometres, and riding is the most fun part of the visit for kids."
+  },
+  "costs": {
+   "tickets": [
+    {
+     "name": {
+      "sr": "Ulaznica za muzej ASTRA",
+      "en": "ASTRA Museum ticket"
+     },
+     "adult": 10,
+     "child": 2,
+     "freeUnder": 6,
+     "url": "https://muzeulastra.ro/"
+    }
+   ],
+   "hotelNight": {
+    "budget": 40,
+    "mid": 70,
+    "comfort": 120
+   },
+   "foodPerAdultDay": 28,
+   "localPerDay": 6
+  },
+  "officialUrl": "https://muzeulastra.ro/",
+  "sources": [
+   "https://romania-guidebook.com/attractions/astra-museum-sibiu",
+   "https://muzeulastra.ro/"
+  ],
+  "priceConfidence": "verified",
+  "images": [
+   "File:Windmills across Lake Dumbrava, ASTRA open-air museum, Sibiu, 2017.jpg",
+   "File:2026-09-09-ASTRA-Complex-Sibiu-05.jpg",
+   "File:Muzeul ASTRA - Sibiu 03.jpg",
+   "File:Sibiu - Muzeul ASTRA 13.jpg",
+   "File:Muzeul ASTRA - Sibiu 02.jpg",
+   "File:Rooftops of Sibiu seen from the Council Tower (2023).jpg"
+  ]
+ },
+ {
+  "id": "bucharest-therme",
+  "name": {
+   "sr": "Terme Bukurešt",
+   "en": "Therme Bucharest"
+  },
+  "place": {
+   "sr": "Balotešti, kod Bukurešta",
+   "en": "Balotești, near Bucharest"
+  },
+  "country": "RO",
+  "region": "romania",
+  "coords": [
+   44.661,
+   26.015
+  ],
+  "airport": {
+   "iata": "OTP",
+   "km": 5,
+   "minutes": 10,
+   "mode": {
+    "sr": "autom ili taksijem",
+    "en": "car or taxi"
+   }
+  },
+  "category": "theme",
+  "tags": [
+   "water-park",
+   "indoor",
+   "spa",
+   "rainy-day"
+  ],
+  "ages": {
+   "baby": 2,
+   "toddler": 3,
+   "preschool": 3
+  },
+  "stroller": 3,
+  "budget": 2,
+  "bestMonths": [
+   1,
+   2,
+   3,
+   10,
+   11,
+   12
+  ],
+  "season": {
+   "sr": "Otvoreno cele godine — i po najvećoj hladnoći i kiši unutra je tropski toplo, pa je idealno za jesen i zimu.",
+   "en": "Open all year — even in the deepest cold or rain it's tropical inside, making it ideal for autumn and winter."
+  },
+  "tagline": {
+   "sr": "Najveći tropski vodeni park u Evropi pod staklom — tobogani i talasi za decu, topla voda i mir za roditelje.",
+   "en": "Europe's largest glass-roofed tropical water park — slides and waves for kids, warm water and calm for parents."
+  },
+  "description": {
+   "sr": "Terme Bukurešt su ogroman vodeni kompleks pod staklenom kupolom, uvek zagrejan na tropskih 30 stepeni, s palmama, toboganima i bazenskim talasima. Dečja zona Galaksi ima sistem tobogana, talasni bazen i animaciju, a deca do 3 godine ulaze besplatno. Roditelji mogu da se prebace u mirniju zonu Palm sa mineralnim bazenima i ležaljkama. Kako je sve u zatvorenom, ovo je savršen „beg od lošeg vremena“ — naročito zimi i za kišne dane.",
+   "en": "Therme Bucharest is a huge water complex under a glass dome, always heated to a tropical 30°C, with palm trees, slides and wave pools. The Galaxy kids' zone has a slide system, a wave pool and activities, and children under 3 enter free. Parents can move to the calmer Palm zone with mineral pools and loungers. Because it's all indoors, this is the perfect 'bad-weather escape' — especially in winter and on rainy days."
+  },
+  "highlights": [
+   {
+    "sr": "Tobogani i talasni bazen u dečjoj zoni Galaksi",
+    "en": "Slides and the wave pool in the Galaxy kids' zone"
+   },
+   {
+    "sr": "Topli mineralni bazeni i ležaljke u zoni Palm",
+    "en": "Warm mineral pools and loungers in the Palm zone"
+   },
+   {
+    "sr": "Igranje među palmama uz tropsku temperaturu cele godine",
+    "en": "Playing among palm trees at tropical temperatures all year"
+   },
+   {
+    "sr": "Bazen na otvorenom s toplom vodom i zimi",
+    "en": "An outdoor pool with warm water even in winter"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Toplo i suvo unutra bez obzira na vreme napolju — odlično za kišne i hladne dane",
+    "en": "Warm and dry inside whatever the weather outside — great for rainy and cold days"
+   },
+   {
+    "sr": "Deca do 3 godine ulaze besplatno, a postoji porodični paket 2+2",
+    "en": "Children under 3 enter free, and there's a 2+2 family pass"
+   },
+   {
+    "sr": "Čisto, uređeno i bezbedno, s plićacima i toboganima za različite uzraste",
+    "en": "Clean, well-run and safe, with shallow pools and slides for different ages"
+   },
+   {
+    "sr": "Blizu aerodroma OTP — lako se kombinuje s dolaskom ili odlaskom",
+    "en": "Close to OTP airport — easy to combine with arrival or departure"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "Cena raste s dužinom boravka i vikendom — nije jeftino",
+    "en": "The price rises with length of stay and on weekends — not cheap"
+   },
+   {
+    "sr": "Vikendom i praznicima ume da bude velika gužva",
+    "en": "It can get very crowded on weekends and holidays"
+   },
+   {
+    "sr": "Dečje zone i tobogani imaju visinska i uzrasna ograničenja",
+    "en": "The kids' zones and slides have height and age limits"
+   }
+  ],
+  "tip": {
+   "sr": "Idite radnim danom pre podne i uzmite paket od 3 sata — za malu decu to je sasvim dovoljno, a izbegavate vikend gužvu i skuplje cene.",
+   "en": "Go on a weekday morning and take the 3-hour pass — plenty for small children, and you avoid weekend crowds and higher prices."
+  },
+  "costs": {
+   "tickets": [
+    {
+     "name": {
+      "sr": "Ulaz za zonu Galaksi (3 sata)",
+      "en": "Galaxy zone entry (3 hours)"
+     },
+     "adult": 14,
+     "child": 11,
+     "freeUnder": 3,
+     "url": "https://www.therme.ro/admission-prices"
+    }
+   ],
+   "hotelNight": {
+    "budget": 45,
+    "mid": 85,
+    "comfort": 150
+   },
+   "foodPerAdultDay": 35,
+   "localPerDay": 8
+  },
+  "officialUrl": "https://www.therme.ro/",
+  "sources": [
+   "https://www.therme.ro/admission-prices",
+   "https://www.therme.ro/frequently-asked-questions"
+  ],
+  "priceConfidence": "verified",
+  "images": [
+   "File:ThermeBucuresti.jpg",
+   "File:Unirii Boulevard and Palace of the Parliament.JPG",
+   "File:Romanian Athenaeum8.JPG",
+   "File:Ateneul Român 1.jpg"
+  ]
+ },
+ {
+  "id": "salina-turda",
+  "name": {
+   "sr": "Salina Turda",
+   "en": "Salina Turda"
+  },
+  "place": {
+   "sr": "Turda, Rumunija",
+   "en": "Turda, Romania"
+  },
+  "country": "RO",
+  "region": "romania",
+  "coords": [
+   46.5888,
+   23.7876
+  ],
+  "airport": {
+   "iata": "CLJ",
+   "km": 35,
+   "minutes": 40,
+   "mode": {
+    "sr": "autom ili autobusom",
+    "en": "car or bus"
+   }
+  },
+  "category": "edutainment",
+  "tags": [
+   "cave",
+   "indoor",
+   "museum",
+   "playground"
+  ],
+  "ages": {
+   "baby": 2,
+   "toddler": 2,
+   "preschool": 3
+  },
+  "stroller": 2,
+  "budget": 1,
+  "bestMonths": [
+   1,
+   2,
+   3,
+   10,
+   11,
+   12
+  ],
+  "season": {
+   "sr": "Rudnik je otvoren cele godine i unutra je stalnih 10–12 stepeni — leti prija hladovina, a zimi je toplije nego napolju.",
+   "en": "The mine is open all year and stays at a constant 10–12°C inside — a cool refuge in summer, warmer than outdoors in winter."
+  },
+  "tagline": {
+   "sr": "Čudesan rudnik soli sa podzemnim jezerom, čamcem i ringišpilom — drugi svet 120 metara pod zemljom.",
+   "en": "A marvellous salt mine with an underground lake, boat and ferris wheel — another world 120 metres down."
+  },
+  "description": {
+   "sr": "Salina Turda je stari rudnik soli pretvoren u spektakularnu podzemnu atrakciju — ogromne dvorane isklesane u soli, podzemno jezero s čamcem i čak ringišpil u dubini. Stalna temperatura od 10–12 stepeni čini ga prijatnim i leti i zimi, a čist vazduh bogat soli mnogi smatraju blagotvornim za disanje. Deca do 3 godine ulaze besplatno (uz lekarsku potvrdu), a stariji vole vožnju čamcem i igralište u dvorani. Ceo doživljaj je kao silazak u čarobni drugi svet.",
+   "en": "Salina Turda is an old salt mine turned into a spectacular underground attraction — vast halls carved in salt, an underground lake with a boat and even a ferris wheel in the depths. A constant 10–12°C makes it pleasant in summer and winter alike, and the clean, salt-rich air is widely thought to help breathing. Children under 3 enter free (with a medical note), while older ones love the boat ride and the play area in the hall. The whole experience feels like descending into a magical other world."
+  },
+  "highlights": [
+   {
+    "sr": "Vožnja čamcem po podzemnom jezeru Terezija",
+    "en": "A boat ride on the underground Terezia lake"
+   },
+   {
+    "sr": "Ringišpil u dvorani duboko pod zemljom",
+    "en": "A ferris wheel in a hall deep underground"
+   },
+   {
+    "sr": "Šetnja slanim dvoranama i traženje sjajnih kristala soli",
+    "en": "Walking the salt halls and hunting for glistening salt crystals"
+   },
+   {
+    "sr": "Spuštanje liftom 120 metara u dubinu",
+    "en": "Riding the lift 120 metres down"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Stalna prijatna temperatura cele godine — dobra opcija i po vrućini i po zimi",
+    "en": "A constant pleasant temperature all year — good in both heat and winter"
+   },
+   {
+    "sr": "Podzemni svet je uzbudljiv za decu, a tlo je ravno i uredno",
+    "en": "The underground world is exciting for kids, and the floors are flat and well-kept"
+   },
+   {
+    "sr": "Deca do 3 godine ulaze besplatno",
+    "en": "Children under 3 enter free"
+   },
+   {
+    "sr": "Povoljne cene i hrana u okolini",
+    "en": "Affordable prices and food in the area"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "Dolazak do rudnika nije blizu centra — treba kola ili autobus",
+    "en": "The mine is away from the centre — you need a car or bus"
+   },
+   {
+    "sr": "Deci mlađoj od 3 godine potrebna je lekarska potvrda za ulazak",
+    "en": "Children under 3 need a medical note to enter"
+   },
+   {
+    "sr": "Vikendom leti može biti gužva i čekanja na lift",
+    "en": "Summer weekends can be crowded, with queues for the lift"
+   }
+  ],
+  "tip": {
+   "sr": "Ponesite tanje duge rukave i udobne patike — u dubini je stalno hladno, a dvorane su velike i hodanje traje.",
+   "en": "Bring a light long-sleeved layer and comfy shoes — it stays cool underground and the halls involve a fair bit of walking."
+  },
+  "costs": {
+   "tickets": [
+    {
+     "name": {
+      "sr": "Ulaznica za Salinu Turda",
+      "en": "Salina Turda ticket"
+     },
+     "adult": 15,
+     "child": 10,
+     "freeUnder": 3,
+     "url": "https://www.salinaturda.eu/en/schedule-and-fees"
+    }
+   ],
+   "hotelNight": {
+    "budget": 40,
+    "mid": 70,
+    "comfort": 120
+   },
+   "foodPerAdultDay": 28,
+   "localPerDay": 6
+  },
+  "officialUrl": "https://www.salinaturda.eu/",
+  "sources": [
+   "https://www.salinaturda.eu/en/schedule-and-fees",
+   "https://www.salinaturda.eu/en/access"
+  ],
+  "priceConfidence": "verified",
+  "images": [
+   "File:Salina Turda, Mina Terezia.JPG",
+   "File:Salina Turda Img 4166.jpg",
+   "File:Salina Turda - sala principala.jpg",
+   "File:Salina Turda 5.jpg",
+   "File:Tereziamijn Salina Turda.jpg",
+   "File:Salina Turda, Romania.jpg"
+  ]
+ },
+ {
+  "id": "sinaia-peles",
+  "name": {
+   "sr": "Zamak Peleš, Sinaja",
+   "en": "Peleș Castle, Sinaia"
+  },
+  "place": {
+   "sr": "Sinaja, Rumunija",
+   "en": "Sinaia, Romania"
+  },
+  "country": "RO",
+  "region": "romania",
+  "coords": [
+   45.3598,
+   25.5426
+  ],
+  "airport": {
+   "iata": "OTP",
+   "km": 120,
+   "minutes": 120,
+   "mode": {
+    "sr": "autom ili vozom",
+    "en": "car or train"
+   }
+  },
+  "category": "nature",
+  "tags": [
+   "castle",
+   "mountain",
+   "forest",
+   "train"
+  ],
+  "ages": {
+   "baby": 2,
+   "toddler": 2,
+   "preschool": 3
+  },
+  "stroller": 2,
+  "budget": 2,
+  "bestMonths": [
+   5,
+   6,
+   9
+  ],
+  "season": {
+   "sr": "Zamak Peleš je zatvoren ponedeljkom i utorkom; najlepši je od maja do oktobra, a zimi je bajkovit uz sneg.",
+   "en": "Peleș Castle is closed Mondays and Tuesdays; it's at its best from May to October, and fairytale-like under snow in winter."
+  },
+  "tagline": {
+   "sr": "Nemački bajkoviti dvorac rumunskih kraljeva u podnožju Bučegija — najlepši zamak u Rumuniji za malu decu.",
+   "en": "The German-style fairytale palace of Romania's kings at the foot of the Bucegi — Romania's prettiest castle for small children."
+  },
+  "description": {
+   "sr": "Zamak Peleš u Sinaji, letnjoj rezidenciji rumunskih kraljeva, jedan je od najlepših dvoraca u Evropi — neo-renesansna bajka sa tornjevima, rezbarenim drvetom i 160 soba. Nalazi se u parku u podnožju planine Bučegi, pa se poseta lako kombinuje sa šetnjom šumom ili vožnjom žičarom. Deca mlađa od 7 godina ulaze besplatno, a osnovni obilazak prizemlja je kratak i dovoljan za njihovu pažnju. Sinaja je mirno planinsko mesto, idealno za porodični izlet iz Bukurešta.",
+   "en": "Peleș Castle in Sinaia, summer residence of Romania's kings, is one of Europe's most beautiful palaces — a neo-Renaissance fairytale of turrets, carved wood and 160 rooms. It sits in a park at the foot of the Bucegi mountains, so a visit is easily combined with a forest walk or a cable-car ride. Children under 7 enter free, and the basic ground-floor tour is short enough to hold their attention. Sinaia is a quiet mountain town, ideal for a family trip from Bucharest."
+  },
+  "highlights": [
+   {
+    "sr": "Razgledanje bajkovitih tornjeva i fasada zamka Peleš",
+    "en": "Admiring the fairytale turrets and facades of Peleș Castle"
+   },
+   {
+    "sr": "Šetnja parkom i šumskim stazama u podnožju Bučegija",
+    "en": "Walking the park and forest trails at the foot of the Bucegi"
+   },
+   {
+    "sr": "Vožnja žičarom na planinu i pogled na Sinaju",
+    "en": "A cable-car ride up the mountain with views over Sinaia"
+   },
+   {
+    "sr": "Kafa i kolači u starinskim kafićima Sinaje",
+    "en": "Coffee and cakes in Sinaia's old-style cafés"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Deca mlađa od 7 godina ulaze besplatno",
+    "en": "Children under 7 enter free"
+   },
+   {
+    "sr": "Park i šuma oko zamka nude prostor za trčanje i piknik",
+    "en": "The park and forest around the castle offer space to run and picnic"
+   },
+   {
+    "sr": "Osnovni obilazak je kratak i ne zamara malu decu",
+    "en": "The basic tour is short and doesn't tire small children"
+   },
+   {
+    "sr": "Lako se kombinuje s Brašovom i zamkom Bran u istom putovanju",
+    "en": "Easily combined with Brașov and Bran Castle on one trip"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "Zatvoreno ponedeljkom i utorkom — planirajte druge dane",
+    "en": "Closed on Mondays and Tuesdays — plan other days"
+   },
+   {
+    "sr": "Unutra su stepenice i uzani prolazi, kolica ne prolaze",
+    "en": "Inside there are stairs and narrow passages, no buggies"
+   },
+   {
+    "sr": "Parking uz zamak je ograničen i plaća se",
+    "en": "Parking by the castle is limited and paid"
+   }
+  ],
+  "tip": {
+   "sr": "Rezervišite karte online unapred i uzmite osnovni obilazak prizemlja — deci je to sasvim dovoljno, a izbegavate red i duži, skuplji obilazak.",
+   "en": "Book online in advance and take the basic ground-floor tour — enough for children, and you skip the queue and the longer, pricier tour."
+  },
+  "costs": {
+   "tickets": [
+    {
+     "name": {
+      "sr": "Zamak Peleš — osnovni obilazak prizemlja",
+      "en": "Peleș Castle — basic ground-floor tour"
+     },
+     "adult": 10,
+     "child": 3,
+     "freeUnder": 7,
+     "url": "https://en.peles.ro/opening-hours/"
+    }
+   ],
+   "hotelNight": {
+    "budget": 45,
+    "mid": 80,
+    "comfort": 140
+   },
+   "foodPerAdultDay": 30,
+   "localPerDay": 8
+  },
+  "officialUrl": "https://peles.ro/",
+  "sources": [
+   "https://en.peles.ro/opening-hours/",
+   "https://peles.ro/ro/program-si-taxe/"
+  ],
+  "priceConfidence": "verified",
+  "images": [
+   "File:Sinaia - Peleș Castle.jpg",
+   "File:Peles Castle, Sinaia (54888851522).jpg",
+   "File:View of Peleș Castle across the lawn from the southwest, Sinaia, 2017.jpg",
+   "File:Peles Castle, Sinaia (Romania).jpg",
+   "File:Romania - Sinaia - Peleş Castle - View NNW - Seat of the Royal Family.jpg",
+   "File:Castelul Peleș, Sinaia 04.jpg"
+  ]
+ },
+ {
+  "id": "danube-delta",
+  "name": {
+   "sr": "Delta Dunava",
+   "en": "Danube Delta"
+  },
+  "place": {
+   "sr": "Tulča, Rumunija",
+   "en": "Tulcea, Romania"
+  },
+  "country": "RO",
+  "region": "romania",
+  "coords": [
+   45.178,
+   28.805
+  ],
+  "airport": {
+   "iata": "CND",
+   "km": 130,
+   "minutes": 120,
+   "mode": {
+    "sr": "autom ili autobusom",
+    "en": "car or bus"
+   }
+  },
+  "category": "nature",
+  "tags": [
+   "boat",
+   "lake",
+   "safari"
+  ],
+  "ages": {
+   "baby": 2,
+   "toddler": 2,
+   "preschool": 3
+  },
+  "stroller": 2,
+  "budget": 2,
+  "bestMonths": [
+   5,
+   6,
+   9
+  ],
+  "season": {
+   "sr": "Delta je najlepša od aprila do oktobra; u julu i avgustu ima više komaraca, pa su maj, jun i septembar najprijatniji.",
+   "en": "The delta is at its best from April to October; mosquitoes peak in July and August, so May, June and September are most pleasant."
+  },
+  "tagline": {
+   "sr": "Labirint kanala, trske i ptica — vožnja čamcem kroz najveću močvaru Evrope s pelikanima nad glavom.",
+   "en": "A maze of channels, reeds and birds — a boat ride through Europe's largest wetland with pelicans overhead."
+  },
+  "description": {
+   "sr": "Delta Dunava, pod zaštitom UNESKO-a, najveća je rečna delta u Evropi — beskrajni labirint kanala, jezera i tršćaka u kome živi preko 300 vrsta ptica, među njima i veliki beli pelikani. Ceo doživljaj vrti se oko vožnje čamcem: mirno klizanje kroz kanale dok deca traže ptice, kornjače i lokvanje. Najprijatniji meseci su maj, jun i septembar, kad nema mnogo komaraca. Idealno za porodice koje vole prirodu i mir, a mogu i u posetu selu Letea s divljim konjima.",
+   "en": "The Danube Delta, a UNESCO site, is Europe's largest river delta — an endless maze of channels, lakes and reed beds home to over 300 bird species, including great white pelicans. The whole experience revolves around a boat ride: gliding quietly through the channels while children spot birds, turtles and water lilies. The most pleasant months are May, June and September, when mosquitoes are scarce. Ideal for families who love nature and calm, with an optional trip to Letea village and its wild horses."
+  },
+  "highlights": [
+   {
+    "sr": "Vožnja čamcem kroz kanale i traženje pelikana i čaplji",
+    "en": "A boat ride through the channels hunting for pelicans and herons"
+   },
+   {
+    "sr": "Posmatranje ptica kroz dvogled — takmičenje ko će prvi ugledati pelikana",
+    "en": "Birdwatching through binoculars — a race to spot the first pelican"
+   },
+   {
+    "sr": "Izlet do sela Letea i divljih konja u peščanim dinama",
+    "en": "A trip to Letea village and its wild horses in the sand dunes"
+   },
+   {
+    "sr": "Ručak od sveže ribe u porodičnoj kući uz kanal",
+    "en": "A fresh-fish lunch at a family guesthouse by the channel"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Mirna voda i lagana vožnja — opuštajuće i za bebe",
+    "en": "Calm water and a gentle ride — relaxing even with a baby"
+   },
+   {
+    "sr": "Priroda na dohvat ruke, bez gužvi i buke",
+    "en": "Nature up close, with no crowds or noise"
+   },
+   {
+    "sr": "Deca uče o pticama i prirodi dok se zabavljaju",
+    "en": "Children learn about birds and nature while having fun"
+   },
+   {
+    "sr": "Puno smeštaja s domaćom kuhinjom i dvorištem za igru",
+    "en": "Lots of guesthouses with home cooking and a yard to play in"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "Jula i avgusta komarci mogu biti naporni — ponesite zaštitu",
+    "en": "In July and August mosquitoes can be a nuisance — bring repellent"
+   },
+   {
+    "sr": "Obilazak zavisi od čamca i vozača — nije klasična samostalna poseta",
+    "en": "Exploring depends on a boat and skipper — it's not a self-guided visit"
+   },
+   {
+    "sr": "Duga putovanja do polaznih tačaka i manje sadržaja za malu decu",
+    "en": "Long transfers to the departure points and fewer facilities for small children"
+   }
+  ],
+  "tip": {
+   "sr": "Rezervišite čamac unapred i idite ujutru — voda je tada najmirnija, ptice najaktivnije, a izbegavate podnevno sunce.",
+   "en": "Book your boat in advance and go in the morning — the water is calmest, the birds most active, and you avoid the midday sun."
+  },
+  "costs": {
+   "tickets": [
+    {
+     "name": {
+      "sr": "Poludnevna vožnja čamcem po Delti",
+      "en": "Half-day Danube Delta boat tour"
+     },
+     "adult": 30,
+     "child": 15,
+     "freeUnder": 3,
+     "url": "https://safcadeltatours.ro/"
+    }
+   ],
+   "hotelNight": {
+    "budget": 40,
+    "mid": 75,
+    "comfort": 130
+   },
+   "foodPerAdultDay": 28,
+   "localPerDay": 8
+  },
+  "officialUrl": "https://ddbra.ro/",
+  "sources": [
+   "https://safcadeltatours.ro/en/discover-danube-delta-tours-trips-2025-a-journey-youll-never-forget/",
+   "https://www.ilgotours.com/shared-guided-day-trip-in-danube-delta-tulcea-letea/"
+  ],
+  "priceConfidence": "estimated",
+  "images": [
+   "File:White pelicans (Pelecanus onocrotalus) Danube delta 2.jpg",
+   "File:Pelicans at the Danube Delta, Romania.jpg",
+   "File:Danube Delta 2024-09-25 - 47 - flock of Great white pelicans.jpg",
+   "File:The Danube Delta 1.JPG",
+   "File:Danube Delta - Delta Dunarii - panoramio (2).jpg",
+   "File:Danube Delta Reeds.JPG"
+  ]
+ }
+]

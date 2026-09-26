@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<html lang="sr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="theme-color" content="#0b1220">
+<title>Naše prvo porodično putovanje avionom — Evropa 2027</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Outfit:wght@500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#08111f; --bg2:#0d1728; --card:rgba(18,31,51,.86); --card2:#13223a;
+  --text:#f7fbff; --muted:#aebcd0; --line:rgba(255,255,255,.09);
+  --violet:#8b7cff; --violet2:#b19cff; --cyan:#46d8e8; --green:#64e59a; --amber:#ffcc69;
+  --red:#ff7683; --shadow:0 20px 65px rgba(0,0,0,.34); --r:24px; --r2:18px;
+}
+*{box-sizing:border-box} html{scroll-behavior:smooth}
+body{margin:0;font-family:Manrope,system-ui,sans-serif;color:var(--text);background:
+ radial-gradient(1000px 650px at 10% -10%,rgba(139,124,255,.22),transparent 62%),
+ radial-gradient(800px 620px at 100% 20%,rgba(70,216,232,.12),transparent 60%),
+ linear-gradient(180deg,#08111f 0%,#0b1424 45%,#07101c 100%);min-height:100vh}
+button,input,select{font:inherit} button{color:inherit}
+.container{width:min(1440px,calc(100% - 32px));margin:auto}
+.hero{padding:48px 0 26px;position:relative;overflow:hidden}
+.hero-grid{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(320px,.85fr);gap:24px;align-items:stretch}
+.hero-main,.hero-panel{border:1px solid var(--line);background:linear-gradient(145deg,rgba(24,39,64,.88),rgba(11,22,39,.82));box-shadow:var(--shadow);border-radius:30px;backdrop-filter:blur(20px)}
+.hero-main{padding:34px;position:relative;overflow:hidden}.hero-main:after{content:"✈";position:absolute;right:18px;top:-34px;font-size:180px;opacity:.035;transform:rotate(-15deg)}
+.eyebrow{display:inline-flex;gap:9px;align-items:center;padding:8px 12px;border:1px solid rgba(177,156,255,.28);background:rgba(139,124,255,.1);border-radius:999px;color:#d8d0ff;font-weight:800;font-size:12px;letter-spacing:.08em;text-transform:uppercase}
+h1{font-family:Outfit,sans-serif;font-size:clamp(38px,5vw,70px);line-height:.98;margin:22px 0 16px;letter-spacing:-.04em;max-width:900px}h1 .grad{background:linear-gradient(100deg,#fff 0%,#cfc8ff 48%,#7ce7f1 100%);-webkit-background-clip:text;color:transparent}
+.lede{margin:0;color:var(--muted);font-size:clamp(15px,1.6vw,19px);line-height:1.7;max-width:820px}.hero-actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:25px}
+.btn{border:1px solid var(--line);background:rgba(255,255,255,.055);border-radius:14px;padding:11px 14px;cursor:pointer;display:inline-flex;align-items:center;gap:8px;font-weight:800;transition:.22s ease}.btn:hover{transform:translateY(-2px);background:rgba(255,255,255,.09)}.btn.primary{background:linear-gradient(135deg,#7566ef,#967dff);border-color:transparent;box-shadow:0 8px 28px rgba(117,102,239,.3)}
+.hero-panel{padding:22px}.panel-title{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:16px}.panel-title h2{font:700 20px Outfit;margin:0}.tiny{font-size:12px;color:var(--muted)}
+.vote-summary{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}.sum{padding:15px 12px;border:1px solid var(--line);border-radius:18px;background:rgba(255,255,255,.035);text-align:center}.sum b{display:block;font:800 28px Outfit}.sum span{font-size:11px;color:var(--muted);font-weight:700}.sum.like b{color:#ff99ae}.sum.maybe b{color:var(--amber)}.sum.no b{color:#99a7ba}
+.tip{margin-top:12px;padding:14px;border-radius:16px;background:rgba(70,216,232,.07);border:1px solid rgba(70,216,232,.13);color:#c9eef2;font-size:13px;line-height:1.55}
+.toolbar-wrap{position:sticky;top:0;z-index:70;padding:8px 0 18px;background:linear-gradient(180deg,rgba(8,17,31,.98) 0%,rgba(8,17,31,.90) 70%,transparent 100%);backdrop-filter:blur(12px)}
+.toolbar{display:flex;gap:10px;align-items:center;padding:10px;border:1px solid var(--line);background:rgba(11,22,39,.86);border-radius:20px;box-shadow:0 12px 36px rgba(0,0,0,.22)}
+.search{flex:1;min-width:200px;position:relative}.search input{width:100%;background:rgba(255,255,255,.055);color:#fff;border:1px solid var(--line);border-radius:14px;padding:12px 14px 12px 40px;outline:none}.search input:focus{border-color:rgba(139,124,255,.7);box-shadow:0 0 0 4px rgba(139,124,255,.1)}.search svg{position:absolute;left:13px;top:50%;transform:translateY(-50%);opacity:.65}
+.filters{display:flex;gap:8px;overflow:auto;scrollbar-width:none}.filters::-webkit-scrollbar{display:none}.chip{white-space:nowrap;border:1px solid var(--line);background:rgba(255,255,255,.04);padding:10px 12px;border-radius:13px;cursor:pointer;font-size:13px;font-weight:800;color:#c9d4e4}.chip.active{background:linear-gradient(135deg,rgba(139,124,255,.26),rgba(70,216,232,.12));border-color:rgba(139,124,255,.45);color:#fff}
+.meta-row{display:flex;align-items:center;justify-content:space-between;gap:12px;margin:6px 0 16px}.result-count{color:var(--muted);font-size:13px}.view-actions{display:flex;gap:8px}.icon-btn{width:38px;height:38px;border-radius:12px;border:1px solid var(--line);background:rgba(255,255,255,.04);cursor:pointer;display:grid;place-items:center}.icon-btn:hover{background:rgba(255,255,255,.08)}
+.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px;padding-bottom:90px}.card{border:1px solid var(--line);background:linear-gradient(180deg,rgba(20,35,57,.92),rgba(13,25,43,.94));border-radius:var(--r);overflow:hidden;box-shadow:0 12px 34px rgba(0,0,0,.20);position:relative;transform:translateY(14px);opacity:0;transition:transform .45s cubic-bezier(.2,.8,.2,1),opacity .45s ease,border-color .2s,box-shadow .2s}.card.in{transform:none;opacity:1}.card:hover{border-color:rgba(255,255,255,.17);box-shadow:0 24px 55px rgba(0,0,0,.32)}
+.media{height:230px;position:relative;overflow:hidden;background:#101b2d;touch-action:pan-y}.media img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .6s cubic-bezier(.2,.8,.2,1),opacity .2s}.card:hover .media>img{transform:scale(1.035)}.media:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,transparent 44%,rgba(6,12,23,.72) 100%);pointer-events:none}.badge{position:absolute;z-index:3;top:12px;left:12px;padding:7px 10px;border-radius:999px;background:rgba(8,17,31,.72);backdrop-filter:blur(12px);border:1px solid rgba(255,255,255,.12);font-size:11px;font-weight:800}.flight{left:auto;right:12px}.photo-count{position:absolute;z-index:3;right:12px;bottom:12px;padding:6px 9px;border-radius:999px;background:rgba(8,17,31,.72);font-size:11px;font-weight:800;border:1px solid rgba(255,255,255,.12)}
+.dots{position:absolute;z-index:4;bottom:14px;left:14px;display:flex;gap:5px}.dot{width:6px;height:6px;border-radius:50%;border:0;padding:0;background:rgba(255,255,255,.42);cursor:pointer}.dot.on{width:18px;border-radius:999px;background:#fff}
+.media-nav{position:absolute;z-index:5;inset:0;display:flex;align-items:center;justify-content:space-between;padding:0 8px;opacity:0;transition:.2s;pointer-events:none}.media:hover .media-nav{opacity:1}.media-nav button{pointer-events:auto;width:34px;height:34px;border:1px solid rgba(255,255,255,.14);border-radius:50%;background:rgba(5,12,23,.56);backdrop-filter:blur(8px);cursor:pointer}.media-nav button:hover{background:rgba(5,12,23,.84)}
+.body{padding:18px 18px 16px}.location{display:flex;align-items:center;gap:6px;color:#aebcff;font-size:12px;font-weight:800;margin-bottom:7px}.title-row{display:flex;gap:10px;justify-content:space-between;align-items:flex-start}.title{font:700 21px/1.18 Outfit;margin:0;letter-spacing:-.015em}.compare-check{flex:0 0 auto;width:34px;height:34px;border:1px solid var(--line);border-radius:11px;background:rgba(255,255,255,.04);display:grid;place-items:center;cursor:pointer}.compare-check.selected{background:rgba(139,124,255,.28);border-color:#8b7cff}.desc{color:var(--muted);font-size:13px;line-height:1.58;margin:12px 0 14px}.highlights{display:grid;gap:7px;margin:0 0 15px;padding:0;list-style:none}.highlights li{font-size:12.5px;color:#dbe5f1;display:flex;gap:8px;align-items:flex-start}.highlights li:before{content:"✦";color:#84e5ef;font-size:10px;margin-top:3px}
+.vote-row{display:grid;grid-template-columns:repeat(3,1fr);gap:7px}.vote{border:1px solid var(--line);border-radius:12px;background:rgba(255,255,255,.035);padding:9px 7px;font-size:11px;font-weight:800;cursor:pointer;transition:.18s}.vote:hover{transform:translateY(-1px)}.vote[data-v="like"].active{background:rgba(255,118,131,.14);border-color:rgba(255,118,131,.45)}.vote[data-v="maybe"].active{background:rgba(255,204,105,.12);border-color:rgba(255,204,105,.42)}.vote[data-v="no"].active{background:rgba(174,188,208,.11);border-color:rgba(174,188,208,.3)}
+.card-footer{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-top:12px;padding-top:12px;border-top:1px solid var(--line)}.small-label{font-size:11px;color:#a8b5c6}.details-btn{border:0;background:transparent;color:#d8dfff;font-weight:800;font-size:12px;cursor:pointer;padding:8px 0}.details-btn:hover{color:#fff}.details{display:none;margin-top:12px;padding:13px;border-radius:14px;background:rgba(0,0,0,.15);border:1px solid var(--line);font-size:12.5px;color:#c6d1df;line-height:1.6}.details.open{display:block;animation:drop .25s ease both}@keyframes drop{from{opacity:0;transform:translateY(-5px)}to{opacity:1;transform:none}}
+.compare-tray{position:fixed;z-index:90;left:50%;bottom:16px;transform:translate(-50%,120px);width:min(780px,calc(100% - 24px));padding:10px 12px;border-radius:18px;border:1px solid rgba(139,124,255,.35);background:rgba(14,24,42,.94);backdrop-filter:blur(22px);box-shadow:var(--shadow);display:flex;align-items:center;gap:10px;transition:.32s cubic-bezier(.2,.8,.2,1)}.compare-tray.show{transform:translate(-50%,0)}.compare-names{display:flex;gap:6px;flex:1;overflow:auto}.mini-pill{font-size:11px;font-weight:800;white-space:nowrap;padding:8px 10px;border-radius:999px;background:rgba(255,255,255,.06);border:1px solid var(--line)}
+.overlay{position:fixed;z-index:150;inset:0;background:rgba(3,8,15,.86);backdrop-filter:blur(18px);display:none;align-items:center;justify-content:center;padding:18px}.overlay.open{display:flex;animation:fade .2s ease}@keyframes fade{from{opacity:0}to{opacity:1}}.modal{width:min(1160px,100%);max-height:92vh;overflow:auto;background:#0d192a;border:1px solid var(--line);border-radius:26px;box-shadow:0 30px 90px rgba(0,0,0,.55)}.modal-head{position:sticky;top:0;z-index:4;display:flex;justify-content:space-between;align-items:center;padding:16px 18px;background:rgba(13,25,42,.92);backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}.modal-head h3{font:700 20px Outfit;margin:0}.close{width:38px;height:38px;border:1px solid var(--line);background:rgba(255,255,255,.05);border-radius:12px;cursor:pointer}.compare-grid{display:grid;grid-template-columns:repeat(var(--cols,2),minmax(220px,1fr));gap:10px;padding:12px}.cmp{border:1px solid var(--line);border-radius:18px;background:rgba(255,255,255,.025);overflow:hidden}.cmp img{width:100%;height:155px;object-fit:cover}.cmp-body{padding:14px}.cmp h4{font:700 17px Outfit;margin:0 0 5px}.cmp-loc{font-size:11px;color:#aebcff;margin-bottom:12px}.cmp-row{padding:9px 0;border-top:1px solid var(--line);font-size:12px;line-height:1.5;color:#cbd6e4}.cmp-row b{display:block;color:#fff;font-size:10px;text-transform:uppercase;letter-spacing:.07em;margin-bottom:3px}
+.lightbox{width:min(1180px,100%);height:min(86vh,820px);position:relative;border-radius:24px;overflow:hidden;background:#03070c;box-shadow:0 30px 100px rgba(0,0,0,.7)}.lightbox img{width:100%;height:100%;object-fit:contain}.lb-top{position:absolute;top:0;left:0;right:0;display:flex;justify-content:space-between;align-items:center;padding:14px;background:linear-gradient(180deg,rgba(0,0,0,.65),transparent)}.lb-caption{font-size:13px;font-weight:800}.lb-nav{position:absolute;inset:0;display:flex;align-items:center;justify-content:space-between;padding:0 12px;pointer-events:none}.lb-nav button{pointer-events:auto;width:48px;height:48px;border-radius:50%;border:1px solid rgba(255,255,255,.16);background:rgba(0,0,0,.4);cursor:pointer;font-size:22px}.lb-strip{position:absolute;bottom:12px;left:50%;transform:translateX(-50%);display:flex;gap:7px;max-width:90%;overflow:auto}.lb-strip img{width:70px;height:50px;object-fit:cover;border-radius:9px;border:2px solid transparent;opacity:.6;cursor:pointer}.lb-strip img.on{border-color:#fff;opacity:1}
+.toast{position:fixed;z-index:300;left:50%;top:18px;transform:translate(-50%,-80px);padding:11px 14px;border-radius:999px;background:#edf5ff;color:#142238;font-size:12px;font-weight:800;box-shadow:0 10px 34px rgba(0,0,0,.28);transition:.28s}.toast.show{transform:translate(-50%,0)}
+.empty{grid-column:1/-1;border:1px dashed var(--line);border-radius:24px;padding:46px;text-align:center;color:var(--muted)}
+footer{color:#7f8da2;border-top:1px solid var(--line);padding:24px 0 90px;font-size:11.5px;line-height:1.6}
+@media(max-width:1100px){.grid{grid-template-columns:repeat(2,minmax(0,1fr))}.hero-grid{grid-template-columns:1fr}.hero-panel{display:grid;grid-template-columns:1fr 1.5fr;gap:14px}.tip{margin:0}.toolbar{flex-wrap:wrap}.search{flex-basis:100%}.filters{width:100%}}
+@media(max-width:680px){.container{width:min(100% - 20px,1440px)}.hero{padding-top:18px}.hero-main{padding:24px 20px}.hero-main,.hero-panel{border-radius:22px}.hero-panel{display:block}.tip{margin-top:10px}.grid{grid-template-columns:1fr;gap:14px}.media{height:250px}.toolbar-wrap{padding-bottom:12px}.toolbar{border-radius:16px}.filters{margin-bottom:2px}.view-actions{display:none}.modal{border-radius:20px}.compare-grid{grid-template-columns:1fr}.compare-tray{bottom:8px}.btn{padding:10px 12px}.vote-summary{gap:7px}.sum{padding:12px 7px}}
+@media(prefers-reduced-motion:reduce){*,*:before,*:after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+</style>
+</head>
+<body>
+<div class="container hero">
+  <div class="hero-grid">
+    <section class="hero-main">
+      <span class="eyebrow">✈ Proleće 2027 · prvo letenje sa decom</span>
+      <h1>Gde idemo na našu <span class="grad">prvu porodičnu avio avanturu?</span></h1>
+      <p class="lede">Vizuelni planer za vas dvoje: pregledajte stvarne fotografije, glasajte nezavisno u istom browseru, stavite najbolje opcije u poređenje i svedite 30 ideja na kratak izbor bez beskrajnog skrolovanja i tabova.</p>
+      <div class="hero-actions">
+        <button class="btn primary" onclick="setFilter('liked')">❤️ Prikaži favorite</button>
+        <button class="btn" onclick="pickRandomFavorite()">🎲 Izaberi među favoritima</button>
+        <button class="btn" onclick="clearVotes()">↺ Resetuj glasove</button>
+      </div>
+    </section>
+    <aside class="hero-panel">
+      <div>
+        <div class="panel-title"><h2>Naša odluka</h2><span class="tiny">čuva se lokalno</span></div>
+        <div class="vote-summary"><div class="sum like"><b id="likeCount">0</b><span>❤️ FAVORITA</span></div><div class="sum maybe"><b id="maybeCount">0</b><span>🤔 MOŽDA</span></div><div class="sum no"><b id="noCount">0</b><span>✕ OTPADA</span></div></div>
+      </div>
+      <div class="tip">💡 <b>Kako bih koristio ovo:</b> prvo svako brzo klikne ❤️ / 🤔 / ✕ bez previše razmišljanja. Zatim uključite “Shortlist”, izaberite 2–4 kartice za <b>Poređenje</b> i tek tada proverite konkretne letove, cene i radno vreme za datum putovanja.</div>
+    </aside>
+  </div>
+</div>
+<div class="toolbar-wrap"><div class="container"><div class="toolbar">
+  <label class="search"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.2-3.2"/></svg><input id="searchInput" placeholder="Traži grad, park, državu, atrakciju…"></label>
+  <div class="filters" id="filters">
+    <button class="chip active" data-filter="all">Sve</button><button class="chip" data-filter="liked">❤️ Shortlist</button><button class="chip" data-filter="theme">🎢 Tematski</button><button class="chip" data-filter="zoo">🦁 Zoo & akvarijum</button><button class="chip" data-filter="nature">🌲 Priroda</button><button class="chip" data-filter="culture">🏰 Gradovi & bajke</button>
+  </div>
+</div>
+<div class="meta-row"><div class="result-count" id="resultCount"></div><div class="view-actions"><button class="btn" onclick="scrollToFirstUnvoted()">↓ Sledeća neocenjena</button></div></div>
+</div></div>
+<main class="container"><div class="grid" id="grid"></div></main>
+<div class="compare-tray" id="compareTray"><div class="compare-names" id="compareNames"></div><button class="btn primary" onclick="openCompare()">Poredi <span id="compareCount">0</span></button><button class="icon-btn" onclick="clearCompare()" aria-label="Očisti">×</button></div>
+<div class="overlay" id="compareOverlay" onclick="backdropClose(event,'compareOverlay')"><div class="modal"><div class="modal-head"><h3>Direktno porodično poređenje</h3><button class="close" onclick="closeOverlay('compareOverlay')">×</button></div><div class="compare-grid" id="compareGrid"></div></div></div>
+<div class="overlay" id="lightboxOverlay" onclick="backdropClose(event,'lightboxOverlay')"><div class="lightbox"><img id="lbImg" alt=""><div class="lb-top"><div class="lb-caption" id="lbCaption"></div><button class="close" onclick="closeOverlay('lightboxOverlay')">×</button></div><div class="lb-nav"><button onclick="lbStep(-1)">‹</button><button onclick="lbStep(1)">›</button></div><div class="lb-strip" id="lbStrip"></div></div></div>
+<div class="toast" id="toast"></div>
+<footer class="container">Fotografije su web-preview slike učitane preko Bing thumbnail pretrage na osnovu naziva destinacije i atrakcija, pa zahtevaju internet konekciju. Pre rezervacije obavezno proverite zvanične sajtove za sezonsko radno vreme, visinska/starosna ograničenja, aktuelne direktne letove i uslove za kolica. Ako ovaj HTML jednog dana javno objavite, zamenite preview fotografije licenciranim ili zvanično odobrenim assetima.</footer>
+<script>
+const locationsData = [
+            // original 20
+            {
+                id: 1,
+                title: "Billund Legoland & LEGO House",
+                location: "Billund, Danska",
+                category: "theme",
+                categoryLabel: "Tematski Park",
+                flight: "~2.5h let",
+                desc: "Svetski centar LEGO kockica. Savršeno skrojen za malu decu sa ogromnim DUPLO zonama i interaktivnim radionicama.",
+                highlights: ["DUPLO Land za bebu", "LEGO House interaktivna zona", "Hotel u samom parku"],
+                details: "Direktan let Wizz Air-om iz Beograda. Park se otvara krajem marta. Sve je na ravnom, maksimalno prilagođeno dječijim kolicima.",
+                svgType: "lego"
+            },
+            {
+                id: 2,
+                title: "Disneyland & Jardin d'Acclimatation",
+                location: "Pariz, Francuska",
+                category: "theme",
+                categoryLabel: "Tematski Park",
+                flight: "~2.5h let",
+                desc: "Magično iskustvo bajki uz dodatak prelepog klasičnog parka u Bulonjskoj šumi sa minijaturnim vozom i malim zoo vrtom.",
+                highlights: ["It's a Small World vožnja čamcem", "Jardin d'Acclimatation voz", "Miting sa junacima"],
+                details: "Proleće je idealno zbog umerenih temperatura. Jardin d'Acclimatation pruža mirniji tempo za bebu u odnosu na sam Diznilend.",
+                svgType: "castle"
+            },
+            {
+                id: 3,
+                title: "Efteling Park Bajki",
+                location: "Utreht / Kaatsheuvel, Holandija",
+                category: "theme",
+                categoryLabel: "Tematski Park",
+                flight: "~2.5h let",
+                desc: "Jedan od najstarijih i najlepših tematskih parkova u Evropi, smešten u pravoj bajkovitoj šumi sa drvećem koje priča priče.",
+                highlights: ["Sprookjesbos (Šuma bajki)", "Parna železnica oko parka", "Brodice na jezeru"],
+                details: "Smešten na 1h od Amsterdama. Šuma pruža fantastičnu ladovinu i staze za kolica, bez buke klasičnih zabavnih parkova.",
+                svgType: "forest"
+            },
+            {
+                id: 4,
+                title: "Tivoli Gardens & Den Blå Planet",
+                location: "Kopenhagen, Danska",
+                category: "theme",
+                categoryLabel: "Tematski Park",
+                flight: "~2.2h let",
+                desc: "Istorijski vrtovi u samom centru grada uz poset najvećem akvarijumu Severne Evrope na samoj obali mora.",
+                highlights: ["Drveni vrtuljci za najmlađe", "Najveći akvarijum Plava Planeta", "Igrališta u parku"],
+                details: "Kopenhagen je izuzetno bezbedan i ravan grad. Idealno za prolećne šetnje i kombinaciju kulture i zabave.",
+                svgType: "park"
+            },
+            {
+                id: 5,
+                title: "Europa-Park & Rulantica",
+                location: "Rust / Frajburg, Nemačka",
+                category: "theme",
+                categoryLabel: "Tematski Park",
+                flight: "~2h let (Bazel)",
+                desc: "Zvanično najbolji tematski park u Evropi sa posebnim sekcijama za decu mlađu od 4 godine i unutrašnjim vodenim parkom.",
+                highlights: ["Irland - Svet za najmlađe", "Rulantica vodeni svet", "Zemlja bajki Grim"],
+                details: "Smešten blizu granice sa Francuskom i Švajcarskom. Let do Bazela pa kratak transfer rent-a-car-om.",
+                svgType: "roller"
+            },
+            {
+                id: 6,
+                title: "Bioparc & Oceanogràfic",
+                location: "Valensija, Španija",
+                category: "zoo",
+                categoryLabel: "Zoo & Akvarijum",
+                flight: "~3h let",
+                desc: "Potpuni bio-imersion zoo bez kaveza i najveći akvarijum u Evropi smešten u nekadašnjem koritu reke Turije.",
+                highlights: ["Lemuri koji slobodno trče", "Tunel sa ajkulama", "Park Turija (30km zelenila)"],
+                details: "Valensija ima više od 300 sunčanih dana godišnje. Prolećne temperature oko 20°C su savršene za šetnju kolicima.",
+                svgType: "zoo"
+            },
+            {
+                id: 7,
+                title: "Tiergarten Schönbrunn & Prater",
+                location: "Beč, Austrija",
+                category: "zoo",
+                categoryLabel: "Zoo & Akvarijum",
+                flight: "~1h let",
+                desc: "Najstariji zoo vrt na svetu u carskom parku uz ikonični Prater park sa veliikim točkom i akvarijumom Haus des Meeres.",
+                highlights: ["Velike Pande", "Haus des Meeres tropska kuća", "Vožnja fijakerom i vozićem"],
+                details: "Izuzetno kratak let (samo 60 minuta). Idealna provera za prvo letenje dece bez stresa od dugog putovanja.",
+                svgType: "panda"
+            },
+            {
+                id: 8,
+                title: "Playmobil FunPark & Zoo",
+                location: "Nirnberg, Nemačka",
+                category: "theme",
+                categoryLabel: "Tematski Park",
+                flight: "~1.8h let",
+                desc: "Park posvećen aktivnoj igri - bez čekanja u redovima! Džinovske piratske lađe, zamkovi i vode za igranje.",
+                highlights: ["Piratski brod na jezeru", "Playmobil gradice u prirodnoj veličini", "Zatvorene igraonice"],
+                details: "Nirnberg pruža sjajnu mešavinu srednjovekovnog grada i sadržaja za decu. Direktni letovi iz Beograda i Niša.",
+                svgType: "playmobil"
+            },
+            {
+                id: 9,
+                title: "Hellabrunn Geo-Zoo & Kinderreich",
+                location: "Minhen, Nemačka",
+                category: "zoo",
+                categoryLabel: "Zoo & Akvarijum",
+                flight: "~1.5h let",
+                desc: "Geo-zoo gde životinje žive po kontinentima na prirodnom rečnom ostrvu reke Izar, uz čuveni Deutsches Museum Kinderreich.",
+                highlights: ["Dečiji peting zoo", "Deutsches Museum interaktivni deo", "Engleski park"],
+                details: "Minhen nudi vrhunske parkove, izuzetno čiste staze za kolica i brz transfer sa aerodroma.",
+                svgType: "bear"
+            },
+            {
+                id: 10,
+                title: "Oceanário de Lisboa",
+                location: "Lisabon, Portugal",
+                category: "zoo",
+                categoryLabel: "Zoo & Akvarijum",
+                flight: "~3.5h let",
+                desc: "Jedan od najlepših okeanarijuma na svetu sagrađen na vodi sa gigantskim centralnim akvarijumom i morskim vidrama.",
+                highlights: ["Morske vidre koje se igraju", "Gondola (žičara) iznad reke", "Park Nacija sa fontanama"],
+                details: "Ravan deo grada (Parque das Nações) savršen za kolica, uprkos brdovitom ostatku Lisabona.",
+                svgType: "aquarium"
+            },
+            {
+                id: 11,
+                title: "Loro Parque & Teide Safari",
+                location: "Tenerife, Španija",
+                category: "zoo",
+                categoryLabel: "Zoo & Akvarijum",
+                flight: "~5h let",
+                desc: "Tropski raj sa večitim prolećem (22°C u martu), svetski poznatim životinjskim parkom i vulkanskim avanturama.",
+                highlights: ["Pingvinarijum sa pravim snegom", "Predstave orki i delfina", "Žičara na vulkan Teide"],
+                details: "Za porodicu koja želi sigurno toplo vreme i kupanje na peščanim plažama već u ranom proleću.",
+                svgType: "sun"
+            },
+            {
+                id: 12,
+                title: "Signal de Bougy & Ženevsko Jezero",
+                location: "Ženeva / Lozana, Švajcarska",
+                category: "nature",
+                categoryLabel: "Priroda & Safari",
+                flight: "~2h let",
+                desc: "Ogroman park prirode na brdu iznad jezera sa besplatnim igralištima, mini farmom i pogledom na Mon Blan.",
+                highlights: ["Farma domaćih životinja", "Drvena eko-igrališta", "Vožnja brodom po jezeru"],
+                details: "Švajcarska čistoća, svež planinski vazduh i savršeno uređeni parkovi bez ikakvih gužvi.",
+                svgType: "mountain"
+            },
+            {
+                id: 13,
+                title: "Gardaland & Parco Natura Viva",
+                location: "Jezero Garda, Italija",
+                category: "theme",
+                categoryLabel: "Tematski Park",
+                flight: "~1.5h let (Milano)",
+                desc: "Peppa Pig Land u Gardalandu za trogodišnjaka i auto-safari park Natura Viva gde životinje šetaju pored auta.",
+                highlights: ["Peppa Pig Land", "Auto-safari sa lavovima i žirafama", "Šetnje uz jezero"],
+                details: "Smeštaj u blizini jezera Garda pruža opuštenu italijansku atmosferu i sjajne hranljive opcije za decu.",
+                svgType: "safari"
+            },
+            {
+                id: 14,
+                title: "Bled Jezero & Triglav Park",
+                location: "Bled, Slovenija",
+                category: "nature",
+                categoryLabel: "Priroda & Safari",
+                flight: "~50min let",
+                desc: "Smaragdno jezero, vožnja drvenom pletnom i obilazak Dinoparka sa pokretnim dinosaurusima u šumi.",
+                highlights: ["Vožnja pletna čamcem", "Dino Park Bled u šumi", "Kanjon Vintgar drvene staze"],
+                details: "Super kratak let ili brza opcija za vožnju. Potpuno prirodno okruženje bez buke metropola.",
+                svgType: "lake"
+            },
+            {
+                id: 15,
+                title: "Kavo Greko & Camel Park",
+                location: "Larnaka / Aja Napa, Kipar",
+                category: "nature",
+                categoryLabel: "Priroda & Safari",
+                flight: "~2.5h let",
+                desc: "Sunčana obala Kipta, peščane plaže za igru u pesku i Camel Park u Mazotosu gde deca hrane kamile.",
+                highlights: ["Hranjenje i jahanje kamila", "Igra na toplim peščanim plažama", "Kavo Greko staze"],
+                details: "Prijaće topao morski vazduh krajem marta bez letnjih vrućina i gužvi na plažama.",
+                svgType: "desert"
+            },
+            {
+                id: 16,
+                title: "Junibacken & Skansen Open Air",
+                location: "Stokholm, Švedska",
+                category: "culture",
+                categoryLabel: "Grad & Bajke",
+                flight: "~2.5h let",
+                desc: "Magični dečiji muzej bajki Astrid Lindgren sa letećim vozom, uz najstariji otvoreni muzej sa skandinavskim životinjama.",
+                highlights: ["Bajkoviti leteći vozik", "Skansen zoo sa losovima i medvedima", "Vasa muzej broda"],
+                details: "Stokholm je zvanično 'prijatelj dječijih kolica' - javni prevoz je besplatan za roditelje sa kolicima!",
+                svgType: "fairy"
+            },
+            {
+                id: 17,
+                title: "Explora Muzej & Vila Borgeze",
+                location: "Rim, Italija",
+                category: "culture",
+                categoryLabel: "Grad & Bajke",
+                flight: "~1.5h let",
+                desc: "Dečiji interaktivni grad u malom gde deca voze vozoje i bave se zanatima, uz iznajmljivanje porodičnih četvorocikala.",
+                highlights: ["Explora dečiji grad", "Porodični pedaline-bicikli u parku", "Pice i sladoledi na svakom koraku"],
+                details: "Rim u martu i aprilu miriše na proleće i idealan je pre nego što počnu letnje vrućine.",
+                svgType: "colosseum"
+            },
+            {
+                id: 18,
+                title: "CosmoCaixa & Park Guell",
+                location: "Barselona, Španija",
+                category: "culture",
+                categoryLabel: "Grad & Bajke",
+                flight: "~2.5h let",
+                desc: "Muzej nauke sa prašumom Amazonije unutar zgrade (sa pravom kišom) i šareni parkovi Gaudija.",
+                highlights: ["Poplavljena šuma Amazonije u zgradi", "Akvarijum na Rambli", "Peščana plaža Barseloneta"],
+                details: "Široka šetališta, sjajna energija i klima pogodna za dugotrajne porodične šetnje.",
+                svgType: "mosaic"
+            },
+            {
+                id: 19,
+                title: "Popeye Village & Akvarijum",
+                location: "Mellieha, Malta",
+                category: "theme",
+                categoryLabel: "Tematski Park",
+                flight: "~2h let",
+                desc: "Originalni šareni filmski set izgrađen za film o Popaju, pretvoren u bajkovito selo pored tirkiznog zaliva.",
+                highlights: ["Selo Popaja sa predstavama", "Nacionalni akvarijum Malte", "Vožnje čamcem po zalivu"],
+                details: "Ostrvo je malo pa su sve lokacije na 20-30 minuta vožnje od aerodroma.",
+                svgType: "boat"
+            },
+            {
+                id: 20,
+                title: "Tropicarium & Dečija Železnica",
+                location: "Budimpešta, Mađarska",
+                category: "zoo",
+                categoryLabel: "Zoo & Akvarijum",
+                flight: "~1h / Autom",
+                desc: "Akvarijum sa tunelom ispod koga plivaju ajkule i čuvena železnica u Budimskim brdima kojom upravljaju deca.",
+                highlights: ["Dečija železnica (Gyermekvasút)", "Tropicarium sa ajkulama", "Sziget parkovi i igrališta"],
+                details: "Najlakša i najpristupačnija destinacija na listi. Može se realizovati i automobilom za 4 sata.",
+                svgType: "train"
+            },
+
+            // NEW 10 EXTRA UNIQUE LOCATIONS FOR EXPANDABILITY
+            {
+                id: 21,
+                title: "Paultons Park - Home of Peppa Pig World",
+                location: "Sautempton, Velika Britanija",
+                category: "theme",
+                categoryLabel: "Tematski Park",
+                flight: "~3h let (London)",
+                desc: "Zvanični dom Peppa Pig sveta! Preko 9 vožnji posvećenih Pepipoj porodici, uz prelepe engleske vrtove.",
+                highlights: ["Peppa Pig kuća i vožnja balonom", "Zoološki deo sa pticama i mekatima", "Dino atrakcije za malo starije"],
+                details: "Iz Londona se stiže brzim vozom ili kolima za manje od sat vremena. Neprocenjivo iskustvo za četvorogodišnjaka.",
+                svgType: "pig"
+            },
+            {
+                id: 22,
+                title: "Apenheul Primate Park",
+                location: "Apeldorn, Holandija",
+                category: "zoo",
+                categoryLabel: "Zoo & Akvarijum",
+                flight: "~2.5h let (Amsterdam)",
+                desc: "Jedinstveni park gde više od polovine majmuna slobodno šeta među posetiocima bez ikakvih pregrada!",
+                highlights: ["Slobodni majmunčići na ramenima", "Velika drvena eko-igrališta", "Edukativne prezentacije"],
+                details: "Deca dobijaju posebne torbe koje majmuni ne mogu otvoriti. Neverovatan doživljaj bliskog kontakta sa prirodom.",
+                svgType: "monkey"
+            },
+            {
+                id: 23,
+                title: "Sarkanniemi & Moominworld",
+                location: "Tampere / Naantali, Finska",
+                category: "culture",
+                categoryLabel: "Grad & Bajke",
+                flight: "~3h let",
+                desc: "Svet Mumi trolova na ostrvu iz bajke - celo ostrvo pretvoreno u tematski svet plavih Mumi kućica.",
+                highlights: ["Plava Mumi kuća", "Predstave na otvorenom", "Plaže i drveni mostići"],
+                details: "Prelepa skandinavska priroda sa posebnom magijom bajki. Sezona počinje prolećnim festivalima.",
+                svgType: "moomin"
+            },
+            {
+                id: 24,
+                title: "Tropical Islands Resort",
+                location: "Krausnik / Berlin, Nemačka",
+                category: "theme",
+                categoryLabel: "Tematski Park",
+                flight: "~1.8h let (Berlin)",
+                desc: "Najveća tropska unutrašnja prašuma na svetu unutar džinovskog avio-hangara sa pravom peščanom plažom i balonom.",
+                highlights: ["Toplo zatvoreno more (28°C)", "Prava prašuma sa flamingoima", "Vožnja balonom unutar zgrade"],
+                details: "Nezavisno od spoljašnjeg vremena u martu, unutra je uvek letnja klima. Na samo 45 min od Berlina.",
+                svgType: "tropical"
+            },
+            {
+                id: 25,
+                title: "Mini-Europe & Pairi Daiza",
+                location: "Brisel / Brugelette, Belgija",
+                category: "culture",
+                categoryLabel: "Grad & Bajke",
+                flight: "~2.3h let",
+                desc: "Park sa minijaturnim maketama svih spomenika Evrope (sa pokretnim vozovima i vulkanima) i zvanično najbolji zoo u Evropi.",
+                highlights: ["Mini Europe pokretni modeli", "Kineski vrtovi sa pandama u Pairi Daiza", "Čokoladnice za decu"],
+                details: "Brisel nudi odličan gradski prevoz, a Pairi Daiza je izabran za najlepši zoološki vrt u Evropi više puta.",
+                svgType: "minieurope"
+            },
+            {
+                id: 26,
+                title: "Zatorland Dino & Mythological Park",
+                location: "Zator / Krakov, Poljska",
+                category: "theme",
+                categoryLabel: "Tematski Park",
+                flight: "~1.5h let (Krakov)",
+                desc: "Najveći park pokretnih i ričućih dinosaurusa u Evropi smešten u stotinarom staroj šumi na vodi.",
+                highlights: ["Preko 100 ričućih dinosaurusa", "Park mitologije na jezeru sa brodićima", "Igraonice i mini luna park"],
+                details: "Nalazi se blizu Krakova. Poljska pruža izuzetno povoljne cene i vrhunski kvalitet sadržaja za porodicu.",
+                svgType: "dino"
+            },
+            {
+                id: 27,
+                title: "Zoom Torino Safari Park",
+                location: "Torino, Italija",
+                category: "zoo",
+                categoryLabel: "Zoo & Akvarijum",
+                flight: "~1.8h let",
+                desc: "Prvi imerzivni bio-park u Italiji gde plivate pored pingvina i lemura u odvojenim providnim bazenima.",
+                highlights: ["Bazen sa pogledom na pingvine", "Afrička savana peške", "Hranjenje žirafa"],
+                details: "Spoj italijanske kuhinje, Torina kao elegantnog grada bez gužve i vrhunskog zoo-safari doživljaja.",
+                svgType: "penguin"
+            },
+            {
+                id: 28,
+                title: "Nacionalni Park Brijuni & Dino Staze",
+                location: "Istra, Hrvatska",
+                category: "nature",
+                categoryLabel: "Priroda & Safari",
+                flight: "~1h let / Autom",
+                desc: "Ostrvski nacionalni park sa safari parkom (slonovi, zebrasti konji) i pravim otiscima stopala dinosaurusa na stenama.",
+                highlights: ["Prava stopala dinosaurusa na obali", "Safari vožnja električnim vozićem", "Slobodni jeleni u parku"],
+                details: "Bez automobila na ostrvu - samo vozići, bicikli i svež morski vazduh. Savršeno mirno i bezbedno za decu.",
+                svgType: "island"
+            },
+            {
+                id: 29,
+                title: "Le Hameau du Père Noël (Selo Deda Mraza)",
+                location: "Savoja / Ansi, Francuska",
+                category: "culture",
+                categoryLabel: "Grad & Bajke",
+                flight: "~2h let (Ženeva)",
+                desc: "Zimska i prolećna bajka u podnožju Alpa blizu prelepog grada Ansi - dom Deda Mraza i njegovih vilenjaka.",
+                highlights: ["Kuća Deda Mraza i radionica igračaka", "Soba sa izgubljenim cuclama", "Selo vilenjaka"],
+                details: "Nalazi se na samoj granici Francuske i Švajcarske. Izuzetno emotivno i magično iskustvo za četvorogodišnjaka.",
+                svgType: "santa"
+            },
+            {
+                id: 30,
+                title: "Gulliverlandia & Aquasplash",
+                location: "Lignano Sabbiadoro, Italija",
+                category: "theme",
+                categoryLabel: "Tematski Park",
+                flight: "~1h let (Trst/Venecija)",
+                desc: "Park u kome deca hodaju kroz džinovski svet sa velikim Gulliverom, dinosaurusima i prostranim obalskim parkovima.",
+                highlights: ["Gigantske skulpture i džinovski svet", "Prozori u podvodni svet", "Vožnja kanuima kroz džunglu"],
+                details: "Na samoj obali Jadrana blizu Trsta. Veoma mirna porodična destinacija sa ravnim peščanim plažama.",
+                svgType: "gulliver"
+            }
+        ];
+
+const state={filter:'all',query:'',compare:new Set(),gallery:{},lightbox:null};
+const votes=JSON.parse(localStorage.getItem('familyTripVotes')||'{}');
+const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
+function haptic(ms=8){try{if(navigator.vibrate) navigator.vibrate(ms)}catch(e){}}
+function saveVotes(){localStorage.setItem('familyTripVotes',JSON.stringify(votes));updateSummary()}
+function cleanQuery(s){return s.replace(/[&/]/g,' ').replace(/\s+/g,' ').trim()}
+function imageQueries(item){
+  const h=item.highlights||[]; return [
+    `${item.title} ${item.location} family attraction`,
+    `${item.title} ${h[0]||''} ${item.location}`,
+    `${h[1]||item.title} ${item.location} family`,
+    `${h[2]||item.title} ${item.location} children`,
+    `${item.title} ${item.location} park view entrance`
+  ].map(cleanQuery)
+}
+function bingThumb(q,i){return `https://tse${(i%4)+1}.mm.bing.net/th?q=${encodeURIComponent(q)}&w=1200&h=800&c=7&rs=1&p=0&pid=Api`}
+function imagesFor(item){return imageQueries(item).map((q,i)=>({url:bingThumb(q,i),q}))}
+function imgFallback(img,item){img.onerror=null; img.src=`data:image/svg+xml;charset=UTF-8,${encodeURIComponent(`<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800"><defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#1e3354"/><stop offset="1" stop-color="#101b31"/></linearGradient></defs><rect width="100%" height="100%" fill="url(#g)"/><circle cx="900" cy="150" r="180" fill="#8b7cff" opacity=".15"/><text x="70" y="380" fill="#fff" font-family="Arial" font-size="52" font-weight="700">${escapeHtml(item.title)}</text><text x="70" y="445" fill="#aebcd0" font-family="Arial" font-size="28">Fotografija nije učitana · klikni za web pretragu</text></svg>`)}`}
+function escapeHtml(s=''){return s.replace(/[&<>'"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]))}
+function getFiltered(){return locationsData.filter(item=>{const q=state.query.toLowerCase();const text=[item.title,item.location,item.desc,...(item.highlights||[])].join(' ').toLowerCase();const category=state.filter==='all'||item.category===state.filter||(state.filter==='liked'&&votes[item.id]==='like');return category&&(!q||text.includes(q))})}
+function render(){const data=getFiltered(); $('#resultCount').textContent=`Prikazano ${data.length} od ${locationsData.length} destinacija`; const grid=$('#grid');grid.innerHTML='';if(!data.length){grid.innerHTML='<div class="empty">Nema rezultata za ovu kombinaciju. Probaj drugi filter ili obriši pretragu.</div>';return}
+ data.forEach((item,idx)=>grid.appendChild(cardEl(item,idx))); observeCards(); updateCompareTray(); updateSummary();}
+function cardEl(item,idx){const card=document.createElement('article'); card.className='card';card.id=`card-${item.id}`;const gallery=imagesFor(item);const gi=state.gallery[item.id]||0;const vote=votes[item.id]||'';card.innerHTML=`
+ <div class="media" data-id="${item.id}"><img loading="lazy" decoding="async" src="${gallery[gi].url}" alt="${escapeHtml(item.title)}" onclick="openLightbox(${item.id})"><span class="badge">${escapeHtml(item.categoryLabel)}</span><span class="badge flight">✈ ${escapeHtml(item.flight)}</span><div class="dots">${gallery.map((_,i)=>`<button class="dot ${i===gi?'on':''}" onclick="event.stopPropagation();setGallery(${item.id},${i})" aria-label="Slika ${i+1}"></button>`).join('')}</div><span class="photo-count">📷 ${gi+1}/5</span><div class="media-nav"><button onclick="event.stopPropagation();stepGallery(${item.id},-1)">‹</button><button onclick="event.stopPropagation();stepGallery(${item.id},1)">›</button></div></div>
+ <div class="body"><div class="location">⌖ ${escapeHtml(item.location)}</div><div class="title-row"><h2 class="title">${escapeHtml(item.title)}</h2><button class="compare-check ${state.compare.has(item.id)?'selected':''}" title="Dodaj u poređenje" onclick="toggleCompare(${item.id})">${state.compare.has(item.id)?'✓':'⇄'}</button></div><p class="desc">${escapeHtml(item.desc)}</p><ul class="highlights">${item.highlights.map(x=>`<li>${escapeHtml(x)}</li>`).join('')}</ul>
+ <div class="vote-row"><button class="vote ${vote==='like'?'active':''}" data-v="like" onclick="voteFor(${item.id},'like')">❤️ Hoću</button><button class="vote ${vote==='maybe'?'active':''}" data-v="maybe" onclick="voteFor(${item.id},'maybe')">🤔 Možda</button><button class="vote ${vote==='no'?'active':''}" data-v="no" onclick="voteFor(${item.id},'no')">✕ Preskoči</button></div>
+ <div class="card-footer"><span class="small-label">👶 fokus: 1.5 & 4 god</span><button class="details-btn" onclick="toggleDetails(${item.id})">Logistika & savet ↓</button></div><div class="details" id="details-${item.id}">${escapeHtml(item.details)}<div style="margin-top:10px"><a style="color:#9cecf5;font-weight:800" target="_blank" rel="noopener" href="https://www.bing.com/images/search?q=${encodeURIComponent(item.title+' '+item.location)}">Otvori još fotografija ↗</a></div></div></div>`;
+ let x0=0;const m=card.querySelector('.media');m.addEventListener('pointerdown',e=>x0=e.clientX,{passive:true});m.addEventListener('pointerup',e=>{const dx=e.clientX-x0;if(Math.abs(dx)>55){stepGallery(item.id,dx<0?1:-1)}});return card}
+function observeCards(){const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}}),{threshold:.08});$$('.card').forEach(c=>io.observe(c))}
+function updateCard(id){const item=locationsData.find(x=>x.id===id);const old=$(`#card-${id}`);if(old&&item){const n=cardEl(item,0);n.classList.add('in');old.replaceWith(n)}}
+function setGallery(id,i){state.gallery[id]=i;haptic(5);updateCard(id)}
+function stepGallery(id,d){const i=state.gallery[id]||0;setGallery(id,(i+d+5)%5)}
+function toggleDetails(id){haptic();const el=$(`#details-${id}`);el.classList.toggle('open')}
+function voteFor(id,v){haptic(v==='like'?[8,35,12]:7);votes[id]=votes[id]===v?'':v;saveVotes();updateCard(id);if(state.filter==='liked'&&votes[id]!=='like') render();}
+function updateSummary(){let l=0,m=0,n=0;Object.values(votes).forEach(v=>{if(v==='like')l++;else if(v==='maybe')m++;else if(v==='no')n++});$('#likeCount').textContent=l;$('#maybeCount').textContent=m;$('#noCount').textContent=n}
+function setFilter(f){state.filter=f;$$('.chip').forEach(c=>c.classList.toggle('active',c.dataset.filter===f));render();haptic()}
+$('#filters').addEventListener('click',e=>{const b=e.target.closest('.chip');if(b)setFilter(b.dataset.filter)});$('#searchInput').addEventListener('input',e=>{state.query=e.target.value;render()})
+function toggleCompare(id){haptic();if(state.compare.has(id)){state.compare.delete(id)}else{if(state.compare.size>=4){toast('Maksimum 4 destinacije za jasno poređenje.');return}state.compare.add(id)}updateCard(id);updateCompareTray()}
+function clearCompare(){state.compare.clear();render()}
+function updateCompareTray(){const items=[...state.compare].map(id=>locationsData.find(x=>x.id===id)).filter(Boolean);$('#compareTray').classList.toggle('show',items.length>0);$('#compareCount').textContent=items.length;$('#compareNames').innerHTML=items.map(x=>`<span class="mini-pill">${escapeHtml(x.title)}</span>`).join('')}
+function openCompare(){const items=[...state.compare].map(id=>locationsData.find(x=>x.id===id)).filter(Boolean);if(items.length<2){toast('Izaberi bar dve destinacije.');return}const g=$('#compareGrid');g.style.setProperty('--cols',items.length);g.innerHTML=items.map(x=>`<article class="cmp"><img src="${imagesFor(x)[0].url}" alt=""><div class="cmp-body"><h4>${escapeHtml(x.title)}</h4><div class="cmp-loc">⌖ ${escapeHtml(x.location)}</div><div class="cmp-row"><b>Let / dolazak</b>${escapeHtml(x.flight)}</div><div class="cmp-row"><b>Zašto deci</b>${x.highlights.map(escapeHtml).join(' · ')}</div><div class="cmp-row"><b>Ideja</b>${escapeHtml(x.desc)}</div><div class="cmp-row"><b>Logistika iz tvog vodiča</b>${escapeHtml(x.details)}</div><div class="cmp-row"><b>Naš glas</b>${votes[x.id]==='like'?'❤️ Hoću':votes[x.id]==='maybe'?'🤔 Možda':votes[x.id]==='no'?'✕ Preskoči':'— Nije ocenjeno'}</div></div></article>`).join('');openOverlay('compareOverlay')}
+function openOverlay(id){$('#'+id).classList.add('open');document.body.style.overflow='hidden';haptic()}
+function closeOverlay(id){$('#'+id).classList.remove('open');document.body.style.overflow=''}function backdropClose(e,id){if(e.target.id===id)closeOverlay(id)}
+function openLightbox(id){const item=locationsData.find(x=>x.id===id);state.lightbox={id,i:state.gallery[id]||0};renderLightbox(item);openOverlay('lightboxOverlay')}
+function renderLightbox(item){const imgs=imagesFor(item),i=state.lightbox.i;$('#lbImg').src=imgs[i].url;$('#lbImg').alt=item.title;$('#lbCaption').textContent=`${item.title} · fotografija ${i+1}/5`;$('#lbStrip').innerHTML=imgs.map((x,j)=>`<img class="${i===j?'on':''}" src="${x.url}" alt="" onclick="lbSet(${j})">`).join('')}
+function lbSet(i){state.lightbox.i=i;const item=locationsData.find(x=>x.id===state.lightbox.id);renderLightbox(item);haptic(4)}function lbStep(d){lbSet((state.lightbox.i+d+5)%5)}
+function toast(msg){const t=$('#toast');t.textContent=msg;t.classList.add('show');clearTimeout(toast.timer);toast.timer=setTimeout(()=>t.classList.remove('show'),2200)}
+function pickRandomFavorite(){const fav=locationsData.filter(x=>votes[x.id]==='like');if(!fav.length){toast('Prvo označite nekoliko favorita sa ❤️.');return}const item=fav[Math.floor(Math.random()*fav.length)];setFilter('liked');setTimeout(()=>{document.getElementById(`card-${item.id}`)?.scrollIntoView({behavior:'smooth',block:'center'});toast(`🎲 ${item.title}`);haptic([12,35,12])},120)}
+function clearVotes(){if(!Object.keys(votes).length){toast('Još nema glasova za reset.');return}if(confirm('Obrisati sve ❤️ / 🤔 / ✕ izbore iz ovog browsera?')){Object.keys(votes).forEach(k=>delete votes[k]);saveVotes();render()}}
+function scrollToFirstUnvoted(){const item=getFiltered().find(x=>!votes[x.id]);if(!item){toast('Sve prikazane destinacije su ocenjene 🎉');return}document.getElementById(`card-${item.id}`)?.scrollIntoView({behavior:'smooth',block:'center'})}
+document.addEventListener('keydown',e=>{if(e.key==='Escape'){$$('.overlay.open').forEach(x=>closeOverlay(x.id))}if($('#lightboxOverlay').classList.contains('open')&&e.key==='ArrowRight')lbStep(1);if($('#lightboxOverlay').classList.contains('open')&&e.key==='ArrowLeft')lbStep(-1)});
+render();
+</script>
+</body></html>

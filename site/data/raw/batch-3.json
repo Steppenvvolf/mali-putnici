@@ -1,0 +1,1740 @@
+[
+ {
+  "id": "bled",
+  "name": {
+   "sr": "Bled",
+   "en": "Bled"
+  },
+  "place": {
+   "sr": "Bled, Slovenija",
+   "en": "Bled, Slovenia"
+  },
+  "country": "SI",
+  "region": "balkans",
+  "coords": [
+   46.364,
+   14.094
+  ],
+  "airport": {
+   "iata": "LJU",
+   "km": 35,
+   "minutes": 30,
+   "mode": {
+    "sr": "autom ili taksijem",
+    "en": "car or taxi"
+   }
+  },
+  "category": "nature",
+  "tags": [
+   "lake",
+   "castle",
+   "boat",
+   "mountain"
+  ],
+  "ages": {
+   "baby": 2,
+   "toddler": 3,
+   "preschool": 3
+  },
+  "stroller": 3,
+  "budget": 2,
+  "bestMonths": [
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "season": {
+   "sr": "Otvoreno tokom cele godine; pletna i ostrvo najlepši su od aprila do oktobra, a zimi vožnje idu ređe i kraće.",
+   "en": "Open all year; the pletna boats and the island are at their best from April to October, with shorter, less frequent winter sailings."
+  },
+  "tagline": {
+   "sr": "Jezero kao sa razglednice, sa ostrvom, drvenim čamcima i ravnom šetnjom bez ijedne stepenice.",
+   "en": "A postcard lake with an island, wooden boats and a flat, step-free walk all the way around."
+  },
+  "description": {
+   "sr": "Bled je alpsko jezero sa crkvicom na ostrvu, starim gradom na steni i 6 km dugom ravnom stazom oko vode. Za porodice s malom decom idealan je jer se sve vrti oko lagane šetnje, vožnje pletnom i sladoleda pored jezera. Nema gužve ni stresa — dan ovde prolazi sporo i predvidljivo, baš kako roditeljima mališana treba.",
+   "en": "Bled is an Alpine lake with a tiny island church, a castle on a cliff and a flat 6 km path all the way around the water. It suits families with small children because everything is a gentle stroll, a pletna boat ride and an ice cream by the shore. There is no rush here — days pass slowly and predictably, exactly what parents of little ones need."
+  },
+  "highlights": [
+   {
+    "sr": "Vožnja pletnom do ostrva i zvonjenje zvoncem želja u crkvici",
+    "en": "Riding the pletna boat to the island and ringing the wishing bell in the little church"
+   },
+   {
+    "sr": "Šetnja oko jezera (6 km) — ravna staza, idealna za kolica",
+    "en": "The 6 km lakeside loop — flat and perfect for a pram"
+   },
+   {
+    "sr": "Bledski grad i pogled na jezero sa visine",
+    "en": "Bled Castle and the view over the lake from up high"
+   },
+   {
+    "sr": "Igrališta i kupanje u jezeru leti",
+    "en": "Playgrounds and swimming in the lake in summer"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Ravna, asfaltirana staza oko celog jezera — kolica idu bez problema",
+    "en": "Flat, paved path all around the lake — a pram rolls the whole way"
+   },
+   {
+    "sr": "Sve je na dohvat ruke: jezero, grad, park i kafići na jednom mestu",
+    "en": "Everything is close together: lake, castle, park and cafés"
+   },
+   {
+    "sr": "Bezbedno i mirno, idealno za prvi porodični izlet u inostranstvo",
+    "en": "Safe and calm — a great first family trip abroad"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "Leti može biti prilično gužve, posebno oko glavne plaže i pristaništa",
+    "en": "Can get busy in summer, especially around the main beach and boat docks"
+   },
+   {
+    "sr": "Parking u centru je skup i teško se nalazi u sezoni",
+    "en": "Parking in the centre is pricey and hard to find in season"
+   },
+   {
+    "sr": "Bledski grad ima strme staze i stepenice — nije baš za kolica",
+    "en": "Bled Castle has steep paths and steps — not great for a pram"
+   }
+  ],
+  "tip": {
+   "sr": "Krenite na krug oko jezera rano ujutru dok je mirno — a pletnu platite gotovinom vozaču, kartice se ne primaju.",
+   "en": "Do the lake loop early in the morning while it's quiet — and pay the pletna boatman in cash, cards aren't accepted."
+  },
+  "costs": {
+   "tickets": [
+    {
+     "name": {
+      "sr": "Bledski grad",
+      "en": "Bled Castle"
+     },
+     "adult": 19,
+     "child": 7,
+     "freeUnder": 6,
+     "url": "https://www.blejski-grad.si/en/plan-your-visit/price-list/"
+    },
+    {
+     "name": {
+      "sr": "Pletna do ostrva (povratna)",
+      "en": "Pletna boat to the island (return)"
+     },
+     "adult": 20,
+     "child": 10,
+     "freeUnder": 4,
+     "url": "https://www.bled.si/en/what-to-see/symbols-of-bled/pletna/"
+    }
+   ],
+   "hotelNight": {
+    "budget": 90,
+    "mid": 150,
+    "comfort": 260
+   },
+   "foodPerAdultDay": 45,
+   "localPerDay": 12
+  },
+  "officialUrl": "https://www.bled.si/en/",
+  "sources": [
+   "https://www.blejski-grad.si/en/plan-your-visit/price-list/",
+   "https://www.blejskiotok.si/en/welcome-to-the-island/",
+   "https://www.bled.si/en/what-to-see/symbols-of-bled/pletna/"
+  ],
+  "priceConfidence": "verified",
+  "images": [
+   "File:Bled Island and Bled Castle, Slovenia, 20240504 0906 8331.jpg",
+   "File:Lake Bled island.jpg",
+   "File:Bled Castle (from Bled Island) (14259912533).jpg",
+   "File:Boat trip to the island of Bled, Slovenia.jpg",
+   "File:Lake Bled Autumn Sunrise.JPG"
+  ]
+ },
+ {
+  "id": "brijuni",
+  "name": {
+   "sr": "Brijuni",
+   "en": "Brijuni National Park"
+  },
+  "place": {
+   "sr": "Brijuni, Istra",
+   "en": "Brijuni, Istria"
+  },
+  "country": "HR",
+  "region": "balkans",
+  "coords": [
+   44.916,
+   13.77
+  ],
+  "airport": {
+   "iata": "PUY",
+   "km": 12,
+   "minutes": 15,
+   "mode": {
+    "sr": "autom ili taksijem, pa brodom iz Fažane",
+    "en": "car or taxi, then the park boat from Fažana"
+   }
+  },
+  "category": "nature",
+  "tags": [
+   "safari",
+   "boat",
+   "beach",
+   "shallow-sea"
+  ],
+  "ages": {
+   "baby": 2,
+   "toddler": 3,
+   "preschool": 3
+  },
+  "stroller": 2,
+  "budget": 3,
+  "bestMonths": [
+   5,
+   6,
+   7,
+   9
+  ],
+  "season": {
+   "sr": "Za individualne posetioce otvoreno od marta do decembra; januar i februar samo za najavljene grupe.",
+   "en": "Open to individual visitors from March to December; January and February are reserved for pre-arranged groups."
+  },
+  "tagline": {
+   "sr": "Zebre, slobodne paunove i plitko more na ostrvu koje se obilazi vozom.",
+   "en": "Zebras, free-roaming peacocks and a shallow sea on an island toured by little train."
+  },
+  "description": {
+   "sr": "Brijuni su nacionalni park od 14 ostrva kod Fažane u Istri, poznat po safari parku sa zebrama, slonovima i lamama koje deca obožavaju. Do Velog Brijuna se ide brodom, a ostrvo se obilazi turističkim vozom uz vodiča. Uz životinje, tu su i mirne uvalice sa plitkom, toplom vodom — idealno za najmlađe kupače.",
+   "en": "Brijuni is a national park of 14 islands off Fažana in Istria, famous for a safari park with zebras, elephants and llamas that children love. You reach Veli Brijun by boat and tour the island on a small train with a guide. Beyond the animals there are calm, sheltered coves with shallow, warm water — perfect for the youngest swimmers."
+  },
+  "highlights": [
+   {
+    "sr": "Vožnja turističkim vozom kroz safari park",
+    "en": "The little train ride through the safari park"
+   },
+   {
+    "sr": "Zebre, lame, slon i slobodni paunovi po celom ostrvu",
+    "en": "Zebras, llamas, an elephant and peacocks wandering the island"
+   },
+   {
+    "sr": "Kupanje u plitkim uvalama uz ostrvo",
+    "en": "Swimming in the shallow coves around the island"
+   },
+   {
+    "sr": "Stari Rim i Tita — dinozaurovski otisci i muzeji",
+    "en": "Ancient Rome and Tito — dinosaur footprints and small museums"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Životinje izbliza i bez velikog hodanja — sve ide vozom",
+    "en": "Animals up close without much walking — the train does the work"
+   },
+   {
+    "sr": "Sve je u jednoj karti: brod, voz, safari park i vodič",
+    "en": "One ticket covers it all: boat, train, safari park and guide"
+   },
+   {
+    "sr": "Plitko, mirno more idealno za prve kupačke korake",
+    "en": "Shallow, calm sea — ideal for a child's first paddles"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "Prilično skupo za porodicu — leti karta odraslih dostiže 50 evra",
+    "en": "Quite pricey for a family — adult tickets reach €50 in summer"
+   },
+   {
+    "sr": "Ceo obilazak je fiksni termin od četiri sata; kasniš, nema povraćaja",
+    "en": "The whole visit is a fixed four-hour slot; miss the boat and there's no refund"
+   },
+   {
+    "sr": "Leti velika gužva na brodovima, a hladovine na vozovima nema mnogo",
+    "en": "Crowded boats in summer, and little shade on the train"
+   }
+  ],
+  "tip": {
+   "sr": "Rezervišite prvi jutarnji brod i ponesite kupaće — nakon voza ostaje vremena za kupanje u uvali.",
+   "en": "Book the first morning boat and pack swimwear — there's time for a swim in the cove after the train ride."
+  },
+  "costs": {
+   "tickets": [
+    {
+     "name": {
+      "sr": "Obilazak Brijuna sa vodičem (jun–septembar)",
+      "en": "Guided Brijuni excursion (June–September)"
+     },
+     "adult": 50,
+     "child": 20,
+     "freeUnder": 7,
+     "url": "https://www.np-brijuni.hr/en/visit-brijuni/price-list"
+    }
+   ],
+   "hotelNight": {
+    "budget": 80,
+    "mid": 130,
+    "comfort": 220
+   },
+   "foodPerAdultDay": 40,
+   "localPerDay": 12
+  },
+  "officialUrl": "https://www.np-brijuni.hr/en",
+  "sources": [
+   "https://croatiaguidebook.com/attractions/brijuni-national-park",
+   "https://www.np-brijuni.hr/en/visit-brijuni/price-list"
+  ],
+  "priceConfidence": "estimated",
+  "images": [
+   "File:Brijuni aerial.jpg",
+   "File:Brijuni - zebre.jpg",
+   "File:Brijuni National Park.jpg",
+   "File:Brijuni - plaža kod luke na Velom Brijunu.jpg",
+   "File:Street Brijuni.jpg"
+  ]
+ },
+ {
+  "id": "zlatibor-mokra-gora",
+  "name": {
+   "sr": "Zlatibor i Mokra Gora",
+   "en": "Zlatibor & Mokra Gora"
+  },
+  "place": {
+   "sr": "Zlatibor, Srbija",
+   "en": "Zlatibor, Serbia"
+  },
+  "country": "RS",
+  "region": "balkans",
+  "coords": [
+   43.7236,
+   19.7028
+  ],
+  "airport": {
+   "iata": "BEG",
+   "km": 200,
+   "minutes": 150,
+   "mode": {
+    "sr": "autom",
+    "en": "car"
+   }
+  },
+  "category": "nature",
+  "tags": [
+   "train",
+   "mountain",
+   "cable-car",
+   "forest",
+   "lake"
+  ],
+  "ages": {
+   "baby": 2,
+   "toddler": 3,
+   "preschool": 3
+  },
+  "stroller": 2,
+  "budget": 1,
+  "bestMonths": [
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "season": {
+   "sr": "Šarganska osmica vozi od aprila do oktobra; zimi miruje, dok Gold gondola radi cele godine.",
+   "en": "The Šargan Eight runs April to October and rests in winter; the Gold Gondola operates all year round."
+  },
+  "tagline": {
+   "sr": "Voz koji se penje u obliku osmice, pa najduža gondola na svetu.",
+   "en": "A train that climbs in a figure of eight, then the world's longest gondola."
+  },
+  "description": {
+   "sr": "Zlatibor i Mokra Gora su planinski duo koji malu decu osvaja vozovima i žičarama. Šarganska osmica je stara uskotračna pruga kojom parni voz pravi krug u obliku osmice kroz tunele i šume, a Gold gondola sa Zlatibora vodi na Tornik i nudi pogled na ceo kraj. Dodajte Drvengrad, drveno etno-selo Emira Kusturice, i imate vikend bez ijednog dosadnog trenutka.",
+   "en": "Zlatibor and Mokra Gora are a mountain pair that win over small children with trains and cable cars. The Šargan Eight is a heritage narrow-gauge railway whose train loops in a figure of eight through tunnels and forest, while the Gold Gondola climbs from Zlatibor to Tornik with views over the whole region. Add Drvengrad, Emir Kusturica's wooden ethno-village, and you have a weekend with not a single dull moment."
+  },
+  "highlights": [
+   {
+    "sr": "Vožnja Šarganskom osmicom kroz tunele i preko mostića",
+    "en": "Riding the Šargan Eight through tunnels and over little bridges"
+   },
+   {
+    "sr": "Gold gondola do Tornika — pogled koji oduzima dah",
+    "en": "The Gold Gondola up to Tornik — a breath-taking view"
+   },
+   {
+    "sr": "Drvengrad — drveno selo sa ulicama i igralištima",
+    "en": "Drvengrad — a wooden village with lanes and play areas"
+   },
+   {
+    "sr": "Šetnje i jezero Ribničko u podnožju gondole",
+    "en": "Walks and Lake Ribničko at the foot of the gondola"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Voz i gondola su prava avantura i za bebe u kolicima",
+    "en": "The train and gondola are a real adventure, even for babies in a pram"
+   },
+   {
+    "sr": "Svež planinski vazduh i mnogo zelenila leti",
+    "en": "Fresh mountain air and plenty of greenery in summer"
+   },
+   {
+    "sr": "Veoma povoljno — karte i hrana znatno jeftinije nego na moru",
+    "en": "Very affordable — tickets and food far cheaper than on the coast"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "Do Zlatibora se iz većine gradova putuje dugo, krivudavim putevima",
+    "en": "A long, winding drive from most cities"
+   },
+   {
+    "sr": "Vikendom i u sezoni Šarganska osmica se brzo rasproda",
+    "en": "The Šargan Eight sells out fast on weekends and in season"
+   },
+   {
+    "sr": "Drvengrad ima kaldrmu i uzbrdice — nije idealan za kolica",
+    "en": "Drvengrad is cobbled and hilly — not ideal for a pram"
+   }
+  ],
+  "tip": {
+   "sr": "Karte za Šargansku osmicu kupite dan ranije ili rezervišite — u julu i avgustu za vikend često nema mesta.",
+   "en": "Buy Šargan Eight tickets a day ahead or book in advance — weekend seats often sell out in July and August."
+  },
+  "costs": {
+   "tickets": [
+    {
+     "name": {
+      "sr": "Šarganska osmica (povratna vožnja)",
+      "en": "Šargan Eight train (return)"
+     },
+     "adult": 13,
+     "child": 7,
+     "freeUnder": 6,
+     "url": "https://www.serbianrailways.com"
+    },
+    {
+     "name": {
+      "sr": "Gold gondola Zlatibor",
+      "en": "Gold Gondola Zlatibor"
+     },
+     "adult": 17,
+     "child": 8,
+     "freeUnder": 3,
+     "url": "https://goldgondola.rs/en/tickets"
+    }
+   ],
+   "hotelNight": {
+    "budget": 50,
+    "mid": 90,
+    "comfort": 160
+   },
+   "foodPerAdultDay": 25,
+   "localPerDay": 8
+  },
+  "officialUrl": "https://www.zlatibor.org.rs/",
+  "sources": [
+   "https://goldgondola.rs/en/tickets",
+   "https://railway.toursta.com/serbia/sargan-eight",
+   "https://www.zlatibor.org.rs/eng/Gold-Gondola"
+  ],
+  "priceConfidence": "estimated",
+  "images": [
+   "File:Šarganska osmica, Mokra Gora.jpg",
+   "File:Sarganska osmica 2.jpg",
+   "File:Drvengrad - panorama.JPG",
+   "File:Drvengrad.jpg",
+   "File:Zlatibor - pogled iz sela Dobroselica.jpg",
+   "File:Zlatibor gondola tornik.jpg"
+  ]
+ },
+ {
+  "id": "novi-sad-fruska-gora",
+  "name": {
+   "sr": "Novi Sad i Fruška gora",
+   "en": "Novi Sad & Fruška Gora"
+  },
+  "place": {
+   "sr": "Novi Sad, Srbija",
+   "en": "Novi Sad, Serbia"
+  },
+  "country": "RS",
+  "region": "balkans",
+  "coords": [
+   45.2542,
+   19.8425
+  ],
+  "airport": {
+   "iata": "BEG",
+   "km": 80,
+   "minutes": 60,
+   "mode": {
+    "sr": "autom ili autobusom",
+    "en": "car or bus"
+   }
+  },
+  "category": "nature",
+  "tags": [
+   "old-town",
+   "forest",
+   "free",
+   "playground",
+   "beach"
+  ],
+  "ages": {
+   "baby": 3,
+   "toddler": 3,
+   "preschool": 3
+  },
+  "stroller": 3,
+  "budget": 1,
+  "bestMonths": [
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "season": {
+   "sr": "Grad je otvoren cele godine; Štrand kupalište radi od maja do kraja septembra, a Fruška gora je najlepša proleće–jesen.",
+   "en": "The city is open all year; the Štrand beach runs May to late September, and Fruška Gora is at its best spring to autumn."
+  },
+  "tagline": {
+   "sr": "Tvrđava nad Dunavom, peščana plaža i šume Fruške gore — sve bez ulaznice.",
+   "en": "A fortress over the Danube, a sandy beach and the woods of Fruška Gora — all without a ticket."
+  },
+  "description": {
+   "sr": "Novi Sad je grad koji se lako obilazi sa kolicima: ravne ulice, Dunavski park sa jezercem i Petrovaradinska tvrđava sa koje se vidi ceo grad. Leti je glavna atrakcija Štrand, peščana plaža na Dunavu sa plićakom i igralištima, a odmah iza grada su šume i manastiri Fruške gore. Sve je povoljno i gotovo sve besplatno, što ga čini odličnim izborom za porodični izlet iz Beograda.",
+   "en": "Novi Sad is a city that's easy to cover with a pram: flat streets, Dunavski Park with its little lake, and Petrovaradin Fortress with a view over everything. In summer the star is Štrand, a sandy Danube beach with shallow water and playgrounds, while just behind the city lie the woods and monasteries of Fruška Gora. Almost everything is free and cheap, which makes it a superb family day out from Belgrade."
+  },
+  "highlights": [
+   {
+    "sr": "Šetnja po Petrovaradinskoj tvrđavi i pogled na Dunav",
+    "en": "Walking the Petrovaradin Fortress and the Danube view"
+   },
+   {
+    "sr": "Štrand — peščana plaža sa plićakom i toboganima",
+    "en": "Štrand — a sandy beach with shallow water and slides"
+   },
+   {
+    "sr": "Dunavski park i vožnja čamčićem po jezercu",
+    "en": "Dunavski Park and a little pedal-boat ride on its lake"
+   },
+   {
+    "sr": "Izlet na Frušku goru — šetnje kroz šumu i piknik",
+    "en": "A trip to Fruška Gora — forest walks and a picnic"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Ravan grad, široke staze — kolicima se svuda prolazi",
+    "en": "A flat city with wide paths — a pram gets everywhere"
+   },
+   {
+    "sr": "Skoro sve besplatno: tvrđava, parkovi, plaža",
+    "en": "Almost everything free: the fortress, parks and beach"
+   },
+   {
+    "sr": "Blizu Beograda — sat vremena brzom saobraćajnicom",
+    "en": "Close to Belgrade — about an hour by motorway"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "Leti na Štrandu može biti velika gužva vikendom",
+    "en": "Štrand can get very crowded on summer weekends"
+   },
+   {
+    "sr": "Na tvrđavi leti nema dovoljno hladovine",
+    "en": "Little shade on the fortress in summer"
+   },
+   {
+    "sr": "Dunav nije za neplivače — decu držite u plićaku",
+    "en": "The Danube isn't for non-swimmers — keep children in the shallows"
+   }
+  ],
+  "tip": {
+   "sr": "Dođite na Štrand radnim danom pre podne — tada je najprazniji, a plićak je najtopliji.",
+   "en": "Visit Štrand on a weekday morning — it's at its emptiest and the shallows are warmest."
+  },
+  "costs": {
+   "tickets": [],
+   "hotelNight": {
+    "budget": 45,
+    "mid": 80,
+    "comfort": 140
+   },
+   "foodPerAdultDay": 22,
+   "localPerDay": 6
+  },
+  "officialUrl": "https://novisad.travel/en",
+  "sources": [
+   "https://novisad.travel/wp-content/uploads/2024/12/Pamflet-Petrovaradinska-Tvrdjava-2024-Engleski.pdf",
+   "https://vojvodinauzivo.rs/besplatan-ulaz-na-strand-do-13-maja-pocela-sezona-na-najpoznatijem-novosadskom-kupalistu/"
+  ],
+  "priceConfidence": "verified",
+  "images": [
+   "File:Novi Sad IMG 9192.JPG",
+   "File:Novi Sad, Petrovaradin, ochoz.jpg",
+   "File:Novi Sad, Štrand, pohled na Most Slobode.jpg",
+   "File:Dunavski park, Novi Sad, 07-2023-8.jpg",
+   "File:Petrovaradin Fortres, Novi Sad, Vojvodina, Srbija.JPG"
+  ]
+ },
+ {
+  "id": "belgrade-kids",
+  "name": {
+   "sr": "Beograd za decu",
+   "en": "Belgrade for kids"
+  },
+  "place": {
+   "sr": "Beograd",
+   "en": "Belgrade"
+  },
+  "country": "RS",
+  "region": "balkans",
+  "coords": [
+   44.8178,
+   20.4569
+  ],
+  "airport": {
+   "iata": "BEG",
+   "km": 18,
+   "minutes": 20,
+   "mode": {
+    "sr": "autom ili taksijem",
+    "en": "car or taxi"
+   }
+  },
+  "category": "city",
+  "tags": [
+   "zoo",
+   "old-town",
+   "free",
+   "playground",
+   "lake"
+  ],
+  "ages": {
+   "baby": 3,
+   "toddler": 3,
+   "preschool": 3
+  },
+  "stroller": 2,
+  "budget": 1,
+  "bestMonths": [
+   4,
+   5,
+   6,
+   9,
+   10
+  ],
+  "season": {
+   "sr": "Grad je živ cele godine; Ada i Kalemegdan najlepši su od aprila do oktobra, a leti je u centru vruće.",
+   "en": "The city lives all year; Ada and Kalemegdan are at their best April to October, and the centre gets hot in summer."
+  },
+  "tagline": {
+   "sr": "Zoološki vrt na tvrđavi, jezero Ada i parkovi u kojima se može provesti ceo dan.",
+   "en": "A zoo on the fortress, the lake at Ada and parks you can spend a whole day in."
+  },
+  "description": {
+   "sr": "Beograd za najmlađe znači pre svega Kalemegdan — tvrđava, park i zoološki vrt na jednom mestu, gde deca trče slobodno dok vi gledate ušće Save u Dunav. Leti je tu i Ada Ciganlija, savsko jezero sa plićacima, igralištima i biciklističkim stazama. Uz to, mnogi muzeji su besplatni prvih dana, a hrana i taksi su među najpovoljnijima u Evropi.",
+   "en": "For little ones, Belgrade means Kalemegdan above all — a fortress, park and zoo in one spot, where children run free while you watch the Sava meet the Danube. In summer there's Ada Ciganlija, a lake with shallow swimming areas, playgrounds and cycle paths. Many museums are free on certain days, and food and taxis are among the cheapest in Europe."
+  },
+  "highlights": [
+   {
+    "sr": "Zoološki vrt na Kalemegdanu — beli lavovi i pingvini",
+    "en": "The Kalemegdan zoo — white lions and penguins"
+   },
+   {
+    "sr": "Kalemegdanska tvrđava i park sa pogledom na reke",
+    "en": "The fortress and park with views over the rivers"
+   },
+   {
+    "sr": "Ada Ciganlija — kupanje, igrališta i vožnja biciklom",
+    "en": "Ada Ciganlija — swimming, playgrounds and cycling"
+   },
+   {
+    "sr": "Vožnja brodićem Savom i Dunavom",
+    "en": "A little boat ride on the Sava and Danube"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Jeftino — ulazi, hrana i smeštaj su među najnižima u Evropi",
+    "en": "Cheap — entry, food and stays are among the lowest in Europe"
+   },
+   {
+    "sr": "Kalemegdan spaja zoo, park i tvrđavu u jedan dan",
+    "en": "Kalemegdan packs zoo, park and fortress into one day"
+   },
+   {
+    "sr": "Ada nudi plićak i hladovinu — pravo mesto za vrele dane",
+    "en": "Ada offers shallows and shade — the right spot for hot days"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "Jul i avgust u gradu su vrući i teški za bebe",
+    "en": "July and August are hot and hard on babies in the city"
+   },
+   {
+    "sr": "Kalemegdan ima kaldrmu i uzbrdice — kolica idu sporije",
+    "en": "Kalemegdan has cobbles and slopes — prams go slowly"
+   },
+   {
+    "sr": "Vikendom su zoo i Ada prepuni",
+    "en": "The zoo and Ada are packed at weekends"
+   }
+  ],
+  "tip": {
+   "sr": "Dođite na Adu radnim danom pre podne — plićak je prazan, a parking na Novom Beogradu besplatan.",
+   "en": "Head to Ada on a weekday morning — the shallows are empty and parking is free."
+  },
+  "costs": {
+   "tickets": [
+    {
+     "name": {
+      "sr": "Beogradski zoološki vrt",
+      "en": "Belgrade Zoo"
+     },
+     "adult": 6,
+     "child": 4,
+     "freeUnder": 3,
+     "url": "https://beozoovrt.rs"
+    }
+   ],
+   "hotelNight": {
+    "budget": 45,
+    "mid": 85,
+    "comfort": 150
+   },
+   "foodPerAdultDay": 22,
+   "localPerDay": 6
+  },
+  "officialUrl": "https://www.belgrade-beat.com/en",
+  "sources": [
+   "https://mapi.rs/planirate-posetu-bg-zoo-vrtu-evo-korisnih-informacija/",
+   "https://bosnainfo.ba/zivot/foto-video-posjetili-smo-zooloski-vrt-u-beogradu-pogledajte-sta-nudi-i-koje-su-cijene-ulaznica/"
+  ],
+  "priceConfidence": "estimated",
+  "images": [
+   "File:Pobednik monument, Kalemegdan, Belgrade.jpg",
+   "File:Beograd - Pobednik (44208669524).jpg",
+   "File:Ada Ciganlija Beach.JPG",
+   "File:Belgrade Fortress Kalemegdan.JPG",
+   "File:Belgrade Panorama.jpg"
+  ]
+ },
+ {
+  "id": "palic-subotica",
+  "name": {
+   "sr": "Palić i Subotica",
+   "en": "Palić & Subotica"
+  },
+  "place": {
+   "sr": "Palić, kod Subotice",
+   "en": "Palić, near Subotica"
+  },
+  "country": "RS",
+  "region": "balkans",
+  "coords": [
+   46.1031,
+   19.7586
+  ],
+  "airport": {
+   "iata": "BEG",
+   "km": 170,
+   "minutes": 120,
+   "mode": {
+    "sr": "autom",
+    "en": "car"
+   }
+  },
+  "category": "nature",
+  "tags": [
+   "lake",
+   "zoo",
+   "old-town",
+   "playground",
+   "boat"
+  ],
+  "ages": {
+   "baby": 2,
+   "toddler": 3,
+   "preschool": 3
+  },
+  "stroller": 3,
+  "budget": 1,
+  "bestMonths": [
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "season": {
+   "sr": "Palić je najživlji od maja do septembra; zoo radi cele godine, a zimi su šetnje uz jezero mirne.",
+   "en": "Palić is liveliest from May to September; the zoo runs all year and winter lakeside walks are peaceful."
+  },
+  "tagline": {
+   "sr": "Jezero, zoološki vrt i grad secesije — miran vikend na severu Bačke.",
+   "en": "A lake, a zoo and an Art-Nouveau town — a calm weekend in northern Bačka."
+  },
+  "description": {
+   "sr": "Palić je jezero nadomak Subotice sa šetnicom, cvećem i zoološkim vrtom koji je pravi hit kod mališana — zveri, ptice i mali kontaktni kutak. Subotica je odmah pored: grad prelepih secesijskih fasada, sinagoge i parkova, sve na pet minuta jedan od drugog. Za porodice s malom decom ovo je opuštajuća, povoljna destinacija bez gužvi velikih gradova.",
+   "en": "Palić is a lake just outside Subotica with a promenade, flowers and a zoo that's a real hit with little ones — big cats, birds and a small petting corner. Subotica is right next door: a town of beautiful Art-Nouveau façades, a synagogue and parks, all minutes apart. For families with small children it's a relaxed, affordable escape without big-city crowds."
+  },
+  "highlights": [
+   {
+    "sr": "Zoološki vrt Palić — lavovi, majmuni i ptice",
+    "en": "Palić Zoo — lions, monkeys and birds"
+   },
+   {
+    "sr": "Šetnja oko jezera i vožnja čamcem",
+    "en": "A walk around the lake and a boat ride"
+   },
+   {
+    "sr": "Secesijske fasade Subotice i gradska kuća",
+    "en": "Subotica's Art-Nouveau façades and town hall"
+   },
+   {
+    "sr": "Igrališta i sladoled uz jezero",
+    "en": "Playgrounds and ice cream by the lake"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Ravna šetnja oko jezera, idealna za kolica i trčanje",
+    "en": "A flat lakeside walk, ideal for prams and running"
+   },
+   {
+    "sr": "Vrlo povoljno — ulazi, hrana i smeštaj su jeftini",
+    "en": "Very affordable — entry, food and stays are cheap"
+   },
+   {
+    "sr": "Malo gužvi i miran ritam čak i u sezoni",
+    "en": "Few crowds and a calm pace even in season"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "Leti se jezero ne preporučuje za kupanje zbog vode",
+    "en": "The lake isn't recommended for swimming in summer"
+   },
+   {
+    "sr": "Manje sadržaja po kišnom vremenu",
+    "en": "Less to do on rainy days"
+   },
+   {
+    "sr": "Od Beograda se putuje oko dva sata",
+    "en": "Around a two-hour drive from Belgrade"
+   }
+  ],
+  "tip": {
+   "sr": "Kombinujte zoo ujutru i Suboticu popodne — sve je na deset minuta kolima, a parking uz jezero je besplatan.",
+   "en": "Do the zoo in the morning and Subotica in the afternoon — everything is ten minutes by car and lakeside parking is free."
+  },
+  "costs": {
+   "tickets": [
+    {
+     "name": {
+      "sr": "Zoološki vrt Palić",
+      "en": "Palić Zoo"
+     },
+     "adult": 4,
+     "child": 3,
+     "freeUnder": 5,
+     "url": "https://zoopalic.com/en/tickets/"
+    }
+   ],
+   "hotelNight": {
+    "budget": 40,
+    "mid": 75,
+    "comfort": 130
+   },
+   "foodPerAdultDay": 20,
+   "localPerDay": 6
+  },
+  "officialUrl": "https://zoopalic.com/en/",
+  "sources": [
+   "https://zoopalic.com/en/tickets/",
+   "https://www.decijigrad.rs/atrakcije/zooloski-vrt-palic/"
+  ],
+  "priceConfidence": "verified",
+  "images": [
+   "File:Zalazak sunca na Paliću, Subotica.jpg",
+   "File:Palic lake view.jpg",
+   "File:Spomen česma na Paliću - Memorial Fountain at Palić 01.jpg",
+   "File:Palić Zoo.jpg",
+   "File:Subotička gradska kuća.JPG"
+  ]
+ },
+ {
+  "id": "plitvice",
+  "name": {
+   "sr": "Plitvička jezera",
+   "en": "Plitvice Lakes"
+  },
+  "place": {
+   "sr": "Plitvička jezera",
+   "en": "Plitvice Lakes"
+  },
+  "country": "HR",
+  "region": "balkans",
+  "coords": [
+   44.8806,
+   15.6161
+  ],
+  "airport": {
+   "iata": "ZAG",
+   "km": 130,
+   "minutes": 120,
+   "mode": {
+    "sr": "autom",
+    "en": "car"
+   }
+  },
+  "category": "nature",
+  "tags": [
+   "lake",
+   "waterfall",
+   "forest"
+  ],
+  "ages": {
+   "baby": 2,
+   "toddler": 3,
+   "preschool": 3
+  },
+  "stroller": 1,
+  "budget": 2,
+  "bestMonths": [
+   4,
+   5,
+   6,
+   9,
+   10
+  ],
+  "season": {
+   "sr": "Park je otvoren cele godine; leti radi do 20h, zimi do 16h, a neke staze zimi budu zatvorene.",
+   "en": "The park is open all year; summer hours run to 8pm, winter to 4pm, and some paths close in winter."
+  },
+  "tagline": {
+   "sr": "Šesnaest jezera i na stotine vodopada — najlepša šetnja koju će dete zapamtiti.",
+   "en": "Sixteen lakes and hundreds of waterfalls — the most beautiful walk a child will remember."
+  },
+  "description": {
+   "sr": "Plitvička jezera su najpoznatiji nacionalni park u regionu — tirkizna jezera koja se prelivaju jedno u drugo preko bezbroj vodopada, a kroz park vode drvene staze tik iznad vode. Za decu je ovo prava bajka: električni čamčići po jezeru, šumski voz i patke koje se šetaju stazom. Samo imajte na umu da staze imaju stepenice — kolica ostavite u kolima i ponesite nosiljku.",
+   "en": "Plitvice is the region's most famous national park — turquoise lakes spilling into one another over countless waterfalls, with wooden boardwalks running just above the water. For children it's pure magic: electric boats across the lake, a forest train and ducks wandering the paths. Just note the boardwalks have steps — leave the pram in the car and bring a baby carrier."
+  },
+  "highlights": [
+   {
+    "sr": "Vožnja električnim čamcem preko Velikog jezera",
+    "en": "The electric boat ride across the big lake"
+   },
+   {
+    "sr": "Veliki slap i vodopadi duž drvenih staza",
+    "en": "The Great Waterfall and cascades along the boardwalks"
+   },
+   {
+    "sr": "Šumski voz između ulaza",
+    "en": "The forest train between the entrances"
+   },
+   {
+    "sr": "Brojanje patki i riba u bistroj vodi",
+    "en": "Counting ducks and fish in the clear water"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Prizor kakav se ne zaboravlja — deca su oduševljena vodopadima",
+    "en": "An unforgettable sight — children are spellbound by the waterfalls"
+   },
+   {
+    "sr": "Čist vazduh i hlada šume i leti",
+    "en": "Clean air and forest shade even in summer"
+   },
+   {
+    "sr": "Deca do 7 godina ulaze besplatno",
+    "en": "Children under 7 enter free"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "Drvene staze imaju stepenice — nije pogodno za kolica",
+    "en": "The boardwalks have steps — not suitable for a pram"
+   },
+   {
+    "sr": "Leti ogromne gužve, posebno oko glavnih staza",
+    "en": "Huge crowds in summer, especially on the main routes"
+   },
+   {
+    "sr": "Malo mesta gde se sme stajati — deca se brzo umore od hodanja",
+    "en": "Few places to sit — children tire quickly on foot"
+   }
+  ],
+  "tip": {
+   "sr": "Dođite pre 9 ujutru i krenite kraćom stazom B — pola rute, a vidite najlepši deo.",
+   "en": "Arrive before 9am and take the shorter Route B — half the distance and you still see the best part."
+  },
+  "costs": {
+   "tickets": [
+    {
+     "name": {
+      "sr": "Plitvice — dnevna karta (jun–septembar)",
+      "en": "Plitvice day ticket (June–September)"
+     },
+     "adult": 40,
+     "child": 15,
+     "freeUnder": 7,
+     "url": "https://np-plitvicka-jezera.hr/en/summer-at-plitvice-lakes-2025"
+    }
+   ],
+   "hotelNight": {
+    "budget": 70,
+    "mid": 120,
+    "comfort": 200
+   },
+   "foodPerAdultDay": 35,
+   "localPerDay": 12
+  },
+  "officialUrl": "https://np-plitvicka-jezera.hr/en/",
+  "sources": [
+   "https://np-plitvicka-jezera.hr/en/summer-at-plitvice-lakes-2025",
+   "https://np-plitvicka-jezera.hr/en/spring-at-plitvice-lakes-2025"
+  ],
+  "priceConfidence": "verified",
+  "images": [
+   "File:Waterfalls in Plitvice Lakes National Park in Croatia.jpg",
+   "File:Plitvice Lakes1.jpg",
+   "File:Plitvice Lakes tourist boat (2).jpg",
+   "File:Cascade of waterfalls in Plitvice Lakes National Park.jpg",
+   "File:Waterfalls at Plitvice Lakes (46319402272).jpg"
+  ]
+ },
+ {
+  "id": "zagreb-maksimir",
+  "name": {
+   "sr": "Zagreb (Maksimir)",
+   "en": "Zagreb (Maksimir)"
+  },
+  "place": {
+   "sr": "Zagreb",
+   "en": "Zagreb"
+  },
+  "country": "HR",
+  "region": "balkans",
+  "coords": [
+   45.8131,
+   15.9775
+  ],
+  "airport": {
+   "iata": "ZAG",
+   "km": 15,
+   "minutes": 20,
+   "mode": {
+    "sr": "autom ili taksijem",
+    "en": "car or taxi"
+   }
+  },
+  "category": "city",
+  "tags": [
+   "zoo",
+   "old-town",
+   "free",
+   "playground",
+   "forest"
+  ],
+  "ages": {
+   "baby": 3,
+   "toddler": 3,
+   "preschool": 3
+  },
+  "stroller": 3,
+  "budget": 1,
+  "bestMonths": [
+   4,
+   5,
+   6,
+   9,
+   10
+  ],
+  "season": {
+   "sr": "Grad je otvoren cele godine; zoo i park Maksimir najlepši su od aprila do oktobra.",
+   "en": "The city is open all year; the zoo and Maksimir Park are at their best from April to October."
+  },
+  "tagline": {
+   "sr": "Prijatan grad sa zoološkim vrtom u starom parku i uspinjačom do Gornjeg grada.",
+   "en": "A friendly city with a zoo in an old park and a funicular to the Upper Town."
+  },
+  "description": {
+   "sr": "Zagreb je jedan od najprijatnijih gradova u regionu za porodice: zoološki vrt u senci starog parka Maksimir, kratka uspinjača do Gornjeg grada i ulice pune kafića gde kolica prolaze bez problema. Maksimir je sam po sebi dan provedbe — jezera, staze i igrališta, a zoo je odmah u njemu. Sve je povoljno i grad je lako obići za jedan ili dva dana.",
+   "en": "Zagreb is one of the region's friendliest cities for families: a zoo in the shade of the old Maksimir Park, a short funicular up to the Upper Town, and streets full of cafés where a pram rolls easily. Maksimir alone is a full day — lakes, paths and playgrounds — and the zoo sits right inside it. Everything is affordable and the city is easy to cover in a day or two."
+  },
+  "highlights": [
+   {
+    "sr": "Zoološki vrt u parku Maksimir",
+    "en": "The zoo inside Maksimir Park"
+   },
+   {
+    "sr": "Uspinjača do Gornjeg grada",
+    "en": "The funicular up to the Upper Town"
+   },
+   {
+    "sr": "Jezera i igrališta u Maksimiru",
+    "en": "The lakes and playgrounds of Maksimir"
+   },
+   {
+    "sr": "Šetnja Trgom bana Jelačića i Manduševcem",
+    "en": "Ban Jelačić Square and the Manduševac fountain"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Zoo je jeftin i u hladovini — savršen za malu decu",
+    "en": "The zoo is cheap and shaded — perfect for small children"
+   },
+   {
+    "sr": "Ravan centar i tramvaji koji olakšavaju kretanje",
+    "en": "A flat centre and trams that make getting around easy"
+   },
+   {
+    "sr": "Maksimir je ogroman park sa jezerima i igralištima, besplatan",
+    "en": "Maksimir is a vast free park with lakes and playgrounds"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "Leti zna da bude vruće u centru grada",
+    "en": "The city centre can get hot in summer"
+   },
+   {
+    "sr": "Uspinjača je kratka — brže je peške nego čekati red",
+    "en": "The funicular is short — quicker on foot than queueing"
+   },
+   {
+    "sr": "Zoo vikendom može biti prepun",
+    "en": "The zoo can be packed at weekends"
+   }
+  ],
+  "tip": {
+   "sr": "Uđite u zoo kroz sporedni ulaz iz Maksimira i ponesite hleb za patke na jezeru.",
+   "en": "Enter the zoo from the Maksimir side and bring bread for the ducks on the lake."
+  },
+  "costs": {
+   "tickets": [
+    {
+     "name": {
+      "sr": "Zoološki vrt Zagreb",
+      "en": "Zagreb Zoo"
+     },
+     "adult": 7,
+     "child": 5,
+     "freeUnder": 2,
+     "url": "https://zoo.hr"
+    }
+   ],
+   "hotelNight": {
+    "budget": 55,
+    "mid": 95,
+    "comfort": 170
+   },
+   "foodPerAdultDay": 30,
+   "localPerDay": 8
+  },
+  "officialUrl": "https://www.infozagreb.hr/en",
+  "sources": [
+   "https://www.jutarnji.hr/vaumijau/novosti/zoo-zagreb-ulaznice-dva-eura-radovi-maksimir-15639595",
+   "https://nomads-travel-guide.com/places/zagreb-zoo"
+  ],
+  "priceConfidence": "estimated",
+  "images": [
+   "File:Ban Jelačić Square 20121201 0221P.jpg",
+   "File:Park Maksimir Zagreb 2.jpg",
+   "File:Maksimir 20151101 DSC 3621.JPG",
+   "File:Zoo Zagreb, entrance.jpg",
+   "File:Zagreb - Ban Jelačić Square.JPG"
+  ]
+ },
+ {
+  "id": "porec-istria",
+  "name": {
+   "sr": "Poreč i Istra",
+   "en": "Poreč & Istria"
+  },
+  "place": {
+   "sr": "Poreč, Istra",
+   "en": "Poreč, Istria"
+  },
+  "country": "HR",
+  "region": "balkans",
+  "coords": [
+   45.2272,
+   13.5958
+  ],
+  "airport": {
+   "iata": "PUY",
+   "km": 55,
+   "minutes": 45,
+   "mode": {
+    "sr": "autom",
+    "en": "car"
+   }
+  },
+  "category": "beach",
+  "tags": [
+   "water-park",
+   "beach",
+   "shallow-sea",
+   "old-town"
+  ],
+  "ages": {
+   "baby": 2,
+   "toddler": 3,
+   "preschool": 3
+  },
+  "stroller": 3,
+  "budget": 2,
+  "bestMonths": [
+   6,
+   7,
+   8,
+   9
+  ],
+  "season": {
+   "sr": "Aquacolors radi sezonski, otprilike od maja do septembra; plaže i šetnice su najbolje leti.",
+   "en": "Aquacolors is seasonal, roughly May to September; the beaches and promenades are at their best in summer."
+  },
+  "tagline": {
+   "sr": "Plićak, borovi i veliki vodeni park — letovanje načisto za najmlađe.",
+   "en": "Shallows, pine trees and a big water park — a holiday made for the youngest."
+  },
+  "description": {
+   "sr": "Poreč je jedan od najomiljenijih porodičnih gradova na Jadranu: duge šetnice uz more, plaže sa plićakom i senka borove šume odmah iza plaže. Kraljica zabave je Aquacolors, veliki vodeni park sa toboganima i dečjim zonama na nekoliko kilometara od grada. Stari grad sa Eufrazijevom bazilikom je ravan i lako se obilazi kolicima.",
+   "en": "Poreč is one of the Adriatic's best-loved family towns: long seafront promenades, beaches with shallow water and the shade of a pine forest just behind. The star attraction is Aquacolors, a big water park with slides and kids' zones a few kilometres from town. The old town with the Euphrasian Basilica is flat and easy to cover with a pram."
+  },
+  "highlights": [
+   {
+    "sr": "Aquacolors — dečje zone i tobogani",
+    "en": "Aquacolors — kids' zones and water slides"
+   },
+   {
+    "sr": "Plaže sa plićakom i šetnje uz more",
+    "en": "Shallow beaches and seaside promenades"
+   },
+   {
+    "sr": "Stari grad i Eufrazijeva bazilika",
+    "en": "The old town and the Euphrasian Basilica"
+   },
+   {
+    "sr": "Vožnja turističkim vozom uz obalu",
+    "en": "The little tourist train along the coast"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Plićak i borova senka — bebe se mogu igrati satima",
+    "en": "Shallows and pine shade — babies can play for hours"
+   },
+   {
+    "sr": "Šetnice su ravne i bez stepenika, idealne za kolica",
+    "en": "Flat, step-free promenades, ideal for a pram"
+   },
+   {
+    "sr": "Aquacolors ima posebne zone za najmlađe",
+    "en": "Aquacolors has dedicated zones for the youngest"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "Aquacolors naplaćuje po visini, ne po godinama — visoka deca plaćaju punu cenu",
+    "en": "Aquacolors charges by height, not age — tall children pay full price"
+   },
+   {
+    "sr": "Avgust je vrhunac sezone — gužve i skuplji smeštaj",
+    "en": "August is peak season — crowds and pricier stays"
+   },
+   {
+    "sr": "Neke plaže su stenovite — vodene cipele su obavezne",
+    "en": "Some beaches are rocky — water shoes are a must"
+   }
+  ],
+  "tip": {
+   "sr": "Kupite Aquacolors karte online dan ranije — jeftinije su i preskačete red na blagajni.",
+   "en": "Buy Aquacolors tickets online a day ahead — they're cheaper and you skip the queue."
+  },
+  "costs": {
+   "tickets": [
+    {
+     "name": {
+      "sr": "Aquacolors — dnevna karta (iznad 1,2 m)",
+      "en": "Aquacolors day ticket (over 1.2 m)"
+     },
+     "adult": 37,
+     "child": 30,
+     "freeUnder": 3,
+     "url": "https://www.aquacolors.eu/pricelist"
+    }
+   ],
+   "hotelNight": {
+    "budget": 80,
+    "mid": 140,
+    "comfort": 240
+   },
+   "foodPerAdultDay": 40,
+   "localPerDay": 10
+  },
+  "officialUrl": "https://www.aquacolors.eu",
+  "sources": [
+   "https://www.aquacolors.eu/pricelist",
+   "https://www.valamar-experience.com/experience/activities/aquacolors-4/"
+  ],
+  "priceConfidence": "verified",
+  "images": [
+   "File:View to Porec old town in the morning sun.jpg",
+   "File:Stari grad Poreč.jpg",
+   "File:Betonirana plaža u Poreču.jpg",
+   "File:La Basilique Ste Euprasie à Poreč (Croatie).jpg",
+   "File:Portal mosaic of Euphrasian Basilica, Poreč015.jpg"
+  ]
+ },
+ {
+  "id": "makarska-riviera",
+  "name": {
+   "sr": "Makarska rivijera",
+   "en": "Makarska Riviera"
+  },
+  "place": {
+   "sr": "Makarska rivijera",
+   "en": "Makarska Riviera"
+  },
+  "country": "HR",
+  "region": "balkans",
+  "coords": [
+   43.3,
+   17.0333
+  ],
+  "airport": {
+   "iata": "SPU",
+   "km": 65,
+   "minutes": 60,
+   "mode": {
+    "sr": "autom",
+    "en": "car"
+   }
+  },
+  "category": "beach",
+  "tags": [
+   "beach",
+   "mountain",
+   "shallow-sea"
+  ],
+  "ages": {
+   "baby": 3,
+   "toddler": 3,
+   "preschool": 3
+  },
+  "stroller": 3,
+  "budget": 2,
+  "bestMonths": [
+   6,
+   7,
+   8,
+   9
+  ],
+  "season": {
+   "sr": "Sezona kupanja traje od juna do septembra; Biokovo park i Skywalk rade od aprila do novembra.",
+   "en": "The swimming season runs June to September; Biokovo Park and the Skywalk run April to November."
+  },
+  "tagline": {
+   "sr": "Duga šetnica uz plićak, a iznad — planina sa staklenim vidikovcem.",
+   "en": "A long promenade by shallow water, with a mountain and its glass viewpoint above."
+  },
+  "description": {
+   "sr": "Makarska rivijera je niz mesta podno planine Biokovo, sa kilometarskim šetnicama uz more i plažama koje se blago spuštaju u vodu — idealno za malu decu. More je čisto i prozirno, a šetnica je ravna pa se s kolicima stiže svuda. Za starije i roditelje tu je Skywalk, stakleni vidikovac na Biokovu sa pogledom na ceo arhipelag.",
+   "en": "The Makarska Riviera is a string of towns beneath Mount Biokovo, with kilometres of seafront promenades and beaches that slope gently into the water — ideal for small children. The sea is clean and clear, and the promenade is flat so a pram gets everywhere. For older kids and parents there's the Skywalk, a glass viewpoint on Biokovo looking out over the whole archipelago."
+  },
+  "highlights": [
+   {
+    "sr": "Kupanje u plitkoj, čistoj vodi",
+    "en": "Swimming in shallow, clear water"
+   },
+   {
+    "sr": "Šetnja dugom šetnicom uz palme",
+    "en": "Walking the long palm-lined promenade"
+   },
+   {
+    "sr": "Skywalk — stakleni vidikovac na Biokovu",
+    "en": "The Skywalk — a glass viewpoint on Biokovo"
+   },
+   {
+    "sr": "Vožnja brodom do obližnjih uvala i ostrva",
+    "en": "Boat trips to nearby coves and islands"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Šetnica je ravna i duga — kolicima se stiže do svake plaže",
+    "en": "The promenade is flat and long — a pram reaches every beach"
+   },
+   {
+    "sr": "Plićak i toplo more idealno za prve kupačke korake",
+    "en": "Shallow, warm water — ideal for a child's first swims"
+   },
+   {
+    "sr": "Mnoštvo pekara, igrališta i sladoledarnica uz obalu",
+    "en": "Plenty of bakeries, playgrounds and ice-cream shops along the shore"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "Plaže su šljunčane — vodene cipele su obavezne",
+    "en": "The beaches are pebbly — water shoes are essential"
+   },
+   {
+    "sr": "Avgust je prepun, a parking uz obalu skup",
+    "en": "August is packed and coastal parking is pricey"
+   },
+   {
+    "sr": "Put do Skywalka je uzak i krivudav — nije za one sa vrtoglavicom",
+    "en": "The road to the Skywalk is narrow and winding — not for the vertigo-prone"
+   }
+  ],
+  "tip": {
+   "sr": "Uz obalu tražite uvale južnije od centra — pliće su i praznije čak i u avgustu.",
+   "en": "Head for the coves south of the centre — shallower and emptier even in August."
+  },
+  "costs": {
+   "tickets": [
+    {
+     "name": {
+      "sr": "Park prirode Biokovo + Skywalk",
+      "en": "Biokovo Nature Park + Skywalk"
+     },
+     "adult": 18,
+     "child": 9,
+     "freeUnder": 7,
+     "url": "https://www.pp-biokovo.hr"
+    }
+   ],
+   "hotelNight": {
+    "budget": 80,
+    "mid": 140,
+    "comfort": 240
+   },
+   "foodPerAdultDay": 40,
+   "localPerDay": 10
+  },
+  "officialUrl": "https://www.pp-biokovo.hr/en/",
+  "sources": [
+   "https://otdih.pro/en/pages/15394-biokovo-skywalk-glass-platform-above-the-adriatic-sea",
+   "https://croatian-guide.com/attractions/skywalk-biokovo"
+  ],
+  "priceConfidence": "estimated",
+  "images": [
+   "File:Makarska Beach 1.jpg",
+   "File:2. SKYWALK (BIOKOVO).jpg",
+   "File:Makarska beach.jpeg",
+   "File:Sv Petar beach and Makarska.jpg",
+   "File:Panorama of Makarska beach.jpeg"
+  ]
+ },
+ {
+  "id": "ljubljana",
+  "name": {
+   "sr": "Ljubljana",
+   "en": "Ljubljana"
+  },
+  "place": {
+   "sr": "Ljubljana",
+   "en": "Ljubljana"
+  },
+  "country": "SI",
+  "region": "balkans",
+  "coords": [
+   46.0514,
+   14.5061
+  ],
+  "airport": {
+   "iata": "LJU",
+   "km": 25,
+   "minutes": 25,
+   "mode": {
+    "sr": "autom ili taksijem",
+    "en": "car or taxi"
+   }
+  },
+  "category": "city",
+  "tags": [
+   "old-town",
+   "castle",
+   "free",
+   "playground"
+  ],
+  "ages": {
+   "baby": 3,
+   "toddler": 3,
+   "preschool": 3
+  },
+  "stroller": 3,
+  "budget": 2,
+  "bestMonths": [
+   4,
+   5,
+   6,
+   9,
+   10
+  ],
+  "season": {
+   "sr": "Grad je otvoren cele godine; od aprila do oktobra šetnice i parkovi su najlepši.",
+   "en": "The city is open all year; the promenades and parks are at their best from April to October."
+  },
+  "tagline": {
+   "sr": "Mali grad bez automobila, sa zmajevima, uspinjačom i rekom kroz sam centar.",
+   "en": "A small, car-free city of dragons, a funicular and a river through its very centre."
+  },
+  "description": {
+   "sr": "Ljubljana je grad po meri mališana: pešačka zona uz reku Ljubljanicu, Zmajski most sa zmajevima, i grad na brdu do kog se stiže uspinjačom koju deca obožavaju. Sve je blizu, ravno i uredno, sa igralištima i parkom Tivoli na deset minuta od centra. Grad se lako obiđe za dan i lako se kombinuje sa Bledom ili Postojnom.",
+   "en": "Ljubljana is a city made for little ones: a pedestrian zone along the Ljubljanica, the Dragon Bridge with its dragons, and a hilltop castle reached by a funicular children love. Everything is close, flat and tidy, with playgrounds and Tivoli Park ten minutes from the centre. It's easy to see in a day and pairs well with Bled or Postojna."
+  },
+  "highlights": [
+   {
+    "sr": "Uspinjača do Ljubljanskog grada",
+    "en": "The funicular up to Ljubljana Castle"
+   },
+   {
+    "sr": "Zmajski most i potraga za zmajevima",
+    "en": "The Dragon Bridge and a dragon hunt"
+   },
+   {
+    "sr": "Vožnja turističkim čamcem po Ljubljanici",
+    "en": "A little tourist-boat ride on the Ljubljanica"
+   },
+   {
+    "sr": "Park Tivoli sa igralištima i otvorenom bibliotekom",
+    "en": "Tivoli Park with playgrounds and an open-air library"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Centar je pešačka zona — deca trče slobodno bez automobila",
+    "en": "The centre is pedestrianised — children run free, no cars"
+   },
+   {
+    "sr": "Sve je na dohvat ruke i ravno, idealno za kolica",
+    "en": "Everything is close and flat, ideal for a pram"
+   },
+   {
+    "sr": "Uspinjača i čamci su prava atrakcija za male putnike",
+    "en": "The funicular and boats are a real treat for little travellers"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "Slovenija je skuplja od regiona — smeštaj i hrana više koštaju",
+    "en": "Slovenia is pricier than the region — stays and food cost more"
+   },
+   {
+    "sr": "Kaldrma u starom gradu usporava kolica",
+    "en": "Cobbles in the old town slow a pram down"
+   },
+   {
+    "sr": "Parking u centru je skup i teško se nalazi",
+    "en": "Parking in the centre is pricey and hard to find"
+   }
+  ],
+  "tip": {
+   "sr": "Parkirajte na P+R i uđite u centar gradskim autobusom — jeftinije je i izbegnete traženje mesta.",
+   "en": "Park at a P+R and take a city bus in — cheaper and no hunting for a space."
+  },
+  "costs": {
+   "tickets": [
+    {
+     "name": {
+      "sr": "Ljubljanski grad + uspinjača",
+      "en": "Ljubljana Castle + funicular"
+     },
+     "adult": 19,
+     "child": 13.5,
+     "freeUnder": 7,
+     "url": "https://www.ljubljanskigrad.si/en/plan-your-visit/price-list/"
+    }
+   ],
+   "hotelNight": {
+    "budget": 85,
+    "mid": 140,
+    "comfort": 240
+   },
+   "foodPerAdultDay": 40,
+   "localPerDay": 10
+  },
+  "officialUrl": "https://www.visitljubljana.com/en/",
+  "sources": [
+   "https://www.ljubljanskigrad.si/en/plan-your-visit/price-list/",
+   "https://www.ljubljanskigrad.si/en/plan-your-visit/funicular-railway-en-us/"
+  ],
+  "priceConfidence": "verified",
+  "images": [
+   "File:Ljubljana Ljubljanica.jpg",
+   "File:Dragons Bridge, Ljubljana 2.jpg",
+   "File:Dragon Bridge, Ljubljana.jpg",
+   "File:Ljubljana Castle, street, 2020.jpg",
+   "File:2021-07-27 Ljubljana-0734.jpg"
+  ]
+ },
+ {
+  "id": "postojna-cave",
+  "name": {
+   "sr": "Postojnska jama",
+   "en": "Postojna Cave"
+  },
+  "place": {
+   "sr": "Postojna, Slovenija",
+   "en": "Postojna, Slovenia"
+  },
+  "country": "SI",
+  "region": "balkans",
+  "coords": [
+   45.7827,
+   14.2037
+  ],
+  "airport": {
+   "iata": "LJU",
+   "km": 60,
+   "minutes": 45,
+   "mode": {
+    "sr": "autom",
+    "en": "car"
+   }
+  },
+  "category": "nature",
+  "tags": [
+   "cave",
+   "train",
+   "castle"
+  ],
+  "ages": {
+   "baby": 2,
+   "toddler": 3,
+   "preschool": 3
+  },
+  "stroller": 2,
+  "budget": 2,
+  "bestMonths": [
+   4,
+   5,
+   6,
+   9,
+   10
+  ],
+  "season": {
+   "sr": "Otvoreno cele godine — pećina ima stalnih 10 stepeni, pa je idealna i zimi i po kiši.",
+   "en": "Open all year — the cave holds a steady 10°C, so it's ideal even in winter or on rainy days."
+  },
+  "tagline": {
+   "sr": "Vožnja podzemnim vozićem kroz najposećeniju pećinu Evrope.",
+   "en": "An underground train ride through Europe's most-visited show cave."
+  },
+  "description": {
+   "sr": "Postojnska jama je najposećenija pećina u Evropi, a njen glavni adut za porodice je podzemni vozić koji vas vozi kroz dvorane pune stalaktita — deca su oduševljena, a noge se ne umaraju. Obilazak traje oko sat i po, sa vodičem i šetnjom kroz najlepše dvorane. Odmah pored je Predjamski grad, srednjovekovna tvrđava ugrađena u stenu, koja izgleda kao iz bajke.",
+   "en": "Postojna is Europe's most-visited show cave, and its big selling point for families is an underground train that carries you through halls full of stalactites — children are thrilled and little legs never tire. The tour lasts about an hour and a half, with a guide and a walk through the finest chambers. Right next door is Predjama Castle, a medieval fortress built into the rock that looks straight out of a fairy tale."
+  },
+  "highlights": [
+   {
+    "sr": "Vožnja podzemnim vozićem kroz pećinu",
+    "en": "The underground train ride through the cave"
+   },
+   {
+    "sr": "Stalaktiti, dvorane i 'beba zmaj' — čovečija ribica",
+    "en": "Stalactites, halls and the 'baby dragon' — the olm"
+   },
+   {
+    "sr": "Predjamski grad ugrađen u stenu",
+    "en": "Predjama Castle built into the rock"
+   },
+   {
+    "sr": "Vivarij i izložba leptira",
+    "en": "The vivarium and butterfly exhibition"
+   }
+  ],
+  "pros": [
+   {
+    "sr": "Vozić radi pola posla — deca ne moraju mnogo da hodaju",
+    "en": "The train does half the work — children barely have to walk"
+   },
+   {
+    "sr": "Stalnih 10 stepeni — prijatno i po najvećoj vrućini",
+    "en": "A steady 10°C — pleasant even in the worst heat"
+   },
+   {
+    "sr": "Predjama u blizini — dva svetska čuda u jednom danu",
+    "en": "Predjama is close — two world wonders in one day"
+   }
+  ],
+  "cons": [
+   {
+    "sr": "U pećini je klizavo i mokro — kolica idu teško, bolja je nosiljka",
+    "en": "It's slippery and wet inside — a pram struggles, a carrier is better"
+   },
+   {
+    "sr": "Gužve u špicu sezone — rezervišite termin unapred",
+    "en": "Crowds in peak season — book a time slot ahead"
+   },
+   {
+    "sr": "Neki delovi imaju stepenice i uzane staze",
+    "en": "Some sections have steps and narrow paths"
+   }
+  ],
+  "tip": {
+   "sr": "Ponesite duks čak i leti — u pećini je svega 10 stepeni, pa se tanka jakna isplati.",
+   "en": "Bring a hoodie even in summer — it's only 10°C inside, so a light jacket pays off."
+  },
+  "costs": {
+   "tickets": [
+    {
+     "name": {
+      "sr": "Postojnska jama — obilazak",
+      "en": "Postojna Cave tour"
+     },
+     "adult": 34.9,
+     "child": 20.7,
+     "freeUnder": 6,
+     "url": "https://tickets.postojnska-jama.eu/en/venue/1/postojnska-jama.html"
+    },
+    {
+     "name": {
+      "sr": "Predjamski grad",
+      "en": "Predjama Castle"
+     },
+     "adult": 24,
+     "child": 14.4,
+     "freeUnder": 6,
+     "url": "https://www.postojnska-jama.eu/en/tickets/predjama-castle"
+    }
+   ],
+   "hotelNight": {
+    "budget": 80,
+    "mid": 130,
+    "comfort": 220
+   },
+   "foodPerAdultDay": 40,
+   "localPerDay": 10
+  },
+  "officialUrl": "https://www.postojnska-jama.eu/en/",
+  "sources": [
+   "https://tickets.postojnska-jama.eu/en/venue/1/postojnska-jama.html",
+   "https://www.postojnska-jama.eu/en/tickets/predjama-castle"
+  ],
+  "priceConfidence": "verified",
+  "images": [
+   "File:Brilliant in Postojna Cave.jpg",
+   "File:Postumia 03.JPG",
+   "File:Stalactites and Stalagmites at Postojna Caves - panoramio.jpg",
+   "File:Predjama castle, Slovenia.jpg",
+   "File:Predjama, castle, 2020.jpg",
+   "File:Postumia 02.JPG"
+  ]
+ }
+]

@@ -1,0 +1,1728 @@
+[
+  {
+    "id": "prague-zoo",
+    "name": {
+      "sr": "Zoološki vrt u Pragu",
+      "en": "Prague Zoo"
+    },
+    "place": {
+      "sr": "Prag, Češka",
+      "en": "Prague, Czechia"
+    },
+    "country": "CZ",
+    "region": "central",
+    "coords": [
+      50.1169,
+      14.4061
+    ],
+    "airport": {
+      "iata": "PRG",
+      "km": 15,
+      "minutes": 30,
+      "mode": {
+        "sr": "autom ili taksijem",
+        "en": "car or taxi"
+      }
+    },
+    "category": "animals",
+    "tags": [
+      "zoo",
+      "playground",
+      "train"
+    ],
+    "ages": {
+      "baby": 2,
+      "toddler": 3,
+      "preschool": 3
+    },
+    "stroller": 3,
+    "budget": 2,
+    "bestMonths": [
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "season": {
+      "sr": "Otvoren svakog dana, svih 365 dana u godini.",
+      "en": "Open every day, all year round."
+    },
+    "tagline": {
+      "sr": "Jedan od najboljih zooloških vrtova na svetu, na pola sata od centra Praga.",
+      "en": "One of the world's best zoos, half an hour from central Prague."
+    },
+    "description": {
+      "sr": "Zoološki vrt u Pragu redovno se svrstava među najbolje na svetu. Prostire se preko 58 hektara uz reku Vltavu, sa prostranim ograđenim prostorima poput Doline slonova i paviljona gorila. Staze su široke i popločane, pa se kroz njega lagano ide s kolicima, a usput su česta dečja igrališta i toaleti s prostorom za presvlačenje.",
+      "en": "Prague Zoo is regularly ranked among the world's best. It spreads over 58 hectares along the Vltava river, with huge enclosures like the elephant valley and the gorilla pavilion. Paths are wide and paved, so it is easy with a pushchair, and playgrounds and baby-change facilities are dotted along the way."
+    },
+    "highlights": [
+      {
+        "sr": "Dolina slonova i paviljon gorila",
+        "en": "The elephant valley and gorilla pavilion"
+      },
+      {
+        "sr": "Vožnja žičarom iznad nastambi",
+        "en": "The chairlift ride over the enclosures"
+      },
+      {
+        "sr": "Dečja igrališta raspoređena po parku",
+        "en": "Children's playgrounds scattered through the park"
+      },
+      {
+        "sr": "Hranjenje životinja u tačno vreme",
+        "en": "Scheduled animal feedings"
+      }
+    ],
+    "pros": [
+      {
+        "sr": "Odlično prilagođen kolicima – široke popločane staze",
+        "en": "Very pushchair-friendly – wide paved paths"
+      },
+      {
+        "sr": "Ogroman izbor životinja za jedan dan",
+        "en": "A huge variety of animals for a full day"
+      },
+      {
+        "sr": "Deca do 3 godine ulaze besplatno",
+        "en": "Children under 3 enter free"
+      }
+    ],
+    "cons": [
+      {
+        "sr": "Vikendom i leti zna da bude gužva",
+        "en": "Can get crowded on weekends and in summer"
+      },
+      {
+        "sr": "Teren je brežuljkast na pojedinim delovima",
+        "en": "The terrain is hilly in some parts"
+      }
+    ],
+    "tip": {
+      "sr": "Kupite karte online – jeftinije su, a preskačete red na blagajni.",
+      "en": "Buy tickets online – they are cheaper and you skip the ticket-office queue."
+    },
+    "costs": {
+      "tickets": [
+        {
+          "name": {
+            "sr": "Dnevna karta (odrasli)",
+            "en": "Day ticket (adult)"
+          },
+          "adult": 13,
+          "child": 10,
+          "freeUnder": 3,
+          "url": "https://www.zoopraha.cz/en/before-visit/admission-prices"
+        }
+      ],
+      "hotelNight": {
+        "budget": 70,
+        "mid": 120,
+        "comfort": 200
+      },
+      "foodPerAdultDay": 30,
+      "localPerDay": 8
+    },
+    "officialUrl": "https://www.zoopraha.cz/en",
+    "sources": [
+      "https://www.zoopraha.cz/en/before-visit/admission-prices"
+    ],
+    "priceConfidence": "verified",
+    "images": [
+      "File:Prague Zoo 4.jpg",
+      "File:Zoo Praha.JPG",
+      "File:Prague Zoo 14.jpg",
+      "File:Prague Zoo 15.jpg",
+      "File:Prague 07-2016 Zoo img12 Acinonyx jubatus.jpg",
+      "File:Prague 07-2016 Zoo img14 flamingos.jpg"
+    ]
+  },
+  {
+    "id": "salzburg-hellbrunn",
+    "name": {
+      "sr": "Palača Helbrun",
+      "en": "Hellbrunn Palace"
+    },
+    "place": {
+      "sr": "Salcburg, Austrija",
+      "en": "Salzburg, Austria"
+    },
+    "country": "AT",
+    "region": "central",
+    "coords": [
+      47.7622,
+      13.0608
+    ],
+    "airport": {
+      "iata": "SZG",
+      "km": 12,
+      "minutes": 20,
+      "mode": {
+        "sr": "autom, autobusom 25 ili taksijem",
+        "en": "car, bus 25 or taxi"
+      }
+    },
+    "category": "nature",
+    "tags": [
+      "castle",
+      "playground",
+      "water-park",
+      "forest",
+      "museum"
+    ],
+    "ages": {
+      "baby": 2,
+      "toddler": 3,
+      "preschool": 3
+    },
+    "stroller": 2,
+    "budget": 2,
+    "bestMonths": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "season": {
+      "sr": "Vodeni trikovi i dvorac rade od kraja marta do početka novembra; zimi je zatvoreno.",
+      "en": "The trick fountains and palace run from late March to early November; closed in winter."
+    },
+    "tagline": {
+      "sr": "Renesansni dvorac gde vas fontane namerno prskaju – deca se smeju od početka do kraja.",
+      "en": "A Renaissance palace where the fountains deliberately spray you – children laugh the whole way round."
+    },
+    "description": {
+      "sr": "Helbrun je dvorac nadomak Salcburga čuven po starim vodenim trikovima: skrivene mlaznice prskaju posetioce dok šetaju vrtom. Za malu decu je to urnebesna predstava – voda, figure koje se pokreću i smeh na svakom koraku. Tu je i prostrani park s igralištem, a odmah pored je salcburški ZOO vrt.",
+      "en": "Hellbrunn is a palace just outside Salzburg famous for its 400-year-old trick fountains: hidden jets spray visitors as they wander the gardens. For small children it is a hilarious show – water, moving figures and laughter at every turn. There is also a large park with a playground, and Salzburg Zoo is right next door."
+    },
+    "highlights": [
+      {
+        "sr": "Vodeni trikovi (Wasserspiele)",
+        "en": "The trick fountains (Wasserspiele)"
+      },
+      {
+        "sr": "Dečje igralište u parku",
+        "en": "The playground in the park"
+      },
+      {
+        "sr": "Sjenica iz filma Moje pesme, moji snovi",
+        "en": "The gazebo from The Sound of Music"
+      },
+      {
+        "sr": "Salcburški ZOO vrt odmah pored",
+        "en": "Salzburg Zoo right next door"
+      }
+    ],
+    "pros": [
+      {
+        "sr": "Vodeni trikovi su čista zabava za najmlađe",
+        "en": "The trick fountains are pure fun for the youngest"
+      },
+      {
+        "sr": "Ravna šetnja kroz park pogodna za kolica",
+        "en": "Flat park paths suitable for a pushchair"
+      },
+      {
+        "sr": "Deca do 4 godine ulaze besplatno",
+        "en": "Children under 4 enter free"
+      }
+    ],
+    "cons": [
+      {
+        "sr": "Zatvoreno zimi (od novembra do marta)",
+        "en": "Closed in winter (November to March)"
+      },
+      {
+        "sr": "Trikovi vas namerno pokvase – ponesite presvlaku",
+        "en": "The tricks deliberately soak you – bring a change of clothes"
+      },
+      {
+        "sr": "Obično se ide u vođenoj grupi, pa je tempo zadat",
+        "en": "Tours are usually guided, so the pace is set"
+      }
+    ],
+    "tip": {
+      "sr": "Ponesite rezervnu odeću i obuću – u vodene trikove se ulazi s predumišljajem.",
+      "en": "Bring spare clothes and shoes – getting splashed is the whole point."
+    },
+    "costs": {
+      "tickets": [
+        {
+          "name": {
+            "sr": "Ulaz – vodeni trikovi i dvorac",
+            "en": "Entry – trick fountains and palace"
+          },
+          "adult": 16.5,
+          "child": 6.5,
+          "freeUnder": 4,
+          "url": "https://www.salzburgerland.com/en/salzburgerland-card-city-of-salzburg/pois/TSG/119d4911-a503-49c9-8e66-1e3d8161f159/hellbrunn-palace---trick-fountains"
+        }
+      ],
+      "hotelNight": {
+        "budget": 90,
+        "mid": 150,
+        "comfort": 260
+      },
+      "foodPerAdultDay": 40,
+      "localPerDay": 10
+    },
+    "officialUrl": "https://www.hellbrunn.at/en",
+    "sources": [
+      "https://www.salzburgerland.com/en/salzburgerland-card-city-of-salzburg/pois/TSG/119d4911-a503-49c9-8e66-1e3d8161f159/hellbrunn-palace---trick-fountains",
+      "https://www.salzburgsightseeing.at/en/sights/hellbrunn-castle-salzburg"
+    ],
+    "priceConfidence": "verified",
+    "images": [
+      "File:Aerial image of Hellbrunn Palace (view from the south).jpg",
+      "File:Salzburg Schloss Hellbrunn Wasserspiele 03.jpg",
+      "File:Salzburg Schloss Hellbrunn Wasserspiele 09.jpg",
+      "File:Schloss Hellbrunn (06).jpg",
+      "File:Schloss Hellbrunn (11).jpg",
+      "File:Hellbrunn Palace, Salzburg, Austria, 20260502 0902 0612.jpg"
+    ]
+  },
+  {
+    "id": "lucerne-transport-museum",
+    "name": {
+      "sr": "Švajcarski muzej saobraćaja",
+      "en": "Swiss Museum of Transport"
+    },
+    "place": {
+      "sr": "Lucern, Švajcarska",
+      "en": "Lucerne, Switzerland"
+    },
+    "country": "CH",
+    "region": "central",
+    "coords": [
+      47.0528,
+      8.3358
+    ],
+    "airport": {
+      "iata": "ZRH",
+      "km": 68,
+      "minutes": 60,
+      "mode": {
+        "sr": "vozom ili autom",
+        "en": "train or car"
+      }
+    },
+    "category": "edutainment",
+    "tags": [
+      "museum",
+      "train",
+      "boat",
+      "cable-car",
+      "indoor",
+      "rainy-day",
+      "science"
+    ],
+    "ages": {
+      "baby": 2,
+      "toddler": 3,
+      "preschool": 3
+    },
+    "stroller": 3,
+    "budget": 3,
+    "bestMonths": [
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "season": {
+      "sr": "Otvoren svih 365 dana u godini.",
+      "en": "Open 365 days a year."
+    },
+    "tagline": {
+      "sr": "Najposećeniji muzej Švajcarske – gde deca ulaze u vozove, avione i čamce.",
+      "en": "Switzerland's most-visited museum – where children climb into trains, planes and boats."
+    },
+    "description": {
+      "sr": "Muzej saobraćaja u Lucernu najposećeniji je muzej Švajcarske i raj za decu koja vole vozove, avione i čamce. Mališani mogu da se popnu u prave lokomotive i avione, da voze po saobraćajnom vrtu s mini putevima, i da pogledaju planetarijum. Za uzrast od dve godine nadalje gotovo svaka zona ima nešto za njih.",
+      "en": "Lucerne's Museum of Transport is Switzerland's most-visited museum and a paradise for children who love trains, planes and boats. Little ones can climb into real locomotives and aircraft, ride mini roads in the traffic garden, and watch the planetarium. From about age two, nearly every zone has something for them."
+    },
+    "highlights": [
+      {
+        "sr": "Ulazak u prave lokomotive i avione",
+        "en": "Climbing into real locomotives and aircraft"
+      },
+      {
+        "sr": "Saobraćajni vrt sa mini putevima",
+        "en": "The traffic garden with mini roads"
+      },
+      {
+        "sr": "Čokoladna avantura",
+        "en": "The Swiss Chocolate Adventure"
+      },
+      {
+        "sr": "Planetarijum",
+        "en": "The planetarium"
+      }
+    ],
+    "pros": [
+      {
+        "sr": "Interaktivno i praktično – deca sve diraju",
+        "en": "Interactive and hands-on – children touch everything"
+      },
+      {
+        "sr": "Otvoren cele godine, idealno za kišne dane",
+        "en": "Open all year, ideal for rainy days"
+      },
+      {
+        "sr": "Odlično prilagođen kolicima",
+        "en": "Very pushchair-friendly"
+      }
+    ],
+    "cons": [
+      {
+        "sr": "Švajcarska je skupa – ulaz i hrana nisu jeftini",
+        "en": "Switzerland is pricey – entry and food are not cheap"
+      },
+      {
+        "sr": "Vikendom ume da bude veoma prometno",
+        "en": "Can get very busy on weekends"
+      },
+      {
+        "sr": "Čokoladna avantura i planetarijum se doplaćuju uz osnovnu kartu",
+        "en": "The chocolate adventure and planetarium cost extra on the base ticket"
+      }
+    ],
+    "tip": {
+      "sr": "Dnevna karta uključuje čokoladnu avanturu, filmove i planetarijum – najbolje se isplati za porodicu.",
+      "en": "The day pass includes the chocolate adventure, films and planetarium – best value for a family."
+    },
+    "costs": {
+      "tickets": [
+        {
+          "name": {
+            "sr": "Muzejska karta",
+            "en": "Museum ticket"
+          },
+          "adult": 39,
+          "child": 17,
+          "freeUnder": 6,
+          "url": "https://www.verkehrshaus.ch/en/visit/for-your-visit/admission-prices-and-tickets.html"
+        }
+      ],
+      "hotelNight": {
+        "budget": 110,
+        "mid": 170,
+        "comfort": 290
+      },
+      "foodPerAdultDay": 50,
+      "localPerDay": 15
+    },
+    "officialUrl": "https://www.verkehrshaus.ch/en",
+    "sources": [
+      "https://www.verkehrshaus.ch/en/visit/for-your-visit/admission-prices-and-tickets.html",
+      "https://www.verkehrshaus.ch/de/ihr-besuch/besuch-planen/gut-zu-wisen"
+    ],
+    "priceConfidence": "verified",
+    "images": [
+      "File:Luftfahrt Halle Verkehrshaus 01.jpg",
+      "File:00 9020 Luzern (CH) - Verkehrshaus.jpg",
+      "File:Verkehrshaus der Schweiz Halle Strassenverkehr.jpg",
+      "File:Train-swiss-museum.jpg",
+      "File:Swiss Museum of Transport in Lucern.jpg",
+      "File:Pilatusbahn 9 Verkehrshaus Luzern.jpg"
+    ]
+  },
+  {
+    "id": "amsterdam-nemo-artis",
+    "name": {
+      "sr": "NEMO i Artis",
+      "en": "NEMO & Artis"
+    },
+    "place": {
+      "sr": "Amsterdam, Holandija",
+      "en": "Amsterdam, the Netherlands"
+    },
+    "country": "NL",
+    "region": "western",
+    "coords": [
+      52.3741,
+      4.9123
+    ],
+    "airport": {
+      "iata": "AMS",
+      "km": 20,
+      "minutes": 35,
+      "mode": {
+        "sr": "vozom ili taksijem",
+        "en": "train or taxi"
+      }
+    },
+    "category": "edutainment",
+    "tags": [
+      "science",
+      "museum",
+      "aquarium",
+      "zoo",
+      "indoor",
+      "rainy-day"
+    ],
+    "ages": {
+      "baby": 2,
+      "toddler": 3,
+      "preschool": 3
+    },
+    "stroller": 3,
+    "budget": 3,
+    "bestMonths": [
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "season": {
+      "sr": "Oba su otvorena cele godine; NEMO je ponedeljkom često zatvoren van raspusta.",
+      "en": "Both open year-round; NEMO is often closed on Mondays outside school holidays."
+    },
+    "tagline": {
+      "sr": "Dva suseda za jedan dan: nauka kroz igru u NEMO, pa životinje u Artisu.",
+      "en": "Two neighbours for one day: hands-on science at NEMO, then animals at Artis."
+    },
+    "description": {
+      "sr": "NEMO je naučni muzej u zgradi u obliku broda, sa pet spratova eksperimenata koje deca sama pokreću – voda, zvuk, svetlost. Deset minuta hoda dalje je Artis, gradski ZOO vrt s akvarijumom i planetarijumom. Zajedno čine savršen dan u Amsterdamu za decu od 3 do 6 godina, i to bez obzira na vreme.",
+      "en": "NEMO is a science museum in a ship-shaped building, with five floors of experiments children operate themselves – water, sound, light. Ten minutes' walk away is Artis, the city zoo with an aquarium and planetarium. Together they make a perfect Amsterdam day for ages 3–6, whatever the weather."
+    },
+    "highlights": [
+      {
+        "sr": "Eksperimenti s vodom i zvukom u NEMO",
+        "en": "Water and sound experiments at NEMO"
+      },
+      {
+        "sr": "Krov NEMO s pogledom na grad",
+        "en": "NEMO's rooftop with a city view"
+      },
+      {
+        "sr": "Akvarijum u Artisu",
+        "en": "The aquarium at Artis"
+      },
+      {
+        "sr": "Dečje igralište u Artisu",
+        "en": "The playground at Artis"
+      }
+    ],
+    "pros": [
+      {
+        "sr": "Sve je napravljeno da se dira i isprobava",
+        "en": "Everything is made to be touched and tried"
+      },
+      {
+        "sr": "Dve atrakcije na deset minuta hoda",
+        "en": "Two attractions ten minutes apart"
+      },
+      {
+        "sr": "Otvoreno cele godine – odlično za kišne dane",
+        "en": "Open all year – great for rainy days"
+      }
+    ],
+    "cons": [
+      {
+        "sr": "NEMO nema jeftiniju dečju kartu – od 4. godine svi plaćaju isto",
+        "en": "NEMO has no cheaper child rate – from age 4 everyone pays the same"
+      },
+      {
+        "sr": "Artis je skup, posebno za celu porodicu",
+        "en": "Artis is expensive, especially for a whole family"
+      },
+      {
+        "sr": "Školski raspusti donose velike gužve",
+        "en": "School holidays bring big crowds"
+      }
+    ],
+    "tip": {
+      "sr": "Dođite u NEMO čim se otvori – prepodne je daleko mirnije za eksperimente.",
+      "en": "Arrive at NEMO as it opens – mornings are far calmer for experimenting."
+    },
+    "costs": {
+      "tickets": [
+        {
+          "name": {
+            "sr": "NEMO – ulaz (4+ godine)",
+            "en": "NEMO – entry (age 4+)"
+          },
+          "adult": 21.5,
+          "child": 21.5,
+          "freeUnder": 4,
+          "url": "https://www.nemosciencemuseum.nl/en/"
+        },
+        {
+          "name": {
+            "sr": "Artis ZOO – ulaz",
+            "en": "Artis Zoo – entry"
+          },
+          "adult": 29.5,
+          "child": 25.5,
+          "freeUnder": 3,
+          "url": "https://www.artis.nl/en/plan-your-visit"
+        }
+      ],
+      "hotelNight": {
+        "budget": 110,
+        "mid": 170,
+        "comfort": 280
+      },
+      "foodPerAdultDay": 45,
+      "localPerDay": 12
+    },
+    "officialUrl": "https://www.nemosciencemuseum.nl/en/",
+    "sources": [
+      "https://www.artis.nl/en/plan-your-visit",
+      "https://amsterdam-explorer.com/nemo-science-museum"
+    ],
+    "priceConfidence": "estimated",
+    "images": [
+      "File:Nemo Science Museum.jpg",
+      "File:Nemo Science Museum (25).jpg",
+      "File:Amsterdam - Oosterdok - Panorama View on NEMO Science Center, Museum Harbour & Maritime Museum Amsterdam 01.jpg",
+      "File:Artis Zoo - Amsterdam, Holland.jpg",
+      "File:Aquarium at Amsterdam Zoo - Artis (26278415005).jpg"
+    ]
+  },
+  {
+    "id": "hamburg-miniatur",
+    "name": {
+      "sr": "Miniatur Vunderland",
+      "en": "Miniatur Wunderland"
+    },
+    "place": {
+      "sr": "Hamburg, Nemačka",
+      "en": "Hamburg, Germany"
+    },
+    "country": "DE",
+    "region": "central",
+    "coords": [
+      53.5439,
+      9.9889
+    ],
+    "airport": {
+      "iata": "HAM",
+      "km": 13,
+      "minutes": 30,
+      "mode": {
+        "sr": "vozom ili taksijem",
+        "en": "train or taxi"
+      }
+    },
+    "category": "edutainment",
+    "tags": [
+      "train",
+      "museum",
+      "indoor",
+      "rainy-day"
+    ],
+    "ages": {
+      "baby": 2,
+      "toddler": 3,
+      "preschool": 3
+    },
+    "stroller": 3,
+    "budget": 2,
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      10,
+      11,
+      12
+    ],
+    "season": {
+      "sr": "Otvoren cele godine.",
+      "en": "Open all year round."
+    },
+    "tagline": {
+      "sr": "Najveća maketa železnice na svetu – gradovi i vozovi koji oduševljavaju i najmlađe.",
+      "en": "The world's largest model railway – cities and trains that delight even the youngest."
+    },
+    "description": {
+      "sr": "Miniatur Vunderland je najveća maketa železnice na svetu: preko 16 kilometara pruge, gradovi, planine i aerodrom gde avioni poleću i sleću. Deca stoje očarana dok vozovi prolaze, a dan i noć se smenjuju svakih petnaestak minuta. Sve je u zatvorenom, pa je savršen izbor za kišni dan u Hamburgu.",
+      "en": "Miniatur Wunderland is the world's largest model railway: over 16 kilometres of track, cities, mountains and an airport where planes take off and land. Children stand spellbound as trains pass and day turns to night every fifteen minutes or so. Everything is indoors, making it a perfect rainy-day choice in Hamburg."
+    },
+    "highlights": [
+      {
+        "sr": "Vozovi koji neprestano prolaze",
+        "en": "Trains passing constantly"
+      },
+      {
+        "sr": "Aerodrom s poletanjem i sletanjem aviona",
+        "en": "The airport with planes taking off and landing"
+      },
+      {
+        "sr": "Smena dana i noći svakih 15 minuta",
+        "en": "Day-and-night cycle every 15 minutes"
+      },
+      {
+        "sr": "Knofenhauzen – grad gde deca pritiskaju dugmad",
+        "en": "Knopffhausen – a city where children press buttons"
+      }
+    ],
+    "pros": [
+      {
+        "sr": "Sve u zatvorenom – odlično za loše vreme",
+        "en": "All indoors – great for bad weather"
+      },
+      {
+        "sr": "Deca niža od 1 metra ulaze besplatno",
+        "en": "Children under 1 metre enter free"
+      },
+      {
+        "sr": "Prilagođeno kolicima",
+        "en": "Pushchair-friendly"
+      }
+    ],
+    "cons": [
+      {
+        "sr": "Gužve i redovi – preporučuje se rezervacija termina",
+        "en": "Crowds and queues – a timed slot is recommended"
+      },
+      {
+        "sr": "Pojedini delovi su slabo osvetljeni",
+        "en": "Some sections are dimly lit"
+      }
+    ],
+    "tip": {
+      "sr": "Kupite kartu za tačan termin online i dođite rano ujutru ili kasno uveče – tad je najpraznije.",
+      "en": "Book a timed ticket online and come early morning or late evening – that's when it's quietest."
+    },
+    "costs": {
+      "tickets": [
+        {
+          "name": {
+            "sr": "Ulaz",
+            "en": "Entry"
+          },
+          "adult": 22,
+          "child": 13,
+          "freeUnder": 3,
+          "url": "https://www.miniatur-wunderland.com/visiting/plan-your-visit/admission-fees"
+        }
+      ],
+      "hotelNight": {
+        "budget": 85,
+        "mid": 140,
+        "comfort": 240
+      },
+      "foodPerAdultDay": 38,
+      "localPerDay": 10
+    },
+    "officialUrl": "https://www.miniatur-wunderland.com/",
+    "sources": [
+      "https://www.miniatur-wunderland.com/visiting/plan-your-visit/admission-fees"
+    ],
+    "priceConfidence": "verified",
+    "images": [
+      "File:Miniatur Wunderland Hamburg.jpg",
+      "File:Miniatur Wunderland Hamburg 2.jpg",
+      "File:Panorama Miniatur Wunderland Computer.jpg",
+      "File:Kirmes Miniatur Wunderland.jpg",
+      "File:Modelleisenbahn Wunderland (15915077941).jpg",
+      "File:Miniatur Wunderland 2.jpg"
+    ]
+  },
+  {
+    "id": "london-museums",
+    "name": {
+      "sr": "Londonski porodični muzeji",
+      "en": "London's family museums"
+    },
+    "place": {
+      "sr": "London, Engleska",
+      "en": "London, England"
+    },
+    "country": "GB",
+    "region": "british",
+    "coords": [
+      51.4961,
+      -0.1764
+    ],
+    "airport": {
+      "iata": "LHR",
+      "km": 25,
+      "minutes": 45,
+      "mode": {
+        "sr": "vozom, metroom ili taksijem",
+        "en": "train, Tube or taxi"
+      }
+    },
+    "category": "edutainment",
+    "tags": [
+      "museum",
+      "science",
+      "dinosaurs",
+      "free",
+      "indoor",
+      "rainy-day",
+      "playground"
+    ],
+    "ages": {
+      "baby": 2,
+      "toddler": 3,
+      "preschool": 3
+    },
+    "stroller": 3,
+    "budget": 3,
+    "bestMonths": [
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "season": {
+      "sr": "Muzeji su otvoreni cele godine.",
+      "en": "Museums open all year round."
+    },
+    "tagline": {
+      "sr": "Svetska klasa džabe: dinosaurusi, nauka i igra – sve bez ulaznice.",
+      "en": "World-class for free: dinosaurs, science and play – all without a ticket."
+    },
+    "description": {
+      "sr": "U Londonu su najbolji porodični muzeji besplatni. Prirodnjački muzej čuva dinosauruse i plavog kita Houp, a Muzej nauke ima interaktivne zone za najmlađe. Kad deca požele da se istrče, Dečje igralište princeze Dijane u Kenzington vrtovima ima gusarski brod. Ceo dan može da prođe bez ijedne karte.",
+      "en": "London's best family museums are free. The Natural History Museum holds the dinosaurs and Hope the blue whale, while the Science Museum has interactive zones for the youngest. When children need to run around, the Diana Memorial Playground in Kensington Gardens has a pirate ship. A whole day can pass without a single ticket."
+    },
+    "highlights": [
+      {
+        "sr": "Dinosaurusi u Prirodnjačkom muzeju",
+        "en": "The dinosaurs at the Natural History Museum"
+      },
+      {
+        "sr": "Plavi kit Houp u glavnoj dvorani",
+        "en": "Hope the blue whale in the central hall"
+      },
+      {
+        "sr": "Interaktivne zone Muzeja nauke",
+        "en": "The Science Museum's interactive zones"
+      },
+      {
+        "sr": "Gusarski brod na igralištu princeze Dijane",
+        "en": "The pirate ship at the Diana playground"
+      }
+    ],
+    "pros": [
+      {
+        "sr": "Glavni muzeji su potpuno besplatni",
+        "en": "The main museums are completely free"
+      },
+      {
+        "sr": "Otvoreno cele godine, idealno za kišne dane",
+        "en": "Open all year, ideal for rainy days"
+      },
+      {
+        "sr": "Deca do 11 godina besplatno se voze javnim prevozom",
+        "en": "Children under 11 travel free on public transport"
+      }
+    ],
+    "cons": [
+      {
+        "sr": "Prirodnjački muzej ume da bude prepun",
+        "en": "The Natural History Museum can get packed"
+      },
+      {
+        "sr": "Posebne izložbe se naplaćuju",
+        "en": "Special exhibitions charge extra"
+      },
+      {
+        "sr": "London je skup za smeštaj i hranu",
+        "en": "London is expensive for accommodation and food"
+      }
+    ],
+    "tip": {
+      "sr": "Rezervišite besplatne termine online i dođite u 10 ujutru – prepodne je najmirnije.",
+      "en": "Book free timed tickets online and arrive at 10am – mornings are quietest."
+    },
+    "costs": {
+      "tickets": [],
+      "hotelNight": {
+        "budget": 130,
+        "mid": 210,
+        "comfort": 380
+      },
+      "foodPerAdultDay": 55,
+      "localPerDay": 18
+    },
+    "officialUrl": "https://www.nhm.ac.uk/",
+    "sources": [
+      "https://www.nhm.ac.uk/",
+      "https://www.sciencemuseum.org.uk/"
+    ],
+    "priceConfidence": "verified",
+    "images": [
+      "File:Natural History Museum Hintze Hall.jpg",
+      "File:Hope, Hintze Hall, Natural History Museum, London - 1.jpg",
+      "File:Natural History Museum, London Thyrannosurus Triceratops.jpg",
+      "File:Science Museum, Exhibition Road.jpg",
+      "File:Pirate ship, Diana, Princess of Wales Memorial Playground, Kensington Gardens 7 June 2011.jpg",
+      "File:Hintze Hall, Natural History Museum, London - 2.jpg"
+    ]
+  },
+  {
+    "id": "alsace-colmar",
+    "name": {
+      "sr": "Alzas i Kolmar",
+      "en": "Alsace & Colmar"
+    },
+    "place": {
+      "sr": "Kolmar, Alzas, Francuska",
+      "en": "Colmar, Alsace, France"
+    },
+    "country": "FR",
+    "region": "western",
+    "coords": [
+      48.0817,
+      7.3556
+    ],
+    "airport": {
+      "iata": "BSL",
+      "km": 60,
+      "minutes": 50,
+      "mode": {
+        "sr": "autom ili vozom",
+        "en": "car or train"
+      }
+    },
+    "category": "city",
+    "tags": [
+      "old-town",
+      "museum",
+      "boat",
+      "castle",
+      "train"
+    ],
+    "ages": {
+      "baby": 2,
+      "toddler": 2,
+      "preschool": 3
+    },
+    "stroller": 2,
+    "budget": 2,
+    "bestMonths": [
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "season": {
+      "sr": "Grad je otvoren cele godine; Muzej igračaka je van leta zatvoren utorkom.",
+      "en": "The town is open year-round; the Toy Museum closes on Tuesdays outside summer."
+    },
+    "tagline": {
+      "sr": "Šarene fasade i kanali Male Venecije + muzej igračaka za najmlađe.",
+      "en": "Colourful facades and Little Venice canals + a toy museum for the youngest."
+    },
+    "description": {
+      "sr": "Kolmar izgleda kao iz slikovnice: šarene drvene kuće, kanali i cveće na svakom prozoru. Za decu su najzanimljiviji vožnja čamcem kroz Malu Veneciju, mali voz kroz centar i Muzej igračaka, gde deca do 8 godina ulaze besplatno. Na petnaest minuta vožnje je Sigoland, park roda s blagim vožnjama za uzrast od 2 do 12 godina.",
+      "en": "Colmar looks straight out of a picture book: colourful half-timbered houses, canals and flowers in every window. For children the highlights are a boat ride through Little Venice, the little train through the centre, and the Toy Museum, where under-8s enter free. Fifteen minutes away is Cigoland, a stork park with gentle rides for ages 2–12."
+    },
+    "highlights": [
+      {
+        "sr": "Vožnja čamcem kroz Malu Veneciju",
+        "en": "The boat ride through Little Venice"
+      },
+      {
+        "sr": "Muzej igračaka",
+        "en": "The Toy Museum"
+      },
+      {
+        "sr": "Mali turistički voz kroz centar",
+        "en": "The little tourist train through the centre"
+      },
+      {
+        "sr": "Sigoland – park roda i blage vožnje",
+        "en": "Cigoland – stork park and gentle rides"
+      }
+    ],
+    "pros": [
+      {
+        "sr": "Deca do 8 godina besplatno u Muzej igračaka",
+        "en": "Children under 8 free at the Toy Museum"
+      },
+      {
+        "sr": "Šetnja starim gradom je pitoma i šarena",
+        "en": "Strolling the old town is gentle and colourful"
+      },
+      {
+        "sr": "U blizini su nežne atrakcije za male",
+        "en": "Gentle attractions for little ones are close by"
+      }
+    ],
+    "cons": [
+      {
+        "sr": "Kaldrma otežava vožnju kolicima",
+        "en": "Cobblestones make pushchairs awkward"
+      },
+      {
+        "sr": "Leta su topla, a centar ume da bude prepun",
+        "en": "Summers are hot and the centre can get crowded"
+      },
+      {
+        "sr": "Za bebe ima manje sadržaja",
+        "en": "Fewer activities aimed at babies"
+      }
+    ],
+    "tip": {
+      "sr": "Najlepši doživljaj za mališane je čamac kroz kanale – sedite napred za najbolji pogled.",
+      "en": "The canal boat is the best experience for little ones – sit at the front for the best view."
+    },
+    "costs": {
+      "tickets": [
+        {
+          "name": {
+            "sr": "Muzej igračaka – ulaz",
+            "en": "Toy Museum – entry"
+          },
+          "adult": 6.5,
+          "child": 5,
+          "freeUnder": 8,
+          "url": "https://www.colmar.fr/musee-jouet"
+        }
+      ],
+      "hotelNight": {
+        "budget": 75,
+        "mid": 120,
+        "comfort": 200
+      },
+      "foodPerAdultDay": 35,
+      "localPerDay": 10
+    },
+    "officialUrl": "https://www.tourisme-colmar.com/en",
+    "sources": [
+      "https://www.colmar.fr/musee-jouet",
+      "https://museedujouet.colmar.fr/visites/informations-pratiques/"
+    ],
+    "priceConfidence": "verified",
+    "images": [
+      "File:Petite Venise (Colmar).jpg",
+      "File:Colmar-Petite Venise (3).jpg",
+      "File:Little Venice in Colmar 01.jpg",
+      "File:Pont de la rue Turenne - petite Venise (Colmar).jpg",
+      "File:Voyage10, Colmar, Petite Venise.jpg",
+      "File:Rue des Marchands depuis le Koïfhus (Colmar) (4).jpg"
+    ]
+  },
+  {
+    "id": "kristiansand-dyrepark",
+    "name": {
+      "sr": "Dirparken (ZOO i zabavni park)",
+      "en": "Dyreparken"
+    },
+    "place": {
+      "sr": "Kristijansand, Norveška",
+      "en": "Kristiansand, Norway"
+    },
+    "country": "NO",
+    "region": "nordic",
+    "coords": [
+      58.1827,
+      8.1459
+    ],
+    "airport": {
+      "iata": "KRS",
+      "km": 8,
+      "minutes": 15,
+      "mode": {
+        "sr": "autom ili taksijem",
+        "en": "car or taxi"
+      }
+    },
+    "category": "theme",
+    "tags": [
+      "theme-park",
+      "zoo",
+      "fairytale",
+      "playground"
+    ],
+    "ages": {
+      "baby": 2,
+      "toddler": 3,
+      "preschool": 3
+    },
+    "stroller": 3,
+    "budget": 3,
+    "bestMonths": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "season": {
+      "sr": "ZOO je otvoren cele godine; najživlje i najpotpunije je od maja do avgusta.",
+      "en": "The zoo is open all year; fullest and liveliest from May to August."
+    },
+    "tagline": {
+      "sr": "Norveška kombinacija ZOO vrta i tematskog parka – sa gradom iz bajke Kardemome.",
+      "en": "Norway's zoo-and-theme-park combo – with Cardamom Town from the fairy tales."
+    },
+    "description": {
+      "sr": "Dirparken je najveća porodična atrakcija Norveške: ZOO vrt sa lavovima i majmunima spojen s tematskim parkom. Zvezda je Kardemoma by – grad iz bajki Turbjerna Egnera – a tu su i blage vožnje baš za mališane. Badeland, vodeni park, doplaćuje se posebno, ali leti vredi svake krune.",
+      "en": "Dyreparken is Norway's biggest family attraction: a zoo with lions and monkeys combined with a theme park. The star is Kardemomme by – Cardamom Town from Thorbjørn Egner's tales – plus gentle rides made for toddlers. Badeland, the water park, costs extra but is worth every krone in summer."
+    },
+    "highlights": [
+      {
+        "sr": "Kardemoma by – grad iz bajke",
+        "en": "Kardemomme by – Cardamom Town"
+      },
+      {
+        "sr": "Hranjenje životinja",
+        "en": "Animal feedings"
+      },
+      {
+        "sr": "Vožnje za mališane",
+        "en": "Rides for toddlers"
+      },
+      {
+        "sr": "Badeland – vodeni park",
+        "en": "Badeland water park"
+      }
+    ],
+    "pros": [
+      {
+        "sr": "Sadržaj raspoređen baš za uzrast 0–6 godina",
+        "en": "Content arranged especially for ages 0–6"
+      },
+      {
+        "sr": "Deca do 3 godine ulaze besplatno",
+        "en": "Children under 3 enter free"
+      },
+      {
+        "sr": "Miran, bezbedan i čist park",
+        "en": "Calm, safe and clean park"
+      }
+    ],
+    "cons": [
+      {
+        "sr": "Najskuplji park u Norveškoj",
+        "en": "Norway's priciest park"
+      },
+      {
+        "sr": "Cene su dinamične i rastu pred sam datum",
+        "en": "Dynamic pricing that rises close to the date"
+      },
+      {
+        "sr": "Vodeni park se posebno naplaćuje",
+        "en": "The water park costs extra"
+      }
+    ],
+    "tip": {
+      "sr": "Kupite karte online unapred i idite radnim danom – cene su osenčeno niže van vikenda.",
+      "en": "Buy tickets online in advance and go on a weekday – prices are noticeably lower outside weekends."
+    },
+    "costs": {
+      "tickets": [
+        {
+          "name": {
+            "sr": "Ulaz (sezona, dinamična cena)",
+            "en": "Entry (season, dynamic price)"
+          },
+          "adult": 57,
+          "child": 54,
+          "freeUnder": 3,
+          "url": "https://dyreparken.no/english"
+        }
+      ],
+      "hotelNight": {
+        "budget": 100,
+        "mid": 150,
+        "comfort": 250
+      },
+      "foodPerAdultDay": 50,
+      "localPerDay": 12
+    },
+    "officialUrl": "https://dyreparken.no/english",
+    "sources": [
+      "https://dyreparken.no/english",
+      "https://www.aasavis.no/prissjokk-i-fritidsparker-alt-har-blitt-mye-dyrere/s/5-2-992217"
+    ],
+    "priceConfidence": "estimated",
+    "images": [
+      "File:Kardemomme by.jpg",
+      "File:Skomakergata.jpg",
+      "File:Abra Havn 1.JPG",
+      "File:Swimming Tigers.jpg",
+      "File:Bk Bactrian Camel, Kristiansand Zoo, Norway.jpg",
+      "File:Giraffe (5272655650).jpg"
+    ]
+  },
+  {
+    "id": "wroclaw-afrykarium",
+    "name": {
+      "sr": "ZOO Vroclav i Afrikarijum",
+      "en": "Wrocław Zoo & Afrykarium"
+    },
+    "place": {
+      "sr": "Vroclav, Poljska",
+      "en": "Wrocław, Poland"
+    },
+    "country": "PL",
+    "region": "central",
+    "coords": [
+      51.1044,
+      17.0742
+    ],
+    "airport": {
+      "iata": "WRO",
+      "km": 12,
+      "minutes": 25,
+      "mode": {
+        "sr": "autom, tramvajem ili taksijem",
+        "en": "car, tram or taxi"
+      }
+    },
+    "category": "animals",
+    "tags": [
+      "zoo",
+      "aquarium",
+      "indoor",
+      "playground"
+    ],
+    "ages": {
+      "baby": 2,
+      "toddler": 3,
+      "preschool": 3
+    },
+    "stroller": 3,
+    "budget": 2,
+    "bestMonths": [
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "season": {
+      "sr": "Otvoren cele godine; Afrikarijum je zatvoren, klimatizovan prostor.",
+      "en": "Open all year; the Afrykarium is an indoor, climate-controlled space."
+    },
+    "tagline": {
+      "sr": "Jedan od najstarijih ZOO vrtova Evrope + Afrikarijum sa morskim psima i pingvinima.",
+      "en": "One of Europe's oldest zoos + the Afrykarium with sharks and penguins."
+    },
+    "description": {
+      "sr": "ZOO Vroclav je jedan od najstarijih i najvećih u Evropi, a njegova perjanica je Afrikarijum – moderan okeanarijum s tunelom kroz koji plivaju morski psi i raže. Ulaz u Afrikarijum je uključen u svaku ZOO kartu. Staze su široke i ravne, pa je park veoma pogodan za kolica, uz brojna igrališta.",
+      "en": "Wrocław Zoo is one of Europe's oldest and largest, and its pride is the Afrykarium – a modern oceanarium with a tunnel where sharks and rays swim overhead. Entry to the Afrykarium is included in every zoo ticket. Paths are wide and flat, so the park is very pushchair-friendly, with plenty of playgrounds."
+    },
+    "highlights": [
+      {
+        "sr": "Tunel s morskim psima u Afrikarijumu",
+        "en": "The shark tunnel in the Afrykarium"
+      },
+      {
+        "sr": "Pingvini i vodenkonji pod vodom",
+        "en": "Penguins and hippos underwater"
+      },
+      {
+        "sr": "Hranjenje životinja",
+        "en": "Animal feedings"
+      },
+      {
+        "sr": "Dečja igrališta",
+        "en": "Children's playgrounds"
+      }
+    ],
+    "pros": [
+      {
+        "sr": "Afrikarijum je uključen u cenu ZOO karte",
+        "en": "The Afrykarium is included in the zoo ticket"
+      },
+      {
+        "sr": "Deca do 3 godine ulaze besplatno",
+        "en": "Children under 3 enter free"
+      },
+      {
+        "sr": "Zatvoreni deo spasava i po kišnom danu",
+        "en": "The indoor section saves a rainy day"
+      }
+    ],
+    "cons": [
+      {
+        "sr": "Vikendom ume da bude gužva",
+        "en": "Can be crowded at weekends"
+      },
+      {
+        "sr": "Dečja (povlašćena) karta važi samo od 3 do 7 godina",
+        "en": "The concession child rate only applies from ages 3 to 7"
+      },
+      {
+        "sr": "U Afrikarijumu je toplo i vlažno",
+        "en": "The Afrykarium is warm and humid"
+      }
+    ],
+    "tip": {
+      "sr": "Kupite karte online – znatno su jeftinije nego na blagajni.",
+      "en": "Buy tickets online – they are much cheaper than at the gate."
+    },
+    "costs": {
+      "tickets": [
+        {
+          "name": {
+            "sr": "Ulaz (uključuje Afrikarijum)",
+            "en": "Entry (includes Afrykarium)"
+          },
+          "adult": 23,
+          "child": 21,
+          "freeUnder": 3,
+          "url": "https://zoo.wroclaw.pl/cennik/"
+        }
+      ],
+      "hotelNight": {
+        "budget": 55,
+        "mid": 90,
+        "comfort": 150
+      },
+      "foodPerAdultDay": 25,
+      "localPerDay": 7
+    },
+    "officialUrl": "https://zoo.wroclaw.pl/en/",
+    "sources": [
+      "https://zoo.wroclaw.pl/cennik/",
+      "https://zoo.wroclaw.pl/en/prices/"
+    ],
+    "priceConfidence": "verified",
+    "images": [
+      "File:Afrykarium Wrocław 2015.jpeg",
+      "File:Africarium in Wrocław - hippopotamuses.jpg",
+      "File:Zoo Wrocław, Afrykarium (01).jpg",
+      "File:Zoo Wrocław, Afrykarium, manat karaibski (1).jpg",
+      "File:Hipopotam w Afrykarium.jpg",
+      "File:Afrykarium tunel.jpg"
+    ]
+  },
+  {
+    "id": "high-tatras",
+    "name": {
+      "sr": "Visoke Tatre",
+      "en": "High Tatras"
+    },
+    "place": {
+      "sr": "Štrbske Pleso, Visoke Tatre, Slovačka",
+      "en": "Štrbské Pleso, High Tatras, Slovakia"
+    },
+    "country": "SK",
+    "region": "central",
+    "coords": [
+      49.1167,
+      20.0667
+    ],
+    "airport": {
+      "iata": "TAT",
+      "km": 15,
+      "minutes": 20,
+      "mode": {
+        "sr": "autom, vozom ili taksijem",
+        "en": "car, train or taxi"
+      }
+    },
+    "category": "nature",
+    "tags": [
+      "mountain",
+      "lake",
+      "cable-car",
+      "forest",
+      "winter",
+      "playground"
+    ],
+    "ages": {
+      "baby": 2,
+      "toddler": 3,
+      "preschool": 3
+    },
+    "stroller": 3,
+    "budget": 2,
+    "bestMonths": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "season": {
+      "sr": "Planine su otvorene cele godine: leti pešačenje, zimi sankanje.",
+      "en": "Open all year: hiking in summer, sledging in winter."
+    },
+    "tagline": {
+      "sr": "Alpska jezera i ravne šetnje po pločniku – priroda prilagođena kolicima.",
+      "en": "Alpine lakes and flat paved walks – nature that suits a stroller."
+    },
+    "description": {
+      "sr": "Štrbske Pleso je najpitomiji kutak Visokih Tatri: glacijalno jezero s ravnom, popločanom stazom oko njega, idealnom za kolica i prve korake. Žičara vodi do Skalnatog plesa gde leti rade igralište i vožnje za decu, a zimi se okolne padine pretvaraju u sankaške staze. Pešačke ture su kratke i bezbedne za porodice.",
+      "en": "Štrbské Pleso is the gentlest corner of the High Tatras: a glacial lake with a flat, paved path around it, ideal for pushchairs and first steps. A cable car rises to Skalnaté pleso, where a playground and children's rides run in summer, while winter turns the slopes into sledging runs. The hikes are short and safe for families."
+    },
+    "highlights": [
+      {
+        "sr": "Šetnja oko jezera Štrbske Pleso",
+        "en": "The walk around Lake Štrbské Pleso"
+      },
+      {
+        "sr": "Žičara do Skalnatog plesa",
+        "en": "The cable car to Skalnaté pleso"
+      },
+      {
+        "sr": "Dečje igralište i Kamzikovo",
+        "en": "The playground and Kamzíkovo fun park"
+      },
+      {
+        "sr": "Sankanje zimi",
+        "en": "Sledging in winter"
+      }
+    ],
+    "pros": [
+      {
+        "sr": "Ravna staza oko jezera – idealna za kolica",
+        "en": "Flat lakeside path – ideal for pushchairs"
+      },
+      {
+        "sr": "Svež planinski vazduh i mir",
+        "en": "Fresh mountain air and calm"
+      },
+      {
+        "sr": "Priroda je većinom besplatna",
+        "en": "Nature is mostly free"
+      }
+    ],
+    "cons": [
+      {
+        "sr": "Vreme se brzo menja – ponesite slojeve",
+        "en": "Weather changes fast – bring layers"
+      },
+      {
+        "sr": "Žičara do vrha je skupa",
+        "en": "The summit cable car is expensive"
+      },
+      {
+        "sr": "Leti vikendom ume da bude prometno",
+        "en": "Busy at weekends in summer"
+      }
+    ],
+    "tip": {
+      "sr": "Za male noge birajte obilaznicu oko Štrbskog plesa – ravna je, popločana i duga taman koliko treba.",
+      "en": "For small legs choose the loop around Štrbské Pleso – flat, paved and just the right length."
+    },
+    "costs": {
+      "tickets": [
+        {
+          "name": {
+            "sr": "Žičara Tatranska Lomnica – Skalnate pleso (povratna)",
+            "en": "Cable car Tatranská Lomnica – Skalnaté pleso (return)"
+          },
+          "adult": 34,
+          "child": 22,
+          "freeUnder": 6,
+          "url": "https://www.vt.sk/en/price-lists/cableways-pricing"
+        }
+      ],
+      "hotelNight": {
+        "budget": 60,
+        "mid": 100,
+        "comfort": 170
+      },
+      "foodPerAdultDay": 25,
+      "localPerDay": 8
+    },
+    "officialUrl": "https://www.vt.sk/en",
+    "sources": [
+      "https://www.vt.sk/en/price-lists/cableways-pricing",
+      "https://www.vt.sk/en/resort/resort-info/cableway-trips/lomnicky-peak"
+    ],
+    "priceConfidence": "verified",
+    "images": [
+      "File:Štrbské Pleso aerial 2018 01.jpg",
+      "File:Strbske Pleso - Mountains.jpg",
+      "File:Štrbské Pleso - 2021 -a.jpg",
+      "File:Štrbské Pleso, Zubačka 09.jpg",
+      "File:Štrbské pleso - panorama.jpg",
+      "File:Drone view of Štrbské pleso at sunset, September 2024.jpg"
+    ]
+  },
+  {
+    "id": "innsbruck-swarovski",
+    "name": {
+      "sr": "Kristalni svetovi Svarovski",
+      "en": "Swarovski Crystal Worlds"
+    },
+    "place": {
+      "sr": "Vatens, kod Insbruka, Austrija",
+      "en": "Wattens, near Innsbruck, Austria"
+    },
+    "country": "AT",
+    "region": "central",
+    "coords": [
+      47.2939,
+      11.6008
+    ],
+    "airport": {
+      "iata": "INN",
+      "km": 30,
+      "minutes": 40,
+      "mode": {
+        "sr": "autom, vozom ili taksijem",
+        "en": "car, train or taxi"
+      }
+    },
+    "category": "edutainment",
+    "tags": [
+      "museum",
+      "fairytale",
+      "playground",
+      "indoor",
+      "rainy-day",
+      "winter"
+    ],
+    "ages": {
+      "baby": 1,
+      "toddler": 2,
+      "preschool": 3
+    },
+    "stroller": 3,
+    "budget": 2,
+    "bestMonths": [
+      3,
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "season": {
+      "sr": "Otvoren svakog dana, cele godine.",
+      "en": "Open daily, all year round."
+    },
+    "tagline": {
+      "sr": "Šuma kristala i igralište u vrtu – blještava avantura za male radoznalce.",
+      "en": "A crystal forest and garden playground – a sparkling adventure for little explorers."
+    },
+    "description": {
+      "sr": "Kristalni svetovi Svarovski u Vatensu su mešavina muzeja, umetnosti i bašte. Ulaz čuva divovska glava s vodopadom, a unutra su odaje ispunjene svetlošću i bojama. Deca najviše uživaju u vrtu s igralištem, lavirintom i kristalnim oblakom iznad vode. Više je za gledanje nego za diranje, ali malim radoznalcima je čarobno.",
+      "en": "Swarovski Crystal Worlds in Wattens mixes museum, art and garden. A giant head with a waterfall guards the entrance, and inside are chambers full of light and colour. Children enjoy the garden most – the playground, maze and crystal cloud above the water. It is more to look at than to touch, but magical for little explorers."
+    },
+    "highlights": [
+      {
+        "sr": "Divovska glava s vodopadom na ulazu",
+        "en": "The giant head with a waterfall at the entrance"
+      },
+      {
+        "sr": "Odaje pune svetlosti i boja",
+        "en": "Chambers full of light and colour"
+      },
+      {
+        "sr": "Igralište i lavirint u vrtu",
+        "en": "The playground and maze in the garden"
+      },
+      {
+        "sr": "Kristalni oblak iznad vode",
+        "en": "The crystal cloud above the water"
+      }
+    ],
+    "pros": [
+      {
+        "sr": "Otvoreno cele godine – idealno za loš vremenski dan",
+        "en": "Open all year – ideal for a bad-weather day"
+      },
+      {
+        "sr": "Vrt s igralištem i lavirintom",
+        "en": "A garden with a playground and maze"
+      },
+      {
+        "sr": "Deca do 6 godina ulaze besplatno",
+        "en": "Children under 6 enter free"
+      }
+    ],
+    "cons": [
+      {
+        "sr": "Unutrašnjost je više za gledanje nego za dodir",
+        "en": "The interior is more look than touch"
+      },
+      {
+        "sr": "Prodavnica je neodoljiva, a skupa",
+        "en": "The shop is irresistible but pricey"
+      }
+    ],
+    "tip": {
+      "sr": "Sa malom decom najviše iskoristite vrt i igralište – unutrašnjost obiđite brzo pre nego što im dosadi.",
+      "en": "With small children make the most of the garden and playground – see the interior quickly before they tire."
+    },
+    "costs": {
+      "tickets": [
+        {
+          "name": {
+            "sr": "Ulaz",
+            "en": "Entry"
+          },
+          "adult": 25,
+          "child": 9,
+          "freeUnder": 6,
+          "url": "https://kristallwelten.swarovski.com/Content.Node/wattens/Tickets.en.html"
+        }
+      ],
+      "hotelNight": {
+        "budget": 90,
+        "mid": 150,
+        "comfort": 250
+      },
+      "foodPerAdultDay": 40,
+      "localPerDay": 10
+    },
+    "officialUrl": "https://kristallwelten.swarovski.com/",
+    "sources": [
+      "https://kristallwelten.swarovski.com/Content.Node/wattens/Tickets.en.html",
+      "https://www.tourispo.com/sight/swarovski-crystal-worlds_rates-and-openinghours.html"
+    ],
+    "priceConfidence": "verified",
+    "images": [
+      "File:Wattens - Swarovski Kristallwelten.jpg",
+      "File:Swarovski Kristallwelten 21 Kristalldom.JPG",
+      "File:Swarovski Kristallwelten 01 Park.JPG",
+      "File:Swarovski Kristallwelten 11 Eingangshalle.JPG",
+      "File:Swarovski Kristallwelten Installation Garten.jpg",
+      "File:Swarovski Kristallwelten 05 Der Riese.JPG"
+    ]
+  },
+  {
+    "id": "astrid-lindgren-world",
+    "name": {
+      "sr": "Svet Astrid Lindgren",
+      "en": "Astrid Lindgren's World"
+    },
+    "place": {
+      "sr": "Vimerbi, Švedska",
+      "en": "Vimmerby, Sweden"
+    },
+    "country": "SE",
+    "region": "nordic",
+    "coords": [
+      57.6745,
+      15.8435
+    ],
+    "airport": {
+      "iata": "LPI",
+      "km": 95,
+      "minutes": 75,
+      "mode": {
+        "sr": "autom",
+        "en": "car"
+      }
+    },
+    "category": "theme",
+    "tags": [
+      "theme-park",
+      "fairytale",
+      "playground",
+      "forest"
+    ],
+    "ages": {
+      "baby": 1,
+      "toddler": 3,
+      "preschool": 3
+    },
+    "stroller": 3,
+    "budget": 3,
+    "bestMonths": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "season": {
+      "sr": "Otvoren od sredine maja do sredine avgusta, vikendima u septembru.",
+      "en": "Open mid-May to mid-August, with weekends into September."
+    },
+    "tagline": {
+      "sr": "Pipi, Emil i Karlson uživo – bajke Astrid Lindgren u šumi gde je sve igra.",
+      "en": "Pippi, Emil and Karlsson live – Astrid Lindgren's tales in a forest where everything is play."
+    },
+    "description": {
+      "sr": "Svet Astrid Lindgren u Vimerbiju oživljava njene bajke u prirodnoj šumi: vila Pipi Duga Čarapa, selo Buleba i Emilov salaš. Sve je u dečjoj visini, sa živim predstavama i prostorima za slobodnu igru. To je miran, zelen park bez vrtoglavih vožnji – savršen za uzrast od 3 do 6 godina i njihove roditelje.",
+      "en": "Astrid Lindgren's World in Vimmerby brings her tales to life in a natural forest: Pippi Longstocking's Villa Villekulla, the Bullerbyn village and Emil's farm. Everything is at child height, with live shows and open play areas. It is a calm, green park with no dizzying rides – perfect for ages 3–6 and their parents."
+    },
+    "highlights": [
+      {
+        "sr": "Vila Pipi Duga Čarapa",
+        "en": "Pippi Longstocking's Villa Villekulla"
+      },
+      {
+        "sr": "Žive pozorišne predstave",
+        "en": "Live theatre shows"
+      },
+      {
+        "sr": "Selo Buleba",
+        "en": "The Bullerbyn village"
+      },
+      {
+        "sr": "Prostori za slobodnu igru u šumi",
+        "en": "Open forest play areas"
+      }
+    ],
+    "pros": [
+      {
+        "sr": "Sve je u dečjoj visini i mirno",
+        "en": "Everything is at child height and calm"
+      },
+      {
+        "sr": "Bez vrtoglavih vožnji – idealno za predškolce",
+        "en": "No dizzying rides – ideal for preschoolers"
+      },
+      {
+        "sr": "Deca do 3 godine ulaze besplatno",
+        "en": "Children under 3 enter free"
+      }
+    ],
+    "cons": [
+      {
+        "sr": "Sezona je kratka (maj–avgust)",
+        "en": "Short season (May–August)"
+      },
+      {
+        "sr": "Predstave su na švedskom",
+        "en": "Shows are in Swedish"
+      },
+      {
+        "sr": "Udaljena lokacija i visoke cene",
+        "en": "Remote location and high prices"
+      }
+    ],
+    "tip": {
+      "sr": "Predstave su na švedskom, ali su toliko vizuelne da deca uživaju i bez razumevanja teksta.",
+      "en": "The shows are in Swedish, but they are so visual that children enjoy them without understanding a word."
+    },
+    "costs": {
+      "tickets": [
+        {
+          "name": {
+            "sr": "Dnevna karta",
+            "en": "Day ticket"
+          },
+          "adult": 44,
+          "child": 35,
+          "freeUnder": 3,
+          "url": "https://astridlindgrensvarld.se/en/information/tickets-prices"
+        }
+      ],
+      "hotelNight": {
+        "budget": 90,
+        "mid": 140,
+        "comfort": 220
+      },
+      "foodPerAdultDay": 40,
+      "localPerDay": 10
+    },
+    "officialUrl": "https://astridlindgrensvarld.se/en",
+    "sources": [
+      "https://astridlindgrensvarld.se/en/information/tickets-prices",
+      "https://freedomtravel.se/en/2024/08/astrid-lindgrens-varld-i-vimmerby"
+    ],
+    "priceConfidence": "estimated",
+    "images": [
+      "File:Astrid Lindgrens Värld - Villa Villekulla.jpg",
+      "File:Pippi Långstrump, Astrid Lindgrens Värld 2014.jpg",
+      "File:Astrid Lindgrens Värld - House of Lotta on Troublemaker Street.jpg",
+      "File:Astrid Lindgrens Värld - Katthult.jpg",
+      "File:Astrid Lindgrens Värld, Vimmerby 7.jpg",
+      "File:Astrid Lindgrens Värld - Entré.jpg"
+    ]
+  }
+]

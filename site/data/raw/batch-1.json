@@ -1,0 +1,690 @@
+[
+  {
+    "id": "billund-legoland",
+    "name": { "sr": "Legoland Bilund", "en": "Legoland Billund" },
+    "place": { "sr": "Bilund, Danska", "en": "Billund, Denmark" },
+    "country": "DK",
+    "region": "nordic",
+    "coords": [55.7355, 9.1280],
+    "airport": { "iata": "BLL", "km": 3, "minutes": 5, "mode": { "sr": "autom ili taksijem", "en": "car or taxi" } },
+    "category": "theme",
+    "tags": ["theme-park", "playground", "train", "boat", "water-park"],
+    "ages": { "baby": 2, "toddler": 3, "preschool": 3 },
+    "stroller": 3,
+    "budget": 3,
+    "bestMonths": [5, 6, 7, 8, 9],
+    "season": { "sr": "Radi otprilike od kraja marta do početka novembra; zimi je zatvoren, osim pojedinih prazničnih vikenda.", "en": "Open roughly from late March to early November; closed over the deep winter months except a few holiday weekends." },
+    "tagline": { "sr": "Grad od kockica u kome i najmlađi prvi put voze auto i voz.", "en": "A town built of bricks, where even the youngest get their first drive." },
+    "description": {
+      "sr": "Legoland Bilund je originalni park od lego kockica, smešten tik uz fabriku u kojoj je Lego nastao. Najmlađi obožavaju Duplo zemlju, Miniland sa gradovima i lukama od miliona kockica i lagane vožnje koje mogu da voze i deca od dve-tri godine. Park je prostran, ravan i potpuno prilagođen kolicima, sa dosta senke i mirnih kutaka za hranjenje. Ovo je raj za decu od 2 do 6 godina i pravo mesto za prvo veliko tematsko iskustvo.",
+      "en": "Legoland Billund is the original LEGO park, right next to the factory where LEGO began. Little ones love DUPLO Land, the Miniland cities and harbours built from millions of bricks, and the gentle rides that children as young as two can drive themselves. The park is spacious, flat and completely stroller-friendly, with plenty of shade and quiet corners for feeding. It is heaven for two-to-six-year-olds and the ideal first big theme-park trip."
+    },
+    "highlights": [
+      { "sr": "Duplo zemlja sa mini kućicama i prvim vožnjama za najmlađe", "en": "DUPLO Land with mini houses and a child's first rides" },
+      { "sr": "Miniland — gradovi i luke sačinjeni od miliona kockica", "en": "Miniland — cities and harbours made of millions of bricks" },
+      { "sr": "Vožnja mini vozom i brodićem kroz park", "en": "A mini train and boat ride through the park" },
+      { "sr": "Auto-škola u kojoj deca voze električne autiće", "en": "The traffic school where children drive electric cars" },
+      { "sr": "Upoznavanje sa likovima i igrališta na otvorenom", "en": "Meeting the characters and open-air playgrounds" }
+    ],
+    "pros": [
+      { "sr": "Dizajniran baš za predškolce — većina vožnji nema visoka ograničenja", "en": "Designed for preschoolers — most rides have no high height limits" },
+      { "sr": "Ravan, prostran i potpuno prilagođen kolicima", "en": "Flat, spacious and fully stroller-friendly" },
+      { "sr": "Aerodrom Bilund je bukvalno preko puta", "en": "Billund Airport is literally across the road" },
+      { "sr": "Deca mlađa od 2 godine ulaze besplatno", "en": "Children under 2 enter free" }
+    ],
+    "cons": [
+      { "sr": "Danska je skupa — hrana i smeštaj brzo pojedu budžet", "en": "Denmark is expensive — food and lodging eat the budget quickly" },
+      { "sr": "Gužve su velike u julu i avgustu", "en": "Crowds are heavy in July and August" },
+      { "sr": "Malo natkrivenih zona — letnji pljuskovi umeju da pokvare dan", "en": "Few covered areas — summer showers can spoil a day" },
+      { "sr": "Dosta vožnji je zatvoreno van glavne sezone", "en": "Many rides close outside the main season" }
+    ],
+    "tip": { "sr": "Kupite karte onlajn bar nekoliko dana ranije — na ulazu su skoro upola skuplje, a po kiši nema povraćaja novca.", "en": "Buy tickets online a few days ahead — gate prices are nearly 50% higher, and there are no refunds for rain." },
+    "costs": {
+      "tickets": [
+        { "name": { "sr": "Legoland dnevna karta (onlajn)", "en": "Legoland day ticket (online)" }, "adult": 47, "child": 47, "freeUnder": 2, "url": "https://www.legoland.dk/en/tickets-passes/tickets/" }
+      ],
+      "hotelNight": { "budget": 100, "mid": 160, "comfort": 280 },
+      "foodPerAdultDay": 50,
+      "localPerDay": 15
+    },
+    "officialUrl": "https://www.legoland.dk/en/",
+    "sources": ["https://www.legoland.dk/en/tickets-passes/tickets/", "https://funacrosstheworld.com/2025/03/01/how-much-are-legoland-billund-tickets/"],
+    "priceConfidence": "verified",
+    "images": ["File:Legoland Billund - Miniland.jpg", "File:Legoland Billund 0562.jpg", "File:Billund Legoland 12.jpg", "File:Legoland Billund - Pirate Carousel.jpg", "File:Legoland Billund, Castle (1).jpg"]
+  },
+  {
+    "id": "paris-disneyland",
+    "name": { "sr": "Diznilend Pariz", "en": "Disneyland Paris" },
+    "place": { "sr": "Marn-la-Vale, kod Pariza", "en": "Marne-la-Vallée, near Paris" },
+    "country": "FR",
+    "region": "western",
+    "coords": [48.8723, 2.7758],
+    "airport": { "iata": "CDG", "km": 45, "minutes": 40, "mode": { "sr": "autom, vozom ili taksijem", "en": "car, train or taxi" } },
+    "category": "theme",
+    "tags": ["theme-park", "fairytale", "indoor", "train", "playground"],
+    "ages": { "baby": 2, "toddler": 3, "preschool": 3 },
+    "stroller": 3,
+    "budget": 3,
+    "bestMonths": [4, 5, 9, 10],
+    "season": { "sr": "Otvoren tokom cele godine, uz sezonske promene programa.", "en": "Open all year round, with seasonal changes to the shows and programme." },
+    "tagline": { "sr": "Bajka u prirodnoj veličini — a deca mlađa od tri godine ulaze besplatno.", "en": "A fairy tale at full size — and under-threes go free." },
+    "description": {
+      "sr": "Diznilend Pariz je najbliža velika Diznijeva destinacija za porodice iz regiona, sa dva parka, paradama i likovima koje deca obožavaju. Za najmlađe su najlepši Fantazilend, Dumbo, karuseli i mali vozovi, dok roditelji cene što je sve ravno i prilagođeno kolicima. Uz dosta zatvorenih atrakcija, park dobro funkcioniše i po kiši i zimi. Cene su visoke, ali je iskustvo za decu od 3 do 6 godina čista magija.",
+      "en": "Disneyland Paris is the closest major Disney destination for families in the region, with two parks, parades and the characters children adore. For the youngest, Fantasyland, Dumbo, the carousels and the little trains are the highlight, while parents appreciate how flat and stroller-friendly everything is. With plenty of indoor attractions, it works well in rain and winter too. Prices are high, but for three-to-six-year-olds the experience is pure magic."
+    },
+    "highlights": [
+      { "sr": "Fantazilend sa Dumbo slonovima i karuselima", "en": "Fantasyland with Dumbo and the carousels" },
+      { "sr": "Parada i upoznavanje sa Diznijevim likovima", "en": "The parade and meeting Disney characters" },
+      { "sr": "Vožnja 'It's a Small World' i mali voz", "en": "The 'It's a Small World' ride and the little train" },
+      { "sr": "Zamak Uspavane lepotice — srce parka", "en": "Sleeping Beauty Castle — the heart of the park" },
+      { "sr": "Šetnja po Trgu glavne ulice i radnjicama", "en": "Strolling Main Street and the little shops" }
+    ],
+    "pros": [
+      { "sr": "Deca mlađa od 3 godine ulaze besplatno", "en": "Children under 3 enter free" },
+      { "sr": "Potpuno prilagođen kolicima i porodicama", "en": "Completely stroller- and family-friendly" },
+      { "sr": "Mnogo zatvorenih atrakcija za kišne dane", "en": "Lots of indoor attractions for rainy days" },
+      { "sr": "Iznajmljivanje kolica i porodične usluge na svakom koraku", "en": "Stroller hire and family services at every step" }
+    ],
+    "cons": [
+      { "sr": "Veoma skupo — karte, hrana i suveniri", "en": "Very expensive — tickets, food and souvenirs" },
+      { "sr": "Gužve i redovi, posebno vikendom i tokom praznika", "en": "Crowds and queues, especially weekends and holidays" },
+      { "sr": "Neke vožnje imaju visinska ograničenja za male", "en": "Some rides have height limits for little ones" },
+      { "sr": "Dugi dani na nogama umore i decu i roditelje", "en": "Long days on your feet tire both kids and parents" }
+    ],
+    "tip": { "sr": "Dođite radnim danom van raspusta i kupite datirane karte onlajn — na ulazu se karte ne prodaju, a onlajn je mnogo jeftinije.", "en": "Go on a weekday outside school holidays and buy dated tickets online — tickets are not sold at the gate, and online is far cheaper." },
+    "costs": {
+      "tickets": [
+        { "name": { "sr": "Diznilend Pariz, 1 dan / 1 park", "en": "Disneyland Paris, 1 day / 1 park" }, "adult": 105, "child": 97, "freeUnder": 3, "url": "https://www.disneylandparis.com/en-gb/tickets" }
+      ],
+      "hotelNight": { "budget": 120, "mid": 180, "comfort": 320 },
+      "foodPerAdultDay": 55,
+      "localPerDay": 15
+    },
+    "officialUrl": "https://www.disneylandparis.com/en-gb/",
+    "sources": ["https://www.disneylandparis.com/en-gb/tickets", "https://1sticket.com/en/offer/disneyland-paris"],
+    "priceConfidence": "verified",
+    "images": ["File:Disneyland Paryż 2013 (2).JPG", "File:Disneyland Paris - panoramio (4).jpg", "File:Disneyland Paris Fantasyland Panorama.jpg", "File:Disneyland Paryż 2013 (13).JPG", "File:Sleeping Beauty Castle DLP Jan 2013.jpg"]
+  },
+  {
+    "id": "efteling",
+    "name": { "sr": "Efteling", "en": "Efteling" },
+    "place": { "sr": "Kaatshejvel, kod Tilburga", "en": "Kaatsheuvel, near Tilburg" },
+    "country": "NL",
+    "region": "western",
+    "coords": [51.6497, 5.0437],
+    "airport": { "iata": "EIN", "km": 38, "minutes": 35, "mode": { "sr": "autom ili taksijem", "en": "car or taxi" } },
+    "category": "theme",
+    "tags": ["theme-park", "fairytale", "forest", "train", "boat"],
+    "ages": { "baby": 2, "toddler": 3, "preschool": 3 },
+    "stroller": 3,
+    "budget": 2,
+    "bestMonths": [4, 5, 6, 9],
+    "season": { "sr": "Otvoren tokom cele godine.", "en": "Open all year round." },
+    "tagline": { "sr": "Park bajki u šumi — deca mlađa od četiri godine ulaze besplatno.", "en": "A fairytale park in the woods — under-fours go free." },
+    "description": {
+      "sr": "Efteling je jedan od najlepših tematskih parkova Evrope, smešten u šumi i prepun bajki koje oživljavaju na svakom koraku. Njegova Šuma bajki je čarobna i za decu od dve godine, a lagane vožnje poput čamčića i parnog voza nemaju visinskih ograničenja. Park je ravan, zelen i pun senke, pa je idealan za duge porodične dane. Uz besplatan ulaz za mlađe od četiri godine, odličan je izbor za prvi park van zemlje.",
+      "en": "Efteling is one of Europe's most beautiful theme parks, set in woodland and full of fairy tales that come alive at every turn. Its Fairytale Forest is magical even for two-year-olds, and the gentle boat and steam-train rides have no height limits. The park is flat, green and full of shade, making it ideal for long family days. With free entry for under-fours, it is a superb first foreign theme park."
+    },
+    "highlights": [
+      { "sr": "Šuma bajki — kućice Crvenkape, Trnoružice i drugih", "en": "The Fairytale Forest — houses of Little Red Riding Hood, Sleeping Beauty and more" },
+      { "sr": "Vožnja čamčićem Gondoletta i parnim vozom", "en": "The Gondoletta boat ride and the steam train" },
+      { "sr": "Karnevalski festival sa lutkama i muzikom", "en": "The Carnaval Festival with puppets and music" },
+      { "sr": "Patuljakovo selo i dvorac u senci drveća", "en": "The gnome village and a castle in the trees" },
+      { "sr": "Velika igrališta i zeleni kutci za piknik", "en": "Big playgrounds and green picnic corners" }
+    ],
+    "pros": [
+      { "sr": "Deca mlađa od 4 godine ulaze besplatno", "en": "Children under 4 enter free" },
+      { "sr": "Mnogo laganih vožnji bez visinskih ograničenja", "en": "Many gentle rides with no height limits" },
+      { "sr": "Zelen, šumovit i pun senke i tokom leta", "en": "Green, wooded and shady even in summer" },
+      { "sr": "Jeftiniji i manje gužve nego Diznilend", "en": "Cheaper and less crowded than Disneyland" }
+    ],
+    "cons": [
+      { "sr": "Cene variraju po danima — vikendom su osetno više", "en": "Prices vary by day — weekends are noticeably dearer" },
+      { "sr": "Park je velik, pa su mališani brzo umorni", "en": "The park is large, so little legs tire quickly" },
+      { "sr": "Parking se dodatno plaća", "en": "Parking is paid separately" },
+      { "sr": "Manje natkrivenog prostora za kišne dane", "en": "Less under-cover space for rainy days" }
+    ],
+    "tip": { "sr": "Pogledajte kalendar cena i birajte radni dan van raspusta — ista karta može biti i 15 evra jeftinija po osobi.", "en": "Check the price calendar and pick a weekday outside school holidays — the same ticket can be €15 cheaper per person." },
+    "costs": {
+      "tickets": [
+        { "name": { "sr": "Efteling dnevna karta", "en": "Efteling day ticket" }, "adult": 51, "child": 51, "freeUnder": 4, "url": "https://www.efteling.com/en/park/tickets" }
+      ],
+      "hotelNight": { "budget": 95, "mid": 150, "comfort": 250 },
+      "foodPerAdultDay": 45,
+      "localPerDay": 12
+    },
+    "officialUrl": "https://www.efteling.com/en",
+    "sources": ["https://buildyourownfamilytrip.com/guides/efteling-with-kids-theme-park-guide", "https://bollenstreek.nl/things-to-do/amusement-parks/efteling-fairytale-amusement-park?lang=en"],
+    "priceConfidence": "estimated",
+    "images": ["File:Efteling The House of the Five Senses.jpg", "File:Efteling- Fairytale forest.jpg", "File:Efteling Kabouterdorp 01.jpg", "File:Efteling - 48113904058.jpg", "File:Efteling Roodkapje 4.jpg"]
+  },
+  {
+    "id": "copenhagen-tivoli",
+    "name": { "sr": "Tivoli vrtovi", "en": "Tivoli Gardens" },
+    "place": { "sr": "Kopenhagen", "en": "Copenhagen" },
+    "country": "DK",
+    "region": "nordic",
+    "coords": [55.6737, 12.5683],
+    "airport": { "iata": "CPH", "km": 9, "minutes": 20, "mode": { "sr": "vozom (metro) ili taksijem", "en": "train (metro) or taxi" } },
+    "category": "theme",
+    "tags": ["theme-park", "playground", "boat", "winter", "indoor"],
+    "ages": { "baby": 2, "toddler": 3, "preschool": 3 },
+    "stroller": 3,
+    "budget": 3,
+    "bestMonths": [5, 6, 7, 8, 12],
+    "season": { "sr": "Otvoren od proleća do jeseni, pa ponovo za Noć veštica i Božić; zimi je između sezona zatvoren.", "en": "Open spring to autumn, then again for Halloween and Christmas; closed in the mid-winter gap." },
+    "tagline": { "sr": "Drugi najstariji zabavni park na svetu, u srcu Kopenhagena.", "en": "The world's second-oldest amusement park, in the heart of Copenhagen." },
+    "description": {
+      "sr": "Tivoli je šarmantni zabavni park u samom centru Kopenhagena, u kome su bašte, jezerce i svetla podjednako lepi kao i vožnje. Za najmlađe postoje mirne vožnje i karuseli, a šetnja kroz cvetne aleje je prijatna i sa kolicima. Ulaz je jeftiniji nego u velikim parkovima, a vožnje se plaćaju posebno, pa porodica može da bira koliko će se vozati. Božićna sezona sa svetlima i pijacama je posebno čarobna.",
+      "en": "Tivoli is a charming amusement park right in central Copenhagen, where the gardens, the lake and the lights are as lovely as the rides. There are gentle rides and carousels for the youngest, and a stroll through the flower gardens is pleasant even with a pram. Entry is cheaper than at the big parks and rides are paid separately, so a family can choose how much to ride. The Christmas season with its lights and markets is especially magical."
+    },
+    "highlights": [
+      { "sr": "Karuseli i mirne vožnje za najmlađe", "en": "Carousels and gentle rides for the youngest" },
+      { "sr": "Šetnja kroz bašte i oko jezerceta", "en": "A walk through the gardens and around the lake" },
+      { "sr": "Pantomimski teatar i predstave na otvorenom", "en": "The pantomime theatre and open-air shows" },
+      { "sr": "Božićni vašar sa svetlima i pijacama", "en": "The Christmas fair with lights and markets" },
+      { "sr": "Večernje osvetljenje i atmosfera uz muziku", "en": "Evening illuminations and live music" }
+    ],
+    "pros": [
+      { "sr": "U samom centru, lako dostupan peške i metroom", "en": "Right in the centre, easy to reach on foot and by metro" },
+      { "sr": "Deca mlađa od 3 godine ulaze besplatno", "en": "Children under 3 enter free" },
+      { "sr": "Ulaz je povoljniji, vožnje plaćate samo po želji", "en": "Cheap entry, rides paid only if you want them" },
+      { "sr": "Potpuno prilagođen kolicima", "en": "Fully stroller-accessible" }
+    ],
+    "cons": [
+      { "sr": "Vožnje se posebno plaćaju i brzo se nakupi", "en": "Rides are paid separately and add up quickly" },
+      { "sr": "Gužve leti i tokom božićne sezone", "en": "Crowded in summer and during the Christmas season" },
+      { "sr": "Neke vožnje imaju visinska ograničenja", "en": "Some rides have height restrictions" },
+      { "sr": "Kopenhagen je skup grad", "en": "Copenhagen is an expensive city" }
+    ],
+    "tip": { "sr": "Kupite 'Ride Pass' za stariju decu, a za mališane dovoljan je sam ulaz — šetnja i karuseli su im sasvim dovoljni.", "en": "Buy the ride pass for older children — for little ones, entry alone is enough, as the walk and the carousels keep them happy." },
+    "costs": {
+      "tickets": [
+        { "name": { "sr": "Tivoli — ulaz", "en": "Tivoli — entrance" }, "adult": 24, "child": 12, "freeUnder": 3, "url": "https://www.tivoli.dk/en/tickets" },
+        { "name": { "sr": "Tivoli — Ride Pass (neograničene vožnje)", "en": "Tivoli — ride pass (unlimited rides)" }, "adult": 41, "child": 21, "freeUnder": 1, "url": "https://www.tivoli.dk/en/tickets" }
+      ],
+      "hotelNight": { "budget": 110, "mid": 180, "comfort": 300 },
+      "foodPerAdultDay": 55,
+      "localPerDay": 15
+    },
+    "officialUrl": "https://www.tivoli.dk/en",
+    "sources": ["https://www.tivoli.dk/en/tickets", "https://tourscanner.com/l/copenhagen/i/tivoli-gardens"],
+    "priceConfidence": "verified",
+    "images": ["File:Tivoli Gardens birds view.JPG", "File:Tivoli Gardens, Copenhagen, Denmark.jpg", "File:Carousel - Tivoli Gardens (Copenhagen) - DSC08378.JPG", "File:Garden path - Tivoli Gardens (Copenhagen) - DSC08390.JPG", "File:Tivoli Gardens 2.jpg"]
+  },
+  {
+    "id": "europa-park",
+    "name": { "sr": "Evropa park", "en": "Europa-Park" },
+    "place": { "sr": "Rust, Nemačka", "en": "Rust, Germany" },
+    "country": "DE",
+    "region": "central",
+    "coords": [48.2687, 7.7206],
+    "airport": { "iata": "BSL", "km": 80, "minutes": 70, "mode": { "sr": "autom ili taksijem", "en": "car or taxi" } },
+    "category": "theme",
+    "tags": ["theme-park", "fairytale", "water-park", "train", "indoor"],
+    "ages": { "baby": 2, "toddler": 3, "preschool": 3 },
+    "stroller": 3,
+    "budget": 3,
+    "bestMonths": [4, 5, 6, 9],
+    "season": { "sr": "Otvoren otprilike od kraja marta do početka januara; zimi (januar–mart) je zatvoren.", "en": "Open roughly late March to early January; closed in the winter gap (January–March)." },
+    "tagline": { "sr": "Najveći tematski park Nemačke, sa zasebnom zonom za najmlađe.", "en": "Germany's biggest theme park, with a whole zone for the youngest." },
+    "description": {
+      "sr": "Evropa park je najveći i najposećeniji tematski park Nemačke, podeljen na tematske zemlje Evrope. Za porodice sa malom decom su najvažniji mirni kutci poput Zone bajki i vožnje bez visinskih ograničenja, dok starija braća i sestre mogu da uživaju u velikim toboganima. Park je besprekorno uređen, ravan i prilagođen kolicima, sa dosta zatvorenih atrakcija. Deca mlađa od četiri godine ulaze besplatno.",
+      "en": "Europa-Park is Germany's biggest and most-visited theme park, divided into themed European lands. For families with small children the gentle corners matter most, like the Fairytale Zone and the rides with no height limits, while older siblings can enjoy the big coasters. The park is immaculately kept, flat and stroller-friendly, with plenty of indoor attractions. Children under four enter free."
+    },
+    "highlights": [
+      { "sr": "Zona bajki sa kućicama i likovima iz priča", "en": "The Fairytale Zone with its story houses and characters" },
+      { "sr": "Mirne vožnje i mali voz kroz zemlje Evrope", "en": "Gentle rides and the little train through the lands of Europe" },
+      { "sr": "Vodeni park i zone za prskanje leti", "en": "The water rides and splash zones in summer" },
+      { "sr": "Predstave i dečji program na otvorenom", "en": "Open-air shows and children's entertainment" },
+      { "sr": "Zatvorene atrakcije za kišne dane", "en": "Indoor attractions for rainy days" }
+    ],
+    "pros": [
+      { "sr": "Deca mlađa od 4 godine ulaze besplatno", "en": "Children under 4 enter free" },
+      { "sr": "Ogroman izbor i za male i za velike", "en": "Huge choice for both little and big kids" },
+      { "sr": "Besprekorno uređen i prilagođen kolicima", "en": "Immaculately kept and stroller-friendly" },
+      { "sr": "Blizu Bazela, sa dosta mogućnosti smeštaja", "en": "Near Basel, with plenty of accommodation options" }
+    ],
+    "cons": [
+      { "sr": "Skupo — karte, parking i hrana se brzo zbroje", "en": "Expensive — tickets, parking and food add up fast" },
+      { "sr": "Gužve tokom letnjih praznika", "en": "Crowded during the summer holidays" },
+      { "sr": "Park je ogroman — dan je teško sve obići", "en": "The park is huge — hard to cover in one day" },
+      { "sr": "Najbolje vožnje imaju visinska ograničenja", "en": "The best rides have height restrictions" }
+    ],
+    "tip": { "sr": "Planirajte bar dva dana i birajte smeštaj u samom resortu — gosti hotela dobijaju povoljnije karte i raniji ulaz.", "en": "Plan at least two days and stay in the resort — hotel guests get cheaper tickets and earlier entry." },
+    "costs": {
+      "tickets": [
+        { "name": { "sr": "Evropa park dnevna karta", "en": "Europa-Park day ticket" }, "adult": 70, "child": 60, "freeUnder": 4, "url": "https://www.europapark.de/en/theme-park/tickets-offers" }
+      ],
+      "hotelNight": { "budget": 100, "mid": 160, "comfort": 280 },
+      "foodPerAdultDay": 50,
+      "localPerDay": 12
+    },
+    "officialUrl": "https://www.europapark.de/en",
+    "sources": ["https://www.europapark.de/en/theme-park/tickets-offers", "https://www.waitingtimes.app/europapark/news/new-ticket-prices-and-hallowinter-special-at-europa-park-starting-in-2025-1807.html"],
+    "priceConfidence": "verified",
+    "images": ["File:2008-04-26-DSC 1978-c-Europapark.jpg", "File:Europa-Park (Rust).jpg", "File:Silver Star et train (Rust) (3).jpg", "File:Boule grise (Eurosat) (Rust).jpg", "File:Euro-Mir in Europa-Park Rust.JPG"]
+  },
+  {
+    "id": "playmobil-funpark",
+    "name": { "sr": "Plejmobil FunPark", "en": "PLAYMOBIL FunPark" },
+    "place": { "sr": "Cirndorf, kod Nirnberga", "en": "Zirndorf, near Nuremberg" },
+    "country": "DE",
+    "region": "central",
+    "coords": [49.4550, 10.9550],
+    "airport": { "iata": "NUE", "km": 20, "minutes": 25, "mode": { "sr": "autom ili taksijem", "en": "car or taxi" } },
+    "category": "theme",
+    "tags": ["theme-park", "playground", "water-park", "indoor"],
+    "ages": { "baby": 2, "toddler": 3, "preschool": 3 },
+    "stroller": 3,
+    "budget": 2,
+    "bestMonths": [5, 6, 7, 8, 9],
+    "season": { "sr": "Glavna sezona traje od kraja marta do početka novembra; zimi radi smanjeni, uglavnom zatvoreni deo.", "en": "Main season runs late March to early November; a reduced, mostly indoor part operates in winter." },
+    "tagline": { "sr": "Ogromno igralište na otvorenom gde deca sama grade svet od Plejmobila.", "en": "A giant open-air playground where kids build their own PLAYMOBIL world." },
+    "description": {
+      "sr": "Plejmobil FunPark nije klasičan park sa vožnjama, već ogromno igralište podeljeno na tematske zone — gusarski brod, viteški dvorac, vodeni svet i kućice na drvetu. Deca se penju, prskaju, kopaju zlato i sama se igraju sa velikim Plejmobil figurama, pa je ovo raj za mališane od dve do sedam godina. Sve je ravno, bezbedno i prilagođeno kolicima, a ulaz je neuporedivo jeftiniji nego u velikim parkovima.",
+      "en": "PLAYMOBIL FunPark is not a ride park but a giant playground divided into themed zones — a pirate ship, a knight's castle, a water world and treehouses. Children climb, splash, pan for gold and play freely with big PLAYMOBIL figures, making it heaven for two-to-seven-year-olds. Everything is flat, safe and stroller-friendly, and entry is far cheaper than at the big parks."
+    },
+    "highlights": [
+      { "sr": "Gusarski brod i jezero za prskanje", "en": "The pirate ship and the splash lake" },
+      { "sr": "Viteški dvorac i kućice na drvetu za penjanje", "en": "The knight's castle and climbing treehouses" },
+      { "sr": "Traženje zlata u vodenom svetu", "en": "Panning for gold in the water world" },
+      { "sr": "Zatvoreni deo za igru po lošem vremenu", "en": "The indoor play area for bad weather" },
+      { "sr": "Igranje sa velikim Plejmobil figurama", "en": "Playing with the big PLAYMOBIL figures" }
+    ],
+    "pros": [
+      { "sr": "Ulaz je jeftin — deca mlađa od 3 godine besplatno", "en": "Cheap entry — children under 3 free" },
+      { "sr": "Sve je igra, bez redova za vožnje", "en": "It is all play, with no ride queues" },
+      { "sr": "Bezbedno, ravno i potpuno prilagođeno kolicima", "en": "Safe, flat and fully stroller-friendly" },
+      { "sr": "Idealno baš za uzrast od 2 do 7 godina", "en": "Perfect for the 2–7 age range" }
+    ],
+    "cons": [
+      { "sr": "Manje zanimljivo za starije od 9-10 godina", "en": "Less interesting for children over 9–10" },
+      { "sr": "Nema klasičnih vožnji ni velikih atrakcija", "en": "No classic rides or big attractions" },
+      { "sr": "Leti ume da bude vruće na otvorenom", "en": "It can get hot outdoors in summer" },
+      { "sr": "Zimi radi samo mali, uglavnom zatvoreni deo", "en": "Only a small, mostly indoor part operates in winter" }
+    ],
+    "tip": { "sr": "Ponesite rezervnu odeću i peškire — vodeni svet je neodoljiv i nijedno dete se iz njega ne izvuče suvo.", "en": "Bring spare clothes and towels — the water world is irresistible and no child escapes it dry." },
+    "costs": {
+      "tickets": [
+        { "name": { "sr": "Plejmobil FunPark dnevna karta (onlajn)", "en": "PLAYMOBIL FunPark day ticket (online)" }, "adult": 25, "child": 25, "freeUnder": 3, "url": "https://www.playmobil-funpark.de/en/oeffnungszeiten-preise" }
+      ],
+      "hotelNight": { "budget": 85, "mid": 130, "comfort": 220 },
+      "foodPerAdultDay": 40,
+      "localPerDay": 10
+    },
+    "officialUrl": "https://www.playmobil-funpark.de/en",
+    "sources": ["https://www.playmobil-funpark.de/en/oeffnungszeiten-preise", "https://www.playmobil-funpark.de/en"],
+    "priceConfidence": "verified",
+    "images": ["File:Playmobil1.JPG", "File:Playmobil4.JPG", "File:Playmobil2.JPG", "File:Playmobil3.JPG", "File:Playmobil-funpark-zirndorf-ritterburg.jpg"]
+  },
+  {
+    "id": "munich-hellabrunn",
+    "name": { "sr": "Zoo Hellabrun", "en": "Hellabrunn Zoo" },
+    "place": { "sr": "Minhen", "en": "Munich" },
+    "country": "DE",
+    "region": "central",
+    "coords": [48.0974, 11.5540],
+    "airport": { "iata": "MUC", "km": 45, "minutes": 40, "mode": { "sr": "vozom (S-Bahn) ili taksijem", "en": "train (S-Bahn) or taxi" } },
+    "category": "animals",
+    "tags": ["zoo", "playground", "farm-animals", "forest", "rainy-day"],
+    "ages": { "baby": 2, "toddler": 3, "preschool": 3 },
+    "stroller": 2,
+    "budget": 2,
+    "bestMonths": [4, 5, 6, 9],
+    "season": { "sr": "Otvoren tokom cele godine.", "en": "Open all year round." },
+    "tagline": { "sr": "Prvi 'geo-zoo' na svetu, uz reku Isar — jeftin i savršen za mališane.", "en": "The world's first 'geo-zoo' by the Isar river — cheap and perfect for little ones." },
+    "description": {
+      "sr": "Hellabrun je prostran zoološki vrt u Minhenu, uređen po geografskim zonama u prirodnom okruženju uz reku Isar. Životinje su blizu staza, a dečja farma sa kozama i ponijima je pravi hit za mališane. Ulaz je povoljan, a velika porodična karta za dva odrasla i svu decu košta svega 45 evra. Uz igrališta i senovite staze, odličan je za poludnevni izlet i po lošijem vremenu.",
+      "en": "Hellabrunn is a spacious Munich zoo arranged in geographic zones in a natural setting along the Isar river. The animals are close to the paths, and the children's farm with goats and ponies is a real hit with little ones. Entry is cheap, and the large family ticket for two adults and all their children costs just €45. With playgrounds and shaded paths, it is a great half-day outing even in less-than-perfect weather."
+    },
+    "highlights": [
+      { "sr": "Dečja farma sa kozama, ovcama i ponijima", "en": "The children's farm with goats, sheep and ponies" },
+      { "sr": "Flamingosi, slonovi i nosorozi blizu staza", "en": "Flamingos, elephants and rhinos close to the paths" },
+      { "sr": "Igrališta i prostori za piknik u senci", "en": "Playgrounds and shaded picnic areas" },
+      { "sr": "Zatvorene kućice za životinje po kiši", "en": "Indoor animal houses for rainy days" },
+      { "sr": "Šetnja uz reku Isar", "en": "A walk along the Isar river" }
+    ],
+    "pros": [
+      { "sr": "Veoma povoljan — porodična karta svega 45 evra", "en": "Very affordable — the family ticket is just €45" },
+      { "sr": "Deca mlađa od 4 godine ulaze besplatno", "en": "Children under 4 enter free" },
+      { "sr": "Životinje su blizu i vidljive i za male", "en": "Animals are close and visible even for little ones" },
+      { "sr": "Otvoren cele godine, dobar i po lošem vremenu", "en": "Open all year, good even in poor weather" }
+    ],
+    "cons": [
+      { "sr": "Ima blagih uspona, pa kolicima treba malo snage", "en": "Some gentle slopes, so pushing a pram takes effort" },
+      { "sr": "Gužve vikendom i tokom praznika", "en": "Crowded on weekends and holidays" },
+      { "sr": "Manji izbor egzotičnih životinja nego u velikim zoo vrtovima", "en": "Fewer exotic animals than at the biggest zoos" }
+    ],
+    "tip": { "sr": "Dođite metroom U3 do stanice Thalkirchen — izbegavate skup parking i šetnja do ulaza je kratka.", "en": "Take the U3 metro to Thalkirchen — you skip the pricey car park and the walk to the entrance is short." },
+    "costs": {
+      "tickets": [
+        { "name": { "sr": "Zoo Hellabrun — ulaz", "en": "Hellabrunn Zoo — admission" }, "adult": 20, "child": 8, "freeUnder": 4, "url": "https://www.hellabrunn.de/en/news-detail/price-changes-at-hellabrunn-zoopassung-in-hellabrunn" }
+      ],
+      "hotelNight": { "budget": 100, "mid": 160, "comfort": 280 },
+      "foodPerAdultDay": 50,
+      "localPerDay": 15
+    },
+    "officialUrl": "https://www.hellabrunn.de/en",
+    "sources": ["https://www.hellabrunn.de/en/news-detail/price-changes-at-hellabrunn-zoopassung-in-hellabrunn", "https://www.hellabrunn.de/en/park-visit/general-information/faq-frequently-asked-questions"],
+    "priceConfidence": "verified",
+    "images": ["File:Caballo, Tierpark Hellabrunn, Múnich, Alemania, 2012-06-17, DD 01.jpg", "File:Flamingo (Phoenicopterus roseus), Tierpark Hellabrunn, Múnich, Alemania, 2012-06-17, DD 02.JPG", "File:Rinoceronte indio (Rhinoceros unicornis), Tierpark Hellabrunn, Múnich, Alemania, 2012-06-17, DD 02.JPG", "File:Lobo marino sudamericano (Otaria flavescens), Tierpark Hellabrunn, Múnich, Alemania, 2012-06-17, DD 03.JPG", "File:Elefantenhaus Tierpark Hellabrunn 2008.jpg"]
+  },
+  {
+    "id": "paultons-peppa",
+    "name": { "sr": "Park Paultons (Peppa Pig svet)", "en": "Paultons Park (Peppa Pig World)" },
+    "place": { "sr": "Romzi, kod Sautemptona", "en": "Romsey, near Southampton" },
+    "country": "GB",
+    "region": "british",
+    "coords": [50.9488, -1.5550],
+    "airport": { "iata": "SOU", "km": 10, "minutes": 15, "mode": { "sr": "autom ili taksijem", "en": "car or taxi" } },
+    "category": "theme",
+    "tags": ["theme-park", "playground", "dinosaurs", "train"],
+    "ages": { "baby": 2, "toddler": 3, "preschool": 3 },
+    "stroller": 3,
+    "budget": 2,
+    "bestMonths": [4, 5, 6, 7, 9],
+    "season": { "sr": "Otvoren otprilike od kraja marta do početka novembra, uz božićni program u decembru; sredinom zime je zatvoren.", "en": "Open roughly late March to early November, plus a Christmas programme in December; closed in mid-winter." },
+    "tagline": { "sr": "Peppa Pig svet — deca niža od metar ulaze besplatno.", "en": "Peppa Pig World — children under a metre tall go free." },
+    "description": {
+      "sr": "Park Paultons je porodični park na jugu Engleske, najpoznatiji po Peppa Pig svetu — zoni potpuno posvećenoj omiljenoj prasici. Sve vožnje su mirne i kratke, baš po meri dece od jedne do šest godina, a u parku ima i dinosaurusi i igrališta za mališane. Ulaz je besplatan za decu nižu od metar, što pokriva većinu dvogodišnjaka i trogodišnjaka. Idealno za prvi tematski park uz englesko leto.",
+      "en": "Paultons Park is a family park in the south of England, best known for Peppa Pig World — a zone entirely dedicated to the beloved little pig. All the rides are gentle and short, made to measure for one-to-six-year-olds, and the park also has dinosaurs and toddler play areas. Entry is free for children under a metre tall, which covers most two- and three-year-olds. Ideal for a first theme park during an English summer."
+    },
+    "highlights": [
+      { "sr": "Peppa Pig svet sa kućicom Pepe i vožnjama", "en": "Peppa Pig World with Peppa's house and rides" },
+      { "sr": "Vožnje Deda praseta i vozić u oblaku", "en": "Grandpa Pig's rides and the sky train" },
+      { "sr": "Dinosaurus zona sa modelima i igralištem", "en": "The dinosaur zone with models and a play area" },
+      { "sr": "Upoznavanje sa Peppa Pig likovima", "en": "Meeting the Peppa Pig characters" },
+      { "sr": "Igraonice i prostrana igrališta", "en": "Soft-play and spacious playgrounds" }
+    ],
+    "pros": [
+      { "sr": "Deca niža od metar ulaze besplatno", "en": "Children under a metre tall enter free" },
+      { "sr": "Vožnje su baš po meri predškolaca", "en": "Rides are sized exactly for preschoolers" },
+      { "sr": "Kompaktan park — sve se lako obiđe u jednom danu", "en": "A compact park — easy to cover in one day" },
+      { "sr": "Ravno i potpuno prilagođeno kolicima", "en": "Flat and fully stroller-friendly" }
+    ],
+    "cons": [
+      { "sr": "Gužve vikendom i tokom školskih raspusta", "en": "Crowded on weekends and during school holidays" },
+      { "sr": "Cene na ulazu su osetno više nego onlajn", "en": "Gate prices are much higher than online" },
+      { "sr": "Englesko vreme — česti pljuskovi", "en": "English weather — frequent showers" },
+      { "sr": "Manje atrakcija za stariju decu", "en": "Fewer attractions for older children" }
+    ],
+    "tip": { "sr": "Kupite karte onlajn i merite decu kod kuće — svi ispod metra idu besplatno, pa ne preplaćujte karte za mališane.", "en": "Buy tickets online and measure your children at home — everyone under a metre goes free, so don't overpay for the little ones." },
+    "costs": {
+      "tickets": [
+        { "name": { "sr": "Park Paultons dnevna karta (onlajn)", "en": "Paultons Park day ticket (online)" }, "adult": 52, "child": 52, "freeUnder": 3, "url": "https://paultonspark.co.uk/tickets/" }
+      ],
+      "hotelNight": { "budget": 90, "mid": 150, "comfort": 250 },
+      "foodPerAdultDay": 45,
+      "localPerDay": 12
+    },
+    "officialUrl": "https://paultonspark.co.uk/",
+    "sources": ["https://paultonspark.co.uk/tickets/", "https://thetravelmum.com/paultons-park-review/"],
+    "priceConfidence": "verified",
+    "images": ["File:Peppa Pig World at Paultons Park - geograph.org.uk - 6311319.jpg", "File:Copythorne , Paultons Park - Peppa Pig World - geograph.org.uk - 8166422.jpg", "File:Copythorne , Paultons Park - Peppa Pig World - geograph.org.uk - 8166425.jpg", "File:Copythorne , Paultons Park - Peppa Pig World - geograph.org.uk - 8166426.jpg", "File:Peppa Pig World at Paulton's Park - geograph.org.uk - 8233939.jpg"]
+  },
+  {
+    "id": "apenheul",
+    "name": { "sr": "Apenheul — park primata", "en": "Apenheul Primate Park" },
+    "place": { "sr": "Apeldorn", "en": "Apeldoorn" },
+    "country": "NL",
+    "region": "western",
+    "coords": [52.2180, 5.9200],
+    "airport": { "iata": "AMS", "km": 95, "minutes": 70, "mode": { "sr": "autom ili vozom", "en": "car or train" } },
+    "category": "animals",
+    "tags": ["zoo", "forest", "playground", "rainy-day"],
+    "ages": { "baby": 2, "toddler": 3, "preschool": 3 },
+    "stroller": 2,
+    "budget": 2,
+    "bestMonths": [4, 5, 6, 9],
+    "season": { "sr": "Otvoren od kraja marta do početka novembra; zimi je zatvoren.", "en": "Open late March to early November; closed in winter." },
+    "tagline": { "sr": "Šuma u kojoj majmuni slobodno hodaju među posetiocima.", "en": "A forest where monkeys roam freely among the visitors." },
+    "description": {
+      "sr": "Apenheul je jedinstven park primata u šumi kod Apeldorna, gde se neke vrste majmuna slobodno kreću među posetiocima, na dohvat ruke. Deca su oduševljena kada im lemur pređe preko staze ili im se veveričji majmun približi. Staze su šumske i blago neravne, ali park je mali i lako se obiđe za pola dana. Ulaz je povoljan, a deca mlađa od tri godine ulaze besplatno.",
+      "en": "Apenheul is a unique primate park in a forest near Apeldoorn, where some monkey species roam freely among the visitors, within arm's reach. Children are thrilled when a lemur crosses the path or a squirrel monkey comes close. The paths are woodland and slightly uneven, but the park is small and easy to cover in half a day. Entry is cheap, and children under three enter free."
+    },
+    "highlights": [
+      { "sr": "Lemuri i veveričji majmuni koji hodaju pored vas", "en": "Lemurs and squirrel monkeys walking right beside you" },
+      { "sr": "Gorile i orangutani na velikim ostrvima", "en": "Gorillas and orangutans on large islands" },
+      { "sr": "Šumska igrališta i penjalice za decu", "en": "Woodland playgrounds and climbing frames" },
+      { "sr": "Hranjenje majmuna uz komentare čuvara", "en": "Monkey feedings with keeper talks" }
+    ],
+    "pros": [
+      { "sr": "Majmuni su neverovatno blizu — jedinstveno iskustvo", "en": "Monkeys are incredibly close — a unique experience" },
+      { "sr": "Deca mlađa od 3 godine ulaze besplatno", "en": "Children under 3 enter free" },
+      { "sr": "Povoljno i dovoljno za pola dana", "en": "Affordable and enough for half a day" },
+      { "sr": "Hladovita šuma je prijatna i leti", "en": "The shady forest is pleasant even in summer" }
+    ],
+    "cons": [
+      { "sr": "Šumske staze su blago neravne za kolica", "en": "Woodland paths are slightly uneven for prams" },
+      { "sr": "Zimi je zatvoren", "en": "Closed in winter" },
+      { "sr": "Morate paziti na stvari — znatiželjni majmuni", "en": "Watch your belongings — the monkeys are curious" },
+      { "sr": "Manji je od klasičnih zoo vrtova", "en": "Smaller than a classic zoo" }
+    ],
+    "tip": { "sr": "Sklonite hranu i svetle predmete u zatvorene torbe — majmuni su brzi i rado 'pozajmljuju' od posetilaca.", "en": "Keep food and shiny things in closed bags — the monkeys are quick and happily 'borrow' from visitors." },
+    "costs": {
+      "tickets": [
+        { "name": { "sr": "Apenheul dnevna karta", "en": "Apenheul day ticket" }, "adult": 26, "child": 22, "freeUnder": 3, "url": "https://www.apenheul.com/en" }
+      ],
+      "hotelNight": { "budget": 90, "mid": 140, "comfort": 240 },
+      "foodPerAdultDay": 42,
+      "localPerDay": 10
+    },
+    "officialUrl": "https://www.apenheul.com/en",
+    "sources": ["https://mytourway.com/destination/apenheul-primate-park", "https://dutch-guide.com/blog/apenheul-zoo-on-a-budget"],
+    "priceConfidence": "estimated",
+    "images": ["File:Male Gorilla gorilla gorilla Apenheul 2023.jpg", "File:Saimiri boliviensis Apenheul 2023.jpg", "File:Macaca sylvanus Apenheul 2023.jpg", "File:Mammals at Apenheul Primate Park 04.jpg", "File:Ara chloropterus -Apenheul Primate Park -Netherlands -two-8a.jpg"]
+  },
+  {
+    "id": "tropical-islands",
+    "name": { "sr": "Tropska ostrva", "en": "Tropical Islands Resort" },
+    "place": { "sr": "Krausnik, kod Berlina", "en": "Krausnick, near Berlin" },
+    "country": "DE",
+    "region": "central",
+    "coords": [52.0350, 13.7460],
+    "airport": { "iata": "BER", "km": 60, "minutes": 45, "mode": { "sr": "autom ili vozom", "en": "car or train" } },
+    "category": "theme",
+    "tags": ["water-park", "indoor", "beach", "rainy-day", "playground"],
+    "ages": { "baby": 3, "toddler": 3, "preschool": 3 },
+    "stroller": 3,
+    "budget": 2,
+    "bestMonths": [1, 2, 11, 12],
+    "season": { "sr": "Otvoren tokom cele godine — u hali je stalno toplo, bez obzira na napolju.", "en": "Open all year round — the dome is always warm, whatever the weather outside." },
+    "tagline": { "sr": "Troptska plaža pod kupolom — leto u januaru, sat od Berlina.", "en": "A tropical beach under a dome — summer in January, an hour from Berlin." },
+    "description": {
+      "sr": "Tropska ostrva su ogromna tropska kupola sa peščanom plažom, lagunom, toboganima i pravom džunglom — sve zagrejano na prijatnih 26 stepeni tokom cele godine. Za porodice sa bebama i mališanima ovo je savršen zimski beg: plitka voda, toplota i puno prostora za igru. Na raspolaganju su porodične svlačionice, igraonica i dečji klub. Deca do treće godine ulaze besplatno.",
+      "en": "Tropical Islands is a huge tropical dome with a sandy beach, a lagoon, water slides and a real jungle — all kept at a pleasant 26°C all year round. For families with babies and toddlers this is the perfect winter escape: shallow water, warmth and lots of room to play. Family changing rooms, a soft-play area and a kids' club are available. Children up to three years enter free."
+    },
+    "highlights": [
+      { "sr": "Peščana plaža i plitka laguna za mališane", "en": "The sandy beach and the shallow toddler lagoon" },
+      { "sr": "Tobogani i dečja zona za prskanje", "en": "Water slides and the children's splash zone" },
+      { "sr": "Šetnja kroz tropsku džunglu", "en": "A walk through the tropical rainforest" },
+      { "sr": "Dečji klub i igraonica", "en": "The kids' club and soft-play area" },
+      { "sr": "Noćenje u šatorima i bungalovima unutar hale", "en": "Overnight stays in tents and lodges inside the dome" }
+    ],
+    "pros": [
+      { "sr": "Toplo i sunčano čak i usred zime", "en": "Warm and sunny even in the depths of winter" },
+      { "sr": "Deca do 3 godine ulaze besplatno", "en": "Children up to 3 enter free" },
+      { "sr": "Plitka, mirna voda je idealna za bebe", "en": "Shallow, calm water is ideal for babies" },
+      { "sr": "Sve na jednom mestu — kupanje, igra i noćenje", "en": "Everything in one place — swimming, play and an overnight stay" }
+    ],
+    "cons": [
+      { "sr": "Gužve vikendom i tokom školskih raspusta", "en": "Crowded on weekends and during school holidays" },
+      { "sr": "Vlažan vazduh i buka u hali umeju da umore", "en": "The humid air and noise inside can be tiring" },
+      { "sr": "Hrana i napici unutra su skupi", "en": "Food and drink inside are expensive" },
+      { "sr": "Noćenje u hali je lepo, ali skuplje", "en": "Overnight stays in the dome are nice but pricier" }
+    ],
+    "tip": { "sr": "Dođite radnim danom van raspusta i ponesite vodeni krevetić — plitka laguna je najsigurnija za prve plivačke pokušaje.", "en": "Come on a weekday outside the holidays and bring a baby float — the shallow lagoon is the safest spot for first swims." },
+    "costs": {
+      "tickets": [
+        { "name": { "sr": "Tropska ostrva — dnevna karta (onlajn)", "en": "Tropical Islands — day ticket (online)" }, "adult": 45, "child": 38, "freeUnder": 4, "url": "https://www.tropical-islands.de/en/buy-book/allgemeine-tickets/ticket-angebote" }
+      ],
+      "hotelNight": { "budget": 90, "mid": 140, "comfort": 240 },
+      "foodPerAdultDay": 40,
+      "localPerDay": 10
+    },
+    "officialUrl": "https://www.tropical-islands.de/en",
+    "sources": ["https://www.tropical-islands.de/preise-oeffnungszeiten/preise", "https://www.urlaubsguru.de/freizeitaktivitaeten/tropical-islands/"],
+    "priceConfidence": "verified",
+    "images": ["File:Tropical Islands Halbe 3.jpg", "File:Tropical Islands Resort.jpg", "File:Tropical Islands Inside.jpg", "File:Tropical Islands Halbe 11.jpg", "File:Tropical Islands Regenwald.JPG"]
+  },
+  {
+    "id": "brussels-pairi-daiza",
+    "name": { "sr": "Pairi Daiza", "en": "Pairi Daiza" },
+    "place": { "sr": "Brižlet, Belgija", "en": "Brugelette, Belgium" },
+    "country": "BE",
+    "region": "western",
+    "coords": [50.5830, 3.8830],
+    "airport": { "iata": "BRU", "km": 75, "minutes": 60, "mode": { "sr": "autom ili vozom", "en": "car or train" } },
+    "category": "animals",
+    "tags": ["zoo", "aquarium", "farm-animals", "train", "boat"],
+    "ages": { "baby": 2, "toddler": 3, "preschool": 3 },
+    "stroller": 2,
+    "budget": 2,
+    "bestMonths": [4, 5, 6, 9],
+    "season": { "sr": "Otvoren tokom cele godine; pojedini delovi i atrakcije rade sezonski.", "en": "Open all year round; some areas and attractions operate seasonally." },
+    "tagline": { "sr": "'Vrt svetova' — zoo vrt i botanička bašta u jednom, blizu Brisela.", "en": "The 'Garden of the Worlds' — zoo and botanic garden in one, near Brussels." },
+    "description": {
+      "sr": "Pairi Daiza je višestruko nagrađivani park životinja i bašti, uređen po tematskim 'svetovima' od Azije do Afrike, smešten u staroj opatiji. Za porodice su najlepši pande, pingvini i ograđeni prostori gde deca mogu da hrane koze, uz vožnju parnim vozom kroz park. Staze su dobre, ali je park velik, pa računajte na dosta hodanja. Deca mlađa od tri godine ulaze besplatno.",
+      "en": "Pairi Daiza is a multi-award-winning animal and garden park laid out as themed 'worlds' from Asia to Africa, set in an old abbey. Families love the pandas, the penguins and the petting areas where children feed the goats, plus a ride on the steam train. The paths are good but the park is large, so expect plenty of walking. Children under three enter free."
+    },
+    "highlights": [
+      { "sr": "Pande i pingvini iz neposredne blizine", "en": "Pandas and penguins seen up close" },
+      { "sr": "Hranjenje koza i domaćih životinja", "en": "Feeding the goats and farm animals" },
+      { "sr": "Vožnja parnim vozom kroz park", "en": "A ride on the steam train" },
+      { "sr": "Tematski vrtovi — kineski, japanski i afrički", "en": "Themed gardens — Chinese, Japanese and African" },
+      { "sr": "Veliki akvarijum u starom dvorcu", "en": "The big aquarium in the old castle" }
+    ],
+    "pros": [
+      { "sr": "Deca mlađa od 3 godine ulaze besplatno", "en": "Children under 3 enter free" },
+      { "sr": "Prelep park — uživaju i odrasli, ne samo deca", "en": "A beautiful park — adults enjoy it as much as children" },
+      { "sr": "Puno zatvorenih delova za kišne dane", "en": "Plenty of indoor areas for rainy days" },
+      { "sr": "Lako dostupan iz Brisela", "en": "Easy to reach from Brussels" }
+    ],
+    "cons": [
+      { "sr": "Park je ogroman — za malu decu dosta hodanja", "en": "The park is huge — a lot of walking for little legs" },
+      { "sr": "Ulaz na blagajni je 5 evra skuplji nego onlajn", "en": "Gate entry is €5 dearer than online" },
+      { "sr": "Neke zone su zimi zatvorene", "en": "Some zones close in winter" },
+      { "sr": "Gužve vikendom i tokom praznika", "en": "Crowded on weekends and holidays" }
+    ],
+    "tip": { "sr": "Kupite karte onlajn i dođite rano — park je prevelik za jedan dan, pa prvo obiđite pande dok su aktivne.", "en": "Buy tickets online and arrive early — the park is too big for one day, so see the pandas first while they're active." },
+    "costs": {
+      "tickets": [
+        { "name": { "sr": "Pairi Daiza dnevna karta (onlajn)", "en": "Pairi Daiza day ticket (online)" }, "adult": 38, "child": 37, "freeUnder": 3, "url": "https://pairidaiza.eu/en/tickets" }
+      ],
+      "hotelNight": { "budget": 90, "mid": 140, "comfort": 240 },
+      "foodPerAdultDay": 42,
+      "localPerDay": 10
+    },
+    "officialUrl": "https://pairidaiza.eu/en",
+    "sources": ["https://pairidaiza.eu/en/tickets", "https://pairidaiza.eu/en/faq"],
+    "priceConfidence": "verified",
+    "images": ["File:Pairi Daiza.jpg", "File:Pairi Daiza - Ours bruns.jpg", "File:Pairi Daiza - Ancienne abbaye de Cambron.jpg", "File:Pairi Daiza 2023.jpg", "File:Perri Daiza 2017 13.jpg"]
+  },
+  {
+    "id": "stockholm-junibacken",
+    "name": { "sr": "Junibaken", "en": "Junibacken" },
+    "place": { "sr": "Stokholm", "en": "Stockholm" },
+    "country": "SE",
+    "region": "nordic",
+    "coords": [59.3290, 18.0900],
+    "airport": { "iata": "ARN", "km": 45, "minutes": 45, "mode": { "sr": "vozom (Arlanda Express) ili taksijem", "en": "train (Arlanda Express) or taxi" } },
+    "category": "edutainment",
+    "tags": ["museum", "indoor", "fairytale", "train", "rainy-day"],
+    "ages": { "baby": 2, "toddler": 3, "preschool": 3 },
+    "stroller": 3,
+    "budget": 3,
+    "bestMonths": [1, 2, 3, 11, 12],
+    "season": { "sr": "Otvoren tokom cele godine, uz različito radno vreme po sezoni.", "en": "Open all year round, with varying seasonal hours." },
+    "tagline": { "sr": "Kuća Pipi Duge Čarape i voz kroz priče Astrid Lindgren.", "en": "Pippi Longstocking's house and a train ride through Astrid Lindgren's stories." },
+    "description": {
+      "sr": "Junibaken je muzej priča posvećen Astrid Lindgren, smešten na ostrvu Jurgorden u Stokholmu. Centralni doživljaj je vožnja 'vozom kroz priče' koji prolazi kroz scene iz njenih knjiga, dok deca najviše vole Vilu Vilekulu, pravu kuću Pipi Duge Čarape. Sve je unutra, toplo i prilagođeno kolicima, pa je savršeno za kišne i hladne dane. Deca mlađa od dve godine ulaze besplatno.",
+      "en": "Junibacken is a story museum dedicated to Astrid Lindgren, on the island of Djurgården in Stockholm. The centrepiece is a 'story train' ride through scenes from her books, while children love Villa Villekulla, Pippi Longstocking's actual house. Everything is indoors, warm and stroller-friendly, making it perfect for rainy and cold days. Children under two enter free."
+    },
+    "highlights": [
+      { "sr": "Voz kroz priče Astrid Lindgren", "en": "The story train through Astrid Lindgren's tales" },
+      { "sr": "Vila Vilekula — kuća Pipi Duge Čarape", "en": "Villa Villekulla — Pippi Longstocking's house" },
+      { "sr": "Dečji teatar sa predstavama", "en": "The children's theatre with performances" },
+      { "sr": "Igraonica i knjižara sa pričama", "en": "The play area and story bookshop" },
+      { "sr": "Pogled na ostrvo Jurgorden i muzeje u okolini", "en": "Views over Djurgården and the neighbouring museums" }
+    ],
+    "pros": [
+      { "sr": "Savršeno za kišne i zimske dane — sve je unutra", "en": "Perfect for rainy and winter days — everything is indoors" },
+      { "sr": "Deca mlađa od 2 godine ulaze besplatno", "en": "Children under 2 enter free" },
+      { "sr": "Potpuno prilagođeno kolicima", "en": "Fully stroller-accessible" },
+      { "sr": "Pipi i Muminovi su bliski i našoj deci", "en": "Pippi and the Moomins are familiar to our children too" }
+    ],
+    "cons": [
+      { "sr": "Cene rastu vikendom i tokom raspusta", "en": "Prices rise on weekends and during holidays" },
+      { "sr": "Može biti gužva u vreme predstava", "en": "Can get busy around show times" },
+      { "sr": "Stokholm je skup grad", "en": "Stockholm is an expensive city" },
+      { "sr": "Najviše znači deci koja znaju Lindgrenove likove", "en": "Means most to children who know Lindgren's characters" }
+    ],
+    "tip": { "sr": "Rezervišite kartu za teatar unapred onlajn — mesta su ograničena, a predstava je uključena u ulaz.", "en": "Book the theatre seat online in advance — places are limited and the show is included in the ticket." },
+    "costs": {
+      "tickets": [
+        { "name": { "sr": "Junibaken dnevna karta", "en": "Junibacken day ticket" }, "adult": 16, "child": 13, "freeUnder": 2, "url": "https://www.junibacken.se/en/upplevelse/entrance-ticket-to-junibacken" }
+      ],
+      "hotelNight": { "budget": 110, "mid": 180, "comfort": 300 },
+      "foodPerAdultDay": 55,
+      "localPerDay": 15
+    },
+    "officialUrl": "https://www.junibacken.se/en",
+    "sources": ["https://www.junibacken.se/en/upplevelse/entrance-ticket-to-junibacken", "https://www.junibacken.se/en/plan-your-visit/faq"],
+    "priceConfidence": "estimated",
+    "images": ["File:Villa Villekula Junibackan.JPG", "File:Junibacken November 2024 01.jpg", "File:Interiør mummihus Junibacken.JPG", "File:Junibacken från Ladugårdslandsviken.jpg", "File:Junibacken 2007.jpg"]
+  },
+  {
+    "id": "naantali-moominworld",
+    "name": { "sr": "Muminov svet", "en": "Moomin World" },
+    "place": { "sr": "Naantali, Finska", "en": "Naantali, Finland" },
+    "country": "FI",
+    "region": "nordic",
+    "coords": [60.4650, 22.0300],
+    "airport": { "iata": "TKU", "km": 16, "minutes": 20, "mode": { "sr": "autom ili autobusom", "en": "car or bus" } },
+    "category": "theme",
+    "tags": ["theme-park", "fairytale", "beach", "boat", "playground"],
+    "ages": { "baby": 2, "toddler": 3, "preschool": 3 },
+    "stroller": 2,
+    "budget": 2,
+    "bestMonths": [6, 7, 8],
+    "season": { "sr": "Otvoren samo leti, otprilike od početka juna do kraja avgusta.", "en": "Open only in summer, roughly early June to late August." },
+    "tagline": { "sr": "Muminovo ostrvo — najnežniji tematski park Skandinavije.", "en": "The Moomin island — Scandinavia's gentlest theme park." },
+    "description": {
+      "sr": "Muminov svet je tematski park na ostrvu Kajlo kod Naantalija, u kome oživljavaju likovi iz knjiga Tove Janson — Mumin, Snorki, Mala Mi i ostali. Nema brzih vožnji ni buke; deca se igraju u pravom Muminovom plavom tornju, kupaju na steni i upoznaju likove u kostimima. Sve je mirno, bezbedno i po meri dece od dve do sedam godina. Deca mlađa od dve godine ulaze besplatno.",
+      "en": "Moomin World is a theme park on Kailo island near Naantali, bringing Tove Jansson's characters to life — Moomin, Snorkmaiden, Little My and the rest. There are no fast rides or noise; children play in the real blue Moominhouse, paddle by the rocks and meet the costumed characters. Everything is calm, safe and sized for two-to-seven-year-olds. Children under two enter free."
+    },
+    "highlights": [
+      { "sr": "Plava Muminova kuća — unutra i spolja", "en": "The blue Moominhouse — inside and out" },
+      { "sr": "Upoznavanje sa likovima u kostimima", "en": "Meeting the costumed characters" },
+      { "sr": "Kupanje i igra na steni uz more", "en": "Paddling and play on the rocks by the sea" },
+      { "sr": "Vožnja brodićem i pozorište Emma", "en": "A boat ride and the Emma theatre" },
+      { "sr": "Šumske staze i stara drvena naselja", "en": "Forest paths and old wooden buildings" }
+    ],
+    "pros": [
+      { "sr": "Deca mlađa od 2 godine ulaze besplatno", "en": "Children under 2 enter free" },
+      { "sr": "Miran, bez gužve i bez visinskih ograničenja", "en": "Calm, uncrowded and no height restrictions" },
+      { "sr": "Likovi su bliski i našoj deci", "en": "The characters are familiar to our children too" },
+      { "sr": "Prelepo ostrvo i pogled na arhipelag", "en": "A beautiful island and archipelago views" }
+    ],
+    "cons": [
+      { "sr": "Otvoren samo nekoliko letnjih nedelja", "en": "Open only a few summer weeks" },
+      { "sr": "Stenovite obale — kolica idu teže", "en": "Rocky shores — pushing a pram is harder" },
+      { "sr": "Finska je skupa i daleka", "en": "Finland is expensive and far away" },
+      { "sr": "Malo zaklona od letnjeg sunca ili kiše", "en": "Little shelter from summer sun or rain" }
+    ],
+    "tip": { "sr": "Kupite dvodnevnu kartu onlajn — košta tek nešto više od jednodnevne, a deca ne žele da odu posle prvog dana.", "en": "Buy the two-day ticket online — it costs barely more than one day, and the children won't want to leave after the first." },
+    "costs": {
+      "tickets": [
+        { "name": { "sr": "Muminov svet jednodnevna karta (onlajn)", "en": "Moomin World 1-day ticket (online)" }, "adult": 43, "child": 43, "freeUnder": 2, "url": "https://www.moominworld.fi/tickets-and-prices" }
+      ],
+      "hotelNight": { "budget": 95, "mid": 150, "comfort": 250 },
+      "foodPerAdultDay": 45,
+      "localPerDay": 12
+    },
+    "officialUrl": "https://www.moominworld.fi/en",
+    "sources": ["https://www.moominworld.fi/tickets-and-prices", "https://www.moominworld.fi/opening-times"],
+    "priceConfidence": "verified",
+    "images": ["File:Muumijuna ponttoonisillan edessä 2.jpg", "File:Moomin Valley leading down to the sea, Moominworld.jpg", "File:Inside the Moominhouse, Moominworld.jpg", "File:Oshun Oxtra, Moominworld.jpg", "File:Edward the Booble, Moominworld.jpg"]
+  }
+]

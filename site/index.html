@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="sr-Latn">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Mali putnici · Evropa sa malom decom</title>
+<meta name="description" content="Proverene i bezbedne destinacije po Evropi, Balkanu, Grčkoj i Rumuniji za porodice sa bebama i malom decom, sa realnom procenom troškova.">
+<meta name="theme-color" content="#F4F7FB" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0F1428" media="(prefers-color-scheme: dark)">
+<meta property="og:title" content="Mali putnici · Evropa sa malom decom">
+<meta property="og:type" content="website">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='30' fill='%23FFC53D'/%3E%3Cpath d='M14 36l30-14 6 3-18 12 4 10-4 2-8-9-8 2z' fill='%231C2340'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:wght@400;500;700&family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/app.css">
+<script>
+  // Apply saved theme before paint to avoid a flash.
+  try { const th = localStorage.getItem('pp.theme'); if (th) document.documentElement.dataset.theme = th; } catch (e) {}
+</script>
+</head>
+<body>
+<a class="skip" href="#results">Preskoči na destinacije</a>
+
+<header class="topbar">
+  <div class="wrap topbar-in">
+    <a class="brand" href="#" aria-label="Mali putnici">
+      <svg class="brand-mark" viewBox="0 0 64 64" aria-hidden="true"><circle cx="32" cy="32" r="30" fill="var(--sun)"/><path d="M14 36l30-14 6 3-18 12 4 10-4 2-8-9-8 2z" fill="var(--ink-fixed)"/></svg>
+      <span><b data-t="brand">Mali putnici</b><small data-t="brandSub">porodična putovanja po Evropi</small></span>
+    </a>
+    <nav class="top-actions">
+      <button class="top-btn" id="favBtn" aria-pressed="false">
+        <svg class="i"><use href="#i-heart"/></svg><span data-t="favorites">Omiljeno</span><span class="count" id="favCount" hidden>0</span>
+      </button>
+      <button class="top-btn" id="langBtn" aria-label="English">EN</button>
+      <button class="top-btn icon-only" id="themeBtn" aria-label="Promeni temu"><svg class="i"><use href="#i-moon"/></svg></button>
+    </nav>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="wrap">
+    <h1 class="sentence" id="sentence" aria-live="polite"></h1>
+    <p class="lede" id="lede"></p>
+  </div>
+  <svg class="horizon" viewBox="0 0 1440 170" preserveAspectRatio="xMidYMax slice" aria-hidden="true">
+    <circle cx="1190" cy="58" r="34" fill="var(--sun)"/>
+    <path class="trail" d="M-20 118 C 220 40, 420 30, 620 70 S 960 120, 1120 44" fill="none" stroke="var(--ink-3)" stroke-width="2.5" stroke-dasharray="2 9" stroke-linecap="round"/>
+    <g class="plane"><path d="M-14 3l22-10 5 2-13 9 3 7-3 1.5-6-6.5-6 1.5z" fill="var(--ink)"/></g>
+    <path d="M0 132 C 120 96 230 104 330 122 C 420 138 520 92 640 100 C 760 108 820 136 930 128 C 1060 118 1150 90 1260 104 C 1350 115 1400 124 1440 118 V170 H0Z" fill="var(--hill-2)"/>
+    <g fill="var(--hill-1)">
+      <path d="M0 150 C 180 124 300 138 460 146 C 620 154 760 128 900 138 C 1080 150 1240 132 1440 142 V170 H0Z"/>
+      <!-- tiny castle -->
+      <path d="M386 142v-26h6v-6h5v6h6v-6h5v6h6v26zM393 108l6-12 6 12z"/>
+      <!-- ferris wheel -->
+      <g transform="translate(1016 108)" fill="none" stroke="var(--hill-1)" stroke-width="3"><circle r="22"/><path d="M0-22V22M-22 0H22M-15.5-15.5l31 31M15.5-15.5l-31 31M-10 34L0 0l10 34"/></g>
+      <!-- pine trees -->
+      <path d="M150 140l10-26 10 26zM172 142l8-20 8 20zM1300 140l10-28 10 28zM1322 142l8-19 8 19z"/>
+    </g>
+    <path d="M0 160 C 120 152 240 166 360 160 S 600 152 720 160 960 168 1080 160 1320 152 1440 160V170H0Z" fill="var(--sea)"/>
+  </svg>
+</section>
+
+<nav class="cats wrap" id="cats" aria-label="Kategorije"></nav>
+
+<section class="toolbar-wrap">
+  <div class="wrap toolbar">
+    <label class="search">
+      <svg class="i"><use href="#i-search"/></svg>
+      <input id="q" type="search" autocomplete="off" spellcheck="false">
+    </label>
+    <label class="select-pill"><span class="sr" data-t="regionLabel"></span><select id="region"></select><svg class="i chev"><use href="#i-chev"/></svg></label>
+    <div class="toggles" id="toggles"></div>
+    <label class="select-pill"><span class="sr" data-t="sortLabel">Redosled</span><select id="sort"></select><svg class="i chev"><use href="#i-chev"/></svg></label>
+    <div class="seg" id="viewSeg" role="group">
+      <button data-view="grid" aria-pressed="true"><svg class="i"><use href="#i-grid"/></svg><span></span></button>
+      <button data-view="map" aria-pressed="false"><svg class="i"><use href="#i-map"/></svg><span></span></button>
+    </div>
+  </div>
+</section>
+
+<main class="wrap" id="results" tabindex="-1">
+  <div class="result-bar"><p id="count" aria-live="polite"></p><button class="link-btn" id="clearBtn" hidden></button><button class="link-btn" id="randomBtn"></button></div>
+  <div class="grid" id="grid"></div>
+  <div class="map" id="map" hidden></div>
+</main>
+
+<footer class="footer">
+  <div class="wrap footer-in">
+    <p id="footText"></p>
+    <button class="link-btn" id="creditsBtn"></button>
+  </div>
+</footer>
+
+<div class="tray" id="tray" hidden>
+  <div class="tray-items" id="trayItems"></div>
+  <button class="btn primary" id="cmpBtn"></button>
+  <button class="btn ghost icon-only" id="cmpClear"><svg class="i"><use href="#i-x"/></svg></button>
+</div>
+
+<dialog class="sheet" id="sheet" aria-labelledby="sheetTitle"><div class="sheet-body" id="sheetBody"></div></dialog>
+<dialog class="modal" id="cmpModal"><div class="modal-body" id="cmpBody"></div></dialog>
+<dialog class="modal" id="creditsModal"><div class="modal-body" id="creditsBody"></div></dialog>
+<dialog class="lightbox" id="lightbox"><div id="lbBody"></div></dialog>
+<div class="toast" id="toast" role="status"></div>
+<label class="haptic-switch" aria-hidden="true"><input type="checkbox" switch tabindex="-1" id="hapticInput"></label>
+
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <defs>
+    <symbol id="i-heart" viewBox="0 0 24 24"><path d="M12 20.5s-7.5-4.6-9.2-9.4C1.7 7.8 3.9 4.5 7.3 4.5c2 0 3.4 1.1 4.7 2.8 1.3-1.7 2.7-2.8 4.7-2.8 3.4 0 5.6 3.3 4.5 6.6-1.7 4.8-9.2 9.4-9.2 9.4z"/></symbol>
+    <symbol id="i-moon" viewBox="0 0 24 24"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z"/></symbol>
+    <symbol id="i-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4.5"/><path d="M12 1.8v2.6M12 19.6v2.6M1.8 12h2.6M19.6 12h2.6M4.8 4.8l1.8 1.8M17.4 17.4l1.8 1.8M4.8 19.2l1.8-1.8M17.4 6.6l1.8-1.8"/></symbol>
+    <symbol id="i-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="6.5"/><path d="M20 20l-4.2-4.2"/></symbol>
+    <symbol id="i-chev" viewBox="0 0 24 24"><path d="M6 9l6 6 6-6"/></symbol>
+    <symbol id="i-grid" viewBox="0 0 24 24"><rect x="3.5" y="3.5" width="7" height="7" rx="2"/><rect x="13.5" y="3.5" width="7" height="7" rx="2"/><rect x="3.5" y="13.5" width="7" height="7" rx="2"/><rect x="13.5" y="13.5" width="7" height="7" rx="2"/></symbol>
+    <symbol id="i-map" viewBox="0 0 24 24"><path d="M9 4L3.5 6v14L9 18l6 2 5.5-2V4L15 6z M9 4v14 M15 6v14"/></symbol>
+    <symbol id="i-plane" viewBox="0 0 24 24"><path d="M2.5 13.5l17-7.5c1.3-.5 2.4.9 1.5 2l-7 7.5 1 5-2 1-3.5-5-4 1.5-1.5-1 1-2.5z"/></symbol>
+    <symbol id="i-car" viewBox="0 0 24 24"><path d="M4 16.5V12l2-5h12l2 5v4.5M3 12.5h18M4 16.5h16v2.5h-3v-2.5M7 19h-3v-2.5"/><circle cx="7.5" cy="14" r=".6"/><circle cx="16.5" cy="14" r=".6"/></symbol>
+    <symbol id="i-stroller" viewBox="0 0 24 24"><path d="M4 5h2l2 8h10.5a0 0 0 0 0 0 0A7.5 7.5 0 0 0 11 5.5V11M8 13l-1 3.5"/><circle cx="8" cy="19" r="1.8"/><circle cx="17" cy="19" r="1.8"/><path d="M18.5 13l-1 4"/></symbol>
+    <symbol id="i-compare" viewBox="0 0 24 24"><path d="M7 4v16M17 4v16M3 8h8M13 16h8M3 8l3-3M3 8l3 3M21 16l-3-3M21 16l-3 3"/></symbol>
+    <symbol id="i-check" viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7.5"/></symbol>
+    <symbol id="i-x" viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></symbol>
+    <symbol id="i-left" viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7"/></symbol>
+    <symbol id="i-right" viewBox="0 0 24 24"><path d="M9 5l7 7-7 7"/></symbol>
+    <symbol id="i-plus" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></symbol>
+    <symbol id="i-minus" viewBox="0 0 24 24"><path d="M5 12h14"/></symbol>
+    <symbol id="i-share" viewBox="0 0 24 24"><path d="M12 3v12M7.5 7.5L12 3l4.5 4.5M5 12v7.5h14V12"/></symbol>
+    <symbol id="i-ext" viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-9 9M18 14v6H4V6h6"/></symbol>
+    <symbol id="i-bulb" viewBox="0 0 24 24"><path d="M9 18h6M10 21h4M12 3a6 6 0 0 0-3.5 10.9c.6.4 1 1.1 1 1.9V16h5v-.2c0-.8.4-1.5 1-1.9A6 6 0 0 0 12 3z"/></symbol>
+    <symbol id="i-dice" viewBox="0 0 24 24"><rect x="4" y="4" width="16" height="16" rx="4"/><circle cx="9" cy="9" r=".9"/><circle cx="15" cy="15" r=".9"/><circle cx="15" cy="9" r=".9"/><circle cx="9" cy="15" r=".9"/></symbol>
+    <!-- Category illustrations (two-tone: sticker blob + ink line) -->
+    <symbol id="c-all" viewBox="0 0 48 48"><path class="blob" d="M24 4c11 0 20 7 20 19s-8 21-20 21S4 36 4 24 13 4 24 4z"/><circle cx="24" cy="24" r="12"/><path d="M12 24h24M24 12c-4 4-4 20 0 24M24 12c4 4 4 20 0 24"/></symbol>
+    <symbol id="c-theme" viewBox="0 0 48 48"><path class="blob" d="M22 5c13-2 22 8 21 20s-9 19-21 18S3 35 5 22 11 7 22 5z"/><circle cx="24" cy="21" r="11"/><path d="M24 10v22M13 21h22M16.5 13.5l15 15M31.5 13.5l-15 15M18 42l6-10 6 10M15 42h18"/></symbol>
+    <symbol id="c-animals" viewBox="0 0 48 48"><path class="blob" d="M25 4c12 1 19 10 18 22s-10 18-21 17S4 34 5 22 13 3 25 4z"/><ellipse cx="24" cy="30" rx="7" ry="6"/><ellipse cx="14.5" cy="21" rx="3" ry="4"/><ellipse cx="33.5" cy="21" rx="3" ry="4"/><ellipse cx="20" cy="14" rx="3" ry="4"/><ellipse cx="28" cy="14" rx="3" ry="4"/></symbol>
+    <symbol id="c-nature" viewBox="0 0 48 48"><path class="blob" d="M23 4c13 0 21 9 20 21s-9 19-20 19S4 36 5 23 10 4 23 4z"/><path d="M5 38l13-20 8 11 5-6 12 15zM18 18l3 5 3-2"/><circle cx="35" cy="12" r="3.5"/></symbol>
+    <symbol id="c-beach" viewBox="0 0 48 48"><path class="blob" d="M24 5c12 0 20 8 20 19s-9 20-20 20S4 36 4 24 12 5 24 5z"/><path d="M10 22c2-9 22-12 28 0zM24 13v26M8 38c3 2 5 2 8 0s5-2 8 0 5 2 8 0 5-2 8 0"/></symbol>
+    <symbol id="c-city" viewBox="0 0 48 48"><path class="blob" d="M22 4c12-1 22 8 22 20s-9 20-21 20S4 35 4 23 10 5 22 4z"/><path d="M8 40V22h9v18M17 40V12h12v28M29 40V20h10v20M5 40h38M21 17h4M21 22h4M21 27h4M11 27h3M32 25h4M32 30h4"/></symbol>
+    <symbol id="c-edutainment" viewBox="0 0 48 48"><path class="blob" d="M24 4c11 0 20 9 20 20s-9 20-20 20S4 35 4 24 13 4 24 4z"/><path d="M24 8c6 5 8 12 8 20l-8 6-8-6c0-8 2-15 8-20zM16 28l-5 6 6 1M32 28l5 6-6 1M22 38l2 4 2-4"/><circle cx="24" cy="21" r="3"/></symbol>
+  </defs>
+</svg>
+
+<script src="data/destinations.js"></script>
+<script src="assets/i18n.js"></script>
+<script src="assets/calc.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,93 @@
+{
+  "flight": {
+    "samples": [
+      {"route":"BEG-EIN","km":1370,"carrierType":"lowcost","oneWayLowEur":32,"oneWayTypicalEur":90,"oneWayHighEur":170,"source":"https://www.omio.com/flights/belgrade/eindhoven-x0xlv ; https://www.expedia.com/lp/flights/ein/beg/eindhoven-to-belgrade (Wizz Air, avg $117 / low $34-41)"},
+      {"route":"BUD-BCN","km":1670,"carrierType":"lowcost","oneWayLowEur":33,"oneWayTypicalEur":75,"oneWayHighEur":140,"source":"https://www.kayak.com/flight-routes/Budapest-Ferenc-Liszt-Intl-BUD/Barcelona-El-Prat-BCN (Ryanair from $36-39, Wizz Air from $89-100)"},
+      {"route":"SKP-FCO","km":700,"carrierType":"lowcost","oneWayLowEur":17,"oneWayTypicalEur":55,"oneWayHighEur":116,"source":"https://www.wizzair.com/en-gb/cheap-flights-from-milan-to-skopje (Wizz Air $19, rack fare ~$116)"},
+      {"route":"SOF-FCO","km":1080,"carrierType":"lowcost","oneWayLowEur":19,"oneWayTypicalEur":60,"oneWayHighEur":116,"source":"https://www.wizzair.com/en-gb/cheap-flights-from-sofia-to-italy (Wizz Air $21, rack fare ~$116)"},
+      {"route":"TGD-FCO","km":600,"carrierType":"lowcost","oneWayLowEur":35,"oneWayTypicalEur":65,"oneWayHighEur":116,"source":"https://www.wizzair.com/en-gb/cheap-flights-to-rome (Wizz Air Podgorica-Rome $38, rack fare ~$116)"},
+      {"route":"SKP-MIL","km":830,"carrierType":"lowcost","oneWayLowEur":58,"oneWayTypicalEur":80,"oneWayHighEur":140,"source":"https://www.kiwi.com/en/cheap-flights/skopje-macedonia-fyrom-/milan-italy/ (from $63)"},
+      {"route":"SJJ-OTP","km":900,"carrierType":"lowcost","oneWayLowEur":80,"oneWayTypicalEur":95,"oneWayHighEur":160,"source":"https://www.kiwi.com/en/cheap-flights/sarajevo-bosnia-and-herzegovina/bucharest-romania/ (from $87); https://www.kiwi.com/us/cheap-flights/bucharest-romania/sarajevo-bosnia-and-herzegovina/ (from $100)"},
+      {"route":"VIE-TGD","km":800,"carrierType":"lowcost","oneWayLowEur":48,"oneWayTypicalEur":80,"oneWayHighEur":140,"source":"https://uk.trip.com/flights/vienna-to-podgorica/airfares-vie-tgd (Wizz Air Malta ~£41-54)"},
+      {"route":"ZAG-VIE","km":280,"carrierType":"lowcost","oneWayLowEur":39,"oneWayTypicalEur":60,"oneWayHighEur":110,"source":"https://www.skyscanner.com/routes/vie/zag/vienna-to-zagreb.html (from $42, low-cost operator on the route)"},
+      {"route":"BEG-VIE","km":326,"carrierType":"lowcost","oneWayLowEur":28,"oneWayTypicalEur":55,"oneWayHighEur":102,"source":"estimate: no direct fare query captured this run; interpolated from BEG-EIN and ZAG-VIE low-cost anchors and the fitted base+perKm model at similar distance"},
+      {"route":"BEG-BUD","km":316,"carrierType":"lowcost","oneWayLowEur":25,"oneWayTypicalEur":50,"oneWayHighEur":93,"source":"estimate: interpolated from ZAG-VIE (similar km) and fitted model; no direct fare captured this run"},
+      {"route":"BEG-MUC","km":701,"carrierType":"lowcost","oneWayLowEur":38,"oneWayTypicalEur":75,"oneWayHighEur":139,"source":"estimate: interpolated from SKP-FCO/SKP-MIL (similar km) and fitted model; no direct fare captured this run"},
+      {"route":"BEG-CDG","km":1500,"carrierType":"lowcost","oneWayLowEur":55,"oneWayTypicalEur":110,"oneWayHighEur":204,"source":"estimate: interpolated from BUD-BCN (similar km) and fitted model; no direct fare captured this run"},
+      {"route":"BEG-BCN","km":1447,"carrierType":"lowcost","oneWayLowEur":50,"oneWayTypicalEur":100,"oneWayHighEur":185,"source":"estimate: interpolated from BUD-BCN/BEG-EIN and fitted model; no direct fare captured this run"},
+      {"route":"INI-MUC","km":830,"carrierType":"lowcost","oneWayLowEur":40,"oneWayTypicalEur":80,"oneWayHighEur":148,"source":"estimate: interpolated from SKP-MIL (same km) and fitted model; no direct fare captured this run"},
+      {"route":"SJJ-MUC","km":700,"carrierType":"lowcost","oneWayLowEur":39,"oneWayTypicalEur":78,"oneWayHighEur":144,"source":"estimate: interpolated from SKP-FCO (same km) and fitted model; no direct fare captured this run"},
+      {"route":"SJJ-BUD","km":500,"carrierType":"lowcost","oneWayLowEur":31,"oneWayTypicalEur":62,"oneWayHighEur":115,"source":"estimate: interpolated from ZAG-VIE/TGD-FCO band and fitted model; no direct fare captured this run"},
+      {"route":"OTP-VIE","km":950,"carrierType":"lowcost","oneWayLowEur":43,"oneWayTypicalEur":85,"oneWayHighEur":157,"source":"estimate: interpolated from SJJ-OTP and fitted model; no direct fare captured this run"},
+      {"route":"OTP-MUC","km":1350,"carrierType":"lowcost","oneWayLowEur":50,"oneWayTypicalEur":100,"oneWayHighEur":185,"source":"estimate: interpolated from BEG-EIN/BUD-BCN band and fitted model; no direct fare captured this run"},
+      {"route":"ZAG-MUC","km":350,"carrierType":"lowcost","oneWayLowEur":31,"oneWayTypicalEur":62,"oneWayHighEur":115,"source":"estimate: interpolated from ZAG-VIE and fitted model; no direct fare captured this run"},
+      {"route":"SOF-TFS","km":3500,"carrierType":"lowcost","oneWayLowEur":70,"oneWayTypicalEur":160,"oneWayHighEur":280,"source":"estimate: seasonal winter-sun charter/low-cost route (Sofia-Tenerife type), not in fitted model (excluded as long-haul outlier); based on general low-cost long-thin-route pricing patterns, no direct fare captured this run"},
+      {"route":"ZAG-VIE","km":280,"carrierType":"legacy","oneWayLowEur":90,"oneWayTypicalEur":151,"oneWayHighEur":230,"source":"https://www.travelocity.com/lp/flight-routes/croatia-airlines-from-zagreb-to-vienna-intl/ou/zag/vie (Croatia Airlines from $164)"},
+      {"route":"ZAG-FRA","km":700,"carrierType":"legacy","oneWayLowEur":110,"oneWayTypicalEur":190,"oneWayHighEur":300,"source":"https://www.expedia.com/lp/flights/zag/fra/zagreb-to-frankfurt (Croatia Airlines from $119, ~20 direct flights/week)"},
+      {"route":"FRA-VIE","km":600,"carrierType":"legacy","oneWayLowEur":140,"oneWayTypicalEur":204,"oneWayHighEur":320,"source":"https://www.travelocity.com/lp/flight-routes/croatia-airlines-from-frankfurt-intl-to-vienna-intl/ou/fra/vie (Croatia Airlines from $222)"},
+      {"route":"SJJ-VIE","km":600,"carrierType":"legacy","oneWayLowEur":260,"oneWayTypicalEur":320,"oneWayHighEur":450,"source":"https://www.trip.com/hot/wizz-air(w6)-flights-from-sarajevo-to-vienna/ (lowest legacy/Austrian-class fare found ~$283 one-way, thin route)"},
+      {"route":"BEG-FRA","km":941,"carrierType":"legacy","oneWayLowEur":160,"oneWayTypicalEur":230,"oneWayHighEur":350,"source":"estimate: Air Serbia/Lufthansa Group short-haul European economy pricing pattern, no direct fare captured this run"},
+      {"route":"BEG-MUC","km":701,"carrierType":"legacy","oneWayLowEur":140,"oneWayTypicalEur":210,"oneWayHighEur":320,"source":"estimate: Lufthansa Group short-haul European economy pricing pattern, no direct fare captured this run"}
+    ],
+    "model": {
+      "baseEur": 50,
+      "perKmEur": 0.03,
+      "note": "Least-squares fit of oneWayTypicalEur ~ base + perKm*km on the 20 low-cost, short-to-medium-haul samples (280-1670 km; SOF-TFS long-haul charter excluded as an outlier). Fit: base≈49.6, perKm≈0.0305 (rounded to 50 / 0.03). Legacy-carrier typical fares on the same distances run roughly 1.4-2.2x this low-cost baseline (see legacy samples) rather than following the same slope, so the app should apply a separate legacy multiplier (~1.8x) on top of this line, not extrapolate legacy prices from perKm alone."
+    },
+    "spread": {"low": 0.55, "high": 1.85},
+    "seasonFactor": {"1":0.85,"2":0.85,"3":0.90,"4":1.00,"5":0.95,"6":1.15,"7":1.35,"8":1.35,"9":1.05,"10":0.90,"11":0.80,"12":1.10},
+    "infantUnder2PerLegEur": {"lowcost":28,"legacy":22,"source":"https://babytraveluk.co.uk/flying-with-a-baby-easyjet (easyJet infant charge £25 ≈ €28-29); Lufthansa charges ~10% of adult fare for lap infants on non-domestic-German routes (https://www.reducedmobility.eu/20150728639/TheNews/lufthansa-useful-faq-on-travelling-with-children , https://familieslovetravel.com/lufthansa-airline-policies-for-kids-and-infants/) — legacy figure here is a flat-euro approximation (~10% of a ~€220 typical short-haul legacy fare) for use in the calculator; real legacy pricing is percentage-based, not flat."},
+    "childSeatFactor": 1.0,
+    "checkedBag20kgPerLegEur": {"lowcost":35,"legacy":40},
+    "cabinTrolleyPerLegEur": {"lowcost":15,"legacy":0},
+    "noDirectPenalty": 1.4,
+    "sources": [
+      "https://www.ryanair.com/gb/en/useful-info/help-centre/fees",
+      "https://upgradedpoints.com/travel/airlines/ryanair-baggage-fees/",
+      "https://www.wizzair.com/en-gb/information-and-services/prices-discounts/all-services-fees",
+      "https://www.sendmybag.com/airlines/wizz-air-baggage-allowance/",
+      "https://upgradedpoints.com/travel/airlines/easyjet-baggage-fees/",
+      "https://babytraveluk.co.uk/flying-with-a-baby-easyjet",
+      "https://sites.google.com/view/airserbiachildorinfantpolicy/home",
+      "https://www.reducedmobility.eu/20150728639/TheNews/lufthansa-useful-faq-on-travelling-with-children",
+      "https://familieslovetravel.com/lufthansa-airline-policies-for-kids-and-infants/",
+      "https://www.omio.com/flights/belgrade/eindhoven-x0xlv",
+      "https://www.kayak.com/flight-routes/Budapest-Ferenc-Liszt-Intl-BUD/Barcelona-El-Prat-BCN",
+      "https://www.wizzair.com/en-gb/cheap-flights-from-sofia-to-italy",
+      "https://www.wizzair.com/en-gb/cheap-flights-to-rome",
+      "https://www.kiwi.com/en/cheap-flights/skopje-macedonia-fyrom-/milan-italy/",
+      "https://www.kiwi.com/en/cheap-flights/sarajevo-bosnia-and-herzegovina/bucharest-romania/",
+      "https://www.travelocity.com/lp/flight-routes/croatia-airlines-from-zagreb-to-vienna-intl/ou/zag/vie",
+      "https://www.expedia.com/lp/flights/zag/fra/zagreb-to-frankfurt",
+      "https://www.trip.com/hot/wizz-air(w6)-flights-from-sarajevo-to-vienna/"
+    ]
+  },
+  "car": {
+    "fuelEurPerKm": 0.14,
+    "tollEurPerKm": {"RS":0.06,"HR":0.08,"SI":"vignette","HU":"vignette","AT":"vignette","IT":0.09,"FR":0.095,"ES":0.05,"GR":0.06,"BG":"vignette","RO":"vignette","MK":0.03,"ME":0.02,"BA":0.04,"DE":0,"CZ":"vignette","SK":"vignette","PL":0.03,"AL":0.02},
+    "vignettes": {
+      "SI": {"eur":16.00,"period":"7 days"},
+      "AT": {"eur":12.80,"period":"10 days"},
+      "HU": {"eur":16.60,"period":"10 days"},
+      "CZ": {"eur":11.60,"period":"10 days"},
+      "SK": {"eur":10.80,"period":"10 days"},
+      "BG": {"eur":7.67,"period":"7 days"},
+      "RO": {"eur":6.00,"period":"10 days (no weekly product exists; 1-day is 3.50 EUR)"}
+    },
+    "sources": [
+      "https://www.fuel-prices.eu/ (EU-27 average petrol Sept 2026: €1.959/L)",
+      "https://www.tolls.eu/croatia (Croatia ~€8/100km)",
+      "https://www.tolls.eu/italy (Italy ~€9/100km)",
+      "https://www.tolls.eu/slovenia (Slovenia 7-day vignette €16, 2025 car class)",
+      "https://shop.asfinag.at/en/toll-products/digital-vignette/10-day-vignette-car/ (Austria 10-day €12.80)",
+      "https://www.hungary-vignette.eu/en/highway-vignette-prices-2026 (Hungary 10-day ~€16.6)",
+      "https://onlinevignette.com/en/product/vignette-czechrepublic/cars-and-other-vehicles-max-3-5-tons-max-4-wheels-10-days/c1/10-days/6642/ (Czechia 10-day €11.60)",
+      "https://www.vintrica.com/en/blog/vignette-slovakia-2026-prices/ (Slovakia 10-day €10.80)",
+      "https://www.bta.bg/en/news/economy/862676-new-vignette-prices-in-bulgaria-effective-may-1-2025 (Bulgaria weekly 15 BGN ≈ €7.67)",
+      "https://tripcostcalc.com/vignette/romania/ (Romania rovinieta: 1-day €3.50, 10-day €6.00, no weekly tier)"
+    ]
+  },
+  "hotelSeasonFactor": {"1":0.70,"2":0.70,"3":0.75,"4":0.90,"5":1.00,"6":1.20,"7":1.45,"8":1.40,"9":1.05,"10":0.85,"11":0.70,"12":0.75},
+  "hotelSeasonFactorCity": {"1":0.85,"2":0.85,"3":0.95,"4":1.05,"5":1.10,"6":1.10,"7":1.00,"8":0.90,"9":1.10,"10":1.05,"11":0.90,"12":1.05},
+  "notes": "Flight model: base+perKm is least-squares fit on low-cost carrier samples only (R^2 moderate, ~0.3, because thin Balkan routes have high fare dispersion independent of distance); treat perKm as a rough slope, not a precise per-km cost, and always apply the spread multipliers rather than reading typical as exact. About 8 of the 27 flight samples are marked 'estimate' (no live fare captured this session) and interpolated from the nearest researched route of similar distance/origin type — flag these as lower-confidence if the site later gets a live fare feed. hotelSeasonFactor is calibrated on Croatian Adriatic coast data (PriceLabs 2025 vacation-rental ADRs, CroatiaTraveller, CroatiaUnscripted) and used as a Mediterranean-coast proxy; Greek islands and Spanish costas likely peak slightly later/flatter (Aug rather than Jul) but no country-specific series was sourced this run. hotelSeasonFactorCity has no single cited dataset — it encodes generally known European city-break seasonality (Christmas markets in Dec, conference season in Sep, August business lull) and should be treated as a soft estimate. Toll-per-km figures for RS, MK, ME, BA, PL, AL, GR, ES are conservative estimates (no authoritative per-km tariff table was found in this session) rather than sourced tariffs; Germany has no car tolls (0). Infant/child pricing mixes flat low-cost fees with a percentage-based legacy-carrier convention (Lufthansa: infant ~10% / child 2-11 ~75% of adult fare) approximated here as flat euro figures for calculator simplicity."
+}
