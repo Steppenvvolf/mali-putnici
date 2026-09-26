@@ -18,7 +18,7 @@ function airportsFor(codes) {
 const airports = airportsFor(['BEG', 'EIN', 'LJU', 'HER', 'SPU']);
 
 const base = {
-  adults: 2, kids: [1, 4], nights: 5, month: 5, tier: 'mid',
+  adults: 2, kids: 2, nights: 5, month: 5, tier: 'mid',
 };
 const efteling = {
   id: 'efteling', name: 'Efteling', country: 'NL', category: 'theme', tags: [],
@@ -68,9 +68,9 @@ const c1 = CALC.estimate(crete, { ...base, origin: 'BEG', mode: 'drive' }, data)
 console.log('Crete (drive requested):', c1.low, '–', c1.high, 'mode', c1.mode);
 check('Crete is fly-only (mode fly)', c1.mode === 'fly');
 
-// 5. Infant handling: 2 adults + kids [0, 4] — infant <2 flies lap
-const e3 = CALC.estimate(efteling, { ...base, kids: [0, 4], origin: 'BEG', mode: 'fly' }, data);
-check('Infant detected', e3.infants === 1, 'infants=' + e3.infants);
+// 5. Kids are counted, not aged — no infants are assumed
+const e3 = CALC.estimate(efteling, { ...base, kids: 3, origin: 'BEG', mode: 'fly' }, data);
+check('No infant assumed (ages not collected)', e3.infants === 0, 'infants=' + e3.infants);
 
 // 6. Same-airport origin (Belgrade → Belgrade) → drive (local)
 const bel = { ...bled, id: 'belgrade-kids', country: 'RS', coords: [44.81, 20.46], airport: { iata: 'BEG', km: 12 } };

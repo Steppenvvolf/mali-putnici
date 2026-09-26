@@ -159,14 +159,42 @@ body {
 .sentence .pill {
   position: relative; display: inline-flex; align-items: center;
   background: var(--sun); color: var(--ink-fixed);
-  border-radius: var(--r-pill); padding: .06em .48em .1em;
-  font-weight: 800; white-space: nowrap;
+  border-radius: var(--r-pill);
   box-shadow: inset 0 -2px 0 rgba(28, 35, 64, .12);
 }
-.sentence .pill .pill-select {
-  position: absolute; inset: 0; width: 100%; height: 100%;
-  opacity: 0; cursor: pointer; border-radius: var(--r-pill);
+.sentence .pill .pill-btn {
+  display: inline-flex; align-items: center; gap: .3em;
+  padding: .06em .48em .1em;
+  border: none; background: transparent; cursor: pointer;
+  color: inherit; font: inherit; font-weight: 800;
+  border-radius: var(--r-pill); white-space: nowrap;
 }
+.sentence .pill .pill-btn:hover { background: rgba(28, 35, 64, .08); }
+.sentence .pill .pill-btn:focus-visible { outline: 2px solid var(--teal); outline-offset: 2px; }
+.sentence .pill .pill-btn .chev { width: .5em; height: .5em; opacity: .5; transition: transform .16s; }
+.sentence .pill .pill-btn[aria-expanded="true"] .chev { transform: rotate(180deg); opacity: .85; }
+.sentence .pill .menu {
+  position: absolute; top: calc(100% + 10px); left: 0; min-width: 100%; max-width: 88vw;
+  background: var(--surface); border: 1px solid var(--line);
+  border-radius: 16px; box-shadow: var(--shadow-2);
+  padding: 6px; z-index: 70; max-height: 340px; overflow: auto;
+  font-size: 1rem; font-weight: 700; line-height: 1.4;
+  color: var(--ink); text-align: left; letter-spacing: 0;
+}
+.sentence .pill .menu[hidden] { display: none; }
+.sentence .pill .menu-head {
+  font-size: .68rem; font-weight: 800; text-transform: uppercase;
+  letter-spacing: .06em; color: var(--ink-3); padding: 8px 10px 4px;
+}
+.sentence .pill .menu-item {
+  display: block; width: 100%; text-align: left;
+  padding: 8px 10px; border: none; background: transparent;
+  border-radius: 10px; cursor: pointer;
+  font: inherit; font-size: .9rem; font-weight: 700; color: inherit;
+  white-space: nowrap;
+}
+.sentence .pill .menu-item:hover { background: var(--surface-2); }
+.sentence .pill .menu-item.on { color: var(--teal-strong); background: var(--teal-soft); }
 .lede { color: var(--ink-2); font-size: clamp(.98rem, 1.6vw, 1.13rem); max-width: 34em; margin-top: 16px; }
 
 .horizon { display: block; width: 100%; height: clamp(120px, 16vw, 180px); margin-top: clamp(6px, 2vw, 20px); }
@@ -423,12 +451,6 @@ dialog::backdrop { background: rgba(10, 15, 34, .55); backdrop-filter: blur(4px)
   background: var(--surface); color: var(--ink); font-size: .9rem;
 }
 .field select { appearance: none; -webkit-appearance: none; cursor: pointer; }
-.calc-kids { display: flex; flex-direction: column; gap: 6px; }
-.kid-row { display: flex; align-items: center; gap: 8px; }
-.kid-row .field { flex: 1; }
-.kid-rm { width: 30px; height: 30px; border-radius: 50%; display: grid; place-items: center; border: 1px solid var(--line); background: var(--surface); color: var(--poppy); }
-.kid-rm .i { width: 14px; height: 14px; }
-.add-kid { font-size: .8rem; font-weight: 700; color: var(--teal); align-self: flex-start; }
 
 .calc-total { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; padding-top: 4px; }
 .calc-total .big { font-family: var(--font-display); font-size: 1.6rem; font-weight: 800; letter-spacing: -.02em; }

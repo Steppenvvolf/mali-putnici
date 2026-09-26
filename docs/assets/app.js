@@ -28,9 +28,12 @@
     sort: 'fit',
     view: LS.get('pp.view', 'grid'),
     showFavs: false,
-    trip: LS.get('pp.trip', { origin: 'BEG', adults: 2, kids: [1, 4], nights: 5, month: 5, tier: 'mid', mode: 'fly' }),
+    trip: LS.get('pp.trip', { origin: 'BEG', adults: 2, kids: 2, nights: 5, month: 5, tier: 'mid', mode: 'fly' }),
   };
-  if (!Array.isArray(state.trip.kids)) state.trip.kids = [1, 4];
+  // Migrate old array-of-ages trips to a plain child count (ages are no longer collected).
+  if (Array.isArray(state.trip.kids)) state.trip.kids = state.trip.kids.length || 2;
+  if (typeof state.trip.kids !== 'number') state.trip.kids = 2;
+  state.trip.kids = Math.min(4, Math.max(1, Math.round(state.trip.kids)));
   let map = null, mapReady = false, firstRender = true;
 
   const T = () => I18N[state.lang];
@@ -57,12 +60,12 @@
     const mode = preferredMode(d);
     return CALC.estimate(d, { origin: state.trip.origin, adults: state.trip.adults, kids: state.trip.kids, nights: state.trip.nights, month: state.trip.month, tier: 'mid', mode }, DATA);
   }
+  const KID_AGE = 4; // ages are no longer collected; use a representative preschool age
   function fitScore(d) {
-    const kids = state.trip.kids.map(Number);
-    if (!kids.length) return 0;
-    return kids.reduce((a, age) => a + (d.ages[bandOf(age)] || 0), 0) / kids.length;
+    if (!state.trip.kids) return 0;
+    return (d.ages[bandOf(KID_AGE)] || 0);
   }
-  function ageWarning(d) { return state.trip.kids.map(Number).some((age) => (d.ages[bandOf(age)] || 0) === 0); }
+  function ageWarning(d) { return state.trip.kids > 0 && (d.ages[bandOf(KID_AGE)] || 0) === 0; }
   function countryName(code) { return (T().countries[code] || code); }
 
   function haptic(pattern) {
@@ -109,21 +112,28 @@
   function originNom(code) { const o = T().origins[code]; return o ? o[0] : code; }
   function originGen(code) { const o = T().origins[code]; if (!o) return code; return state.lang === 'sr' ? (o[1] || o[0]) : o[0]; }
 
+  function menuOpt(field, val, label, on) {
+    return `<button type="button" class="menu-item${on ? ' on' : ''}" role="option" data-pill="${field}" data-val="${val}"${on ? ' aria-selected="true"' : ''}>${esc(label)}</button>`;
+  }
+  function pill(field, value, menuHtml) {
+    return `<span class="pill"><button type="button" class="pill-btn" data-pill="${field}" aria-haspopup="listbox" aria-expanded="false">${esc(value)}<svg class="i chev"><use href="#i-chev"/></svg></button><div class="menu" role="listbox" aria-label="${field}" hidden>${menuHtml}</div></span>`;
+  }
+
   function renderSentence() {
     const l = T();
     const t = state.trip;
-    const kidsText = l.kidsN(t.kids.length) + ' ' + l.agesWrap(t.kids.map((a) => l.ageShort(a)));
-    const originOpts = DATA.origins.map(([group, codes]) =>
-      `<optgroup label="${esc(l.originGroups[group] || group)}">${codes.map((c) => `<option value="${c}"${c === t.origin ? ' selected' : ''}>${esc(originNom(c))}</option>`).join('')}</optgroup>`).join('');
-    const kidsOpts = [1, 2, 3, 4].map((n) => `<option value="${n}"${n === t.kids.length ? ' selected' : ''}>${esc(l.kidsCount(n))}</option>`).join('');
-    const nightsOpts = Array.from({ length: 13 }, (_, i) => i + 2).map((n) => `<option value="${n}"${n === t.nights ? ' selected' : ''}>${l.days(n)}</option>`).join('');
-    const monthOpts = l.months.map((m, i) => `<option value="${i + 1}"${i + 1 === t.month ? ' selected' : ''}>${esc(m)}</option>`).join('');
+    const originMenu = DATA.origins.map(([group, codes]) =>
+      `<div class="menu-head">${esc(l.originGroups[group] || group)}</div>` +
+      codes.map((c) => menuOpt('origin', c, originNom(c), c === t.origin)).join('')).join('');
+    const kidsMenu = [1, 2, 3, 4].map((n) => menuOpt('kids', n, l.kidsCount(n), n === t.kids)).join('');
+    const nightsMenu = Array.from({ length: 13 }, (_, i) => i + 2).map((n) => menuOpt('nights', n, l.days(n), n === t.nights)).join('');
+    const monthMenu = l.months.map((m, i) => menuOpt('month', i + 1, m, i + 1 === t.month)).join('');
 
     $('#sentence').innerHTML =
-      `${l.s1} <span class="pill">${esc(originGen(t.origin))}<select class="pill-select" data-field="origin" aria-label="${esc(l.from)}">${originOpts}</select></span>` +
-      ` ${l.s2} <span class="pill">${esc(kidsText)}<select class="pill-select" data-field="kids" aria-label="Broj dece">${kidsOpts}</select></span>` +
-      ` ${l.s3} <span class="pill">${l.days(t.nights)}<select class="pill-select" data-field="nights" aria-label="Noćenja">${nightsOpts}</select></span>` +
-      ` ${l.s4} <span class="pill">${esc(l.monthsIn[t.month - 1])}<select class="pill-select" data-field="month" aria-label="Mesec">${monthOpts}</select></span>${l.s5}`;
+      `${l.s1} ${pill('origin', originGen(t.origin), originMenu)}` +
+      ` ${l.s2} ${pill('kids', l.kidsN(t.kids), kidsMenu)}` +
+      ` ${l.s3} ${pill('nights', l.days(t.nights), nightsMenu)}` +
+      ` ${l.s4} ${pill('month', l.monthsIn[t.month - 1], monthMenu)}${l.s5}`;
     $('#lede').textContent = l.heroLede(DATA.destinations.length);
   }
 
@@ -382,19 +392,12 @@
   function calcHtml(d) {
     const l = T();
     const t = state.trip;
-    const kidsRows = t.kids.map((a, i) => `
-      <div class="kid-row">
-        <div class="field"><label>${esc(l.kids)} ${i + 1}</label>
-          <select data-field="kid-age" data-idx="${i}">${[0, 1, 2, 3, 4, 5, 6].map((a2) => `<option value="${a2}"${a2 === a ? ' selected' : ''}>${esc(l.ageLong(a2))}</option>`).join('')}</select>
-        </div>
-        <button class="kid-rm" data-action="kid-rm" data-idx="${i}" aria-label="Ukloni"><svg class="i"><use href="#i-x"/></svg></button>
-      </div>`).join('');
     const tiers = [['budget', l.tiers.budget], ['mid', l.tiers.mid], ['comfort', l.tiers.comfort]];
     const modes = [['fly', l.modeFly], ['drive', l.modeDrive]];
     return `<div class="calc">
       <div class="calc-controls">
         <div class="field"><label>${esc(l.adults)}</label><select data-field="adults">${[1, 2, 3, 4].map((n) => `<option value="${n}"${n === t.adults ? ' selected' : ''}>${n}</option>`).join('')}</select></div>
-        <div class="field calc-kids"><label>${esc(l.kids)}</label>${kidsRows}<button class="add-kid" data-action="kid-add">+ ${esc(l.kids)}</button></div>
+        <div class="field"><label>${esc(l.kids)}</label><select data-field="kids">${[1, 2, 3, 4].map((n) => `<option value="${n}"${n === t.kids ? ' selected' : ''}>${n}</option>`).join('')}</select></div>
         <div class="field"><label>${esc(l.nights)}</label><select data-field="nights">${Array.from({ length: 13 }, (_, i) => i + 2).map((n) => `<option value="${n}"${n === t.nights ? ' selected' : ''}>${n}</option>`).join('')}</select></div>
         <div class="field"><label>${esc(l.month)}</label><select data-field="month">${l.months.map((m, i) => `<option value="${i + 1}"${i + 1 === t.month ? ' selected' : ''}>${esc(m)}</option>`).join('')}</select></div>
         <div class="field"><label>${esc(l.tier)}</label><select data-field="tier">${tiers.map(([v, lb]) => `<option value="${v}"${v === t.tier ? ' selected' : ''}>${esc(lb)}</option>`).join('')}</select></div>
@@ -574,8 +577,42 @@
     haptic([12, 30, 12]);
   }
 
+  /* ---------- Hero pill menus ---------- */
+  let openMenu = null;
+  function closeAllMenus() {
+    $$('.pill .menu').forEach((m) => { m.hidden = true; });
+    $$('.pill-btn').forEach((b) => b.setAttribute('aria-expanded', 'false'));
+    openMenu = null;
+  }
+  function toggleMenu(field, btnEl) {
+    const wasOpen = openMenu === field;
+    closeAllMenus();
+    if (wasOpen) return;
+    const menu = btnEl.parentElement.querySelector('.menu');
+    if (!menu) return;
+    menu.hidden = false;
+    btnEl.setAttribute('aria-expanded', 'true');
+    openMenu = field;
+  }
+  function selectPill(field, val) {
+    const t = state.trip;
+    if (field === 'origin') t.origin = val;
+    else if (field === 'kids') t.kids = Number(val);
+    else if (field === 'nights') t.nights = Number(val);
+    else if (field === 'month') t.month = Number(val);
+    closeAllMenus();
+    tripChanged();
+    haptic(5);
+  }
+
   /* ---------- Delegated events ---------- */
   document.addEventListener('click', (e) => {
+    const pillBtn = e.target.closest('.pill-btn');
+    if (pillBtn) { e.stopPropagation(); toggleMenu(pillBtn.dataset.pill, pillBtn); return; }
+    const menuItem = e.target.closest('.menu-item');
+    if (menuItem) { e.stopPropagation(); selectPill(menuItem.dataset.pill, menuItem.dataset.val); return; }
+    if (!e.target.closest('.pill')) closeAllMenus();
+
     const btn = e.target.closest('[data-action]');
     if (!btn) return;
     const a = btn.dataset.action, id = btn.dataset.id;
@@ -596,8 +633,6 @@
       case 'close-credits': $('#creditsModal').close(); break;
       case 'close-compare': $('#cmpModal').close(); break;
       case 'cmp-rm': { e.stopPropagation(); state.cmp = state.cmp.filter((x) => x !== id); LS.set('pp.cmp', state.cmp); renderResults(); break; }
-      case 'kid-add': { if (state.trip.kids.length < 4) { state.trip.kids.push(3); tripChanged(); } break; }
-      case 'kid-rm': { if (state.trip.kids.length > 1) { state.trip.kids.splice(Number(btn.dataset.idx), 1); tripChanged(); } break; }
       case 'clear': clearAll(); break;
       case 'random': surprise(); break;
       case 'credits-global': openCreditsModalGlobal(); break;
@@ -610,13 +645,12 @@
     const v = e.target.value;
     switch (f) {
       case 'origin': state.trip.origin = v; saveTrip(); break;
-      case 'kids': { const n = Number(v); state.trip.kids = defaultAges(n); saveTrip(); break; }
+      case 'kids': state.trip.kids = Number(v); saveTrip(); break;
       case 'nights': state.trip.nights = Number(v); saveTrip(); break;
       case 'month': state.trip.month = Number(v); saveTrip(); break;
       case 'adults': state.trip.adults = Number(v); saveTrip(); break;
       case 'tier': state.trip.tier = v; saveTrip(); break;
       case 'mode': state.trip.mode = v; saveTrip(); break;
-      case 'kid-age': state.trip.kids[Number(e.target.dataset.idx)] = Number(v); tripChanged(); return;
       case 'region': state.region = v; renderResults(); return;
       case 'sort': state.sort = v; renderResults(); return;
       default: return;
@@ -624,7 +658,6 @@
     tripChanged();
   });
 
-  function defaultAges(n) { return { 1: [3], 2: [1, 4], 3: [1, 3, 5], 4: [0, 2, 4, 6] }[n] || [3]; }
   function saveTrip() { LS.set('pp.trip', state.trip); }
   function tripChanged() { saveTrip(); renderSentence(); renderToolbar(); renderResults(); if ($('#sheet').open) renderSheet(sheetState.id); }
 

@@ -87,7 +87,9 @@
     const P = params(data.pricing);
     const t = travelInfo(dest, trip.origin, data.airports);
     const adults = Math.max(1, trip.adults | 0);
-    const kids = (trip.kids || []).map(Number);
+    // Ages are not collected; assume each child is a preschooler (age 4) for pricing.
+    const kidCount = Math.max(0, Number(trip.kids) || 0);
+    const kids = Array(kidCount).fill(4);
     const infants = kids.filter(a => a < 2).length;
     const seatKids = kids.length - infants;
     const nights = Math.max(1, trip.nights | 0);
