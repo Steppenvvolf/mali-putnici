@@ -9,7 +9,7 @@ Bilingual: Serbian Latin (default) and English. Static site, no build tools, no 
 ## Structure
 
 ```
-site/                    the site (GitHub Pages serves this folder)
+docs/                    the site (GitHub Pages serves this folder)
   index.html             shell + SVG icon/illustration sprite
   assets/app.css         design system (light + dark, mobile-first)
   assets/app.js          app logic (render, filters, map, calculator, compare)
@@ -26,22 +26,24 @@ site/                    the site (GitHub Pages serves this folder)
 Requirements: Python 3.11+ with Pillow and requests.
 
 ```bash
-cd site
+cd docs
 python tools/build.py            # validate data, download images, write data/destinations.js
 python tools/build.py --no-img   # validate + write data only (images must already exist)
 node tools/test-calc.js          # unit-test the cost estimator
 ```
 
-Then open `site/index.html` in a browser (works from `file://`) or serve the folder with any static server.
+Then open `docs/index.html` in a browser (works from `file://`) or serve the folder with any static server.
 
 ## Editing content
 
-Destinations live in `site/data/raw/batch-1..6.json`. The record shape is defined in `site/data/SCHEMA.md`. After editing, re-run `tools/build.py`.
+Destinations live in `docs/data/raw/batch-1..6.json`. The record shape is defined in `docs/data/SCHEMA.md`. After editing, re-run `tools/build.py`.
 
 ## Deploy (GitHub Pages)
 
-Push to `main`. The `.github/workflows/pages.yml` action publishes the `site/` folder. Enable Pages → Source: GitHub Actions in the repo settings.
+The site is fully static and pre-built, so it is published with classic GitHub Pages branch-deploy — no Actions workflow required. Settings → Pages → Source: **Deploy from a branch**, branch `main`, folder `/docs`. Live at:
+
+https://steppenvvolf.github.io/mali-putnici/
 
 ## Licence
 
-Code: MIT (see below). Photos: © their respective authors, used under the free licences listed in the site's credits (CC0 / CC BY / CC BY-SA / public domain).
+Code: MIT (see below). Photos: © their respective authors, used under the free licences listed in the site's credits (CC0 / CC BY / CC BY-SA / public domain / FAL).
